@@ -1,0 +1,53 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and logs
+.vscode/
+*.log
+
+# Generated data and indexes
+chroma_db/
+faiss_index/
+vector_store/
+data_root/processed/
+data_root/embeddings/
+
+# Model downloads
+models/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated cache
+cache/
+hyde_cache.json
+
+# Generated vector database and downloaded documents
+data_root/chroma_db/
+data_root/raw_pdfs/
+data_root/extracted_txt/
+
+
+# Generated data and downloaded documents
+data_root/chroma_db/
+data_root/extracted_txt/
+data_root/raw_pdfs/
+
+# Large QA evidence dataset - review before publishing
+data/QA_Dataset/qa_evidence_final.json
+
+# Generated retrieval indexes and serialized data
+taxdatabase/*.faiss
+taxdatabase/*.pkl
+taxdatabase/*vectors*.json

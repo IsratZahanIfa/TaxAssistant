@@ -1,0 +1,81 @@
+"""
+Quick quality check of data_root/data/legal/*.json
+Run: python scripts\\qa_check.py
+Flags documents whose text is empty / garbage (legacy-font Bangla, scanned pages).
+"""
+import os, re, sys, json, glob
+from collections import defaultdict
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
+ROOT = os.environ.get("TAX_RAG_ROOT") or os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data_root")
+LEGAL = os.path.join(ROOT, "data", "legal")
+
+BN = re.compile(r"[\u0980-\u09FF]")
+EN = re.compile(r"[A-Za-z]")
+WORD = re.compile(r"[\u0980-\u09FFA-Za-z]{2,}")
+# scripts that must not appear in Bangla/English legal text: Greek, Cyrillic, Hebrew, Arabic, Devanagari (not the shared danda), Gujarati/Gurmukhi, Thai, CJK
+FOREIGN = re.compile(r"[\u0370-\u052F\u0590-\u06FF\u0900-\u0963\u0966-\u097F\u0A00-\u0AFF\u0E00-\u0E7F\u3040-\u30FF\u4E00-\u9FFF\uAC00-\uD7AF]")
+
+
+def main():
+    for jf in sorted(glob.glob(os.path.join(LEGAL, "*.json"))):
+        data = json.load(open(jf, encoding="utf-8"))
+        print("=" * 100)
+        print(os.path.basename(jf), "->", len(data), "chunks")
+        docs = defaultdict(list)
+        for c in data:
+            docs[c["doc_id"]].append(c)
+        print(f"{'doc_id':60} {'chunks':>6} {'avg_len':>7} {'secs':>5} {'bn%':>4} {'short%':>6} {'foreign%':>8}  flag")
+        for doc_id, cs in docs.items():
+            text = "".join(c["text"] for c in cs)
+            n = max(len(text), 1)
+            avg = sum(len(c["text"]) for c in cs) // len(cs)
+            secs = len({c["section_no"] for c in cs if c["section_no"]})
+            bn = 100 * len(BN.findall(text)) // n
+            short = 100 * sum(len(c["text"]) < 80 for c in cs) // len(cs)
+            # garbage check: legacy-font Bangla turns into symbols -> few real words per 100 chars
+            words_per_100 = 100 * len(WORD.findall(text)) / n
+            letters = max(len(BN.findall(text)) + len(EN.findall(text)), 1)
+            foreign = 100 * len(FOREIGN.findall(text)) / letters
+            flag = []
+            if foreign > 0.2:
+                flag.append("foreign-script OCR noise")
+            if n < 500:
+                flag.append("EMPTY/OCR needed")
+            if words_per_100 < 8:
+                flag.append("GARBAGE text?")
+            if short > 40:
+                flag.append("many tiny chunks")
+            print(f"{doc_id[:60]:60} {len(cs):>6} {avg:>7} {secs:>5} {bn:>4} {short:>6} {foreign:>8.2f}  {', '.join(flag)}")
+
+    # section statistics for the Act (Bangla gazette lives in the _bn file; _en stays empty until an English text is added)
+    for name in ("income_tax_act_2023_bn.json", "income_tax_act_2023_en.json"):
+        act = os.path.join(LEGAL, name)
+        if not os.path.exists(act):
+            continue
+        data = json.load(open(act, encoding="utf-8"))
+        if not data:
+            print("=" * 100)
+            print(name, ": empty")
+            continue
+        nums = sorted({c["section_no"] for c in data if c["section_no"]},
+                      key=lambda s: (int(re.match(r"\d+", s).group()) if re.match(r"\d+", s) else 0, s))
+        print("=" * 100)
+        print(f"{name}: {len(data)} chunks, distinct sections found = {len(nums)}")
+        print("first 15:", nums[:15])
+        print("last 15:", nums[-15:])
+        missing = [n for n in range(1, int(re.match(r"\d+", nums[-1]).group()) + 1)
+                   if str(n) not in {x for x in nums}] if nums else []
+        print(f"section numbers 1..{nums[-1] if nums else 0} not found: {len(missing)}", missing[:40])
+        for c in data[100:103]:
+            print("-" * 60)
+            print(c["section_no"], "|", c["title"], "| pages", c["page_start"], "-", c["page_end"])
+            print(c["text"][:300].replace("\n", " "))
+
+
+if __name__ == "__main__":
+    main()

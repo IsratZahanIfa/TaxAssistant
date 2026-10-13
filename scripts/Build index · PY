@@ -1,0 +1,127 @@
+"""
+Embeddings + ChromaDB for the plain (simple) RAG: BAAI/bge-m3, normalized vectors, top-k similarity search.
+
+Install once:
+    pip install sentence-transformers chromadb
+
+Run:
+    python scripts\\build_index.py                                  # build / update the index from data\\legal\\*.json
+    python scripts\\build_index.py --reset                          # drop the collection and rebuild
+    python scripts\\build_index.py --query "What is the tax-free income limit?" --k 5
+    python scripts\\build_index.py --query "..." --lang bn --category income_tax_rules   # optional metadata filter
+"""
+import os, sys, glob, json, argparse
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
+ROOT = os.environ.get("TAX_RAG_ROOT") or os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data_root")
+LEGAL = os.path.join(ROOT, "data", "legal")
+DB_DIR = os.path.join(ROOT, "chroma_db")
+COLLECTION = "bd_tax"
+MODEL_NAME = "BAAI/bge-m3"
+MAX_SEQ = 512          # chunks are ~1000 chars, 512 tokens is enough and keeps memory low
+BATCH = 64
+
+META_KEYS = ["doc_id", "category", "language", "section_no", "title", "part",
+             "page_start", "page_end", "source_url"]
+
+
+def load_chunks():
+    chunks = []
+    for jf in sorted(glob.glob(os.path.join(LEGAL, "*.json"))):
+        with open(jf, encoding="utf-8") as f:
+            chunks += json.load(f)
+    return chunks
+
+
+def get_model():
+    from sentence_transformers import SentenceTransformer
+    m = SentenceTransformer(MODEL_NAME)
+    m.max_seq_length = MAX_SEQ
+    return m
+
+
+def get_collection(client, reset=False):
+    if reset:
+        try:
+            client.delete_collection(COLLECTION)
+            print("collection dropped")
+        except Exception:
+            pass
+    return client.get_or_create_collection(COLLECTION, metadata={"hnsw:space": "cosine"})
+
+
+def flat_meta(c):
+    
+    return {k: ("" if c.get(k) is None else c[k]) for k in META_KEYS}
+
+
+def build(reset=False):
+    import chromadb
+    client = chromadb.PersistentClient(path=DB_DIR)
+    col = get_collection(client, reset)
+
+    chunks = [c for c in load_chunks() if c["text"].strip()]
+    current = {c["id"] for c in chunks}
+    existing = set(col.get(include=[])["ids"])
+
+    stale = list(existing - current)
+    for i in range(0, len(stale), 500):
+        col.delete(ids=stale[i:i + 500])
+    if stale:
+        print("removed stale chunks:", len(stale))
+
+    todo = [c for c in chunks if c["id"] not in existing]
+    print(f"chunks total={len(chunks)}  already indexed={len(existing & current)}  to embed={len(todo)}")
+    if not todo:
+        print("index is up to date.")
+        return
+
+    model = get_model()
+    for i in range(0, len(todo), BATCH):
+        b = todo[i:i + BATCH]
+        emb = model.encode([c["text"] for c in b], normalize_embeddings=True,
+                           batch_size=16, show_progress_bar=False).tolist()
+        col.add(ids=[c["id"] for c in b], embeddings=emb,
+                documents=[c["text"] for c in b], metadatas=[flat_meta(c) for c in b])
+        print(f"  indexed {min(i + BATCH, len(todo))}/{len(todo)}")
+    print("done. collection size =", col.count(), "->", DB_DIR)
+
+
+def retrieve(query, k=5, lang=None, category=None):
+    """plain RAG retrieval: embed query (normalized) -> top-k cosine similarity. no reranking, no hybrid."""
+    import chromadb
+    col = get_collection(chromadb.PersistentClient(path=DB_DIR))
+    where = {}
+    if lang:
+        where["language"] = lang
+    if category:
+        where["category"] = category
+    if len(where) > 1:
+        where = {"$and": [{k_: v} for k_, v in where.items()]}
+    q = get_model().encode([query], normalize_embeddings=True).tolist()
+    res = col.query(query_embeddings=q, n_results=k, where=where or None)
+    hits = []
+    for doc, meta, dist in zip(res["documents"][0], res["metadatas"][0], res["distances"][0]):
+        hits.append({"score": 1 - dist, "text": doc, **meta})
+    return hits
+
+
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--reset", action="store_true")
+    ap.add_argument("--query")
+    ap.add_argument("--k", type=int, default=5)
+    ap.add_argument("--lang", choices=["en", "bn"])
+    ap.add_argument("--category")
+    a = ap.parse_args()
+    if a.query:
+        for i, h in enumerate(retrieve(a.query, a.k, a.lang, a.category), 1):
+            print(f"\n[{i}] score={h['score']:.3f}  {h['doc_id']}  sec={h['section_no']}  pages {h['page_start']}-{h['page_end']}")
+            print(h["text"][:400].replace("\n", " "))
+    else:
+        build(a.reset)
