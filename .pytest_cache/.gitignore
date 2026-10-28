@@ -1,0 +1,31 @@
+# Environment & Secret files (CRITICAL)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Data & Clean Text files (Prevents pushing huge data dumps like Income_Tax_Act_2023)
+data/
+*.txt
+*.csv
+*.json
+*.sqlite3
+
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Node / Web dependencies (if applicable)
+node_modules/
+dist/
+build/
+
+# VS Code & System files
+.vscode/
+.DS_Store
+Thumbs.db
