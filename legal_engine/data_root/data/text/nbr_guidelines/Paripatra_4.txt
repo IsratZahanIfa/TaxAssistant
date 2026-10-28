@@ -1,0 +1,26 @@
+---
+doc_id: Paripatra_4
+category: nbr_guidelines
+language: bn
+source_url: https://nbr.gov.bd/uploads/paripatra/4.pdf
+source_file: Paripatra_4.pdf
+n_pages: 1
+ocr_pages: 1
+extracted_at: 2026-10-01 08:06
+---
+[[page 1]]
+<start_of_image>
+২। आयुक्तBadRequest, ১৪১৮ এর ধারাটি উল্লেখিত কঠিনকল্প সরকার সংশোধন :
+
+(ক) মূলধনীBadRequestএরBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequestBadRequest
+<start_of_image>
+(ঘ) হিসাববিধির কর্মকর্তাদের পদবী : आयकर প্রশাসনের ধারা () এ বর্ণিত অতিরিক্ত মহাপরিচালক, যুগ্ম মহাপরিচালক ও উপ
+মহাপরিচালক পদবীর জন্যের পরিবর্তে পরিচালক, যুগ্ম পরিচালক, উপ পরিচালক ও সহকারী পরিচালক পদবীর সমূহ প্রতিষ্ঠান করা হয়েছে। জাতীয় রাজস্ব বোর্ডের সেন্ট্রাল ইন্টিগ্রेटेड স্প্রেডশীট কাঠামো পরিবর্তনের কারণে आयकर প্রশাসনের এরূপ পরিবর্তন আনা হয়েছে।
+(ঙ) জার্ষিক প্রতিষ্ঠান: আয়কর আরোপণের ধারা () এর পর নতুন () শিরোনামের মাধ্যমে জার্ষিক প্রতিষ্ঠানের সংজ্ঞা
+ প্রদান করা হয়েছে। নব প্রতিষ্ঠিত সম্মানের ক্ষেত্রে জার্ষিক প্রতিষ্ঠান বলতে “আয়কর প্রতিষ্ঠান আইন, ১৯৯৮” এ উল্লিখিত জার্ষিক প্রতিষ্ঠানকে বুঝাবে।
+(চ) পরিদর্শন:আয়কর আরোপণের ধারা () সংশোধনের মাধ্যমে চলতি দাখিলে নিরীক্ষণের পর পরিদর্শনককে ও পরিদর্শনকের
+সংস্থার অন্তর্ভুক্ত করা হয়েছে।
+(ছ) বেতন:আয়কর আরোপণের ধারায় () এর পরিবর্তে প্রতিষ্ঠানের
+মাধ্যমে যে কোন সহকারী বা পরিদর্শক বেতন পাওয়ার authorized করা হয়েছে। উক্ত সংস্থানাধীন ফলে কোন নিয়োগকারী কর্তৃক পরিশোধিত proceeds পে,
+কমপেনসেশন পে, risk পে বা অন্য কোন নামে পরিস্থিতি দাবি বেতন আরোপ অন্তর্ভুক্ত হবে।
+<end_of_image>

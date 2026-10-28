@@ -1,0 +1,1202 @@
+[
+  {
+    "question_id": "q_001",
+    "number": 1,
+    "question": "Do I need to file an income tax return if my annual income is below the taxable limit?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_002",
+    "number": 2,
+    "question": "Who is required to submit an income tax return in Bangladesh?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_003",
+    "number": 3,
+    "question": "What is the current income tax rate for an individual taxpayer?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_004",
+    "number": 4,
+    "question": "How is my taxable income calculated?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_005",
+    "number": 5,
+    "question": "What types of income are taxable in Bangladesh?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_006",
+    "number": 6,
+    "question": "Which types of income are exempt from income tax?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_007",
+    "number": 7,
+    "question": "How is salary income calculated for tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_008",
+    "number": 8,
+    "question": "Is house rent allowance included in taxable income?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_009",
+    "number": 9,
+    "question": "Is medical allowance from my employer taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_010",
+    "number": 10,
+    "question": "Is conveyance allowance taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_011",
+    "number": 11,
+    "question": "How is income from employment reported in a tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_012",
+    "number": 12,
+    "question": "How is income from a business calculated for tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_013",
+    "number": 13,
+    "question": "How is rental income taxed in Bangladesh?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_014",
+    "number": 14,
+    "question": "How is agricultural income treated for income tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_015",
+    "number": 15,
+    "question": "How is income from capital gains taxed?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_016",
+    "number": 16,
+    "question": "How is interest income from a bank account taxed?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_017",
+    "number": 17,
+    "question": "Is income from fixed deposits taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_018",
+    "number": 18,
+    "question": "How is dividend income treated under the income tax law?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_019",
+    "number": 19,
+    "question": "Is foreign income taxable in Bangladesh?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_020",
+    "number": 20,
+    "question": "How is income from freelance work taxed?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_021",
+    "number": 21,
+    "question": "How is income from online business treated for tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_022",
+    "number": 22,
+    "question": "Do I have to pay tax on income earned from social media activities?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_023",
+    "number": 23,
+    "question": "How is income from consultancy services taxed?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_024",
+    "number": 24,
+    "question": "How is income from a private tutoring business taxed?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_025",
+    "number": 25,
+    "question": "What deductions are available when calculating taxable income?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_026",
+    "number": 26,
+    "question": "Which expenses can be deducted from business income?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_027",
+    "number": 27,
+    "question": "Can I claim a deduction for life insurance premiums?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_028",
+    "number": 28,
+    "question": "Can I claim a tax rebate for eligible investments?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_029",
+    "number": 29,
+    "question": "What types of investments qualify for a tax rebate?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_030",
+    "number": 30,
+    "question": "Can investment in government securities qualify for a tax benefit?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_031",
+    "number": 31,
+    "question": "Can provident fund contributions reduce my tax liability?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_032",
+    "number": 32,
+    "question": "Can pension scheme contributions qualify for a tax rebate?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_033",
+    "number": 33,
+    "question": "Can I claim a tax benefit for eligible DPS investments?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_034",
+    "number": 34,
+    "question": "What documents are required to claim investment-related tax benefits?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_035",
+    "number": 35,
+    "question": "What is the deadline for submitting an income tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_036",
+    "number": 36,
+    "question": "What happens if I submit my tax return after the deadline?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_037",
+    "number": 37,
+    "question": "Can I submit my tax return online?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_038",
+    "number": 38,
+    "question": "How can I correct an error in my submitted tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_039",
+    "number": 39,
+    "question": "Can I amend a previously submitted tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_040",
+    "number": 40,
+    "question": "What documents should I keep before submitting my tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_041",
+    "number": 41,
+    "question": "What is a TIN and why do I need one?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_042",
+    "number": 42,
+    "question": "How can I obtain a TIN?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_043",
+    "number": 43,
+    "question": "Do I need a TIN if I have no taxable income?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_044",
+    "number": 44,
+    "question": "What happens if I have a TIN but do not submit a tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_045",
+    "number": 45,
+    "question": "What is advance income tax?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_046",
+    "number": 46,
+    "question": "Who is required to pay advance income tax?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_047",
+    "number": 47,
+    "question": "What is tax deducted at source?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_048",
+    "number": 48,
+    "question": "How does tax deducted at source affect my final tax liability?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_049",
+    "number": 49,
+    "question": "Can I adjust tax deducted at source against my tax liability?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_050",
+    "number": 50,
+    "question": "What should I do if too much tax has been deducted at source?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_051",
+    "number": 51,
+    "question": "What happens if I fail to pay my income tax?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_052",
+    "number": 52,
+    "question": "What penalties may apply for late submission of a tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_053",
+    "number": 53,
+    "question": "What happens if I provide incorrect information in my tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_054",
+    "number": 54,
+    "question": "What are my rights during an income tax assessment?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_055",
+    "number": 55,
+    "question": "What should I do if I receive a notice from the tax authority?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_056",
+    "number": 56,
+    "question": "How should I respond to an income tax notice?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_057",
+    "number": 57,
+    "question": "Can the tax authority audit my income tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_058",
+    "number": 58,
+    "question": "What documents may be requested during a tax audit?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_059",
+    "number": 59,
+    "question": "How can I challenge an incorrect tax assessment?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_060",
+    "number": 60,
+    "question": "How can I appeal a tax-related decision?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_061",
+    "number": 61,
+    "question": "How is income tax treated for a non-resident taxpayer?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_062",
+    "number": 62,
+    "question": "How is residential status determined for income tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_063",
+    "number": 63,
+    "question": "How is rental income from property treated for tax purposes?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_064",
+    "number": 64,
+    "question": "How should I report income from multiple sources?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_065",
+    "number": 65,
+    "question": "How should I report my assets and liabilities in my tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_066",
+    "number": 66,
+    "question": "Do I need to declare property owned in my income tax return?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_067",
+    "number": 67,
+    "question": "Do I need to declare bank deposits and financial assets?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_068",
+    "number": 68,
+    "question": "How should I report income from shares or securities?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_069",
+    "number": 69,
+    "question": "Which income tax return form should an individual taxpayer use?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_070",
+    "number": 70,
+    "question": "Where can I find the official income tax rules and forms?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_071",
+    "number": 71,
+    "question": "আমার বার্ষিক আয় করমুক্ত সীমার নিচে হলে কি আমাকে আয়কর রিটার্ন দিতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_072",
+    "number": 72,
+    "question": "বাংলাদেশে কারা আয়কর রিটার্ন দাখিল করতে বাধ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_073",
+    "number": 73,
+    "question": "বর্তমানে একজন ব্যক্তির জন্য আয়করের হার কীভাবে নির্ধারণ করা হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_074",
+    "number": 74,
+    "question": "আমার করযোগ্য আয় কীভাবে হিসাব করা হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_075",
+    "number": 75,
+    "question": "বাংলাদেশে কোন কোন ধরনের আয় করযোগ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_076",
+    "number": 76,
+    "question": "কোন কোন ধরনের আয় আয়কর থেকে অব্যাহতি পেতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_077",
+    "number": 77,
+    "question": "চাকরি থেকে পাওয়া আয় কীভাবে করযোগ্য আয় হিসেবে হিসাব করা হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_078",
+    "number": 78,
+    "question": "চাকরির বাড়ি ভাড়া ভাতা কি করযোগ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_079",
+    "number": 79,
+    "question": "চাকরির চিকিৎসা ভাতা কি করযোগ্য আয়ের মধ্যে পড়ে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_080",
+    "number": 80,
+    "question": "যাতায়াত ভাতা কি আয়করের আওতায় পড়ে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_081",
+    "number": 81,
+    "question": "চাকরি থেকে পাওয়া আয় আয়কর রিটার্নে কীভাবে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_082",
+    "number": 82,
+    "question": "ব্যবসা থেকে পাওয়া আয় কীভাবে করের জন্য হিসাব করা হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_083",
+    "number": 83,
+    "question": "বাড়ি বা ফ্ল্যাট ভাড়া দিয়ে পাওয়া আয় কীভাবে করযোগ্য হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_084",
+    "number": 84,
+    "question": "কৃষি থেকে পাওয়া আয় কীভাবে আয়কর আইনে বিবেচনা করা হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_085",
+    "number": 85,
+    "question": "মূলধনী সম্পদ বিক্রি করে পাওয়া আয় কীভাবে করযোগ্য হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_086",
+    "number": 86,
+    "question": "ব্যাংক অ্যাকাউন্টের সুদের ওপর কি আয়কর দিতে হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_087",
+    "number": 87,
+    "question": "ফিক্সড ডিপোজিটের সুদের আয় কি করযোগ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_088",
+    "number": 88,
+    "question": "শেয়ার থেকে পাওয়া লভ্যাংশ কীভাবে করযোগ্য হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_089",
+    "number": 89,
+    "question": "বিদেশ থেকে পাওয়া আয় কি বাংলাদেশে করযোগ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_090",
+    "number": 90,
+    "question": "ফ্রিল্যান্সিং থেকে পাওয়া আয় কীভাবে আয়কর রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_091",
+    "number": 91,
+    "question": "অনলাইন ব্যবসা থেকে পাওয়া আয় কীভাবে করের আওতায় আসে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_092",
+    "number": 92,
+    "question": "সোশ্যাল মিডিয়া থেকে আয় করলে কি আয়কর দিতে হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_093",
+    "number": 93,
+    "question": "কনসালটেন্সি বা পরামর্শমূলক কাজের আয় কীভাবে করযোগ্য হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_094",
+    "number": 94,
+    "question": "প্রাইভেট টিউশনি থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_095",
+    "number": 95,
+    "question": "করযোগ্য আয় নির্ধারণের সময় কোন কোন ছাড় বা deduction পাওয়া যায়?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_096",
+    "number": 96,
+    "question": "ব্যবসার কোন কোন খরচ আয় থেকে বাদ দেওয়া যেতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_097",
+    "number": 97,
+    "question": "জীবন বীমার প্রিমিয়ামের জন্য কি কর সুবিধা পাওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_098",
+    "number": 98,
+    "question": "বিনিয়োগের জন্য কি আয়কর রেয়াত পাওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_099",
+    "number": 99,
+    "question": "কোন কোন বিনিয়োগ আয়কর রেয়াতের জন্য যোগ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_100",
+    "number": 100,
+    "question": "সরকারি সিকিউরিটিজে বিনিয়োগ করলে কি কোনো কর সুবিধা পাওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_101",
+    "number": 101,
+    "question": "প্রভিডেন্ট ফান্ডে টাকা জমা দিলে কি কর সুবিধা পাওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_102",
+    "number": 102,
+    "question": "পেনশন স্কিমে টাকা জমা দিলে কি আয়কর রেয়াত পাওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_103",
+    "number": 103,
+    "question": "DPS-এ বিনিয়োগ করলে কি কর রেয়াত পাওয়া যায়?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_104",
+    "number": 104,
+    "question": "বিনিয়োগের কর সুবিধা দাবি করতে কী কী কাগজপত্র প্রয়োজন?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_105",
+    "number": 105,
+    "question": "আয়কর রিটার্ন জমা দেওয়ার শেষ তারিখ কখন?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_106",
+    "number": 106,
+    "question": "নির্ধারিত সময়ের পরে আয়কর রিটার্ন জমা দিলে কী হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_107",
+    "number": 107,
+    "question": "অনলাইনে কি আয়কর রিটার্ন জমা দেওয়া যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_108",
+    "number": 108,
+    "question": "রিটার্ন জমা দেওয়ার পরে ভুল ধরা পড়লে কীভাবে সংশোধন করব?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_109",
+    "number": 109,
+    "question": "আগের বছরের জমা দেওয়া রিটার্ন কি সংশোধন করা যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_110",
+    "number": 110,
+    "question": "আয়কর রিটার্ন জমা দেওয়ার আগে কোন কোন কাগজপত্র প্রস্তুত রাখতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_111",
+    "number": 111,
+    "question": "TIN কী এবং এটি কেন প্রয়োজন?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_112",
+    "number": 112,
+    "question": "কীভাবে TIN নেওয়া যায়?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_113",
+    "number": 113,
+    "question": "আমার করযোগ্য আয় না থাকলেও কি TIN প্রয়োজন?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_114",
+    "number": 114,
+    "question": "TIN থাকার পরেও রিটার্ন জমা না দিলে কী হতে পারে?",
+    "language": "Mixed"
+  },
+  {
+    "question_id": "q_115",
+    "number": 115,
+    "question": "অগ্রিম আয়কর কী?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_116",
+    "number": 116,
+    "question": "কারা অগ্রিম আয়কর দিতে বাধ্য?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_117",
+    "number": 117,
+    "question": "উৎসে কর কী?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_118",
+    "number": 118,
+    "question": "উৎসে কর্তিত কর কীভাবে আমার মোট করের সঙ্গে সমন্বয় হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_119",
+    "number": 119,
+    "question": "আমার আয় থেকে বেশি উৎসে কর কেটে নিলে কী করব?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_120",
+    "number": 120,
+    "question": "আয়কর পরিশোধ না করলে কী হতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_121",
+    "number": 121,
+    "question": "দেরিতে রিটার্ন জমা দিলে কী ধরনের জরিমানা হতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_122",
+    "number": 122,
+    "question": "আয়কর রিটার্নে ভুল তথ্য দিলে কী হতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_123",
+    "number": 123,
+    "question": "আয়কর নির্ধারণের সময় একজন করদাতার কী কী অধিকার রয়েছে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_124",
+    "number": 124,
+    "question": "আয়কর কর্তৃপক্ষের কাছ থেকে নোটিশ পেলে কী করব?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_125",
+    "number": 125,
+    "question": "আয়কর নোটিশের উত্তর কীভাবে দিতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_126",
+    "number": 126,
+    "question": "আয়কর রিটার্ন কি অডিট হতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_127",
+    "number": 127,
+    "question": "আয়কর অডিটের সময় কী ধরনের কাগজপত্র চাওয়া হতে পারে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_128",
+    "number": 128,
+    "question": "ভুল আয়কর নির্ধারণের বিরুদ্ধে কীভাবে আপত্তি করা যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_129",
+    "number": 129,
+    "question": "আয়কর সংক্রান্ত সিদ্ধান্তের বিরুদ্ধে কি আপিল করা যায়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_130",
+    "number": 130,
+    "question": "অনিবাসী করদাতার আয় কীভাবে করযোগ্য হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_131",
+    "number": 131,
+    "question": "আয়কর আইনে একজন ব্যক্তির আবাসিক মর্যাদা কীভাবে নির্ধারণ করা হয়?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_132",
+    "number": 132,
+    "question": "ভাড়া থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_133",
+    "number": 133,
+    "question": "একাধিক উৎস থেকে আয় থাকলে কীভাবে রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_134",
+    "number": 134,
+    "question": "আয়কর রিটার্নে সম্পদ ও দায় কীভাবে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_135",
+    "number": 135,
+    "question": "আমার মালিকানাধীন জমি বা বাড়ি কি রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_136",
+    "number": 136,
+    "question": "ব্যাংক জমা ও আর্থিক সম্পদ কি রিটার্নে ঘোষণা করতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_137",
+    "number": 137,
+    "question": "শেয়ার বা সিকিউরিটিজ থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_138",
+    "number": 138,
+    "question": "ব্যক্তিগত করদাতার জন্য কোন আয়কর রিটার্ন ফর্ম ব্যবহার করতে হবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_139",
+    "number": 139,
+    "question": "আয়কর আইন ও বিধিমালার সরকারি কপি কোথায় পাওয়া যাবে?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_140",
+    "number": 140,
+    "question": "আমার ক্ষেত্রে কোন আয়কর বিধান প্রযোজ্য তা কীভাবে বুঝব?",
+    "language": "Bangla"
+  },
+  {
+    "question_id": "q_141",
+    "number": 141,
+    "question": "Amar annual income taxable limit-er niche hole ki amar income tax return submit korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_142",
+    "number": 142,
+    "question": "Bangladesh-e individual taxpayer-er current tax rate koto?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_143",
+    "number": 143,
+    "question": "Amar taxable income calculation-ta ki vabe hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_144",
+    "number": 144,
+    "question": "Salary income-er upor income tax ki vabe calculate kora hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_145",
+    "number": 145,
+    "question": "Amar basic salary ar allowances ki same vabe taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_146",
+    "number": 146,
+    "question": "House rent allowance-er upor ki tax dite hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_147",
+    "number": 147,
+    "question": "Medical allowance ki taxable income-er moddhe pore?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_148",
+    "number": 148,
+    "question": "Amar business income-er tax calculation ki vabe korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_149",
+    "number": 149,
+    "question": "Rental income-er jonno tax calculation ki vabe hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_150",
+    "number": 150,
+    "question": "Bank-er fixed deposit interest ki taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_151",
+    "number": 151,
+    "question": "Bank interest-er upor already tax deduct korle return-e abar tax dite hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_152",
+    "number": 152,
+    "question": "Freelancing income Bangladesh-e ki vabe tax return-e show korte hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_153",
+    "number": 153,
+    "question": "Online business-er income ki income tax-er under-e pore?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_154",
+    "number": 154,
+    "question": "Foreign income thakle Bangladesh-e ki tax dite hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_155",
+    "number": 155,
+    "question": "Social media theke income hole eta ki taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_156",
+    "number": 156,
+    "question": "Consultancy income-er tax treatment ki?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_157",
+    "number": 157,
+    "question": "Amar multiple income source thakle return-e shobgulo ki show korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_158",
+    "number": 158,
+    "question": "Business expense-er kon kon portion tax calculation-e deduct kora jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_159",
+    "number": 159,
+    "question": "Life insurance premium-er jonno ki tax rebate pawa jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_160",
+    "number": 160,
+    "question": "Investment korle income tax rebate ki pawa jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_161",
+    "number": 161,
+    "question": "Kon kon investment tax rebate-er jonno eligible?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_162",
+    "number": 162,
+    "question": "Government Treasury Bond-e invest korle ki tax benefit pawa jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_163",
+    "number": 163,
+    "question": "DPS-e invest korle tax rebate claim kora jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_164",
+    "number": 164,
+    "question": "Provident fund contribution-er jonno ki tax benefit ache?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_165",
+    "number": 165,
+    "question": "Pension scheme-e deposit korle income tax rebate pawa jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_166",
+    "number": 166,
+    "question": "Investment rebate claim korar jonno ki ki documents lagbe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_167",
+    "number": 167,
+    "question": "Income tax return submit korar last date kobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_168",
+    "number": 168,
+    "question": "Return late hole ki penalty dite hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_169",
+    "number": 169,
+    "question": "Online-e income tax return submit kora ki mandatory?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_170",
+    "number": 170,
+    "question": "Return submit korar pore mistake hole ki correction kora jay?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_171",
+    "number": 171,
+    "question": "Amar TIN ache kintu taxable income nei, amar ki return submit korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_172",
+    "number": 172,
+    "question": "TIN thakar pore return submit na korle ki problem hote pare?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_173",
+    "number": 173,
+    "question": "TIN kivabe obtain korte pari?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_174",
+    "number": 174,
+    "question": "Tax deducted at source amar final tax-er sathe ki vabe adjust hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_175",
+    "number": 175,
+    "question": "Amar income theke beshi source tax deduct hole ami ki korte pari?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_176",
+    "number": 176,
+    "question": "Advance income tax kake dite hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_177",
+    "number": 177,
+    "question": "Income tax notice pele amar ki kora uchit?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_178",
+    "number": 178,
+    "question": "Tax authority amar return audit korte pare ki?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_179",
+    "number": 179,
+    "question": "Tax audit-er somoy kon documents submit korte hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_180",
+    "number": 180,
+    "question": "Wrong tax assessment-er against-e appeal ki vabe korte hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_181",
+    "number": 181,
+    "question": "Non-resident taxpayer-er income ki vabe tax-er under-e ashe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_182",
+    "number": 182,
+    "question": "Tax purpose-e residential status ki vabe determine kora hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_183",
+    "number": 183,
+    "question": "Amar property income ki tax return-e show korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_184",
+    "number": 184,
+    "question": "Land or flat thakle return-e eta ki declare korte hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_185",
+    "number": 185,
+    "question": "Bank deposit ar financial assets ki return-e declare korte hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_186",
+    "number": 186,
+    "question": "Share theke dividend income ki taxable?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_187",
+    "number": 187,
+    "question": "Share sell korle capital gain-er tax ki vabe calculate hoy?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_188",
+    "number": 188,
+    "question": "Amar salary ar rental income duita thakle tax calculation ki vabe hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_189",
+    "number": 189,
+    "question": "Tax return-er jonno kon form use korte hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_190",
+    "number": 190,
+    "question": "NBR-er official tax rules and forms kothay pabo?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_191",
+    "number": 191,
+    "question": "Amar income-er khetre kon NBR section apply kore?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_192",
+    "number": 192,
+    "question": "Current tax rule ar previous year-er tax rule-er moddhe difference ki?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_193",
+    "number": 193,
+    "question": "2024–25 tax year-er jonno kon tax provision apply korbe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_194",
+    "number": 194,
+    "question": "2025–26 tax year-er jonno current tax rate koto?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_195",
+    "number": 195,
+    "question": "Finance Act change hole amar tax calculation ki change hobe?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_196",
+    "number": 196,
+    "question": "SRO diye tax exemption paoa jay ki?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_197",
+    "number": 197,
+    "question": "NBR circular ar Income Tax Act-er moddhe difference ki?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_198",
+    "number": 198,
+    "question": "Amar investment-er tax benefit ache kina NBR source diye verify korte parben?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_199",
+    "number": 199,
+    "question": "Government securities-er current yield and maturity information kothay pabo?",
+    "language": "English"
+  },
+  {
+    "question_id": "q_200",
+    "number": 200,
+    "question": "Tax benefit consider kore government investment options-gulo compare kora jabe ki?",
+    "language": "English"
+  }
+]
