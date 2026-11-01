@@ -51,3 +51,12 @@ data/QA_Dataset/qa_evidence_final.json
 taxdatabase/*.faiss
 taxdatabase/*.pkl
 taxdatabase/*vectors*.json
+
+# Heavy debug & cache files
+legal_engine/data_root/raw_pdfs/_ocr_debug/
+legal_engine/data_root/raw_pdfs/_removed/
+.venv/
+__pycache__/
+*.pyc
+*.xlsx
+hyde_cache.json
