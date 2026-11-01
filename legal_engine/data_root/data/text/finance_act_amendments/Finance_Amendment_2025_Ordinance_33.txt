@@ -1,0 +1,1495 @@
+---
+doc_id: Finance_Amendment_2025_Ordinance_33
+category: finance_act_amendments
+language: bn
+source_url: https://nbr.gov.bd/uploads/acts/5936-Ordinance-33-Law-26_June_2025.pdf
+source_file: Finance_Amendment_2025_Ordinance_33.pdf
+n_pages: 44
+ocr_pages: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,33,34,35,36,37,38,39,40,41,42,43,44
+extracted_at: 2026-10-01 08:06
+---
+[[page 1]]
+রেজিস্টার্ড নং ডি-১
+
+বাংলাদেশ গেজেট
+অতিরিক্ত সংখ্যা
+কর্তৃক কর্তৃক প্রকাশিত
+বৃহস্পতিবার, জুন ২৬, ২০২২
+
+গণপ্রজাতন্ত্রী বাংলাদেশের সরকার
+আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয়
+লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ
+মূল ও প্রকাশনা শাখা
+বিজ্ঞপ্তি
+
+তারিখ: ২২ আশ্বিন, ১৪২৯ বঙ্গাব্দ / ২৬ জুন, ২০২৩ খ্রিস্টাব্দ।
+
+নং- ৬০ (মাঠ ও খণ্ড) — গণপ্রজাতন্ত্রী বাংলাদেশের রাষ্ট্রপতি কর্তৃক ২২ আশ্বিন, ১৪২৯ বঙ্গাব্দ /
+২৬ জুন, ২০২৩ খ্রিষ্টাব্দ তারিখে প্রণীত নির্বাচিত ವಿಧಾನಸಭಾ मतदारसंদগুলোর জনসমাবেগের জন্য
+প্রকাশ করা হইল।
+
+অધાનસભા নং ৩৩, ২০২৩
+
+সরকারের আর্থিক প্রভাবশালী কার্যক্রম এবং অর্থ সংক্রান্ত kotlinx আইন সংশোধনকল্পে প্রণীত
+
+মূল্যবোধ
+
+যেহেতু সরকারের আর্থিক প্রভাবশালী কার্যক্রম এবং অর্থ সংক্রান্ত kotlinx আইন সংশোধন
+করা সমীচীন ও প্রয়োজনীয়;
+
+যেহেতু সংসদ ভাঙ্গিয়া যাওয়া অবস্থায় রহিয়াছে এবং ইহা সংশোধনকল্পে protrusions বিদ্যমান
+হইয়াছে যে, আপু অবস্থা গ্রহণের জন্য প্রয়োজনীয় পরিস্থিতি বিদ্যমান রহিয়াছে;
+
+যেহেতু গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধানের ৯০ (১) अनुच्छेद প্রদত্ত ক্ষমতাবলে নিম্নরূপ
+অધાનસભા প্রণয়ন ও জারী করা হইল—
+
+( <৪র্থও > )
+মূল্য: ৪০.০০
+
+[[page 2]]
+৬৮৯০ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২২
+
+প্রথম অধ্যায়
+প্রাথমিক
+
+১। সংক্ষিপ্ত শিরোনাম ও প্রবর্তন -(১) এই আইনটি অর্থসংক্রান্ত কমিশন ( repeal ) আইন, ২০২২ নামে অভিহিত হইবে।
+
+(২) এই ধারার বিধান ও ৩৫ অনুচ্ছেদ কার্যকর হইবে এবং অন্যান্য ধারাসমূহ ১ জুলাই, ২০২২ তারিখে বহুলভাবে কার্যকর হইবে।
+
+দ্বিতীয় অধ্যায়
+যুদ্ধ সংশোধন কর ও সম্পূরক শুল্ক আইন, ২০২২ (২০২২ সালের ৪৭ নং আইন) এর repeal
+
+১। ২০২২ সালের ৪৭ নং আইনের দ্বিতীয় তফসিলের repeal-(১) যুদ্ধ সংশোধন কর ও সম্পূরক শুল্ক আইন, ২০২২ (২০২২ সালের ৪৭ নং আইন) এর দ্বিতীয় তফসিল-২ এর পরিবর্তে নিম্নরূপ টেবিল-১ প্রতিস্থাপিত হইবে, যথা—
+“টেবিল-১”
+ amendments pertaining to supplementary tax corresponding announcements
+শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | শতকরা |
+ | নামকরণ কোড | (Description of Goods) | শুল্ক (%) |
+(Heading) | (H.S. Code) | | |
+ | | | |
+০২.০৯ | সকল | Meat of bovine animals, sheeps or goats, | ১০ |
+ | এইচ.এস.কোড | fresh or chilled or frozen. | |
+০২.০৯ | | | |
+ | | | |
+০২.০৮ | সকল | Edible offal of bovine animals, swine, | ১০ |
+ | এইচ.এস.কোড | sheep, goats, horses, asses, mules or | |
+ | (0206.90.১০, | hinnies, fresh, chilled or frozen. | |
+ | 0206.90.২০, | | |
+ | 0206.81.১০, | | |
+ | 0206.81.২০, | | |
+ | 0206.81.৩০ | | |
+ | বাড়ীতে) | | |
+০২.০৯ | সকল | Meat, and edible offal, of the poultry | ১০ |
+ | এইচ.এস.কোড | of heading .01.05, fresh, chilled or | |
+ | (0209.৯১.১০, | frozen. | |
+
+[[page 3]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২২
+
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| | | | |
+| 09.02 | 0209.11.10, 0209.12.10, 0209.12.30, 0209.12.50, 0209.12.60, 0209.12.80 ব্যতীত | Pacific salmon | ২০ |
+| | 0209.11.10, 0209.12.10 | Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho) | ২০ |
+| | 0209.12.80 | Other fish | ২০ |
+| | 0209.00.30 | Albacore or longfinned tunas | ২০ |
+09.00 09.00-2018
+| 0902.92.50 | Yellowfin tunas | ½
+| 0902.92.50 | | ½
+| 0902.92.50 | Bigeye tunas | ½
+| 0902.92.50 | | ½
+| 0902.92.50 | Atlantic and Pacific bluefin tunas | ½
+
+[[page 4]]
+ug862 বাংলাদেশ কোড, অতিরিক্ত, জুন ১৭, ২০২৩
+
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| | | | হার (%) |
+| | 0302.50.50 | Atlantic salmon (Salmo salar) and Danube | ১০ |
+| | 0302.50.50 | salmon (Hucho hucho) | |
+| | 0302.50.50 | Other | |
+| | 0302.50.50 | | ১০ |
+| | 0302.82.50 | Yellowfin tunas | |
+| | 0302.82.50 | | ১০ |
+| | 0302.88.50 | Bigeye tunas | |
+| | 0302.88.50 | | ১০ |
+| | 0302.8(5)0 | Atlantic and Pacific bluefin tunas | |
+| | 0302.8(5)0 | | ১০ |
+| | 0302.8(5)0 | Southern bluefin tunas | |
+| | | | ১০ |
+09.06 | 0908.83.50 | Pacific salmon | ১০
+| 0908.83.50 | | | 
+| 0908.৮৩.৫০ | | | 
+| 0908.৮২.৫০ | | | 
+| 0908.৮৭.50 | Tunas (of the genus Thunnus), Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis) | ১০
+| 0908.৮৭.50 | Other | ১০
+| 0908.৮২.৫০ | | |
+
+[[page 5]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২৩
+ ৬৮/ও
+
+শিরোনামা | সামগ্রিক nomenclature code | পণ্যসমূহের বিবরণ | সম্পূরক
+ | সার্ধা (H.S. Code) | (Description of Goods) | শুল্কহার
+(১) | (২) | (৩) | (%)
+08.02 | সকল | মাইন এবং অন্যান্য দুগ্ধজাত দাবি ও তেল; ডেলিয়ারি | ২০ 
+ | এইচ.এস.কোড | ফেস্টভূক্ত | 
+08.05 | সকল | Cheese and Curd | ২০ 
+ | এইচ.এস.কোড | | 
+09.02 | সকল | ডালা বা শস্য দেবেন | ২০ 
+ | এইচ.এস.কোড | | 
+09.05 | 0906.50.50 | Carrots And Turnips, Fresh Or Chilled, | ২০ 
+ | | Wrapped/Canned upto 2.5 kg | 
+09.05 | 0906.50.50 | Carrots And Turnips, Fresh Or Chilled, in | ২০ 
+ | | bulk | 
+09.08 | সকল | Other vegetables, fresh or chilled. | ২০
+
+[[page 6]]
+Bangladesh Gazette, Extraordinary, জুন ২৬,২০২২
+
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| | 0602.62.50 | | |
+| | 0602.90.50 | | |
+| | 0602.82.50 | | |
+| 06.02 | 0602.৮৩.50 | Areca Nut | ৪৫ |
+| | 0602.৮৩.50 | | |
+| | 0602.83.50 | Pine nuts | ৪৫ |
+| | 0602.82.50 | | |
+| | 0602.83.55 | ताजा বা শুকনো सुपारी, খোলা шаблоне হস্তক বা না | ৪৫ |
+| | 0602.83.55 | হস্তক | |
+| | 0602.83.55 | | |
+| 06.08 | 0608.60.55 | ताजा বা শুকনো আম | ৩০ |
+0608.00.00
+06.00 | 0608.20.50 তাজা বা শুকনো কমলালেবু | ৳ 90
+| 0608.20.60
+| 0608.20.70 তাজা বা শুকনো লেবুজাতীয় ফল | ৳ 90
+| 0608.20.80
+| 0608.22.50
+| 0608.22.60
+| 0608.22.70
+| 0608.22.80
+| 0608.23.50
+| 0608.80.50 Grapefruit and pomelos (fresh or dried) | ৳ 90
+| 0608.80.60
+| 0608.80.70 তাজা বা শুকনো লেবুর | ৳ 90
+| 0608.80.80
+| 0608.82.50 তাজা বা শুকনো অন্যান্য লেবু জাতীয় ফল | ৳ 90
+| 0608.82.60
+| 0608.82.70
+| 0608.82.80
+06.06 | সকল তাজা বা শুকনো আঙুর ফল | ৳ 90
+এইট.এপেক্স,কোড
+
+[[page 7]]
+বাংলাদেশ Gazette, Extraordinary, জুন ২৬, ২০২৩
+UTF8
+
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| 06.09 | সকল Melons (including watermelons) and | | ৩০ |
+| | এইচ.এস.কোড papayas, fresh. | | |
+| | | তাজা আপেল ও নাশপাতি | |
+| 06.10 | সকল | | ৩০ |
+| | এইচ.এস.কোড (0608.80.50, 0608.80.60) | | |
+| | বাড়ীত্ব | | |
+| 06.12 | সকল Apricots, cherries, peaches (including | | ৩০ |
+| | এইচ.এস.কোড nectarines), fresh | | |
+| | | | |
+| | (0608.80.55, 0608.80.55, 0608.80.55) | | |
+০৮.২০ | সকল | অন্যান্য চা(চা পাতা) | ২০
+ বহির্ভাগ,প্যাকেজ
+০৮. ৩১ | 0801.১১.১৫ | Coffee; coffee husks and skins; coffee | ২০
+ | 0801.১২.১০ | substitutes containing coffee in any |
+ | 0801.১২.২০ | proportion (Wrapped or canned upto 2.5 |
+ | 0801.১২.৩০ | kg) |
+ | 0801.১২.৪০ | |
+ | 0801.৩০.০০ | |
+০৮. ০২ | 0802.১০.০০ | Green tea | ২০
+ | 0802.২০.০০ | |
+ | 0802.৩০.০০ | |
+০৮. ০৪ | 0803.০০.০০ | Black tea (fermented) and partly | ২০
+ | 0803.১০.০০ | fermented tea, in immediate packings of a |
+ | 0803.২০.০০ | content not exceeding 3 kg |
+ | 0803.৩০.০০ | Other black tea (fermented) and other | ২০
+ | partly fermented tea |
+০৮. ০৪ | 0808.১১.১০ | পোলাপামরিচ, ধুরী বা দালানো ফটিক বা না ফটিক | ২০
+ | 0808.১১.২০ | |
+ | 0808.১১.৩০ | |
+
+[[page 8]]
+<start_of_image>
+Bangladesh Gazette, Extraordinary, জুন ২৪,২০২২
+
+| সংখ্যা | নামকরণ কোড | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| ০৫.০৬ | সকল | দaruhির্নি এবং दारুचिर्নি গাছের মূল | ২০ |
+| | এইচ.এস.কোড | | |
+| ০৫.০৭ | সকল | লতাগুল্ম | ২০ |
+| | এইচ.এস.কোড | | |
+| ০৫.০৮ | 0501.93.50 | এশাট | ২০ |
+| | 0501.93.60 | | |
+| | 0501.93.70 | | |
+| | 0501.93.80 | | |
+| ০৫.০৯ | 0502.93.50 | জিরা | ২০ |
+| | 0502.93.60 | | |
+| | 0502.93.70 | | |
+| | 0502.93.80 | | |
+১(১)ও | ৪৫/৩.০০.০০ | রিফাইন্ড নারিকেল তেল ও ইনার অংশ বিশেষ, অন্যান্য | ৩০
+ 
+১(২) | ১৭০২.০০.১০ | Dextrose anhydrous/monohydrate BP/USP Pyrogen free imported under blocklist | ২০
+ 
+| ১৭০২.০০.১০ | Liquid glucose | ২০
+ 
+| ১৭০২.০০.১০ | Other glucose and glucose syrup | ২০
+ 
+| ১৭০২.৪০.০০ | Glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar | ২০
+ 
+১(৭) | ১৭০৪.২০.১০ | Sugar confectionery (including white chocolate), not containing cocoa, put up for retail sale | &&
+ 
+| ১৭০৪.২০.১০ | | 
+ 
+| ১৭০৪.৪০.০০ | Sugar confectionery (including white chocolate), not containing cocoa, excluding put up for retail sale | &&
+ 
+১(৮)ও | ১৮/০৬.০০.০০ | কোকোযুক্ত চকলেট এবং অন্যান্য খাদ্য препаратов | &&
+ 
+| ১৮/০৬.০০.০০ | কোকোযুক্ত চকলেট এবং অন্যান্য খাদ্য препараты (২ কোকিজ, কুকি, ব্রেক, স্ন্যাক বা বার আকারে অথবা চுகள், পেস্ট, গ্রীড়া, দানাদার বা অন্যরূপ বাক্ প্যাকিং এ) | &&
+
+[[page 9]]
+বাংলাদেশ প্রজ্ঞেস্ট, অতিরিক্ত, জুন ২৬, ২০২২
+তথ্য ৮৮৭৯
+
+শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+ | নাম্বর কোড | (Description of Goods) | শুল্কহার
+ | (H.S. Code) | | (%)
+(১) | (২) | (৩) | (৪)
+১৮০৬. needlessly চকলেট (চক, বার বা ক্যান্ডি আকারে) | ৪০ 
+১৮০৬. needlessly.০০ অন্যান্য | ২০
+১৮০৬. needlessly.১০ | ২০
+১৮০৬. needlessly.১০ ফুড মোড়কে শুধু সেকে স্বল্প ব্যবহারের শিপুদের | ২০
+ | ব্যবহারের জন্য খাদ্য সামগ্রী (হেডিং নং ০৮.০৯ থেকে |
+ | ০৯.০৪ যুক্ত সাজানো) | 
+ ১৮০২. needlessly.০০ Mixes and dough’s for the preparation of | ২০
+ | bakers' wares of heading 19.05 | 
+ ১৮০২. needlessly.১০ অন্যান্য খাদ্য সামগ্রী | ২০
+১৮০২. needlessly | ২০
+২৪০৫ Pasta, whether not cooked or stuffed or | 
+ needlessly. needlessly otherwise prepared; couscous | 
+২৪০৫. needlessly Prepared foods obtained by the swelling or | ২০
+ needlessly. needlessly roasting of cereals or cereal products; all |
+types of cereals
+||
+১১.০০ | ১১০৫.০০ Sweet biscuits | ৪৫
+||
+১১.০१ | ১১০৫.০২ Waffles and wafers | ৪৫
+||
+১১.০২ | ১১০৫.৪০ Rusks, toasted bread and similar toasted products | ৪৫
+||
+১১.০৩ | ১১০৫.২০ Other | ৪৫
+||
+২০.০০ | ২০০০.৬০ পারটেট টপস | ৪৫
+||
+২০.০१ | সকল |
+ vegetables, nuts, কোঁড় | রান্না করা ফল, সবজি, বাদাম, ফুলের ছোলি, মারোমোলasses, ফল যা খাদ্যযুক্ত পিউরি এবং ফল যা বাদামের পেস্ট, চিনি বা অন্যান্য মিষ্টি পদার্থ যুক্ত হউক না হউক
+| ২০
+||
+২০.০৮ | সকল |
+ vegetables, nuts, কোঁড় | Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included.
+| ২০
+||
+২০.০৯ | সকল |
+ vegetables, nuts, কোঁড় | ফলের রস (সংযুক্তের must রস) বা সংমিশ্রিত রস, গাঁজনো নাযে বা মিষ্টিযুক্ত নয় যে, চিনি বা অন্যান্য মিষ্টি পদার্থ যুক্ত হউক না হউক
+| ৩০
+
+[[page 10]]
+<start_of_image>
+Bangladesh Gazette, Extraordinary, জুন ২৬,২০২২
+| :--- | :--- | :--- | :--- |
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ২১.০0 | সকল | Extracts, essences and concentrates, of | ২০ |
+| | এইচ.এস.কোড | coffee, tea or mate and preparations | |
+| ২১.০০ | সকল | মস ওasarray অন্যান্য পণ্য; mixed condiments, | ২০ |
+| | এইচ.এস.কোড | তরকারীর সূপ এবং অন্যান্য পণ্য | |
+| ২১.০2 | ২১02.00.00 | Ice cream and other edible ice, whether or | ২০ |
+| | | not containing cocoa | |
+| ২১.03 | ২১02.80.50 | ক্ল্যারিফাইড বাটারীযুক্ত কোকো পাউডার প্রস্তুত | ৩৫0 |
+| | | বাবকৃত সামগ্ৰী, আয়তন ভিত্তিক অ্যালকোহল ক্ষমতা | |
+| | | ০.৫% এবং উপরে | |
+| | ২১02.80.80 | Stabilizer for milk | ১০ |
+| | ২১02.80.00 | Creamer in bulk | ২০ |
+| | ২১02.80.60 | Food supplement | ২০ |
+<end_of_image>
+২২০৬.২০.১০ অন্যান্য | ২০
+২২.০৯ | সকল | Waters, including natural or artificial | ২০
+এঐচ.এশ.কোড mineral waters and aerated waters, not | 
+| containing added sugar or other sweetening | 
+| matter nor flavoured; ice and snow | 
+২২.০২ | ২২০০হ.২০.০০ | Waters, including mineral waters and | ২০০
+| aerated waters containing added sugar of | 
+| other sweetening matter or flavoured | 
+২২০৬.২৯.০০ নন-অ্যালকোহলিক beverage | ২০০
+২২০৬.২৯.০০ অন্যান্য | ২০০
+২২.০৩ | ২২০০হ.০০.০০ | ফল ও ফলিত প্রস্তুত ব্যবহার | ২৫০
+২২.০৪ | সকল | তাজা আঙ্গুর রস, ফর্টিফাইড মদসহ; (২০.০৯ | ৩৫0
+এঐচ.এশ.কোড (পেয়িং grape must বারিতা) | 
+২২.০৫ | সকল | তার্কমুখ এবং তাজা আঙ্গুরের তৈরি মধু, সুবাসিত | ৩৫0
+এঐচ.এশ.কোড | 
+২২.০৬ | ২২০০হ.০০.০০ | অন্যান্য গাঁজানো পানি (উচ্চতরবণশীল মিশ্রণ, পেস্ট) | ৩৫0
+২২.০৬ | সকল | Undenatured ethyl alcohol of an alcoholic | ৩৫0
+এঐচ.এশ.কোড strength by volume of less than 80% | 
+| volume, spirits, liquors and other | 
+| spirituous beverages |
+
+[[page 11]]
+বাংলাদেশ Gazette, Extraordinary, জুন ২৬,২০২২ | ৬৮৯
+
+শিরোনামা | সাম্যসমূহপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+সংখ্যা | নামফল কোড (Description of Goods) | শুল্কহার
+(Heading) | (H.S. Code) | (%)
+(১) | (২) | (৩) | (৪)
+২৪.০৯ | সকল | Unmanufactured Tobacco refuse | ১০০
+এইচ.এস.কোড
+২৪.০২ | ২৪০২.১০.০০ | તમાকের তৈরি সিগার, ধুরুট ও সিগারেটো | ০০০
+| ২৪০২.২০.০০ | તમાকের তৈরি সিগারেট | ০০০
+| ২৪০২.৯০.০০ | হাতে বা যান্ত্রিক পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্য | ১৫০
+| সকল | অন্যান্য প্রস্তুতকৃত તમાক এবং সংশ্লিষ্ট পণ্য; | ১০০
+এইচ.এস.কোড તમાকের "homogenised" বা "reconstituted" |
+| নিজাস বা সুগন্ধি
+২৪.০৮ | সকল | Products containing tobacco, reconstituted | ১৫০
+এইচ.এস.কোড tobacco, nicotine, or tobacco or nicotine |
+26.03 | ২৫০২.০০.১০ Pure sodium chloride BP/USP pyrogen free | ২০
+| 
+| ২৫০২.০০.২০ Salt (other than pure sodium chloride) not in aqueous solution including salt boulder for crushing and salt in bulk | ২০
+| 
+| ২৫০২.০০.৩০ Rock salt, bit lohon | ২০
+| 
+| ২৫০২.০০.৯৯ Denatured salt (coloured) | ২০
+| 
+| ২৫০২.০০.৯৯ অন্যান্য লবণ | ২০
+26.04 | ২৫ও২.১১.০০ মার্বেল এবং চুনাপাথর (সাদা, অ্যা epigenetic porous ২.৫% বা তার বেশি), ক্ষুদ্র বা সূক্ষ্মভাবে কঠিন | ৪৫
+| 
+| ২৫ও২.১১.০০ Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape | ৪৫
+| 
+| ২৫ও২.১০.০০ Escussine and other calcareous monumental or building stone; alabaster | ৪৫
+26.05 | ২৫ও২.১১.০০ গ্রানাইট (সূক্ষ্মভাবে কঠিন) | ৪৫
+| 
+| ২৫ও২.১১.০০ গ্রানাইট দ্বারা বা অন্য পদ্ধতিতে ব্লক অথবা চত্বরুপ বা বর্গাকার slabs হিসাবে কঠিন | ৪৫
+
+[[page 12]]
+Bangladesh Gazette, Extraordinary, June ২৬, ২০২২
+
+| শাখা (Heading) | নাম্বরাল কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (%) |
+| | ২৫৬১.৯০.১০ | লোয়ার স্টোন | ১০ |
+| ২৬.১৭ | ২৫৬১.৯০.২০ | Pebbles, gravel, broken or crushed stone | ১০ |
+| | ২৫৬১. eighties.০০ | Other Pebbles, gravel, broken or crushed stone | ১০ |
+| | ২৫৬২.০০.১০ | Boulder Lime stone | ১০ |
+| | ২৫৬২.০০.মি | Other | ১০ |
+| ২৬.২০ | ২৫৬২.০০.২০ | পোর্টল্যান্ড সিমেন্ট সহ, পরিবহনকালে দ্রবীভূত করা | ২০ |
+| | | হওযা বা যা হউক | |
+| | ২৫৬২.০০ | অন্যান্য পোর্টল্যান্ড সিমেন্ট | ২০ |
+| ২৬.০৭ | ১৮০৭.০০.০০ | সালফিউরিক এসিড, ওলিয়াম | ২০ |
+| ২৬.০৮ | ১৮০৭.১০.০০ | Disodium sulphate | ২০ |
+| | ১৮০৭.৩০.০০ | Sodium sulphates | ২০ |
+<start_of_image>
+\multicolumn{2}{r}{\textbf{Customs Tariff Schedule}}
+
+\multicolumn{2}{r}{\textbf{Section XVI - Organic Chemicals}}
+
+\multicolumn{2}{r}{\textbf{Chapter 39 - Plastics and articles thereof; vulcanised rubber and rubber wares}}
+
+\multicolumn{2}{r}{\textbf{Sub-heading}} | \multicolumn{2}{r}{\textbf{Description}} | \multicolumn{2}{r}{\textbf{Rate of Duty}}
+\hline
+\multicolumn{2}{r}{} | \multicolumn{2}{r}{} | \multicolumn{2}{r}{}
+\\
+\multicolumn{2}{r}{39.02} | 3902.१०.०० Sodium salt of palmitic acid (soap noodle) | ২০
+\\
+\multicolumn{2}{r}{} | 3902.৩০.০০ ডাইইথাইল থ্যালিয়েট (ডি ও পি) | ২০
+\\
+\multicolumn{2}{r}{} | 3902.৪০.০০ ডিনোনাইল বা ডাইডিসাইল অর্থোফথ্যালেট | ২০
+\\
+\multicolumn{2}{r}{} | 3902.৫৪.০০ Other esters of orthophthalic acid | ২০
+\\
+\multicolumn{2}{r}{} | 3902.৯৯.০০ Other | ২০
+\\
+\multicolumn{2}{r}{39.06} | 3906.১০.০০ পলিমার বেসড অন্যান্য পেইন্টস, ভarnish (এনামেল ও লেকার) | ৩০
+\\
+\multicolumn{2}{r}{} | 3906.২০.০০ অন্যান্য পেইন্টস, ভarnish এবং লেপার | ৩০
+\\
+\multicolumn{2}{r}{} | 3906.৩০.০০ অ্যাক্রিলিক পলিমার বেসড পেইন্ট এবং ভarnish (এনামেল ও লেকার) | ৩০
+\\
+\multicolumn{2}{r}{} | 3906.৪০.০০ অন্যান্য পেইন্টস, ভarnish এবং লেপার | ৩০
+\\
+\multicolumn{2}{r}{39.50} | 3950.০০.১০ Prepared water pigments of a kind used for finishing leather, for cleaning footwear in tablet form | ৩০
+\\
+\multicolumn{2}{r}{} | 3950.০০.২০ অন্যান্য পেইন্টস, ভarnish (এনামেল, লেকার ও ডিসপার্সড) | ৩০
+<end_of_image>
+
+[[page 13]]
+বাংলাদেশ কোષ્ટী, অতিরিক্ত, জুন ২৩, ২০২২
+(&&)
+
+শিরোনাম | সমন্বয়কৃত | পণ্যসমূহের বিবরণ | সম্পূরক
+সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%)
+(১) | (২) | (৩) | (৪)
+৩৩.০৬ | 0900.00.00 | бумаги ও প্রশাবনী পানি | ৬০
+৩৩.০৮ | সকল | সৌন্দর্য অথবা প্রয়োজন সামগ্রী এবং স্বল্প পরিমাণ ব্যক্তিগত প্রশ্রাবণ সামগ্রী (বিশেষ ব্যত্তিত পদার্থ ব্যতীত) সানস্ক্রিন বা সান ট্যান সামগ্রী; রং, রВы বা পায়ের প্রশ্রাবণ সামগ্রী। | ৪৫
+৩৩.০৬ | সকল | ক্ষেত্র পরিধিযুক্ত ব্যবহৃত সামগ্রী | ৬০
+৩৩.০৬ | 0906.50.00 | ফেনধিপস | ২০
+৩৩.০৯ | 0908.50.00 | মুখদ্বারা বা শরীরের ত্বক ব্যবহৃত অন্যান্য সামগ্রী | ২০
+৩৩.০৯ | সকল | শেভিং ওয়েল, শেভিং পরে বা শেভিং সময় ব্যবহার্য সামগ্রী, শরীরকে দূষণমুক্ত করারূপে ব্যবহৃত সামগ্রী, লোশন, ক্রিমি এবং অন্যান্য প্রশ্রাবণ ও তৈলাক্ত সামগ্রী যা অন্য কোথাও বর্ণিত যা অন্তর্ভুক্ত নহে; | ১০
+স্কুলের জন্য জরুরি নামক (শ্রেণীবদ্ধ হইক বা না হইক)
+অপ্রয়োজনীয় ক্ষতিকর ক্ষমতা থাকুক বা না থাকুক
+
+| | |
+|---|---|
+| ৩৫২০۹.৭০ Personal deodorants and antiperspirants | ২০ |
+| | |
+| ৩৫২১.০০ অন্যান্য | ২০ |
+| ৩৫২.০৯ | |
+| সকল | সাবান এবং সাবান হিসাবে ব্যবহৃত সারফেস এজিং | 
+| এইচ.ও.এন্ড | সামগ্রী এবং সংশ্লিষ্ট পণ্য | ২০ |
+| ৩৫২.১২ | ৩৫২০২.৫০ Preparations put up for retail sale | ২০ |
+| | ৩৫২০২.৯০ ডিটারজেন্ট | ২০ |
+| ৩৫২.০৫ | ৩৫২০১.০০ Polishes, creams and similar preparations | ২০ |
+| | for footwear or leather | |
+| ৩৫২.০৯ | ৩৫২০১.০০ বিস্ফোরক পাতওয়ার | ২০ |
+| ৩৫২.১২ | ৩৫২০১.১০ তৈরি বিস্ফোরক, বিস্ফোরক পাতওয়ার ব্যতীত | ২০ |
+| ৩৫২.১৪ | |
+| সকল | অত্যাবশ্যকীয় сигнальные фейер, ফেইয়ার ফ্যাক্টরি, ফ্ল্যাশ | 
+| এইচ.ও.এন্ড | সিগন্যাল এবং অন্যান্য পাইরোটেকনিক পণ্য | ২০ |
+| ৩৫২.১৫ | ৩৫২০১.২০ বিপদসংকেত; শিরোনাম সংস্থা ৩৫২.১৪ এর | ২০ |
+| | পাইরোটেকনিক পণ্য সামগ্রী ব্যতীত | |
+| ৩৫২.১৮ | ৩৫২০১.৯ Mosquito coil; aerosol; mosquito repellent | ২০ |
+| ৩৫২.১৯ | ৩৫২.৪৪ Chlorinated paraffin wax | ২০ |
+
+[[page 14]]
+Bangladesh Gazette, Extraordinary, June ૨૫, ૨૦૨૩
+
+| সংরক্ষা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৩৫.১৭ | ৩৫১৯.২১.০০ | Tubes, pipes and hoses, rigid of polymers of ethylene | 00 |
+| | ৩৫১৯.২২.০০ | Tubes, pipes and hoses, rigid of polymers of propylene | 00 |
+| | ৩৫১৯.২৩.৫০ | Tubes, pipes and hoses, rigid of polymers of vinyl chloride (excluding PVC shrinkable tube (plain)) | 00 |
+| | ৩৫১৯.২১.৯২ | Fibre glass imported by VAT registered electric fan manufacturers | 00 |
+| | ৩৫১৯.২৯.৯৯ | Tubes, pipes and hoses, rigid of other plastics (excluding Silicone tubing for laboratory use; Hoses pipe for gas cylinder) | 00 |
+<start_of_image>
+ওম.১৮ | সকল | প্লাস্টিকের তৈরি বোতল আকারific, ক্যান অথবা পিচ্ছিল | ২০
+ এইচ.এগ.কোড |containers, সেলফ-অ্যাডহেসিভ ফিতা বা না বন্ধক (seal) | 
+ অবস্থা ঢাকনা)
+ওম.১৮.১.০০ | ওম.১৮.১.৫০ | প্লাস্টিকের তৈরি বোতল এম্বেডেড গ্লুট, গ্রিট, ফিল্ম, | ২০
+ ফ্লেক্স, টেপ, স্ক্র্যাপ অথবা অন্যান্য ক্ষতিকারক আকৃষ্ট (toxic) রোল | 
+ আকৃতি) (পুনরায় নির্বাচিত প্রতিষ্ঠান ব্যতীত)
+ওম.২০ | প্লাস্টিকের গ্রিট, ফিল্ম, ফ্লেক্স, স্ক্র্যাপ (নন-লেয়ার্ড), রিইনফোর্সড | 
+ নাফে, অন্য কোন পদার্থ দ্বারা ল্যামিনেটেড, সাপোর্টেড বা অন্য কোন | 
+ পদার্থের সাথে সংযুক্ত হিসাবে সমর্থন):
+ওম.২০.১.১০ | চাপানো আকারে প্রোপিলিন পলিমার্সের তৈরি (যেমন | ১৫
+ শিল্প কর্তৃক আমদানিকৃত প্রথম প্রকারণের প্রত্যায়নকৃত | 
+ রাসায়নিকভাবে পণ্য ব্যতীত)
+ওম.২০.১.২৫ | পলিইথিলিন প্লাস্টিক শীট | ২০
+ওম.২০.১.২৫.১.০০ | চাপানো আকারে পলি ইথাইলিন টেরেফথ্যালেট এর | ২০
+ টেবিল
+ওম.২০.১.৫০ | চাপানো আকারে অন্যান্য পলিয়েস্টারের তৈরি | ১৫
+ওম.২০.১.৫০.১.০০ | চাপানো আকারের প্লাস্টিকের তৈরি পাল্পারিড | ১৫
+<end_of_image>
+
+[[page 15]]
+বাংলাদেশ Gazette, Extraordinary, জুন ২৬,২০২২ <br>
+<br>
+| শিরোনামা | সামীমূহপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+| সংখ্যা | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| ৩৫.৯২ | প্লাস্টিকের তৈরি অন্যান্য প্লেট, শীট, ফিল্ম, ফয়েল ও স্ট্রিপ (সেলুলারবিহীন রিইনফোর্সড, অন্য কোন পদার্থ দ্বারা ল্যামিনেটেড, সাপোর্টেড বা অন্য কোন পদার্থের সাথে সংযুক্ত উপায়ে সমন্বিত): | |
+| | ৩৫২৫.১৯.৯০ | Other cellular plate/sheet/film/foil of plastic | ২০ |
+| | ৩৫২৫.২০.৯৯ | ছাপানো আকারে অন্যান্য প্লাস্টিকের তৈরি সেলুলার, uncoverdized, metalized বা অনুরূপ প্লাস্টিক | ৩০ |
+| | ৩৫২৫.৩০.৯৯ | ছাপানো ব্যতীত অন্যান্য প্লাস্টিকের তৈরি সেলুলার, uncoverdized, metalized বা অনুরূপ প্লাস্টিক | ২০ |
+| ৩৫.২২ | সকল | প্লাস্টিকের তৈরি খাতা, নোটবুক, খাতায় বাঁধ, শীট, ওয়াদা লেমিন, প্রিন্টেড, ল্যামিনেটেড, পাঞ্চ, স্পাইরাল ও ফিতারী, ছাপিয়ে উত্তোলনের এবং অনুরূপ প্যাঁচিংয়ের জন্য | ২০ |
+| ৩৫.২৩ | পণ্য বর্ণ না পারিৎক যন্ত্র ব্যবহারকৃত প্লাস্টিকের তৈরি দ্রব্যাবিদ | |
+ও৯২৫.১০.০০ প্লাস্টিকের তৈরি থলি, বস্তা, কোনেস্, ক্রেট এবং সমজাগী দ্রব্য | ৪০
+ও৯২৫.১১০.০০ Sacks and bags (including cones) of polymers of ethylene other than plastics | ৪০
+ও৯২৫.১১১.০০ Sacks and bags (including cones) of other plastics | ৪০
+ও৯২৫.১২.০০ কার্টন, বোতল, জার ও সমজাগী দ্রব্য (বৈষয়িক কাজে ও বৈষম্যমূলক ব্যবহারের ব্যতীত) | ৪০
+ও৯২৫.৩০.০০ Other spools, caps, bobbins and similar supports | ৪০
+ও৯২৫.৪০.০০ Stoppers, lids, caps and other closures | ৪০
+ও৯২৫.৫০.০০ প্লাস্টিক প্যারাডেন্স | ৪০
+-এ৯.২৯ ও৯২৫.৫৫.০০ প্লাস্টিকের খেলনাধারা বা শিক্ষণধারা | ৪০
+ও৯২৫.৫৫.১০ Feeding Bottles | ২০
+ও৯২৫.৫৫.২০ অন্যান্য | ৪০
+ও৯. ২৮
+ও৯. ২৮ ও৯২৫.৬০.০০ প্লাস্টিকের তৈরি সরঞ্জাম, জানালা ও উত্তাপের ক্ষেত্র এবং দস্ততার threshold | ৪০
+ও৯২৫.৬১.০০ প্লাস্টিকের তৈরি পাতিল, ট্রেইক এবং উত্তাপের পাত্র | ২০
+ও৯২৫.৭০.০০ প্লাস্টিকের তৈরি অন্যান্য ব্যক্তিগত দ্রব্যাদি | ২০
+
+[[page 16]]
+Bangladesh Gazette, অতিরিক্ত, জুন ২৬, ২০২২
+
+<start_of_image>
+
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ¤২.২৬ | ¤২৫৬.১০.০০ | প্লাস্টিকের তৈরি ভাস্কর্য এবং ক্ষুদ্র সামগ্রী | ২০ |
+| | ¤২৫৬.৪০.০০ | Statuettes and other ornamental articles | ২০ |
+| | ¤২৫৬.৯০.৯৯ | প্লাস্টিকের তৈরি অন্যান্য দ্রব্যাদি | ৩০ |
+| ¤২.১১ | 8053.00.00 | Floor coverings and mats | ২০ |
+| ¤২.১৯ | 8056.∞.০০ | Trunks, suit-case, vanity-cases, executive- | ২০ |
+| ¤২.০২৫ | সকল প্রকার cases, brief-cases, school satchels, | | |
+| | spectacle cases, binocular cases, camera | | |
+| | cases, musical instrument cases, guncases, | | |
+| | holsters and similar containers; travelling- | | |
+| | bags, insulated food or beverages bags | | |
+| | toilet bags, rucksacks, handbags, shopping | | |
+| | bags, wallets, purses, map-cases, cigarette- | | |
+
+<end_of_image>
+cases, tobacco pouches, tool bags, sports
+bags, bottle-cases, jewellery boxes,
+powder-boxes, cutlery cases and similar
+containers of leather or of composition
+leather, of sheeting of plastics, of textile
+materials, of vulcanised fibre or of
+paperboard, or wholly or mainly covered
+with such materials or with paper.
+
+82.00 8209.00.00 Belts and bandoliers | ২০
+| 8209.80.00 Other clothing accessories | ২০
+88.30 হতে সকল প্রকার পার্টিকেল বোর্ড, প্লাইউউড শীট বোর্ড | ২০
+88.32 এইচ.এস.কোড ও সমজাতীয় বোর্ড, ফাইবার বোর্ড, হার্ড বোর্ড, |
+(8815.11.00), প্রিহিউড ভিএরপর্ড প্যানেলস্ & সমজাতীয় |
+8815.16.00 ও ল্যামিনেটেড পণ্য |
+| 8815.28.00 |
+| বাড়ীতে) |
+88.30 8815.22.00 Particle board | ২০
+88.32 সকল দরজা, জানালা, ছাদএর ফ্রেম ও প্যানেলস্, প্লাইউউড | ১০
+এইচ.এস.কোড প্যানেল, পার্টিকেল, শিফেল ও লেক এক সমজাতীয় |
+
+[[page 17]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২২
+ ওঁরকে
+
+শিরোনাম | সমন্বয়পূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+ | নাম্ব্বর কোড | (Description of Goods) | শতকরা
+ | (Heading) | (H.S. Code) | | (%)
+(১) | (২) | (৩) | (৪)
+অनपुरণ কাজে ব্যবহৃত
+
+8৮.৯৯ 8899.00 Cartons, boxes and cases, of corrugated | ১০
+ paper and paperboard
+8899.০০.৯০ কার্ডবোর্ড প্যাকেজিংয়ের জন্য দুষ্পর্যন্ত আর্টপেপার | ১০
+ বাস্তিত নন-কোরোগেটেড পেপার ও পেপার বোর্ডের
+ টেস্টি কোটিং কন্টুর্স বাক্স ও কেস
+8৮৯৯.০০.০০ সারফেস এবং ব্যালস্ (৪০ সে. মি ও তদুর্ধ্ব প্রস্থ বেষ্ট | ১০
+ বিশিং)
+8৮.৯৯ 8899.50 প্রিন্টেড লেবেলস্ | ২০
+8৮.২০ 8820.00 Paper Cup, Plate, Bowl | ২০
+8820.00.০০ Surface coloured or printed paper or paper | ২০
+ board
+8820.50.50
+88.05 8805.00 Printed Books, Brochures, leaflets, similar | ১০
+ printed matter in single sheets, whether or
+ not folded
+88.0 8800.00 Printed or illustrated postcards; printed | ২০
+ cards bearing personal greetings, messages
+ or announcements, whether or not
+ illustrated, with or without envelopes or
+ trimmings
+
+[[page 18]]
+Bangladesh Gazette, Extraordinary, জুন ২৬,২০২২
+
+শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+সংরোহা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার
+(Heading) | (H.S. Code) | | (%)
+(১) | (২) | (৩) | (৪)
+84.20 | 8420.00.00 | Calendars of any kind, printed, including | ২০
+calendar blocks
+84.25 | সকল | ছাপালে ছাপি, ফটেোগ্রাফসহ অন্যান্য পণ্যে | ২০
+এইচ.এস.কোড সামগ্রী
+61.09 | সকল | Woven fabrics of silk or of silk waste. | 80
+এইচ.এস.কোড
+62.04 &20/60 | সকল | ওভেন ফেব্রিক | ১০
+62.25 | এইচ.এস.কোড | |
+63.09 &49 | সকল | ওভেন ফেব্রিক | ১০
+63.09 | এইচ.এস.কোড (2109.90.50 বাড়ীতে) | |
+64.12 &20/60 | সকল | ওভেন ফেব্রিক | ১০
+66. আবৃত, ঝকঝকে, কোট
+ (6602.32.30
+ বগ)
+
+66.01 | 6609.20.30 | Metalized round yarn | ২০
+66.02 হতে | সকল | কার্পেট ও অন্যান্য টেক্সটাইল এবং আচ্ছাদন | ২০
+66.08 | ঝকঝকে, কোট | ২০
+66.03 | সকল | Woven pile fabrics and chenille fabrics, | ২০
+ | ঝকঝকে, কোট | other than fabrics of heading 58.02 or |
+ | | 58.06.
+66.08 | সকল | Tullees and other net fabrics, not including | ২০
+ | ঝকঝকে, কোট | woven, knitted or crocheted fabrics; lace in |
+ | | the piece, in strips or in motifs, other than |
+ | | fabrics of headings 60.02 to 60.06.
+66.09 | 6609.20.30 | Other textile fabrics, impregnated, coated, | ২০
+ | | covered or laminated with polyvinyl |
+ | | chloride
+66.09 | 6609.20.30 | Other textile fabrics, impregnated, coated, | ২০
+ | | covered or laminated with polyurethane
+66.09 | 6609.20.30 | Other textile fabrics with polyurethane | ২০
+
+[[page 19]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৮,২০২২
+তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ
+পৃষ্ঠা: ৩৯
+
+শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+সংখ্যা | নাম্বাকরণ কোড | | শুল্কহার
+(Heading) | (H.S. Code) | (Description of Goods) | (%)
+(১) | (২) | (৩) | (৪)
+৬0.০৯ | সকল | Pile fabrics, including "long pile" fabrics | ২০
+ | এইচ.এস. কোড | and terry fabrics, knitted or crocheted. 
+৬0.০২ | সকল | Knitted or crocheted fabrics of a width not | ২০
+ | এইচ.এস. কোড | exceeding 30 cm, containing by weight 5% | 
+ | | or more of elastomeric yarn or rubber | 
+ | | thread, other than those of heading 60.01.
+৬0.০৩ | সকল | Knitted or crocheted fabrics of a width not | ২০
+ | এইচ.এস. কোড | exceeding 30 cm, other than those of | 
+ | | heading 60.01 or 60.02
+৬0.০৯ | সকল | Knitted or crocheted fabrics of a width | ২০
+ | এইচ.এস. কোড | exceeding 30 cm, containing by weight 5% | 
+ | | or more of elastomeric yarn or rubber | 
+ | | thread, other those of heading 60.01
+৬১.০২ | সকল | Warp knit fabrics (including those made on galloon knitting machines), other than of headings 60.01 to 60.04 | ২০
+ | এইচ.এস.কোড | 
+৬১.০৬ | সকল | Other knitted or crocheted fabrics | ১০
+ | এইচ.এস.কোড | 
+৬১.০৬ থেকে | সকল | ওভেনক্রোশেট, কার-ক্রোশেট, ফ্রেণুল, ক্রোক, অ্যামারোক (ফ্রি-এজোটেশন), উইংগ্লিশিয়ান, উইং-এজোট এবং সমঝারিয়া পণ্য, নিউজ বা ক্রুশেটেড | ৩০
+ | ৬১.০২ | এইচ.এস.কোড | 
+৬১.০০ | সকল | плеоеর сути, ইমব্রয়ডার্ড, জ্যাকেট, ব্লেজার, টপস্টার, বিব ও বের ওভারকোট, ব্রিফ ও শর্টস (পোশাক ছাড়া), নিউজ বা ক্রুশেটেড | ৩০
+ | এইচ.এস.কোড (যদি ০৫.০০.০০ | 
+ | বাড়ীতে) | 
+৬১.০০.১৯.০০ | Men’s or boys' ensembles Of other textile materials | ৪০
+৬১.০৮ | সকল | плеоеর сути, ইমব্রয়ডার্ড, জ্যাকেট, ব্লেজার, ড্রেস, শার্ট, ডিটেইলড শার্ট, টি-শার্ট, টপস্টার, বিব ও বের ওভারকোট, ব্রিফ ও শর্টস (পোশাক ছাড়া), নিউজ বা ক্রুশেটেড | ৩০
+ | এইচ.এস.কোড | 
+৬১.০৫ | সকল | плеоеর পাঠ, নিউজ বা ক্রুশেটেড | ৩০
+ | এইচ.এস.কোড (যদি ০৫.০০.০০ | 
+ | বাড়ীতে)
+
+[[page 20]]
+<start_of_image>
+ওন্স/এ Bangladesh Gazette, অতিরিক্ত, জুন ২৬,২০২২
+
+শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার
+(Heading) | | (%)
+(১) | (২) | (৩) | (৪)
+৬১0৫.১০.০০ | Men’s or boys' shirts, knitted or crocheted | 80
+ | Of other textile materials
+৬১.০৬ | সকল | ছেলেদের জাতিজ, শার্ট এবং শার্ট-জাতিজ, নিটেড বা | ৩০
+ | এইচ.এস.কোড | ক্রুশেটেড
+৬১.০৭ | সকল | ছেলেদের অন্তর্বাসpants, ব্রিফ, নাইটপ্যান্ট, পায়জামা, | ৩০
+ | এইচ.এস.কোড | শার্টবোব, গ্রিপ্স গ্যাস এবং সমজাতীয় পণ্য, নিটেড | 
+ |(৬১0৯.১১.০০ | বা ক্রুশেটেড
+ | ব্যতীত)
+৬১0৯.১১.০০ | Men’s or boys' underpants, briefs of | 80
+ | Other textile materials
+৬১.০৮ | সকল | ছেলেদের টিপ, গেস্টিকোট, ব্রিফ, প্যান্ট, নাইটপ্যান্ট, | ৩০
+ | এইচ.এস.কোড | পায়জামা, শার্টবোব, শবাস্ক, গ্রিপ্স গ্যাস এবং | 
+ | সমজাতীয় পণ্য, নিটেড বা ক্রুশেটেড <end_of_image>
+start_of_image
+৬১.০০ | সকাল | টি-শার্ট, পিরিওড এবং অন্যান্য ভেস্ট, নিটেড বা ক্রুশেটেড | | ∞
+৬১.১০ | সকাল | জার্সি, পুলওভার, কার্ডিগান, ওয়েস্টকোট এবং সময় অনুযায়ী পণ্য, নিটেড বা ক্রুশেটেড, কাশ্মীরি ছাড়াও বা অন্য প্রাণীর সুতা থেকে তৈরি excepting | | ∞
+| ৬১১০.৯০.০০ | Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted of other textile materials | | 80
+৬১.১১ | সকাল | শ outerwears ও গ্রোশিয়ার accessories, নিটেড বা ক্রুশেটেড | | ∞
+৬১.১৩ | ৬১১৩.০০.০০ | নিটেড বা ক্রুশেটেড sweaters (কোড, ৫৯.০৩ বা ৪৫.০৭) ছাড়া অন্য টেক্সটাইল garments | | ∞
+৬১.১৪ | সকাল | অন্যান্য পার্টেন্টস, নিটেড বা ক্রুশেটেড | | ∞
+৬১.১৫ | সকাল | প্যান্ট বোস, টাইটস, শর্টস, সক্স এবং অন্যান্য মোজায়ারি (ত্বকের উপর করার জন্য জুতা নয় এবং (৬১১২.৪৯.০০) excepting) সালওয়ার, নিটেড বা ক্রুশেটেড | | ∞
+| ৬১১৫.৯৯.০০ | stockings, socks and other hosiery of other textile materials | | 80
+end_of_image
+
+[[page 21]]
+বাংলাদেশ Gazette, Extraordinary, জুন ২৬, ২০২২
+
+ ঁঠক
+
+শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+ সংজ্ঞা | শুল্কের কোড (H.S. Code) | (Description of Goods) | শতকরা
+(Heading) | (H.S. Code) | | মুক্তির
+ (%)
+(১) | (২) | (৩) | (৪)
+৬১.১৬ | সকল | প্লাস্টিক, লিটনসহ এবং লিটিন, লিটেড বা ক্র coated | ০০
+ এইচ.এস.কোড | | | 
+৬১.১৭ | সকল | অন্যান্য লিটেড বা ক্র coated গ্রানাইড এগ্রোগ্রেটস; | ০০
+ এইচ.এস.কোড | | গ্রানাইট বা গ্রানাইড এগ্রোগ্রেটস অবশ^য় | 
+৬১.২০ থেকে | সকল | পুরুষ, মহিলা ও শিশুদের সকল ধরনের তৈরি | ০০
+৬১.৩০ পর্যন্ত | এইচ.এস.কোড | পোশাকক, অন্তর্বাস ও সময়জাতীয় পণ্য (নীচের | 
+ | | তালিকা ছাড়া) | 
+ | | ৬২১০.০০.০০০ | 
+ | | ৬২১০.৪০.০০ | 
+ | | ৬২১০.৮০.০০ | 
+ | | ৬২১০.৯১.০০ | 
+ | | ৬২১০.৯২.০০ | 
+ | | ৬২১০.৯৯.০০ |
+৳১২০৪.8২.০০
+৳১২০৪.8৩.০০
+৳১২০৪.8৪.০০
+৳১২০৪.8৫.০০
+৳১২০৪.৮৬.০০
+৳১২০৪.৯০.০০
+ব্যक्ती(ই)
+৳২. 00 | ৳১২০৪.9৯.০০ | Men’s or boys Jackets and blazers of other textile materials | 80
+| ৳১২০৪.9৩.০০ | Men’s or boys Trousers, bib and brace overalls, breeches and shorts of synthetic fibres | 80
+| ৳১২০৪.9৯.০০ | Men’s or boys Trousers, bib and brace overalls, breeches and shorts of other textile materials | 80
+৳২. 08 | ৳১২০৪.৯১.০০ | Women’s or girls’ ensembles | 80
+| ৳১২০৪.৯২.০০
+| ৳১২০৪.9৩.০০
+| ৳১২০৪.৯৬.০০
+
+[[page 22]]
+৬/০০ বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২৩
+
+| সংস্থা | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (Heading) | (১) | (২) | (৩) | (৪) |
+| | ৬২০৪.৪৯.০০ | Women's or girls' dresses | ৪০ |
+| | ৬২০৪.৮২.০০ | | |
+| | ৬২০৪.83.00 | | |
+| | ৬২০৪.৪৪.০০ | | |
+| | ৬২০৪.৪৯.০০ | Women's or girls' singlets and other vests, briefs, panties, negliger, bathrobes, dressing gowns and similar articles of other textile materials | ৪০ |
+| | ৬২.০৯ | | |
+| | ৬২০৬.১০.০০ | Babies’ garments and clothing accessories of other textile materials | ৪০ |
+| | ৬২.১২ থেকে | সকল | বস্ত্র, জামাকাপড়, গয়না, পার্স, | ৬০ |
+| | ৬২.১৭ পর্যন্ত | এইচ.এস.কোড | জুমান, শাল, স্কার্ফ, মাফলার, খ্যাতিশালা, বেল্ট, টাই, | |
+(৬৩২৪.২০.০০, রো-টাই, ফ্ল্যালেট, গ্রাস, মিস্টেন, টিস্যু এবং
+৬৩২৪.৩০.০০, সম্বলিত ফাইবার এগ্রোসরিজ ও তার বংশ
+৬৩২৪.৪০.০০ বাড়ীতে)
+৬৩২৪.২০.০০ | ৬৩২৪.২০.০০ | Brassieres | 80
+৬৩২৪.৩০.০০ | ৬৩২৪.৩০.০০ | Shawls, scarves, mufflers, mantillas, veils | 80
+| and the like: of synthetic fibres
+৬৩২৪.৪০.০০ | ৬৩২৪.৪০.০০ | Shawls, scarves, mufflers, mantillas, veils | 80
+| and the like: of other textile materials
+৬৩.০৯ | সকল প্রকার পক্ষী পালন
+এইচ.এফ.কোড | ২০
+৬৩.০২ | সকল | হেড লিখন, টেবিল লিখন, টাইপসেট লিখন এবং | ২০
+এইচ.এফ.কোড | বিফল লিখন
+৬৩.০০ | সকল | পর্দা (স্ক্রীন) এবং নির্ভরযোগ্য রাইজিং: পর্দা বা বেড়া | ২০
+এইচ.এফ.কোড | তালিকা
+৬৩.০৮ | সকল | অন্যান্য আসবাব (৯৪.০৪ ফেব্রি ও রং পণ্য ব্যতীত) | ২০
+এইচ.এফ.কোড
+৬৩.০২ | সকল | Other footwear with outer soles and uppers | 80
+এইচ.এফ.কোড | of rubber or plastics
+
+[[page 23]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২২
+
+| :--- | :--- | :--- | :--- |
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬৪.০০ | সকল এইচ.এস.কোড | Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather. | ৪০ |
+| ৬৪.০৮ | সকল এইচ.এস.কোড | Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials. | ৪০ |
+| ৬৪.০৬ | সকল এইচ.এস.কোড | Other footwear. | ৪০ |
+| ৬৪.০৬ | ৬৪.০৬, ২০.০০ | Upper and outer soles and heels | ১০ |
+| | ৬৪.০৬, ২০.০০ | | |
+| ৬৭.০২ | সকল এইচ.এস.কোড | Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit | ১০ |
+৬b. ০২ | Granite, marble, travertine and alabaster | ৮০
+| এইচ.এফ.এস্.কোড | and other stone | 
+৬b. ০৩ | ৬b০৭.০০ | Worked slate and articles of slate or of | ৮০
+| | agglomerated slate | 
+৬b. ০৮ | ৬b০৮.০০ | Panels, boards, tiles, blocks and similar | ২০
+| | articles or vegetable fibre, of straw or of | 
+| | shavings, chips, particles, sawdust or other | 
+| | waste, of wood, agglomerated with | 
+| | cement, plaster or other mineral binders. | 
+৬b. ০৬ | | Plaster Boards and sheets | ২০
+| এইচ.এফ.এস্.কোড | | | 
+৬b. ০৮ | | Ceramic building bricks, flooring blocks, | ২০
+| এইচ.এফ.এস্.কোড | support or filler tiles and the like. | 
+৬b. ০৫ | | Roofing tiles, chimney-pots, cowls, | ২০
+| এইচ.এফ.এস্.কোড | chimney liners, architectural ornaments | 
+| | and other ceramic constructional goods. | 
+৬b. ০৬ | ৬b০৯.০০ | Ceramic pipes, conduits, guttering and | ২০
+| | pipe fittings. |
+
+[[page 24]]
+<start_of_image>
+Bangladesh Gazette, Extraordinary, June ২৬,২০২২
+
+| : | : | : | : |
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬৯.০৭ | সকল | аккумулятор সিরামিক প্রকার ফলক এবং উপাদানের প্রতিরত | ৬০ |
+| এইচ.এস.কোড | অথবা দোহলার 대해서; аккумулятор | | |
+| গোলাকার কিন্তু কিউব এবং সমান্তরাল পাশ, কোণ বন্ধুর | | | |
+| উপর স্থাপিত ছাঁচ বা না ছাঁচ | | | |
+| ৬৯.১০ | সকল | সিরামিকের পিঙ্গ্জ, ওয়ার্পল বেসিন, ওয়ার্পল বেসিন | ৬০ |
+| এইচ.এস.কোড | প্যালেটাল, ঝর্ণাটি, ঝিন্টি, ওয়াইটার কনজেট পান, | | |
+| ক্লিপিং সিমেন্ট, ইন্টারনাল ও সমান্তরাল সেটিংস | | | |
+| ফিক্সাস | | | |
+| ৬৯.১১ | সকল | চীনামাটি বা পোরাসিয়নের তৈরি টেবিল ওয়্যার, | ৬০ |
+| এইচ.এস.কোড | কিচেন ওয়্যার ও অন্যান্য গৃহস্থালী এবং টেবলেট | | |
+| সামগ্রী | | | |
+| ৬৯.১২ | ৬৯.১২.০০ | সিরামিকের তৈরি টেবিল ওয়্যার, কিচেন ওয়্যার ও | ৬০ |
+| এইচ.এস.কোড | অন্যান্য গৃহস্থালী সামগ্রী | | |
+<end_of_image>
+৬৯.২০ | সকল | Statuettes and other ornamental ceramic | ৬০
+ অংশ,এফ.এন্ড.কোড | articles.
+৬৯.২৪ | সকল | অন্যান্য সিরামিক সামগ্রী | ৬০
+ অংশ,এফ.এন্ড.কোড
+৭০.০২ | ৭০0২.১৯.০০ | গ্রাস ফাইবার | ২০
+৭০.০৩ | ৭০0২.২২.০০ | সম্পূর্ণরূপে রংকৃত মন এমারাল্ড গ্লাস আঁকতে কাঁচ | ২০
+ অথবা রোল গ্রাস (প্রচ্ছদ, ফ্ল্যাশিং/আর্দ্রকরণেপছ,
+ রিফ্লেক্টিং ফিনিক্স বা না ফিনিক্স)
+৭০0২.১৯.০০ | অন্যান্য কাঁচ অথবা রোল গ্রাস নন-এমারাল্ড গ্লাস | ২০
+ ৭০0২.২০.০০ | কাঁচ অথবা রোল গ্রাস এমারাল্ড গ্লাস | ২০
+ ৭০0২.৩০.০০ | কাঁচ অথবা রোল গ্রাস প্রিক্যাশিয়ার | ২০
+৭০.০৪ | সকল | স্তর গ্রাস এবং রোল গ্রাস গ্লাস, আর্দ্রকরণেপছ বা | ২০
+ অংশ,এফ.এন্ড.কোড | না থাকুক রিফ্লেক্টিং ফিনিক্স বা না ফিনিক্স
+৭০.০৫ | সকল | গ্লাস আঁকতে রোল গ্রাস এবং সারফেস গ্রাউন্ড বা | ৪2
+ অংশ,এফ.এন্ড.কোড | পলিশড গ্রাস, শোষিতযুক্ত, প্রতিফলন বা
+ প্রতিফলনহীন স্তরবিশিষ্ট ফিনিক্স না না ফিনিক্স, অন্য
+ কোন কাজ করা নাম
+৭০.০৬ | ৭০0২.৩০.০০ | Edge-worked glass | ২০
+
+[[page 25]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২৩
+|
+| তারিখ: ২৬শে জুন, ২০২৩
+|
+| সিroma | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+| : | : | : | : |
+| সংস্থা (Heading) | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| ৭০.০৭ | 9009.৯৯.৯০ | Other tempered safety glass | ২০ |
+| | 9009.৯৯.৯০ | Other laminated safety glass | ২০ |
+| ৭০.০৮ | 9008.৯৯.৯০ | স্তরায়িত অন্যান্য কাঁচের জানালা | ২০ |
+| | 9008.৯৯.৯০ | স্তরায়িত অন্যান্য কাঁচের জানালা | ২০ |
+| ৭০.১০ | 9010.৯৯.০০ | Carboys, bottles, flasks, jars, pots, phials and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass | ২০ |
+| ৭০.১০ | সকল | টেবিল, রান্নাঘর, টাইললেট, অফিস, ইনডোর ডেকোরেশন অথবা এংকরপূর্ণ উদ্দেশ্যে ব্যবহারের উপযোগী কাঁচের তৈজসপত্র (৭০.১০ ও ৭০.১১ 제외 এবং পণ্য ব্যতীত) | ৪৫ |
+| ৭০.১৮ | সকল | Paving blocks, slabs, bricks, squares, tiles | ২০ |
+<start_of_image>
+ঘঐচ,ঘন,ভেদ and other articles of pressed or moulded
+glass, whether or not wired, of a kind
+used for building or construction
+purposes; glass cubes and other glass
+smallwares, whether or not on a backing,
+for mosaics or similar decorative
+purposes; leaded lights and the like;
+multi-cellular or foam glass in blocks,
+panels, plates, shells or similar forms.
+
+| 90.56 | 9056.50.00 | Glass beads, imitation pearls, imitation
+| | | precious or semi-precious stones and
+| | | similar glass small wares | ২০
+| 90.62 | 9062.50.00 | অফ্যুট গ্লাস | ২০
+| | 9062.75.00 | ফ্ল্যাট গ্লাস | ৬০
+| 90.59 | 9059.50.00 | ইমিটেশন জুয়েলারী | ২০
+| | | সকল
+| | ঘঐচ,ঘন,ভেদ
+| 92.09 | | Bars and rods, hot-rolled, in irregularly
+| | | wound coils of iron or non-alloy steel.
+| | (৯২৬৩.৭৫.১৫)
+| | বাড়ীতে | ∞
+
+[[page 26]]
+<start_of_image>
+Bangladesh Gazette, Extraordinary, June ૨૫, ২০২২
+
+| নং ধারা (Heading) | নাম্বারী কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৭b08 | | | |
+| ৭b১.১৮ | সকল এইচ.ও.এস,কোড | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling. | ৪৫ |
+| | | ( শুধুমাত্র এস্পিরিটিন ডিস্টিলারের জন্য ও শাখা উৎপাদনকারী প্রতিষ্ঠানের কাঠামো নির্মাণ হিসাবেitlement কোড ৭b১.১৮.০০ এর অধীনে Carbon steel S20/SAE 1020 (42mmRD) আমদানির ক্ষেত্রে ব্যতীত) | |
+| ৭b১.১৫ | সকল এইচ.ও.এস,কোড | Other bars and rods of iron or non-alloy steel. Of free-cutting steel, not further worked than cold-formed or cold-finished | ৪৫ |
+| ৭b১.১৬ | সকল এইচ.ও.এস,কোড | Angles, shapes and sections of iron or non-alloy steel. | ২০ |
+<end_of_image>
+੧੩.੭੭ | ੧੪੦੭.੭੭.੭੭ কোঠাঁ ধরনেরের তৈরি টিউব পাইপস | ২০
+੧੩.੭੮ | ੧੪੦੭.১੮.੨੦ ওয়েল অথবা গ্যাস পাইপ লাইন বা সূক্ষ্ম লাইন | ২০
+ পাইপস (উভয়ের ব্যাস ৮ ইঞ্চি অথবা তার নিচে)
+੧੩.੭੮ | ੧੪੦੭.১੮.২০ আয়রন অথবা স্টীল তৈরি অন্যান্য টিউব, পাইপ | ২০
+ এবং কুণ্ডলী (ওয়্যারোয়ান, সিমলেস (Seamless))
+੧੩.੭੯ | ੧੪੦੭.১੯.੨੦ ওয়েল অথবা গ্যাস পাইপ লাইন, বা সূক্ষ্ম লাইন | ২০
+ পাইপস, (উভয়ের ব্যাস ৮ ইঞ্চি অথবা তার নিচে)
+੧੩.੭੯ | ੧੪੦੭.১੯.২০ ওয়েল ও গ্যাসের মিশ্রণ এবং কাজে ব্যবহৃত কঠিন | ২০
+ এবং টিউবিং (উভয়ের ব্যাস ৮ ইঞ্চি অথবা তার নিচে)
+੧੪੦੭.੨੦.୦୦ | Other, welded, of circular cross-section of | ২০
+ iron or non-alloy steel
+੧੪੦੭.੩୦.୦୦ | Other, welded, of circular cross-section, of | ২০
+ stainless steel
+੧੪੦੭.੮୦.୦୦ | Other, welded, of circular cross-section, of | ২০
+ other alloy steel
+੧੪੦੭.੯੪.୦୦ | Other, welded, of non-circular cross- | ২০
+ section of square or rectangular cross- 
+ section
+
+[[page 27]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২২
+
+| সংজ্ঞা (Heading) | নাম্বারী কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| | | | |
+| | ৭৩০৬.৬৯.০০ | Other, welded, of non-circular cross section of other non-circular cross-section | ২০ |
+| | ৭৩০৬.৯০.০০ | Other, welded, of non-circular cross section: Other | ২০ |
+| | ৭৩০৭.১১.০০ | GI Fittings | ২০ |
+| | ৭৩০৭.২৯.০০ | | ২০ |
+| | ৭৩০৭.৯৯.০০ | | ২০ |
+| ১২৩৭ | ১২৩৭.০০.০০ | Nails, Tacks, Drawing Pins of iron/steel | ২০ |
+| | | | |
+| | ৭৩১৮.১৯.০০ | Coach screws | ২০ |
+| | ৭৩১৮.১২.০০ | Other wood screws | ২০ |
+| | ৭৩১৮.১৩.০০ | Screw hooks and screw rings | ২০ |
+| | ৭৩১৮.১৪.০০ | Self-tapping screws | ২০ |
+9935.১৫.২০ Other screws and bolts flus type tower bolt | ২০
+imported by Industrial IRC holder VAT |
+compliant fire-resistant door manufacturers
+
+9935.১৫.২০ Other Screw | ২০
+9935.১৫.৩০ Threaded Nuts of Iron/Steel | ২০
+9935.১৫.৩০ Other Screw | ২০
+
+9935.২০ Leaf-springs and leaves therefore | ২০
+9935.২১.০০ গ্যাস জ্বালানির উপযোগী বা গ্যাস এবং অন্যান্য | ২০
+উপযুক্ত জ্বালানীর উপর্যপরি সরঞ্জাম তৈরকরণ ও সংশ্লিষ্ট সরবরাহকারক
+
+9935.২৩ Table/kitchenware of stainless steel | ২০
+9935.২৪.০০
+9935.২৫.০০
+9935.২৬.০০
+
+9935.২৮ সকল | ২০
+আইটি,বিএসি,কোড স্টেইনলেস স্টিলের শিক্ষক, গ্যাস বেসিনের সরঞ্জাম |
+যন্ত্রাংশ, ওভেনএর তাপ এবং বায়ুঝরের অন্যান্য |
+ফিxtures & fittings
+
+[[page 28]]
+<start_of_image>
+hooks, rivets, cotters-pins, washers
+and similar articles of aluminium
+| ৮২৯২.২০.০০ | র jeopard | ২০ |
+| ৮২৯২.২০.১০ | স্টেইনলেস স্টিল রেজ | ২০ |
+| ৮২৯২.২০.২০ | অন্যান্য | ২০ |
+| ৮২৯২.২০.৩০ | রেজ জয়েন্ট | ২০ |
+| ৮৩.০.১ | Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal. | ২০ |
+| ৮৩.০.১ | | |
+| ৮৩.০.৫ | Other Stoppers | ৪८ |
+| ৮৪.০৭ এবং | ৮৪০৭.০১.১০ | দুই স্ট্রোক বিশিষ্ট অটো রিয়ার/রি ফ্রেমার ইঞ্জিন | ২০ |
+| ৮৪.০৮ | ৮৪০৭.০২.১০ | |
+| | ৮৪০৭.০২.২০ | |
+| | ৮৪০৭.০২.৩০ | |
+| | ৮৪০৭.০৩.১০ | চার স্ট্রোক বিশিষ্ট অটো রিয়ার/রি ফ্রেমার ইঞ্জিন | ২০ |
+| | ৮৪০৭.০২.২০ | |
+| | ৮৪০৭.০২.৩০ | |
+| | ৮৪০৭.০০.২০ | |
+| | ৮৪০৭.২০.২০ | |
+
+[[page 29]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন, ২০১৬ | ২০/২০
+
+| সংখ্যা | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| ৳ৎ.৯8 | ৳ৎ-৮38.ও3.ওও | ১২% তাক্ত বা তার দ্বিরম মতযুক্ত টোবিল, গ্লোস, ওয়্যান, সিমিলিত, উইন্ডো, জানাল্লা ও ছাদের ফ্যান | ৪৫ |
+| | ৳ৎ-৮38.৯০.১০ | ফ্রেম এর সরঞ্জাম | ৪৫ |
+| ৳ৎ.৯9 | ৳ৎ-৮38.৯০.২০ | মন্তব্যলিখিত পাখাযুক্ত এবং উইন্ডো ও এছাড়াও পরিবর্তন এবং সুবিধা সম্বলিত, বাড়্প্টা পৃথকভাবে নিশ্চয়ত করা যায় না এইরূপ বৈশিষ্ট্য সম্পন্ন শীতাতপ নিয়ন্ত্রণকারী যন্ত্র | ১০০ |
+| | ৳ৎ-৮38.৮5.১০ | | |
+| | ৳ৎ-৮38.৮5.২০ | | |
+| | ৳ৎ-৮38.৮5.৩০ | | |
+| | ৳ৎ-৮38.৮5.৪০ | | |
+| | ৳ৎ-৮38.৮5.৫০ | | |
+| | | সরঞ্জামপত্র | |
+| | ৳ৎ-৮39.৯০.১০ | ইন্সট্রুমেন্ট অথবা আউটডোর ইউনিট | ১০০ |
+| | ৳ৎ-৮39.৯০.২০ | অন্যান্য সরঞ্জাম | ৬০ |
+| | | সকল রেফ্রিজারেটর, ফ্রিজার এবং সমজাতীয় পণ্য; built-in এবং ফ্রস্টless প্রকার; রেস্টুরেন্টের ফ্রীজার | ৩০ |
+(৮২৫৬.৬৫.১০,
+৮২৫৬.৬৫.২০,
+৮২৫৬.৬৫.২৪,
+৮২৫৬.৬৫.১৫)
+ব্যাটারি
+
+৮২৫.৯৩ | ৮২৫১.৩০.০০ ফিন্টার | ২০
+| ৮২৫১.৩০.৩০ |
+| ৮২৫১.৩০.৩০ |
+৮৫.০৪ | ৮৫০৪.৩২.০০ Other transformer having a power handling | ২০
+| capacity exceeding 1 kVA but not |
+| exceeding 16 kVA |
+৮৫.০৪.০০ | ৮৫০৪.৩৩.০০ Other transformer having a power handling | ২০
+| capacity exceeding 16 kVA but not |
+| exceeding 500 kVA |
+৮৫.০৬ | ৮৫০৬.১০.০০ ব্যাটারি এবং সংশ্লিষ্ট ব্যাটারি | ২০
+| ৮৫০৬.৩০.০০ Mercury oxide battery | ২০
+| ৮৫০৬.৪০.০০ Silver oxide battery | ২০
+| ৮৫০৬.৫০.০০ Lithium battery | ২০
+| ৮৫০৬.৬০.০০ Air-zinc battery | ২০
+| ৮৫০৬.৮০.০০ Other primary cells and primary batteries | ২০
+
+[[page 30]]
+<start_of_image>
+ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২২
+ শিরোনামা সামঞ্জস্যপূর্ণ পণ্যসমূহের বিবরণ সম্পূরক
+ শাখা নাম্বার কোড শুল্কহার
+ (Heading) (H.S. Code) (Description of Goods) (%)
+ (8)
+ ৮৫০.০৭ ৮৫০১৭.১০.০০ সীড অ্যাসিড ব্যাটারি ও ইলেকট্রিক аккумулятор | ২০
+ | ৮৫০১৭.২০.০০ Other lead acid accumulators | ২০
+ | ৮৫০১৭.৩০.০০ Separator | ২০
+ ৮৫০.০৯ ৮৫০১৯.৪০.০০ Blender, Mixer and Grinder | ২০
+ ৮৫০.১০ ৮৫০২০.০০.০০ Shavers | ২০
+ | ৮৫০২০.১০.০০ Hair clippers | ২০
+ | ৮৫০২০.৩০.০০ Hair-removing appliances | ২০
+ ৮৫০.১৬ ৮৫০২৪.০০.০০ Microwave ovens | ২০
+ | ৮৫০২৪.৬০.০০ Other ovens; cookers, cooking plates, | ২০
+ | boiling rigs, grillers and roasters | 
+ ৮৫০.১১ ৮৫০২৯.০০.০০ ফ্যান, ভ্যাকুয়াম, ব্যাকিং কার্য, টোকেন ইত্যাদি | ২০
+ | द्वारा চালিত সস্তা একটি বা রিফ্রिजারেটর | 
+<end_of_image>
+appliances, সম্পূর্ণ তৈরি
+
+৮৫৫৯.০০.০০ টপ রেফলস (রেফ্রিজারেটর), সম্পূর্ণ তৈরি | ২০
+৮৫৫৯.৮২.২০ অন্যান্য সাইল্ড রেফ্রিজি বা রিফ্রিজেরেটিং এপার্টমেন্ট | ২০
+(কম্প্রেসার, কন্ডেন্সার অথবা কন্ডেনসারিং ফ্যান) সরবরাহকারী, সম্পূর্ণ তৈরি
+৮৫৫৯.৮২.২০ অন্যান্য সাইল্ড রেফ্রিজি বা রিফ্রিজেরেটিং এপার্টমেন্ট | ২০
+সম্পূর্ণ তৈরি
+৮৫.২১ সকল ফ্রিজিং রেফ্রিজি বা রিফ্রিজেরেটিং এবং যন্ত্রপাতি, | ২০
+বহিঃ,সং,কোড ফ্রিজিং ডিটেইলসযুক্ত বৃহৎ বা না হউক
+৮৫.২২ ৮৫৫২.৯৩.২০ লোডেড প্রিন্টেড সার্কিট বোর্ড (ই.সি.ও. রেজিস্টর | ২০
+পর্যন্ত জানা)
+৮৫.২৩ ৮৫৫২.৫২.০০ সাইড কার্ড | ১০
+৮৫.২৭ ৮৫৫২.১১.০০ প্যাকেটেড সাইল্ড কোয়েস্ট পেপার, সম্পূর্ণ তৈরি | ২০
+৮৬৫৯.২৫.০০ সাইল্ড রেফ্রিজি বা উৎপাদনের যন্ত্র সরবরাহকারী | ১০
+মোটরচালিত যেখানে ছাঁচনির্মাণ যাওয়ার শক্তি ছাড়া
+চলনক্ষম নহে এইরূপ রেজিস্ট সম্প্রচার গ্রাহ্যকরণ,
+রেজিস্ট তৈরিতে যা রেজিস্ট ডিটেইল সহ প্রচুর সম্পন্ন
+যন্ত্রসহ সাইল্ড রেফ্রিজি বা সাইল্ড রিফ্রিজেরেটিং
+উপকরণসমূহ, সম্পূর্ণ তৈরি
+
+[[page 31]]
+
+
+[[page 32]]
+Bangladesh Gazette, Extraordinary, জুন ২৬, ২০২৩
+
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৳-৬.৪৪ | ৳-৬৮৮.১৯.১০ | উচ্ছিষ্ট ওয়্যার: জন্মানা | ২০ |
+| | ৳-৬৮৮.২০.০০ | দ্বি-অক্ষ বিশিষ্ট (co-axial) তার এবং অন্যান্য দ্বি-অক্ষ বিশিষ্ট (co-axial) বৈদ্যুতিক পরিবাহী | ৩০ |
+| | ৳-৬৮৮.৪৯.০০ | Other electric conductors for a voltage not exceeding 1,000 V fitted with connectors | ২০ |
+| | ৳-৬৮৮.৭০.০০ | Optical fibre cables | ২০ |
+| ৳-৬.৪৫ | ৳-৬৮৯.১০.১০ | লাঙ্গল, কাটার, শাইটারি কাটার, এবং হেলাইফিক্যাল কাজে ব্যবহৃত অন্যান্য পণ্য | ১৫ |
+| ৳-৭.০২ | ৳-৭০২.২০.৪৫ | Human hauler | ৩০ |
+| | ৳-৭০২.২০.৪৬ | Microbus, having a seating capacity not exceeding 15, including the driver | ২০ |
+| | ৳-৭০২.২০.৪০ | Motor vehicles built-up, having a seating | ২০ |
+capacity not exceeding 15, including the
+driver
+৮৭.০০ সংশ্লিষ্ট মোটর গাড়ী এবং অন্যান্য motorizedযান, স্টেশন
+এইট, এপ, কোড ওয়াইজন্স:
+(১) ইঞ্জিনসহ অটো রিкса/হিউলার | ২০
+(২) সম্পূর্ণ মোটর ইঞ্জিনসহ চার চাকার বিশিষ্ট সিটনজি | ২০
+ও বাটারী চালিত অটো রিкса/হিউলার
+(৩) ইলেক্ট্রিক ব্যাটারী চালিত মোটর গাড়ী | ২০
+(৪) সম্পূর্ণরূপে মোটর গাড়ী ও অন্যান্য motorizedযান, |
+স্টেশন ওয়াইজন্স (ইলেকট্রিক motorizedযান, সরঞ্জাম |
+এবং ইলেক্ট্রিক ব্যাটারী চালিত মোটর গাড়ী ব্যতীত):
+(ক) সিলিন্ডার ক্যাপাসিটি ১৫০০ সিসি পর্যন্ত | &&
+(যাইহোক ব্যতীত)
+(খ) সিলিন্ডার ক্যাপাসিটি ১৫০০ ও ২২০০ সিসি | ১০০
+পর্য্যন্ত (যাইহোক ব্যতীত)
+(গ) সিলিন্ডার ক্যাপাসিটি ২২০০ সিসি ও ৩০00 | ২৫০
+সিসি পর্যন্ত
+(ঘ) সিলিন্ডার ক্যাপাসিটি ৩০00 সিসি থেকে &&00 | ৫০০
+সিসি পর্যন্ত
+
+[[page 33]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২২ | ৬৯১/এ
+
+| রক্ষা | নাম্ব partake কোড | (Description of Goods) | শতকরা |
+| (Heading) (H.S. Code) | | | মুক্তার |
+| (১) | (২) | (৩) | (%) |
+| | | (ই) সিলিন্ডার ক্যাপাসিটি ৪০00 সিসি এর উপরে | ৫০০ |
+| | | (ঈ) সিলিন্ডার ক্যাপাসিটি ১৬00 সিসি পর্যন্ত | ২০ |
+| | | (উ) সিলিন্ডার ক্যাপাসিটি ১৬01 সিসি হইতে ২০০০ সিসি পর্যন্ত মহাকৌশল | ৪৫ |
+| | | (ও) বিশেষ (স্পেশাল) মোটর গাড়ী, মোটর যান, স্টেশন ওয়াগন ও জীপ গাড়ী সংবহ: | |
+| | | (ক) সিলিন্ডার ক্যাপাসিটি ১৬00 সিসি পর্যন্ত | ২০ |
+| | | (খ) সিলিন্ডার ক্যাপাসিটি ১৬01 সিসি হইতে ২০০০ সিসি পর্যন্ত | ৪৫ |
+| | | (গ) সিলিন্ডার ক্যাপাসিটি ২০0১ সিসি হইতে ৩০০০ সিসি পর্যন্ত | ১৫০ |
+| | | (ঘ) সিলিন্ডার ক্যাপাসিটি ৩০0১ সিসি হইতে ৪০00 সিসি পর্যন্ত | ৩০০ |
+িলিং পরিষেবা
+(১) সিলিন্ডার ক্যাপাসিটি 8000 সিসি এর কম
+ সম্পূর্ণ তৈরি হ্যান্ডবিল্ড মোটর গাড়ি ও অন্যান্য মোটরমযান, যেমন
+ অট Trucks, কোস্টার বাসগণ:
+(ক) সিলিন্ডার ক্যাপাসিটি ১৬০০ সিসি পর্যন্ত
+ মাইলিয়োবাস ব্যতীত | ২০
+(খ) সিলিন্ডার ক্যাপাসিটি ১৬০ভাবে ১৫০০ সিসি হতে ২০০০
+ সিসি পর্যন্ত (মাইলিয়োবাস ব্যতীত) | ৪৫
+(গ) সিলিন্ডার ক্যাপাসিটি ২০০০ সিসি হতে ২৫০০ সিসি
+ পর্য্যন্ত (মাইলিয়োবাস ব্যতীত) | ৬০
+(ঘ) সিলিন্ডার ক্যাপাসিটি ২৫০০ সিসি হতে ৩০০০
+ সিসি পর্যন্ত (মাইলিয়োবাস ব্যতীত) | ১০০
+(ঙ) সিলিন্ডার ক্যাপাসিটি ৩০০০ সিসি হতে ৪০০০
+ সিসি পর্যন্ত (মাইলিয়োবাস ব্যতীত) | ১৫০
+(চ) সিলিন্ডার ক্যাপাসিটি 8000 সিসি এর বেশি
+ (মাইলিয়োবাস ব্যতীত) | ৩০
+(ছ) সিলিন্ডার ক্যাপাসিটি ১৬০০ সিসি পর্যন্ত
+ মাইলিয়োবাস | ০
+
+[[page 34]]
+Bangladesh Gazette, অতিরিক্ত, জুন ২৬, ২০২২
+
+| সূচনা | নাম্বারিং কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| 59.08 | সংশ্লিষ্ট এইচ.এস. কোড | (ঘ) সিলিন্ডার ক্যাপাসিটি ১৮০০ থেকে ২০০০ সিসি পর্যন্ত মাইক্রোবাস | ৩০ |
+| | | (ঙ) সিলিন্ডার ক্যাপাসিটি ২০০০ বা তদুর্ধ্ব মাইক্রোবাস | ৬০ |
+| | | সম্পূর্ণ তৈরি যানবাহন চার দরজা বিশিষ্ট ডাবল কেবিন পিক-আপ: | |
+| | | সিলিন্ডার ক্যাপাসিটি ১৮০০ সিসি পর্যন্ত | ৪2 |
+| | | সিলিন্ডার ক্যাপাসিটি ১৮০০ থেকে ২০০০ সিসি পর্যন্ত | ৩০ |
+| | | সিলিন্ডার ক্যাপাসিটি ২০০০ থেকে তদুর্ধ্ব সিসি পর্যন্ত | ৬০ |
+| | | সিলিন্ডার ক্যাপাসিটি ৩০০০ সিসি থেকে ৪000 সিসি পর্যন্ত | 600 |
+| | | সিলিন্ডার ক্যাপাসিটি ৪000 সিসি বা এর উপরে | 200 |
+| 59.09 | সংশ্লিষ্ট | Chassis fitted with engines, for the motor vehicles
+প্রবেশ্যক্রম, কোড of headings 87:03:
+(১) দুই চাকার বিশিষ্ট অটো रिक्শা/ থ্রি হুইলার | ২০
+ইঞ্জিনযুক্ত চেসিস
+(২) চার চাকার বিশিষ্ট অটো रिक्শা/ থ্রি হুইলার | ২০
+ইঞ্জিনযুক্ত চেসিস
+(৩) সিলিন্ডার ক্যাপাসিটি ১০০০ সিভি পর্যন্ত | ২০
+মাহজেবাস
+(৪) সিলিন্ডার ক্যাপাসিটি ১০০০-২০০০ সিভি পর্যন্ত ২০০০ | ৪৫
+সিভি পর্যন্ত মাহজেবাস
+(৫) অন্যান্য মোটর গাড়ি, موتور যান, স্টেশন ওয়াগন ও জীপ |
+গাড়িসমূহ
+(ক) সিলিন্ডার ক্যাপাসিটি ১০০০ সিভি পর্যন্ত | ২০
+(খ) সিলিন্ডার ক্যাপাসিটি ১০০০-২০০০ সিভি পর্যন্ত | ৬০
+সিভি পর্যন্ত
+(গ) সিলিন্ডার ক্যাপাসিটি ২০০০ সিভি হইতে ৩০০০ | ১৪০
+সিভি পর্যন্ত
+(ঘ) সিলিন্ডার ক্যাপাসিটি ৩০০১ সিভি হইতে ৪০০০ | ৩০০
+সিভি পর্যন্ত
+(ঙ) সিলিন্ডার ক্যাপাসিটি ৪০০০ সিভি এর ঊর্ধ্বে | ৩৫0
+
+[[page 35]]
+বাংলাদেশ Gazette, Extraordinary, জুন ২৬,২০২২ 
+ ওএসও
+
+শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+ | নামকরণ কোড | | শুল্কহার
+সংখ্যা | (H.S. Code) | (Description of Goods) | (%)
+(১) | (২) | (৩) | (৪)
+৮৭.০৬ | সংশ্লিষ্ট | Chassis fitted with engines, for the double cabin 
+ | এইচ.এস. কোড | pick-up of headings 87.04: | 
+ | | (ক) সিলিন্ডার ক্যাপাসিটি ১০০০ সিসি পর্যন্ত | ২০
+ | | (খ) সিলিন্ডার ক্যাপাসিটি ১০০০ সিসি হইতে ২০০০ | ৪৫
+ | | সিসি পর্যন্ত | 
+ | | (গ) সিলিন্ডার ক্যাপাসিটি ২০০০ সিসি হইতে ৩০০০ | ৬০
+ | | সিসি পর্যন্ত | 
+ | | (ঘ) সিলিন্ডার ক্যাপাসিটি ৩০০০ সিসি হইতে ৫০০০ | ১০০
+
+[[page 36]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ২৬, ২০২২
+
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| | b-911.20.83 | Motorcycles, in CBU/CKD with Two-stroke engine : | |
+| | b-911.20.84 | (ক) সিলিন্ডার ক্যাপাসিটি ৫০ সিসি পর্যন্ত | 200 |
+| | b-911.20.26 | | |
+| | b-911.20.30 | (খ) সিলিন্ডার ক্যাপাসিটিies হতে ২৫০ সিসি পর্যন্ত | |
+| | b-911.20.32 | | |
+| | b-911.20.36 | | |
+| | b-911.20.41 | | |
+| | b-911.20.42 | | |
+| | b-911.20.45 | | |
+| | b-911.20.50 | (গ) সিলিন্ডার ক্যাপাসিটি ২৫১ সিসি হতে ৫০০ সিসি |
+পর্যয়
+
+৮৭১৯.৪০-২০ (গ) সিলিন্ডার ক্যাপাসিটি ৫০০ মিলি হইতে ৬০০ মিলি পর্যন্ত
+
+৮৭১৯.৪০-২০ (ঘ) সিলিন্ডার ক্যাপাসিটি ৬০০ মিলি এবং ঊর্ধ্বে
+
+৮৭৯.২২ ৮৭২৯.৬০.০০ অ্যাণাব্রিক বাই-সাইকেল ও অন্যান্য সাইকেল | ২০
+(বৈদ্যুতিক ড্রাই windscreenসহ)
+
+৮৭৯.১৪ ৮৭২৯.২০.২০ মোটর সাইকেলের ফ্রন্ট টায়ার | ২০
+
+৮৭৯.৪৪ ৮৭২৯.২২.১০ অ্যাণাব্রিক বাই-সাইকেল ও অন্যান্য সাইকেলের চামড়ার | ২০
+রিম ও স্পোক
+
+৯০.০৫ ৯০09.১5.০০ Frames and mountings for spectacles, | ২০
+goggles or the like
+
+৯০.০৪ সকল Spectacles, goggles and the like, corrective | ২০
+ωσης.డమ్.డమ్ protective or other
+
+৯৩.০২ ৯০09.০০.কো الرئيسي ও অন্যান্য | ১৫0
+
+৯৩.০৬ অন্যান্য প্রযোজ্য: | 500
+
+| ৯০09.২০.১০ অন্যান্য |
+| ৯০09.২০.২০ |
+| ৯০09.৩০.১০ |
+| ৯০09.৩০.২০ |
+
+[[page 37]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ২৬, ২০২২খ
+ ઉદ્યોગ
+শিরোনামমা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক
+ সন্ধা | namespace কোড | (Description of Goods) | শুল্কহার
+(Heading) | (H.S. Code) | | (%)
+(১) | (২) | (৩) | (৪)
+ঙ্গ০.০৮ | ঙ্গ008.00.ও0 | অন্যান্য অস্ত্র ও সংশ্লিষ্ট ভেণ্ডোরেশন কর্তৃক আমদানিকৃত | ১০০
+ | | match weapon ব্যতীত অন্যান্য অস্ত্র
+ঙ্গ0.০৯ | সকল | ঙ্গ0.০৯ থেকে ঙ্গ0.০৯ পর্যন্ত পণ্যের যন্ত্রপাতি ও | ১০০
+ | এইচ.এস.কোড | এক্সেসরিজ
+ঙ্গ0.০৯ | সকল | বোমার, গ্রেনেড, টপ্লেভ, মাইন, মিসাইল এবং | ১০০
+ | এইচ.এস.কোড | সংশ্লিষ্ট গোলা বারুদ (Projectile ভেণ্ডোরেশন থেকে |
+ | (ঙ্গ006.ও0.ও0 | আমদানিকৃত স্পেশাল গোলার অন্তর্ভুক্ত ব্যতীত)
+ | পর্যন্ত)
+ঙ্গ0.০৯ | ঙ্গ009.00.ও0 | তরবারি, ছুরি, সכין, ধামা এবং সংশ্লিষ্ট গ্রাজ | ১০০
+ | | অন্যান্য
+ঙ্গ0.০৯ | ঙ্গ009.১০.২০ | Seats of a kind used for motorcycle | ২০
+ | | ঙ্গ009.১১.ও0 | Swivel seats with variable height | ৪৫
+ | | ঙ্গ009.১৫.ও0 | adjustment
+harboring public open spaces |
+ or thorough fares : Designed for use solely |
+ with light-emitting diod (LED) light |
+ sources |
+
+[[page 38]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২৩
+
+| সংখ্যা (Heading) | নাম্বাক কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| | ৯৪০৫.১৯.০০ | Other electric lighting fittings | ৬০ |
+| | ৯৪০৫.১৯.০০ | Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included. | 80 |
+| | ৯৪০৫.১৯.১০ | | |
+| | ৯৪০৫.১৯.২০ | | |
+| | ৯৪০৫.১৯.৩০ | | |
+| | ৯৪০৫.১৯.৪০ | | |
+| | ৯৪০৫.২০.০০ | | |
+| | ৯৪০৫.২২.০০ | | |
+১802.০০
+| ১৫.০০ | সকল | Tricycles, scooters, pedal cars and similar | ২০
+| | | wheeled toys; dolls’ carriages; dolls; other | 
+| | | toys; reduced-size (“scale”) models and | 
+| | | similar recreational models, working or not | 
+| ১৫.০৪ | ১808.80.00 | Playing cards | ২০
+| ১৫.০৫ | ১809.00.00 | Carnival or other entertainment articles | ২০
+| ১৫.৬৩ | ১810.50.00 | পেটিস (প্রতি গ্রাহকের পছন্দ প্রকার) টুপি | ২০
+| ১৫.৬৮ | ১813.50.00 | Pocket lighters, gas fuelled, non-refillable | ২০
+| | ১813.২০.00 | Pocket lighters, gas fuelled, refillable | ২০
+| | ১813.৮০.00 | Other lighters | ২০
+| ১৫.৯৯ | ১815.00.00 | Sanitary towels (pads) and tampons, | ৪2
+| | | napkins and napkin liners for babies and | 
+| | | similar articles, of any material. |
+
+[[page 39]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২৩
+
+তৃতীয় অধ্যায়
+
+আয়কর আইন, ২০১০ (২০১০ সালের ১২ নং আইন) এর সংশোধন
+
+৩। ২০১০ সালের ১২ নং আইনের ধারা ২ এর সংশোধনআয়কর আইন, ২০১০ (২০১০
+সনের ১২ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ২ এর দফা (১)(গ) এর-
+(ক) উপ-দফা (খ) এ উল্লিখিত “১৫ (পনেরো) তম দিন” শব্দগুলি, সংস্থা এবং বন্ধনীর
+পরিবর্তে “লেনদেনকাল দিন অথবাohexekeno উক্ত লেনদেনকাল দিন সেপ্টেম্বর মাসের
+লেনদেনকাল দিনের পূর্বের তারিখে পদে, সেইক্ষেত্রে আয়কর সম্প্রসারণ
+সেপ্টেম্বর মাসের লেনদেনকাল দিন” শব্দগুলি প্রতিস্থাপিত হইবে;
+(খ) উপ-দফা (গ) এর ক্রমিক নং (আ) এ উল্লিখিত “বাংলাদেশের” শব্দের পরিবর্তে
+“বাংলাদেশ”-এর শব্দ প্রতিস্থাপিত হইবে।
+
+৪। ২০১০ সালের ১২ নং আইনের ধারা ২৪ এর প্রতিস্থাপনউক্ত আইনের ধারা ২৪ এর
+পরিবর্তে নিম্নরূপ ধারা ২৪ প্রতিস্থাপিত হইবে, যথা:
+
+“২৪। আয়কর assessments প্রক্রিয়াপ্রথম schedule-এ নির্দিষ্ট হারে কর পরিমাণ এবং উক্ত
+schedule-এর সকল শর্ত পরিপালন সাপেক্ষে, নিয়মিতভাবে আয় চারটি calendar বছরের আয়কর satisfy tidione
+প্রদর্শন করা হয়নি, যথা:—
+
+(ক) কোনো ব্যক্তি যাহার pursuant একটি বা একাধিক আয়করকে কর নির্ধারণ করা হয় নাই
+এবং যিনি উক্ত এক বা একাধিক বৎসরের জন্য কোনো রিটার্ন দাখিল করেন নাই,
+উক্ত ব্যক্তির pursuant करारসমূহের настоящий आय, या; वा
+
+(খ) কোনো ব্যক্তি যাহার pursuant একটি বা একাধিক আয়করকে কর নির্ধারণ করা হইয়াছে,
+তবে এইরূপ আয় নির্ধারণের সময় কোনো তথ্য বাদ পড়িয়াছে অথবা নির্ধারণকৃত
+আয়ের পরিমাণ প্রকৃত आय অপেক্ষা কম প্রদর্শিত হইয়াছে, উক্ত ব্যক্তির উক্ত কম
+প্রদর্শিত आय।"
+
+৫। ২০০০ সালের ১০ নং আইনের ধারা ৫৬ এর প্রতিস্থাপন—উক্ত আইনের ধারা ৫৬ এর
+পরবর্তী নিম্নরূপ ধারা ১৫-এ প্রতিস্থাপিত হইবে, যথা:—
+
+“56৷ বিশেষ ব্যবস্থা এবং পরিনাম.—(১) এই আইনের অন্যান্য বিধানে যাহা কিছুই থাকুক
+নয়, ধারা 66 এর দফা (ঘ) ও (ঙ) এর ক্ষেত্র ব্যতীত অন্য কোনো দফার অধীন অনুমোদিত সকল ব্যয়
+বিশেষ ব্যবস্থা আয় হিসাবে গণ্য হইবে।
+
+(২) এই অনুচ্ছেদে আইন "বিশেষ ব্যবস্থা আয়" বা "ব্যবসা হইতে आय" এর বিশেষ ক্ষেত্রসমূহ
+নিয়ে গণ্য করা কোনো আয়ের বিপরীতে কোনো প্রকারের ব্যয়, লোকসানসমূহের সমন্বয় যা যেকোনো প্রকার
+তৃতীয় পক্ষদিগের সহিত চুক্তি অথবা অন্য কোনো প্রকারের দায় সৃষ্টি করিয়াছে অনুগ্রহ করিয়া বিবেচিত
+করিবেন না।"
+
+[[page 40]]
+Bangladesh Gazette, Official, June ૨૫, ২০২২
+
+তবে শর্ত থাকে যে, হ্রাসকৃত কর হারে প্রযোজ্য হয় এইরূপ ব্যক্তি বা প্রতিষ্ঠান ধারা ৫৩ এবং দফা (ক) এর ক্ষেত্র ব্যতীত উপ-ধারা (১) এর অধীন পণ্য বিশেষ কারণে আয়কর উপর উপরন্তু হ্রাসকৃত হারে কলম নির্ধারিত হইবে।"
+
+(১) ২০ expenditure সালের ১৯ নং আইনের ধারা ১৫৬ এর সংশোধন.— উক্ত আইনের ধারা ১৫৬ এ উল্লিখিত "১৯২" সংস্থার পরিবর্তে “২৫৫” সংস্থা প্রতিস্থাপিত হইবে।
+
+(২) ২০ expenditure সালের ১৯ নং আইনের ধারা ১৬৩ এর সংশোধন.—উক্ত আইনের ধারা ১৬৩ এর উপ-ধারা (১) এ উল্লিখিত “(গ)” সংস্থা এবং দমনের পরিবর্তে “(চ)” সংস্থা এবং দকামী প্রতিস্থাপিত হইবে।
+
+(৩) ২০ expenditure সালের ১৯ নং আইনের ধারা ২২০ এর সংশোধন.—উক্ত আইনের ধারা ২২০ এর উপ-ধারা (১) এ উল্লিখিত “Bangladesh Bar Council” শব্দগুলি বিলুপ্ত হইবে।
+
+(৪) ২০ expenditure সালের ১৯ নং আইনের প্রথম তপশীল এবং সংশোধন.—উক্ত আইনের প্রথম তপশীলের পরিবর্তে নিম্নরূপ প্রথম তপশীল প্রতিস্থাপিত হইবে, যথা:—
+
+“প্রথম তপশীল
+আয়কর assessments পণ্যান
+[ধারা ২৯ দ্রষ্টব্য]
+আয়ের শ্রেণীভেদ উৎপাদন—(১) ধারা ২৪ ও উল্লিখিত রিটার্ন বিধি হিসাবে বিবেচিত হইবে,
+
+যদি—
+(ক) উক্ত ব্যক্তি রিটার্ন দাখিলের পূর্বে—
+(অ) এইরূপ লাইসেন্স মওতayers উপর অপর্যাপ্ত পরিশোধনাধিকার পত্র পরিশোধ করেন; এবং
+(আ) অপ্রত্যাশিত আয়ের সামঞ্জস্যপূরক করার ১০% (দশ শতাংশ) হারে জরিমানা
+পরিশোধ করেন;
+(খ) ধারা ১২৬ ও উল্লিখিত সময়সীমার মধ্যে রিটার্ন দাখিল করা হয়; এবং
+(গ) রিটার্নের সহিত সংযুক্তifiable বিষয়কটি উল্লেখপূর্বক একটি ঘোষণাপত্র সংযুক্ত করা হয়—
+(অ) ঘোষণা প্রদানকারী ব্যক্তির নাম;
+(আ) ঘোষিত আয়ের খাত ও পরিমাণ; এবং
+(ই) ঘোষিত আয়ের উপর পরিশোধিত কর ও জরিমানা।
+
+(২) ধারা ২৪ ও এই তৎসত্ত্বের বিধানবলী প্রযোজ্য হইবে না, যদি—
+(ক) এইরূপ আয়ের রিটার্ন দাখিলের পূর্ব ধারা ১২৬ এর অধীনে কোনো আয়, পরিশোধনাধিকার বা
+অন্যত্র গোপন করিবার বা কোনো আয় বা তাহার অংশপরিবেশ্যের উপর কর থাকি
+দেরওয়ার কারণে কোনো গোপনীয়া জারি করা হয়;
+
+[[page 41]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২৩
+ওঁড়ছঁ
+
+(খ) এইরূপ arrears রিটার্ন দাখিলের পূর্বে ধারা ৪oo এর উপ-ধারা (১) এর অধীন কোনো ব্যাংক কোম্পানির উপর কোনো নোটিশ জারি করা হয়;
+(গ) এইরূপ arrears রিটার্ন দাখিলের পূর্ব ধারা ও hundred ও ৩০ এর অধীন কোনো কার্যক্রম গ্রহণ করা হয়;
+(ঘ) এই অনুচ্ছেদের অধীন ঘোষিত কোনো আয়—
+(১) কোনো বৈধ উৎস হইতে উদ্ভূত না হয়; বা
+(২) আপাততঃ বলবৎ অন্য কোনো আইনের অধীন অপরাধমূলক কার্যক্রম হইতে উদ্ভূত হয়; বা
+(৩) এই অনুচ্ছেদের অধীন ঘোষিত কোনো আয় সংশ্লিষ্ট করবর্ষের কর অব্যাহতি প্রাপ্ত হয়।
+(ঙ) ধারা ১৪ ও এই תקנותের অধীন prescribed any নির্ধারিত কার্যক্রমসহ যেকোনো উৎপাদনমূলক কার্যক্রম বা খাতে বিনিয়োগ করা যাইবে, যথা—
+(ক) শিল্পোৎপাদন ও তাহার সম্প্রসারণ;
+(খ) বিদ্যমান কোনো শিল্প-কার্যকলাপের প্রক্রিয়াকরণ, আধুনিকীকরণ, সম্প্রসারণ ও সম্প্রসারণ;
+(গ) ইমারত বা অ্যাপার্টমেন্টস্থ বাণিজ্যিক ভবন; বা
+(ঘ) বাংলাদেশ হতে অন্যত্রো উৎপাদন বিক্রয়field; বা
+(ঙ) ১ ও ৫ এর উৎপাদনকল্পে কোনো ব্যবসা, বাণিজ্য বা বিনিয়োগ।"
+১০। ২০২৩ সালের ১২ নং আইনের সপ্তম তফসিলের সংশোধন.— উক্ত আইনের সপ্তম
+তফসিলের সর্বত্র উল্লিখিত “তত্ত্বাবধান” শব্দের পরিবর্তে “বাণিজ্যিক” শব্দ প্রতিস্থাপিত হইয়া।
+
+চতুর্থ অধ্যায়
+অর্থ appropriated,২০১৫ (২০১৫ সালের ২৮ নং अध्याদেশ) এর সংশোধন
+১১। ২০১৫ সালের ২৮ নং अध्याদেশের তৎসহিল-২ এর সংশোধন.— অর্থ appropriated, ২০১৫কে
+(২০১৫ সালের ২৮ নং अध्याদেশ), অতঃপর মূল अध्याদেশ বলিয়া উল্লিখিত হইয়া, এই তৎসহিল-২ এর প্রথম
+অংশের अनुच्छेद ২-এর—
+(ক) উপ-অনুচ্ছেদ (১) এবং দফা (ক) এর পরিবর্তে নিম্নরূপ দশা (ক) প্রতিস্থাপিত হইবে,
+ যথা:—
+“(ক) দফা (গ), এবং (ঘ) এ বর্ণিত কোম্পানিসমূহের ক্ষেত্র ব্যতীত—
+(খ) এইরূপ প্রত্যেকটি publicly traded company সাধারণ বিনিয়োগকারীদের
+শেয়ারের অনুপাত ৫০% শেয়ার IPO
+(Initial Public Offering) বা Direct Listing এর মাধ্যমে
+হস্তান্তর করাকে উৎসাহিত করিবে—
+
+তবে শর্ত থাকে যে,
+বিবেচ্য বিষয়ে
+সংশ্লিষ্ট দিকপালрым
+ঝুঁকি ও
+দায়িত্বে
+принимать
+করার জন্য উল্লিখিত
+অনুসন্ধান উপর আয়রে
+৫০% হইবে;”
+
+[[page 42]]
+<start_of_image>
+ 
+Bangladesh Gazette, অতিরিক্ত, জুন ২৬, ২০২২
+ 
+(আ) অন্যান্য সকল publicly traded উত্স অগ্র্যের ২৭. এফ%;
+company এর ক্ষেত্রে—
+তবে শর্ত থাকে যে,
+বিশেষায়িত আয়করী
+সকল প্রকার আয় |
+ব্যয়ক হিসাবের |
+মাধ্যমে |
+সাক্ষর |
+করিলে উৎপাদিত |
+পণ্যের উৎস অগ্র্যের |
+২৫% হইবে;
+
+(ই) উপ-দফা (অ) ও (আ) তে উল্লিখিত উত্স অগ্র্যের ২৭. এফ%;
+কোম্পানি ব্যতীতTaxকর আইন, ২০২৩ |
+(২০২৩ সালের ১১ নং আইন) এর ধারা ২ |
+এর দফা (১১) এ সংজ্ঞায়িত অন্যান্য |
+কোম্পানির ক্ষেত্রে—";
+
+(ঘ) উপ-অনুচ্ছেদ (৬) এর পরিবর্তে নিম্নরূপ উপ-অনুচ্ছেদ (৬) প্রতিস্থাপিত হইবে যথা:—
+“(৬) বেসরকারি diminish, বেসরকারি medical উৎস অগ্র্যের 
+ <end_of_image>
+কলেজ, বেসরকারি স্টেশন কলেজ, বেসরকারি ১(ক)%;
+হজিমারিয়ার কলেজ বা কেবলমাত্র অন্তর্ভুক্তিক
+বিষয়ে শিক্ষাদানে নিয়োজিত বেসরকারি কলেজ।"
+
+১২১. ২০১৬ সালের ১৫ নং অধ্যাদেশের তৎপrioত ও এর সংশোধন — উক্ত অধ্যাদেশের
+তৎপrioত-ও এর প্রথম অংশের অনুচ্ছেদ-৭ এর—
+(ক) উপ-অনুচ্ছেদ (১) এর দফা (ক) এবং পরিবর্তে নিম্নরূপ দফা (ক) প্রতিস্থাপিত হইবে,
+ যথা:—
+
+“(ক) দফা (গ), (ঘ) এবং (ঙ) এ বর্ণিত
+কোম্পানিরসমূহের ক্ষেত্র ব্যতীত—
+(খ) এইরূপ প্রত্যেকটি publicly traded
+company যাদের পরিমাণগত
+মূল্যমানের amount ১০% শেয়ার IPO
+(Initial Public Offering) বা
+Direct Listing এর মাধ্যমে
+হস্তান্তরিত হইয়াছে তাহাদের ক্ষেত্রে—
+ ট্রেজ আকারে
+২২.৫%;
+
+তবে শর্ত থাকে যে,
+বিবেচ্য আয়ক্রমে
+সকল প্রকার আয়
+ব্যংক ট্রান্সফারসন
+মাধ্যমে নিষ্পত্তি
+করিলে উপরিতত
+হারহার উক্ত আয়ের
+২০% হইবে;”
+
+[[page 43]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২৬, ২০২২খ
+(1) অন্যান্য সকল publicly traded উপযুক্ত আয়োর
+company এর ক্ষেত্রে—
+ইঞ্জিনিয়ার্স ক্লাব বা কেমিক্যাল তত্ত্বaplic
+বিষয়ে শিক্ষাdefine নিয়োগিত বেসরকারী কলেজ।
+
+প্রথম অধ্যায়
+
+কাস্টমস আইন, ২০২৩ (২০২৩ সালের ৫৯ নং আইন) এর সংশোধন
+
+১৩। কাস্টমস আইন, ২০২৩ (২০২৩ সালের ৫৯ নং আইন) এর প্রথম তপশীল এর
+সংশোধন।—কাস্টমস আইন, ২০২৩ (২০২৩ সালের ৫৯ নং আইন) এর প্রথম তপশীল—
+
+(১) Chapter-27 এর —
+(ক) কলম (1) এ উল্লিখিত Heading 27.09 এবং উহার বিপরীতে কলম (2)
+ এ বর্ণিত H.S. Code “2709.00.00” এর বিপরীতে কলম (5) এ
+ উল্লিখিত Statutory Rate of Customs Duty on Import “1%” এর
+ পরিবর্তে “3%” প্রতিস্থাপিত হইবে;
+
+(খ) কলম (1) এ উল্লিখিত Heading 27.10 এবং উহার বিপরীতে কলম (2)
+ এ বর্ণিত H.S. Code “2710.12.11, 2710.12.19, 2710.12.20,
+ 2710.12.31, 2710.12.41, 2710.12.42, 2710.12.43, 2710.12.49,
+ 2710.12.61 ও 2710.12.62” এর বিপরীতে কলম (5) এ উল্লিখিত
+ Statutory Rate of Customs Duty on Import “3%” এর পরিবর্তে
+ “6%” প্রতিস্থাপিত হইবে;
+
+[[page 44]]
+<start_of_image>
+(3), (4), (5) ও (6) এ উল্লিখিত अभियন্ত্রীর পর নির্বাচিত H.S. Code
+8504.40.40 এবং উহার বিপরীতে কলম (3), (4), (5) ও (6) এ উল্লিখিত
+अभিমित्रসমূহের সংশোধনী হইবে, যথা:—
+“8504.40.40 --- Solar Inverter u 1% Free”
+
+তারিখ: ১২ আগষ্ট, ২০২৩ খ.সা.দ.
+২৬ জুন, ২০২২খricting
+
+মোঃ সাহাবুদ্দিন
+রাষ্ট্রপতি
+গণপ্রজাতন্ত্রী বাংলাদেশ
+
+ও. হাফিজ আহমেদ চৌধুরী
+सचिव।
+
+মোহammad Azizur Rahman (উপপরিচালক), বাংলাদেশ সরকারী মুদ্রণালয়, তেজগাঁও, ঢাকা কর্তৃক মুদ্রিত |
+Mohammad Mokles Hossain (উপसचिव), বাংলাদেশ ফরম ও প্রকাশনা অফিস, তেজগাঁও,
+ঢাকা কর্তৃক প্রকাশিত | website: www.bgpress.gov.bd

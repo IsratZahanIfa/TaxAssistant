@@ -1,0 +1,4110 @@
+---
+doc_id: Finance_Act_2024
+category: finance_act_amendments
+language: bn
+source_url: https://nbr.gov.bd/uploads/acts/Finance_Act-2024.pdf
+source_file: Finance_Act_2024.pdf
+n_pages: 115
+ocr_pages: 1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115
+extracted_at: 2026-10-01 08:06
+---
+[[page 1]]
+রেজিস্টার্ড নং বি-১
+বাংলাদেশ
+গেজেট
+ জাতীয় реестрации законодательной
+ সংরক্ষণকারী
+আতিরিক্ত সংখ্যা
+কর্তৃপক্ষ কর্তৃক প্রকাশিত
+রবিবার, জুন ৩০, ২০২২
+বাংলাদেশ জাতীয় সংসদ
+ Dhaka, ১৫ আশ্বিন, ১৪৩০/৩০ জুন, ২০২২
+সংসদ কর্তৃক গৃহীত নিম্নলিখিত আইনটি ২৬ আম্ব/১, ১৪০৯ বঙ্গাব্দে ৩০ জুন, ২০২৪ তারিখে রাষ্ট্রপতির সম্মতিসাপেক্ষে এবং এতদ্বারা এইarnataka সরকারের extraordinary gazette এর জন্য প্রকাশ করা হলো:
+
+২০২৪ সালের ০৫ নং আইন
+
+সরকারের আর্থিক তত্ত্বাবধান কার্যকরণ এবং কাটিং ব্যয় আইন
+সম্পোর্টনকল্পে প্রণীত আইন
+
+যেহেতু সরকারের আর্থিক তত্ত্বাবধান কার্যকরণ এবং নিম্নবর্ণিত উদ্দেশ্যসমূহ পূরণেরকল্পে আইন প্রয়োজন দেখা সমীচীন ও প্রয়োজনীয়;
+
+সেহেতু এতদ্বারা নিম্নরূপ আইন করা হলো:—
+
+প্রথম অধ্যায়
+প্রাথমিক
+
+১। সংক্ষিপ্ত শিরোনাম ও প্রবর্তন.—(১) এই আইন অর্থ আইন, ২০২৪ নামে অভিহিত হইবে।
+
+(২) Provisional Collection of Taxes Act, 1931 (Act No. XVI of 1931) এর অধীনে এই আইনের প্রথম schedule উল্লিখিত জমারপূর্ণ যোগ্যতা সাপেক্ষে, এই আইন ২০২৪ সালের ১ জুলাই তারিখে কার্যকর হইবে।
+
+(২০৪৬)
+মূল্য : টাকা ১০-০০
+
+[[page 2]]
+
+
+[[page 3]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+ ২০এ৭৬
+
+“(২) বোর্ড, আদেশ দ্বারা, পৃথক কর্মকর্তা নিয়োগ এবং আঞ্চলিক অফিসে নিরূপণ
+করিয়া এই আইন বা অধীন প্রণীত বিধি-বিধিরঅধীনে আগতব্য তাহাদের দায়িত্ব, কর্তব্য,
+ক্ষমতা ও কার্যবলী সুনির্দিষ্ট করিবে পারিবে।”
+
+৭১. ২০২২ সালের ৪ঠা আইনের ধারা ৬১ এর প্রতিস্থাপন.—[তঃ আইনের ধারা ৬২ এর
+পরবর্তী নিম্নরূপ ধারা ৬১ প্রতিস্থাপিত হইবে: যথা:—
+
+“(১) ক্ষমতা অর্পণ.—(১) এই আইনের উদ্দেশ্য পূরণকল্পে, বোর্ড যে সকল ক্ষমতা প্রয়োগ
+ও কার্য সম্পাদন করিতে পারিবে, চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড বা, ক্ষেত্রমতো,
+সদস্য (মূল্য সংযোজন কর) জাতীয় রাজস্ব বোর্ডের সেই সকল ক্ষমতা প্রয়োগ ও কার্য
+সম্পাদন করিতে পারিবে।
+
+(২) বোর্ড, আদেশ দ্বারা, আদেশ উল্লিখিত সীমা ও শর্ত সাপেক্ষে যেকোনো পৃথক
+কর্মকর্তাকে তাহার নাম ও পদবী উল্লেখপূর্বক এই আইন বা অধীন প্রণীত বিধি-
+বিধারের অধীন কমিশনারগণের যে কোনো দায়িত্ব, কর্তব্য ও ক্ষমতা অর্পণ করিতে
+পারিবে।
+
+(৩) বোর্ডের সিদ্ধান্ত নির্দেশ না থাকিলে, কমিশনাররা বা মহাপরিচালকכם একজন বোর্ডের
+পৃথক কর্মকর্তাকে তাহার প্রতিনিধিত্ব করিবেন এবং তাহার পক্ষে কার্য সম্পাদন করিবেন
+এবং তিনি সেইরূপ কর্তৃত্ব প্রয়োগ করিবেন হইয়া থাকিবেন।
+
+(৪) কোন কর্মকর্তা কর্তৃক এতদ্বিষয়ে দায়িত্ব ও কর্তব্য পন্ন করিবার নিদর্শন প্রদর্শন
+হইবে।”
+করিলনে তিন উক্ত উচ্চতর পদমর্যাদাবান ব্যক্তি দাইরি পালন ও ক্ষমতা প্রয়োগ করিতে পারিবে।"
+
+৮। ২০১৬ সালের ৪৭ নং আইনের ধারা ১২৫ এর সংশোধন:- উক্ত আইনের ধারা ১২৬ এর উপ-ধারা (১) এ উল্লিখিত “২০ (বিশ)” সংখ্যা, বন্ধনী ও শব্দের পরিবর্তে “২৫ (পঁচিশ)” সংখ্যা, বন্ধনী ও শব্দ প্রতিস্থাপিত হইয়াছে।
+
+৯। ২০১৬ সালের ৪৭ নং আইনের ধারা ১২২ এর সংশোধন:- উক্ত আইনের ধারা ১২৫ এর উপ-ধারা (১) এ উল্লিখিত—
+
+(ক) “২০ (বিশ)” সংখ্যা, বন্ধনী ও শব্দের পরিবর্তে “২৫ (পঁচিশ)” সংখ্যা, বন্ধনী ও শব্দ প্রতিস্থাপিত হইয়াছে; এবং
+
+(খ) “দাইরিকত কর বা আরোপিত অর্থফেরৎ” শব্দগুলির পরিবর্তে “দাইরিকত recover, জরিমানা ব্যতীত,” শব্দগুলি প্রতিস্থাপিত হইয়াছে।
+
+১০। ২০১৬ সালের ৪৭ নং আইনের ধারা ১২৬ এর সংশোধন:- উক্ত আইনের ধারা ১২৬ এ উল্লিখিত “কোম্পানির কার্যকাল” শব্দগুলির পরিবর্তে “কোম্পানির কর্মকাল” শব্দগুলি প্রতিস্থাপিত হইয়াছে।
+
+১১। ২০১৬ সালের ৪৭ নং আইনের ধারা ১৫০ এর সংশোধন:- উক্ত আইনের ধারা ১৫০ এর উপ-ধারা (১) এ উল্লিখিত “চำวัต ตู้ตึกเต้น” শব্দগুলির পর “এবং উক্ত আয়োজকে অবকাঠামো বা” শব্দগুলি সংযোজিত হইয়াছে।
+
+১২। ২০১৬ সালের ৪৭ নং আইনের দ্বিতীয় তফসিলের প্রথম অনু paragraphs-এর ত্রুটি সংশোধন districts-এর directory তে উল্লিখিত ভুল শব্দ corrigendum আকারে প্রকাশিত হইবে।
+
+[[page 4]]
+২০৪৭২
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+“টেবিল-২”
+
+আমদানি পর্যায়ে সম্পূরক শুল্ক আরোপযোগ্য পণ্যসমূহ
+
+| নির্দেশনা | সামঞ্জস্যপূর্ণ | পণ্যাংশের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ০২.০৯ | সকল ০২৫.০৯, ২৫.০৮ | Meat of bovine animals, sheeps or goats, fresh or chilled or frozen. | ২০ |
+| ০২.০৯ | সকল ০২৫.০৯, ২৫.০৮ | Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen. | ২০ |
+0206.83.90,
+0206.83.90
+
+বর্ণিত) |
+02.09 | সকল | Meat, and edible offal of the poultry | ২০
+ 01.05, fresh, chilled or
+ 01.05, ফ্রেশ,কোঠাও | frozen.
+(0209.33.90, |
+0209.33.90,
+0209.33.90, |
+0209.33.90, |
+0209.38.90 |
+বর্ণিত) |
+05.05 | 0502.30.90 | Pacific salmon | ২০
+ 0502.30.90 |
+ 0502.38.90 | Atlantic salmon (Salmo salar) and | ২০
+ 0502.38.90 | Danube salmon (Hucho hucho) |
+ 0502.53.90 | Other fish | ২০
+ 0502.65.90 | Albacore or longfinned tunas | ২০
+ 0502.65.90
+
+[[page 5]]
+বাংলাদেশ কোস্ট, অতিরিক্ত, মূল ৩০, ২০২৩
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| Heading (s) | H.S. Code (২) | (৩) | শতকরা |
+| | | | হার (%) |
+| | | Yellowfin tunas | ২০ |
+| | 0902.02.50 | | |
+| | 0902.02.60 | Bigeye tunas | ২০ |
+| | 0902.02.80 | | |
+| | 0902.03.50 | Atlantic and Pacific bluefin tunas | ২০ |
+| | 0902.03.60 | | |
+| | 0902.03.80 | Southern bluefin tunas | ২০ |
+| | 0902.04.50 | | |
+| | 0902.04.60 | Other tunas | ২০ |
+| | 0902.04.80 | | |
+| | 0902.53.20 | heads, tails, maws and other edible | ২০ |
+0909.999.99 | fish offal | ২০
+--- | --- | ---
+0909.999.99 | Sockeye salmon | ২০
+0909.999.99 | Other Pacific salmon | ২০
+0909.999.99 | | ২০
+0909.999.99 | Atlantic salmon (Salmo salar) and | ২০
+0909.999.99 | Danube salmon (Hucho hucho) | 
+0909.999.99 | Other | ২০
+0909.999.99 | | ২০
+0909.892.99 | Yellowfin tunas | ২০
+0909.892.99 | | 
+0909.889.99 | Bigeye tunas | ২০
+0909.889.99 | | 
+0909.889.99 | Atlantic and Pacific bluefin tunas | ২০
+0909.889.99 | | 
+0909.889.99 | Southern bluefin tunas | ২০
+
+[[page 6]]
+২০৪৭৪
+বাংলাদেশ টেক্সটাইল, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা |
+| (Heading) | (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| | 0900.89.১০ | Other tunas | ২০ |
+| | 0900.89.৯০ | | |
+| 09.08 | 0908.85.১০ | Pacific salmon | ২০ |
+| | 0908.85.৯০ | | |
+| | 0908.৮৬.১০ | Pacific salmon | ২০ |
+| | 0908.৮৬.২০ | | |
+| | 0908.৮৭.১০ | Tunas (of the genus Thunnus), Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis) | ২০ |
+| | 0908.৮৭.২০ | | |
+| | 0908.৮৬.১০ | Other | ২০ |
+| | 0908.৮৬.২০ | | |
+09.00 | 0906.01.150 | অন্যান্য শস্য বা দানালে বারোজা স্তুপক বা নাষ্ট, ধুমিয়ে নয় (আর্দ্র কেকিং পর্যন্ত মোড়ক বা তিনজাত ব্যতীত) | ২০
+09.05 | 0906.14.00 | হাঁসালিট চিপলেট | ২০
+| | 0906.29.00 | |
+09.06 | 0906.10.150 | মানুষের খাদ্যের উপযোগী গাছের মুকুল বা পাতা (আর্দ্র কেকিং পর্যন্ত মোড়ক বা তিনজাত) | ২০
+| | 0906.10.30 | |
+08.02 | সকল | মাছ এবং অন্যান্য জলজন্তু জীবিত ওfrozen; ডেহী স্প্রেড | ২০
+ এষ্ট,এস.কোড
+08.04 | সকল | Cheese and Curd | ২০
+ এষ্ট,এস.কোড
+09.02 | সকল | ভাজা বা রোস্ট পটেটো | ২০
+ এষ্ট,এস.কোড
+09.06 | 0906.16.50 | Carrots And Turnips, Fresh Or Chilled, Wrapped/Canned upto 2.5 kg | ২০
+| | 0906.16.30 | Carrots And Turnips, Fresh Or Chilled, in bulk | ২০
+09.08 | সকল | Other vegetables, fresh or chilled. | ২০
+ এষ্ট,এস.কোড
+
+[[page 7]]
+বাংলাদেশ কোষ্ট, অতিরিক্ত, জুন ৩০, ২০২২
+
+ ২০২১-২২
+
+| শিরোনামা | সাবশ্রেণী | পণ্যসমূহের বিবরণ | সম্পূরক |
+| : | : | : | : |
+| | নামকরণ কোড (H.S. Code) | | শতকরা (%) |
+| (১) | (২) | (৩) | (৪) |
+| ০৮.০২ এবং | ০৮০২.১১.৯০ | Coconuts, Brazil nuts, cashew nuts and other nuts, fresh or dried (Wrapped or canned upto 2.5 kg) | ২০ |
+| ০৮.০২ | ০৮০২.১২.৯০ | | |
+| | ০৮০২.১১.৯০ | | |
+| | ০৮০২.১২.৯০ | | |
+| | ০৮০২.২৩.৯০ | | |
+| | ০৮০২.২৫.৯০ | | |
+| | ০৮০২.২৬.৯০ | | |
+| | ০৮০২.১১.৯০ | | |
+| | ০৮০২.১২.৯০ | | |
+| | ০৮০২.২৩.৯০ | | |
+| | ০৮০২.২৫.৯০ | | |
+| | ০৮০২.২৬.৯০ | | |
+| | ০৮০২.৩৩.৯০ | | |
+| | ০৮০২.৩এ.৯০ | | |
+0b02.82.30
+0b02.82.30
+0b02.82.50
+0b02.82.50
+0b02.90.30
+0b02.86.30
+0b1.02 | 0b02.৮৬.১০ | Areca Nut | ১০০
+0b02.৮৬.২০
+0b02.৮৬.৩০
+0b02.86.50 | Pine nuts | ১০০
+0b02.86.50
+0b02.86.55 | ताजा বা শুকনো सुपारी, খোলা حافظানো হউক বা না | ১০০
+0b02.86.55 | হউক | 
+0b02.86.55
+0b1.08 | 0b08.80.05 | ताजा বা শুকনো আম | ২০
+0b08.80.05
+
+[[page 8]]
+২০৪৭৬
+Bangladesh Gazette, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনামা | সাম্রাজ্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| 01.00 | 0106.১০.১০ | তাজা বা শুকনো কমলালেবু | ২০ |
+| | 0106.২০.১০ | তাজা বা শুকনো লেবুজাতীয় ফল | ২০ |
+| | 0106.২২.১০ | | |
+| | 0106.২২.২০ | | |
+| | 0106.২৫.১০ | | |
+| | 0106.২৫.২০ | | |
+| | 0106.৪০.১০ | Grapefruit and pomelos (fresh or dried) | ২০ |
+| | 0106.৪০.২০ | | |
+| | 0106.৫০.১০ | তাজা বা শুকনো লেবু | ২০ |
+| | 0106.৫০.২০ | |
+0606.80.22 | তাজা বা শুকনো অন্যান্য বের জাতীয় ফল | ২০
+0606.80.22 |
+0606.80.23 |
+0606.80.25 |
+0606.80.26 |
+06.06 | তাজা বা শুকনো আপেল ফল | ২০
+ | সকল |
+ | এফি,এস,কোড |
+06.09 | Melons (including watermelons) and | ২০
+ | সকল |
+ | এফি,এস,কোড papaws (papayas), fresh. |
+06.06 | তাজা আপেল ও মাল্টা | ২০
+ | সকল |
+ | এফি,এস,কোড |
+(0606.80.20, |
+0606.80.20 |
+ | ব্যতীত) |
+06.06 | Apricots, cherries, peaches (including | ২০
+ | সকল |
+ | এফি,এস,কোড nectarines), fresh |
+(0606.80.22, |
+0606.80.25, |
+0606.80.26, |
+0606.80.29 |
+ | ব্যতীত)
+
+[[page 9]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০১৮ | ২০৪৭
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (৪) |
+| 05.50 | সকল এইচ.এস.কোড | অন্যান্য ताजा ফল | ২০ |
+| 05.03 | 0503.11.10 | Coffee; coffee husks and skins; coffee substitutes containing coffee in any proportion (Wrapped or canned upto 2.5 kg) | ২০ |
+| | 0503.11.20 | | |
+| | 0503.11.30 | | |
+| | 0503.90.30 | | |
+| 05.02 | 0502.10.00 | Green tea | ২০ |
+| | 0502.20.00 | | |
+| 0502.90.00 | Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg | ২০ |
+0602.80.00 | Other black tea (fermented) and other | ২০
+| partly fermented tea | 
+0608.11.10 | গোলমরিচ, গোটা | ২০
+0608.11.20 | | 
+0608.11.30 | | 
+0608.12.00 | | 
+06.০৬ | সকল | দালচিনি এবং দারুচিনি গাছের ফুল | ২০
+| এইচটিএ,এস.কোড | | 
+06.০৭ | সকল | লবঙ্গ | ২০
+| এইচটিএ,এস.কোড | | 
+06.০৮ | 0608.12.10 | এলাচ | ২০
+| | 0608.12.20 | | 
+| | 0608.12.30 | | 
+| | 0608.12.40 | | 
+06.০৯ | 0608.12.50 | জিরা | ২০
+| | 0608.12.60 | | 
+| | 0608.12.70 | | 
+| | 0608.12.80 | | 
+| | 0608.12.90 | |
+
+[[page 10]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ১৭.২০ | ১৮ digits.০০ | রিফাইনড সানফ্লাওয়ার তেল ও সয়াবিন তেল বিশেষ | ৩০ |
+| ১৭.০২ | ১৭০২.৭০.১০ | Dextrose anhydrous/monohydrate BP/USP Pyrogen free imported under blocklist | ২০ |
+| | ১৭০২.৩০.২০ | Liquid glucose | ২০ |
+| | ১৭০২.৩০.৩০ | Other glucose and glucose syrup | ২০ |
+| | ১৭০২.৪০.০০ | Glucose and glucose syrup, containing in the dry state at least ১০% but less than ৫০% by weight of fructose, excluding invert sugar | ২০ |
+| ১৭.০৪ | ১৭০৪.১০.১০ | Sugar confectionery (including white chocolate), not containing cocoa, put up for retail sale | && |
+<start_of_image>
+১৮০৪.৩০.৯০ Sugar confectionery (including white
+chocolate), not containing cocoa,
+excluding put up for retail sale | ৪২
+১৮০৮.৭০.০০ কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য শিরোনাম৪
+১৮০৮.৭০.০০ কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য শিরোনাম৪ | ৪২
+(২ ফেকিং বা গুড়, গ্রাহ বা বার আকারে অথবা
+তরল, পেস্ট, গুঁড়া, দানাদার বা অন্যরূপ বাক
+গাহিতে।)
+১৮০৮.৮১.০০ ফিনিশ্চ চকলেট (ব্লক, গ্রাহ বা বার আকারে) | ৪২
+১৮০৮.৯১.০০ অন্যান্য | ২০
+১৮০৯.০১
+১৮০৯.০১.০০ শস্য বা মোড়কে শূন্য থেকে ১ বছরে শস্যের
+ব্যবহারের জন্য খাদ্য সামগ্রী (হেডিং নং ০৪.০৯
+থেকে ০৪.০৯ মুক্ত প্রযোজ্য) | ২০
+<end_of_image>
+
+[[page 11]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+২০বাইন্
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্ক (%) |
+|---|---|---|---|
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| ১৯.০২ | সকল এইচ.এস.কোড | Pasta, whether or not cooked or stuffed or otherwise prepared; couscous | ৩০ |
+| ১৯.০৮ | সকল এইচ.এস.কোড | Prepared foods obtained by the swelling or roasting of cereals or cereal products; all types of cereals | ৩০ |
+| ১৯.০০ | ১৯০২.০১.০০ | Sweet biscuits | ৪৫ |
+| | ১৯০২.০২.০০ | Waffles and wafers | ৪৫ |
+| | ১৯০২.৪০.০০ | Rusks, toasted bread and similar toasted products | ৪৫ |
+| | ১৯০২.৯০.০০ | Other | ৪৫ |
+| ২০.০৫ | ২০০০.২০.০০ | গাঁটের চিনি | ৪৫ |
+২০.০৭ | সকল | রান্নার ফলে প্রাপ্ত জমাট, ফলের জেলি, মারমেইলেড, | ২০
+ | এষ্ট./এস.গ/কোড | ফল বা খাদ্যযুক্ত পিউরি এবং রস, ফল বা খাদ্যের | 
+ | | পেস্ট, চিনি বা অন্যন্য মিষ্টি পদার্থ যুক্ত হইক বা না | 
+ | | হইক | 
+২০.০৮ | সকল | Fruit, nuts and other edible parts of | ২০
+ | এষ্ট./এস.গ/কোড | plants, otherwise prepared or | 
+ | | preserved, whether or not containing | 
+ | | added sugar or other sweetening | 
+ | | matter or spirit, not elsewhere | 
+ | | specified or included. | 
+২০.০৯ | সকল | ফলের রস (আপত্তিকর must excluded) বা সবজির রস, | ২০
+ | এষ্ট./এস.গ/কোড | গ্যাসের সাথে বা মিষ্টিযুক্ত নাও চিনি বা অন্যন্য | 
+ | | মিষ্টি পদার্থ যুক্ত হইক বা না হইক | 
+২২.০৯ | সকল | Extracts, essences and concentrates, | ২০
+ | এষ্ট./এস.গ/কোড | of coffee, tea or mate and preparations | 
+২০.১০ | সকল | রস এবং অনুরূপ পণ্য; mixed condiments, | ২০
+ | এষ্ট./এস.গ/কোড | সরিষার ধুয়া এবং অন্যান্য পণ্য | 
+২২.১০ | ২৩০0.০০.০০ | Ice cream and other edible ice, | ২০
+ | | whether or not containing cocoa
+
+[[page 12]]
+২০৪৮০
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ২১.০৬ | ২১০০.৬০.১০ | specify প্রকার মিশ্রণ ব্যতীত বোতলল পানীয় প্রস্তুততে ব্যবহৃত সার্ফী, আমদানিক ভিত্তিক অ্যালকোহল ক্ষমতা ০.৫% এবং ঊর্ধ্বে | ৩৫ |
+| | ২১০০.৬০.১১ | Other Stabilizer for milk | ১০ |
+| | ২১০০.৬০.৫০ | Creamer in bulk imported by VAT registered milk foodstuffs manufacturers | ২০ |
+| | ২১০০.৬০.৬০ | Food supplement | ২০ |
+| | ২১০০.৬০.৯০ | অন্যান্য | ২০ |
+| ২১.০৯ | সকল | Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other | ২০ |
+| ৪২৩/৪৭২/৪৭৩ | | | |
+sweetening matter nor flavoured; ice
+and snow
+
+২২.০২ ২২0২.১০.০০ Waters, including mineral waters and | ১৫%
+aerated waters containing added sugar
+of other sweetening matter or
+flavoured
+
+২২0২.১১.০০ বন-alyোজোনিক বিয়ার | ২৫%
+
+২২0২.১৯.০০ অন্যান্য | ২৫%
+
+২২.০৩ ২২0৩.০০.০০ শক্তি যুক্ত beverages প্রস্তুত বিয়ার | ১৫%
+
+২২.০৪ সকল ০% তাজা আঙ্গুরের রস, মিষ্টিকৃত বিদ্যমান; (২০.০% | ০%
+এইচ.এন্ড.সি.লোড বেভিষ্টযুক্ত grape must ব্যতীত)
+
+২২.০৫ সকল ০% তরমুজ এবং তাজা আঙ্গুরের তৈরি রস, ফ্রেশিং
+
+২২.০৬ ২২0৬.০০.০০ অন্যান্য সাজানো পানীয় (অ্যালকোহলযুক্ত বিয়ার, পশ্রি) | ০%
+
+২২.০৮ সকল ০% Undenatured ethyl alcohol of an
+এইচ.এন্ড.সি.লোড alcoholic strength by volume of less
+than 80% volume, spirits, liquors and
+other spirituous beverages
+
+[[page 13]]
+বাংলাদেশ কোড, অক্টোবর, জুন ৩০, ২০২২
+
+২০৮৮১
+
+| শিরোনামা | সাজ্যস্তপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা (%) |
+| (১) | (২) | (৩) | (৪) |
+| ২৪.০০ | সকল এইচ.এস.কোড | Unmanufactured Tobacco, Tobacco refuse | ৬০ |
+| ২৪.০২ | ২৮০২.১০.০০ | તમાকের তৈরি সিগার, হাতে ও листаরিয়া | ণড়ো |
+| | ২৮০২.১০.০০ | તમાকের তৈরি সিগারিতে | ণড়ো |
+| | ২৮০২.১০.০০ | হাতে বা অন্যবিধ পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্যways অন্যান্য প্রস্তুতকৃত તમાক এবং সমজাতীয় পদার্থ; "homogenised" বা "reconstituted" লিফরাজ সুগন্ধি | ১৫0 |
+| ২৪.০০ | সকল এইচ.এস.কোড | Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes intended for inhalation without | ১৫0 |
+combustion; other nicotine containing
+ products intended for the intake of
+ nicotine into the human body.
+ ২৫.০৯ | ২৫০৯.০০.১০ | Pure sodium chloride BP/USP pyrogen
+ free | ২০
+ ২৫০৯.০০.২০ | Salt (other than pure sodium chloride)
+ not in aqueous solution including salt
+ boulder for crushing and salt in bulk | ২০
+ ২৫০৯.০০.৩০ | Rock salt, bhit lobon | ২০
+ ২৫০৯.০০.১১ | Denatured salt (coloured) | ২০
+ ২৫০৯.০০.১৯ | অন্যান্য লবণ | ২০
+ ২৫.১৫ | ২৫১৫.০০.০০ | মার্বেল এবং চুনাপাথর (সাদা: আলবেস্টিক খনিজ
+ ২.৫% বা তার বেশি, ক্ষুদ্র বা ফুলকার কঠিন) | ২০
+ ২৫১৫.১১.০০ | Merely cut, by sawing or otherwise,
+ into blocks or slabs of a rectangular
+ (including square) shape | ২০
+ ২৫১৫.২০.০০ | Escussine and other calcareous
+ monumental or building stone; alabaster | ২০
+
+[[page 14]]
+২০৪৮২ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ২৬.১৬ | ২৫১৬.১১.০০ | граниাইট (গ্রানাইট) কাঁচঠা | ২০ |
+| | ২৫১৬.১২.০০ | граниাইট: করাত দ্বারা বা অন্য প্রকারে ব্লক অথবা চত্বর ও বর্ণিলক্লীব গ্রাহ হিসাবে গঠিত | ২০ |
+| | ২৫১৬.১৩.২০ | বোল্ডার স্টোন | ১০ |
+| ২৬.১৭ | ২৫১৭.৭০.৯০ | Pebbles, gravel, broken or crushed stone (excl. imported by VAT registered ceramic manufacturing industries) | ৩০ |
+| | ২৫১৭.৭৯.০০ | Other Pebbles, gravel, broken or crushed stone | ৩০ |
+| ২৬.২১ | ২৫২১.০০.৯৯ | Boulder Lime stone | ১০ |
+| | ২৫২১.০০.৯৯ | Other | ৩০ |
+<start_of_image>
+ Annexure-B
+ List of Items & their Rates
+
+ Sl.No. | Item Code | Description of Goods | Unit | Rate (Tk)
+ | | | | 
+ ২৬.২০ | ২৫২৩.৭২.০০ | পোর্টল্যান্ড সিমেন্ট : সাদা, কৃত্রিমভাবে রঙীন করা | ৫০ |
+ | | ইฐকে বা না ছিটকে | | 
+ | ২৫২৩.৭২.০০ | অন্যন্য পোর্টল্যান্ড সিমেন্ট | ২০ |
+ ২৭.১০ | ২৫৩০.১২.০০ | অন্যান্য হালকা তৈল ও প্রিপারেশন অন্যান্য | ২০ |
+ | | | | 
+ | ২৫৩০.১২.৫০ | অন্যান্য মধ্যম তৈল ও প্রিপারেশন | ২০ |
+ | ২৫৩০.১২.৬৯ | গ্যাস তৈল : অন্যান্য | ২০ |
+ | ২৫৩০.১২.৯৯ | জ্বালানী তৈল : অন্যান্য | ২০ |
+ | ২৫৩০.১২.২২ | Recycled lube base oil | ২০ |
+ | ২৫৩০.১২.০২ | Recycled lubricating oil | ২০ |
+ | ২৫৩০.১২.৯০ | রাসায়নিক পরিশোধিত পেট্রোলিয়াম, উদ্বৃত্তসহ | ২০ |
+ | ২৫৩০.১২.৯৯ | অন্যান্য ভারী তৈল ও প্রিপারেশন | ২০ |
+ ২৭.১১ | ২৫৭৩.৭২.০০ | প্লাস্টিক গ্র্যান,ogenicity অবস্থায় | ১০০ |
+ ২৮.০৭ | ২৮০৭.০০.০০ | সালফিউরিক এসিড, কঠিনям | ২০ |
+ ২৮.৬৯ | ২৮৬৯.১১.০০ | Disodium sulphate | ২০ |
+ | ২৮৬৯.১১.০০ | Sodium sulphates | ২০ |
+
+ <end_of_image>
+
+[[page 15]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০১৮-১৯
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| | | | |
+| ২৯.১০ | &&&&.৭0.0২ | Sodium salt of palmitic acid (soap noodle) imported by other | ২০ |
+| | | | |
+| ২৯.১৭ | &&&&.0২.২০ | Dioctyl orthophthalates pharmaceutical grade imported under block list by VAT registered pharmaceutical industry | ২০ |
+| | &&&&.০২.৪০ | ডাইঅক্টাইল থ্যালায়েটস (ডি ও পি) | ২০ |
+| | &&&&.০০.০০ | Dinonyl or didecyl orthophthalates | ২০ |
+| | &&&&.08.00 | Other esters of orthophthalic acid | ২০ |
+| | &&&&.9৯.৯৯ | Other | ২০ |
+| ৩০.০৮ | ও২০৬.১০.২০ | Paints and varnishes imported by Bangladesh Biman, flying club, | ২০ |
+concerned Government Department
+ and VAT registered manufacturer as
+ raw material for their product
+
+ ৩৫/০৮/২০১০ | স্পেশালিটি পেইন্টস, আবরণ (পেনেল লেকচার) ২০
+ ৩৫/০৮/২০১০ | Paints and varnishes imported by
+ Bangladesh Biman, flying club,
+ concerned Government Department
+ and VAT registered manufacturer as
+ raw material for their product ২০
+
+ ৩৫/০৮/২০১০ | Other paints based on acrylic or vinyl
+ polymers, in a non-aqueous medium ২০
+
+ ৩৫/০৮/২০১০ | Paints and varnishes imported by
+ Bangladesh Biman, flying club,
+
+[[page 16]]
+২০৪৮১
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২৪
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৩৫.০৯ | ৩২৩৬.১০.৯০ | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product | ২০ |
+| | |Acrylic ইমালশন পলিমার পেইন্ট উৎপাদনকারী নিবন্ধিত ওয়াক্সিং (ওয়াক্সিং) ও লেকার প্রস্তুতকারক | ২০ |
+| ৩২৩৬.১০.৯০ | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product | ২০ |
+| | | অন্যান্য পেইন্টস, ভার্নিশ এবং লেকার | ২০ |
+<start_of_image>
+Schedule-II
+
+Sl.No. | Tariff No. | Rate (%) | Description of Goods
+ | | | 
+৩১২.২০ | ৩১১৬০.২০ | ২০ | Paints and varnishes imported by Bangladesh, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product
+৩১২.২০ | ৩১১৬০.২০ | ২০ | Prepared water pigments of a kind used for finishing leather, for cleaning footwear in tablet form
+৩১২.২০ | ৩১১৬০.২০ | ২০ | অন্যান্য লেদার, চামিস (মোয়াজেল, লেকার ও ড্রেসিংয়ের)
+৩১২.০০ | ৩১৫০০.০০ | ৩০ | সুগন্ধী ও প্রসাধনী পানি
+৩১২.০৪ | | ৪% | সৌন্দর্য অথবা প্রসাধন সামগ্রী এবং ত্বক পরিচর্যার প্রতিষ্ঠান সামগ্রী (যেমন রং করার পদার্থ ব্যতীত), সানস্ক্রিন বা সান লোশন সামগ্রী; হাত, নখ বা পায়ের প্রসাধন সামগ্রীসহ
+৩১২.০৫ | | ১৫ | কেশ পরিচর্যায় ব্যবহৃত সামগ্রী
+৩১২.০৬ | ৩১৬০০.০০ | ২০ | ডেন্ট্রিফিস
+৩১২.০৬ | ৩১৬০০.০০ | ২০ | মুখস্ক্রাব বা লোশনের জন্য ব্যবহৃত অন্যান্য সামগ্রী
+
+[[page 17]]
+বাংলাদেশ কোস্ট, অক্টোবর, জুন ৩০, ২০২২ | ২০৮৮৫
+
+| শিরোনাম | સામાન્ય প্রকার নাম্বর কোড | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| (১) | (২) | (৩) | (৪) |
+| 09.09 | সকল এইচও.এস.কোড | স্প্রেডের সাথে, স্প্রেডের পরে বা স্প্রেডের সময় ব্যবহার্য সামগ্রী; শরীরের দুর্গন্ধ দূরীকরণে ব্যবহৃত সামগ্রী, ডিওডোরাইজার এবং অন্যান্য সুগন্ধি, প্রস্রাবনী ও ডেটলট সামগ্রী যা অন্য কোথাও বর্ণিত বা অন্তর্ভুক্ত নহে; কসমেটিক purposes (সৌন্দর্যমূলক) হউক বা না হউক অথবা জীবনধারণের জন্য হউক বা না থাকুক | 90 |
+| | | | |
+| 0909.20.00 | deodorants and antiperspirants | | 90 |
+| 0909.30.00 | অন্যান্য | | 90 |
+| | | | |
+| 09.05 | সকল এইচও.এস.কোড | সাবান এবং সাবান হিসাবে ব্যবহৃত সরূপেণং অন্তর্ভুক্ত সামগ্রী এবং সমজাতীয় পণ্য | 88 |
+| | | | |
+| 09.02 | 0902.10.00 | Preparations put up for retail sale | 20 |
+| | 0902.30.00 | ডিটারজেন্ট | 20 |
+ওঁৎ.ওঁ <br>
+<start_of_image>
+
+<end_of_image>
+ওঁৎ.১০.০০ | Polishes, creams and similar preparations for footwear or leather | ২০ <br>
+ওঁৎ.০৯ | ওঁৎ.০২.০০ | ঝিনঝির পেইস্টার | ০০ <br>
+ওঁৎ.০২ | ওঁৎ.০২.০০ | ভেচি ঝিনঝারক, ঝিনঝারক পেইস্তার বাটিক | ০০ <br>
+ওঁৎ.০৪ | সকল | অভ্যন্তর fabric; ফ্রেজার, ব্রেটন ব্লকেট, ফ্লী <br>
+অষ্টন, এশ,কোটে সিঙ্গল এবং অন্যান্য পলিয়েস্টোনিক পণ্য | ০০ <br>
+ওঁৎ.০৫ | ওঁৎ.০৫.০০ | দিয়াশলাই; শিরোনাম সংখ্যা ওঁৎ.০৪ এর <br>
+পলিয়েস্টোনিক পণ্য সামগ্রী বাটিক | ২০ <br>
+ওঁৎ.০৮ | ওঁৎ.০৯.১১ | Mosquito coil; aerosol, mosquito repellent | ২০ <br>
+ওঁৎ.১৪ | ওঁৎ.১৪.&&.২০ | Chlorinated paraffin wax | ১০ <br>
+ওঁৎ.১৭ | ওঁৎ.১৭.২৯.০০ | Tubes, pipes and hoses, rigid of polymers <br>
+of ethylene | ০০ <br>
+ওঁৎ.১৭ | ওঁৎ.১৭.২৯.০০ | Tubes, pipes and hoses, rigid of polymers <br>
+of propylene | ০০ <br>
+ওঁৎ.১৭ | ওঁৎ.১৭.২৯.২০ | Tubes, pipes and hoses, rigid of polymers <br>
+of vinyl chloride (excluding PVC shrinkable tube (plain)) | ০০ <br>
+
+[[page 18]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (%) |
+| | ৩৫১৭.৭৯.৯০ | Fibre glass imported by VAT registered electric fan manufacturers | 00 |
+| | ৩৫১৭.২২.২৯ | Tubes, pipes and hoses, rigid of other plastics (excluding Silicone tubing for laboratory use); Hoses pipe for gas cylinder | 00 |
+| ৩৫.১৮ | শুল্ক | প্লাস্টিকের তৈরি প্রকার كالابرিস, ওয়ান অথবা সিম্পল কার্টরিজ, সেলাই এম্বেডেড ফিতা বা না ফিতা রোল (রোল অথবা টেবিল আকারে) | ২০ |
+| | ৩৫১৮.৯৯.০০ | প্লাস্টিকের তৈরি সেলাই এম্বেডেড ফিতা, সীড়ি, ফিতা, ফ্যান, টেপ, স্ট্রিপ এবং অন্যান্য ফ্ল্যাট আকৃতি (রোল আকারে) (পুনরায় নির্বাচিত প্রতিষ্ঠান ব্যতীত) | ২০ |
+| ৩৫.২০ | প্লাস্টিকের প্লেট, শীট, ফিল্ম, ফয়েল, স্ট্রিপ (নন-সেলুলোজ, রিইনফোর্সড)
+দ্রেষ, অন্য কোন পদার্থ দ্বারা laminateটেড, সাপোর্টেড বা অন্য কোন পদার্থের সাথে অনুরূপ উপায়ে সম্পর্কিত):
+
+তৎক্ষণে ৪৫.২০ ছাপাখানা আকারে প্রোফাইলিণ পলিমার্সের তৈরি (শুধু বিষয় কর্তৃক আমদানিকৃত ঔষধ препаратовের протяженииকৃত রক্ষিতত্ত্ব পণ্য ব্যতীত) | ২০
+তৎক্ষণে ৪৫.২১ Printed PVC sheet Imported by VAT registered SIM card or Smart card manufacturing industry | ২০
+তৎক্ষণে ৪৫.২২ প্রিন্টেড পলিস্টিক শীট | ২০
+তৎক্ষণে ৪৫.২৩ ছাপাখানা আকারে পলি ইথাইলিন টেরেফথ্যালেটের তৈরি | ২০
+তৎক্ষণে ৪৫.২৪ ছাপাখানা আকারে অন্যান্য পলিমার্সের তৈরি | ২০
+তৎক্ষণে ৪৫.২৫ ছাপাখানা আকারে প্লাস্টিকের তৈরি পলিমাইডস্ | ২০
+তৎক্ষণে ৪৫.২৬ অন্যান্য প্লাস্টিক শীট | ২০
+০৫.১১ প্লাস্টিকের তৈরি অন্যান্য প্লেট, ফিল্ম, ফয়েল ও স্ট্রিপ (লেমিনেইটেড, রিইনফোর্সড, অন্য কোন পদার্থ দ্বারা laminateটেড, সাপোর্টেড বা অন্য কোন পদার্থের সাথে অনুরূপ উপায়ে সম্পর্কিত):
+
+তৎক্ষণে ৪৫.২৭ Other cellular plate/sheet/film/foil of plastic | ২০
+
+[[page 19]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০১৮৭
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার |
+|---|---|---|---|
+| সংখ্যা | নামকরণ কোড (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| 0622.29.55 | cellophane আকারে অন্যান্য প্লাস্টিকের তৈরি পেপার, লেপসারি, উপকরণাইজড, মোড়ানোইকৃত বা অনুরূপ প্লাস্টিক | ৩০ |
+| 0622.29.55 | cellophane ব্যতীত অন্যান্য প্লাস্টিকের তৈরি পেপার, লেপসারি, উপকরণাইজড, মোড়ানোইকৃত বা অনুরূপ প্লাস্টিক | ২০ |
+| 06.22 | সকল এইচ.এস.কোড | প্লাস্টিকের তৈরি থালা, বাটি, গ্লাস, পিচ, ট্রেম, ওয়াপেন বোসিন, ঝুড়ি, হ্যান্ডেলী পাত্র, কীট ও কলার, ক্লিপিং সিস্টেম এবং অনুরূপ সানিতারি সরঞ্জাম | ২০ |
+| 06.20 | পণ্য বর্ণন বা particulars এর জন্য ব্যবহৃত প্লাস্টিকের তৈরি মুদ্রণ: | | |
+| 0620.50.00 | প্লাস্টিকের তৈরি বাক্স, কেডস, ক্রেট এবং সমজাতীয় পণ্য | 84 |
+| 0620.50.00 | Sacks and bags (including cones) of polymers of ethylene other than plastics | 84 |
+| 0620.50.50 | Sacks and bags (including cones) of plastics | 84 |
+other plastics
+
+ ৩৫২০.৩০.১০ কার্পেট, বোর্ডার, ফ্রাইজ ও সমজাতীয় পণ্য (ওঠানের |
+ সাপে ও ইনজেকশনের কাস্টের দ্বারা তৈরী) |
+ ৩৫২০.৩০.২০ Other Spools, caps, bobbins and |
+ similar supports |
+ ৩৫২০.৫০.০০ Stoppers, lids, caps and other closures |
+ ৩৫২০.৬০.০০ প্লাস্টিকের প্যকেটস |
+ ৩৫২.২৫ প্লাস্টিকের টিউবings এবং ফিটিংs |
+ ৩৫২. ৪৫.০০ Feeding Bottles |
+ ৩৫২.৬০ অন্যান্য |
+ ৩৫২.৬৫ প্লাস্টিকের তৈরি দরজা, জানালা ও ছাদের ফ্রেম |
+ এবং দরজার threshold |
+ ৩৫২.৭০.০০ প্লাস্টিকের তৈরি পাতর, রাইজিং এবং ছাদের পার্টস |
+ ৩৫২.৯০.০০ প্লাস্টিকের তৈরি অন্যান্য ফিক্সড ওয়ার |
+ ৩৫২.৯৬ প্লাস্টিকের তৈরি অফিস এবং স্কুল সামগ্রী |
+ ৩৫২.৯৮ Statuettes and other ornamental articles |
+ ৩৫২.৯৯ প্লাস্টিকের তৈরি অন্যান্য decoration |
+
+[[page 20]]
+২০১৮৮৮
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০১৮
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | সুহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| 80.১১ | 8011.50.00 | মোটর গাড়ির টায়ায়ার | ২০ |
+| 80.১১ | 8011.65.00 | Floor coverings and mats | ২০ |
+| 82.০২ | সকল | Trunks, suit-case, vanity-cases, executive-cases, brief-cases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, guncases, holsters and similar containers; travelling-bags, insulated food or beverages bags toilet bags, rucksacks, handbags, shopping bags, wallets, purses, map-cases, cigarette-cases, tobacco pouches, tool bags, sports bags, bottle-cases, | ২০ |
+88.00 | 8200.90.00 | Belts and bandoliers | ২০
+| 8200.80.00 | Other clothing accessories | ২০
+88.10 | সকল প্রকার পার্টিকেল বোর্ড, প্লাস্টিক বোর্ড ও সংশ্লিষ্ট সামগ্রী | ২০
+88.12 | এইচ.এস.কোড (8811.১1.00, 8811.২০.00 & 8811.৩০.00) | হাত বাড়াই, জুতার খোল, চামড়ার খোল ও সংশ্লিষ্ট সামগ্রী |
+| 8811.31.00 ব্যতীত) | ২০
+88.16 | 8816.30.00 | Particle board | ২০
+88.18 | সকল | দরজা, জানালা, উঁচালের ফ্রেম ও ফ্রেশিং, প্যারালাইট প্লীনের প্লাটফর্ম, মিররসহ ও শেক এবং সংশ্লিষ্ট পণ্য | ২০
+| এইচ.এস.কোড
+
+[[page 21]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ৩০,২০২৪
+ ২০ drafts
+
+| নির্দেশনা | সাধারণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|:---:|:---:|:---:|:---:|
+| শীৰ্ষিকা (Heading) | নাম্বৰ কোড (H.S. Code) | (Description of Goods) | শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| 88.১০ | 8820.১1.00 | Wooden Beads | ২০ |
+| | 8820.১1.00 | | |
+| 89.02 | 8902.08.50 | Other paper and paperboard, not containing fibres obtained by a mechanical or chemi-mechanical process of which not more than 10% by weight or the total fibre content consists of such fibres of weighing less than 40 g/m² (Excl. imported by VAT registered manufacturing industries) | ১০ |
+| 89.১০ | 8910.00.50 | অ্যামোনিয়াম পার্সালফেট প্রতিষ্ঠান কর্তৃক আমদানিকৃত সিঙ্গলেট (পেপার, সাচ্ছ ও কঠিন হতে পা না exceed অথবা বুলেটটি ব্যাতিরেকে আকারে | ১০০ |
+| | 8910.00.50 | | |
+| | 8910.00.50 | | |
+8৮১৬.৬০.৯0 অন্যান্য আমদানিকারক কর্তৃক আমদানীকৃত দ্বি-পার্শ্বেত | ১৫৫
+8৮১৬.৯০.২০ পেপার, কার্ডবোর্ড কঠিনভাবে স্তূপীকৃত বা না স্তূপ অথবা |
+8৮১৬.৯০.৩০ মুড়েটে বা টিউবের আকারে |
+
+8৮১৬.১৮ | সকল | চকলেট পেপার, টিস্যু পেপার, টাওয়েল বা napkins | ৩০
+ | সকল | পেপার বা সমজাতীয় পণ্য, খংস্তনী, সেন্ডবোর্ড বা |
+ | রঙধনু কাজে ব্যবহৃত |
+
+8৮১৬.১৯ | 8৮১৬.৯০.০০ | Cartons, boxes and cases, of | ১০
+ | corrugated paper and paperboard |
+
+8৮১৬.২০.৯0 | ব্যাঙ জাতি পার্কিংয়ের জন্য উপযুক্ত আর্দ্রতার লেপন | ১০
+ | ব্যতীত নন-কোরোগেটেড পেপার ও পেপার বোর্ডের |
+ | তৈরি মোড়িত কার্ডুন, বাক্স ও কেস |
+
+8৮১৬.৩০.০০ | শ্যাওলা এবং ঝাগুয়া (৪০ সে.মি. বা ৬ ওভারধী প্রস্থ বেশ | ১০
+ | বিশিষ্ট) |
+
+8৮১৬.১১ | 8৮১৬.৯০.০০ | প্রিন্টেড লেবেলগণ | ২০
+
+8৮১৬.২০ | 8৮১৬.৯০.৯0 | Paper Cup, Plate, Bowl | ২০
+ | 8৮১৬.৯০.৯১ | Surface coloured or printed paper or |
+ | paper board |
+
+[[page 22]]
+Bangladesh Gazette, অতিরিক্ত, জুন ৩০, ২০২৪
+
+| নির্দেশনা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+| : | : | : | : |
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্কহার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৪৫.০১ | ৪৫0২.১০.০০ | Printed Books, Brochures, leaflets, similar printed matter in single sheets, whether or not folded | ২০ |
+| ৪৫.০৯ | ৪৫0৯.০০.০০ | Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings | ২০ |
+| ৪৫.১০ | ৪৫১০.০০.০০ | Calenders of any kind, printed, including calendar blocks | ২০ |
+| ৪৫.১১ | সকল এইচ.এস.কোড সামগ্রী | হাতগোনা ছবি, ফটোগ্রাফিসহ অন্যান্য হাতগোনা পণ্য সামগ্রী | ২০ |
+60.09 | সকল | Woven fabrics of silk or of silk waste. | 82
+ অইট,এস,কোড
+62.05 থেকে 62.12 | সকল | ওভেন ফেব্রিক | 20
+ অইট,এস,কোড
+68.09 এবং 68.14 | সকল | ওভেন ফেব্রিক | 20
+ অইট,এস,কোড (6809.30.30 ব্যতীত)
+68.12 থেকে 68.16 | সকল | ওভেন ফেব্রিক | 20
+ অইট,এস,কোড (6812.30.30 ব্যতীত)
+69.05 | 0002.00.50 | Metalized round yarn | 20
+69.05 থেকে 69.10 | সকল | ঝাপি ও অন্যান্য টেকটাইল গোর আচ্ছাদন | 20
+ অইট,এস,কোড
+69.15 | সকল | Woven pile fabrics and chenille | 20
+ অইট,এস,কোড
+
+[[page 23]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | শুল্কহার (%) |
+|---|---|---|---|
+| বর্ণনা | এইচ.এস. কোড (Heading) | (Description of Goods) | (Rate) |
+| 64.08 | সকল ওয়ান,এস.কোড | Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06. | ২০ |
+| 64.09 | 6409.১০.৯০ | Other textile fabrics, impregnated, coated, covered or laminated with polyvinyl chloride | ২০ |
+| | 6409.২০.৯০ | Other textile fabrics, impregnated, coated, covered or laminated with polyurethane | ২০ |
+| | 6409.৩০.৯০ | Other textile fabrics with polyurethane <end_of_image>
+৬০.০১ | Pile fabrics, including "long pile" | ২০
+| fabrics and terry fabrics, knitted or crocheted.
+৬০.০২ | Knitted or crocheted fabrics of a width | ২০
+| not exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01.
+৬০.০৩ | Knitted or crocheted fabrics of a width | ২০
+| not exceeding 30 cm, other than those of heading 60.01 or 60.02
+৬০.০৪ | Knitted or crocheted fabrics of a width | ২০
+| exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01
+৬০.০৫ | Warp knit fabrics (including those | ২০
+| made on galloon knitting machines), other than of headings 60.01 to 60.04
+
+[[page 24]]
+২০&&২
+বাংলাদেশ কোড, অর্ডিনেন্স, জুন ৩০, ২০২২
+
+|শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|:---:|:---:|:---:|:---:|
+|সংখ্যা (Heading) |নামকরণ (H.S. Code) | (Description of Goods) | শতকরা |
+| | | | মুক্কহার (%) |
+|(১) |(২) |(৩) |(৪)|
+|৬১.০০ | সকল <br> এইচ.এস.কোড | Other knitted or crocheted fabrics | ২০ |
+|৬১.০৯ এবং | সকল <br> এইচ.এস.কোড | ওড়না, কোট, জ্যাকেট, সোয়েটার, আয়নার্জক (ফ্রি-এ/সি)র fabric, উইন্ডস্ক্রিন, উইন্ড-এ/সি এবং সামঞ্জস্যী পর্দা, নিটেড বা ক্রোশেটেড | ৩০ |
+|৬১.০০ | সকল <br> এইচ.এস.কোড (৬১.০০-৬১.৩০ (শোষক কাপড় ছাড়া), নিটেড বা ক্রোশেটেড | ছেলেদের স্যুট, ইউনিফর্ম, জ্যাকেট, ব্লেজার, টাইডিয়াম, বিট ও শার্টের (শোষক কাপড় ছাড়া) নিটেড বা ক্রোশেটেড | ৩০ |
+|৬১.০৯.০০ | Men’s or boys’ ensembles Of other textile materials | | && |
+|৬১.০৮ | সকল | ছেলেদের স্যুট, ইউনিফর্ম, জ্যাকেট, ব্লেজার, vests, | ৩০ |
+সহজ.এস.কোড | শার্ট, টি-শার্ট encompassing টি-শার্ট, বিভিন্ন ধরনের শার্ট, ডিজাইন বা বোতামের প্রকারভেদ ছাড়া), | ১০০
+| মিটেড বা ক্রচেটেড |
+
+[[page 25]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬২১.০০ | সকল এ Fifteen.এস.কোড | টি-শার্ট, সিঙ্গলেট এবং অন্যান্য জ্যাকেট, নিটেড বা ক্রোশেটেড | 00 |
+| ৬২১.১০ | সকল এ Fifteen.এস.কোড (৬২১১০.০০ বা বাড়িত) | জার্সি, পুলওভার, কার্ডিগান, ওয়েস্টকোট এবং সমজাতীয় পণ্য, নিটেড বা ক্রোশেটেড, কશ્મીরি ছাড়াও বা অন্য প্রাণীর শণ লোম দ্বারা তৈরি সামগ্রী | 00 |
+| ৬২১১০.০০ | Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted Of other textile materials | 84 |
+| ৬২১.১১ | সকল এ Fifteen.এস.কোড | সিঙ্গলের গার্মেন্টস ও গ্রাশি accessories, নিটেড বা ক্রোশেটেড | 00 |
+| ৬২১.১৩ | ৬২১১০.০০ | নিটেড বা ক্রোশেটেড ফেরিয়ের (৯২.০৭, ৯২.০৮ বা বাড়িত) | 00 |
+65.09 (চৌদিশ রং) তৈরি গার্মেন্টস
+
+| 65.38 | সকল | অন্যান্য গার্মেন্টস, নির্দিষ্ট বা unconnected | ৩০ |
+|---|---|---|---|
+| 65.38 | সকল | ফ্যাব্রিক বোম, টাইপস্, ফিনিশিং, অলংকার এবং অন্যান্য | ৩০ |
+| | | টেক্সটাইল (টেক্সটাইল শিল্পার জন্য ক্ষতিকারক এবং |
+| | | সোনালীবিহীন সুতরাং), নির্দিষ্ট বা unconnected |
+| | | ব্যতীত) |
+| 65.38 | | 6522.৯৯.০০ stockings, socks and other hosiery of | ৪২ |
+| | | other textile materials |
+| 65.39 | সকল | হাফস্, টিপস এবং নির্দিষ্ট, নির্দিষ্ট বা unconnected | ৩০ |
+| 65.39 | সকল | অন্যান্য নির্দিষ্ট যা unconnected সেলাই, এম্বেসিং; | ৩০ |
+| | | গার্মেন্টস বা সেলাই এম্বেসিংয়ের অংশ |
+| 65.00 থেকে | সকল | শার্ট, মহিলা ও শিশুদের সকল ধরনের তৈরি | ৩০ |
+| 65.30 পর্যন্ত | | পোশাক, অন্তর্বাস ও সময়োপযোগী পণ্য (পণ্যেরের |
+| | | পোশাক ছাড়া) |
+| | | (6500.99.00, |
+| | | 6500.80.00, |
+| | | 6500.85.00, |
+| | | 6500.92.00)
+
+[[page 26]]
+২০ passage
+
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | শতকরা |
+|---|---|---|---|
+| ধারা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | মজুরি (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬২.০০ | ৬২০৪.২২.০০, ৬২০৪.২৩.০০, ৬২০৪.২৪.০০, ৬২০৪.২৫.০০, ৬২০৪.২৬.০০, ৬২০৪.২৭.০০, ৬২০৪.২৮.০০, ৬২০৪.২৯.০০, ৬২০৪.৩০.০০ | Men’s or boys Jackets and blazers Of other textile materials | 86 |
+৬২০৩.৪০ Men's or boys Trousers, bib and brace | %
+overalls, breeches and shorts Of | 
+synthetic fibres
+৬২০৩.৪০ Men's or boys Trousers, bib and brace | %
+overalls, breeches and shorts Of other | 
+textile materials
+৮২.০৪ | Women's or girls’ ensembles | %
+| ৬২০৪.৯২ | 
+| ৬২০৪.৯২ | 
+| ৬২০৪.৪১ Women's or girls’ dresses | %
+| ৬২০৪.৪২ | 
+| ৬২০৪.৪৩ | 
+| ৬২০৪.৪৪ | 
+| ৬২০৪.৪৪ | 
+৮২.০৬ | Women's or girls’ singlets and other | %
+| vests, briefs, panties, negliger, | 
+| bathrobes, dressing gowns and similar | 
+| articles Of other textile materials
+
+[[page 27]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০,২০২৪
+২০ minutes
+
+শিরোনাম | নাম্বরকরণ কোড | পণ্যসমূহের বিবরণ | সম্পূরক শুল্ক (%)
+(Heading) | (H.S. Code) | (Description of Goods) | (%)
+(১) | (২) | (৩) | (৪)
+৬২.০৯ | ৬২.০৯.০০ | Babies’ garments and clothing 82
+| | accessories Of other textile materials
+৬২.১১ থেকে | সকল | গালিচা, পর্দা, টাউলেট, ড্রেস, শালরূপহার, গ্লাভিস, ৩০
+৬২.১১ পর্যন্ত এইচ.এস.কোড | ৬২.১১.০০, ৬২.১২.০০, | রুমাল, স্কার্ফ, মাফলার, মান্টিলা, ভে tail, টাই, বো-টাই, ক্লাউচ, গ্রাস, বিটস, বিভিন্ন এবং
+৬২.১৪.০০ পর্যন্ত | সাজসজ্জার সামগ্রী ও তার অংশ
+| | ৬২.১২.০০
+ | 
+৬২.১১ | ৬২.১২.০০ | Brassieres 82
+৬২.১৪ | ৬২.১৪.০০ | Shawls, scarves, mufflers, mantillas, 82
+| | ৬২.১৪.০০ | Shawls, scarves, mufflers, mantillas, 82
+veils and the like: Of other textile materials
+
+৬৩.০৯ | সকল | সকল প্রকার দর্পণ কেবল | ২০
+ এফিż,এপি,কোড
+৬৩.০৯ | সকল | বেত লিলেন, টেবিল লিলেন, চেয়ারলুট লিলেন এবং | ২০
+ এফিż,এপি,কোড | কিচেন লিলেন
+৬৩.১০ | সকল | পর্দা (স্ক্রীন) এবং ঝর্ণার রাইবল; পর্দা বা বেত | ২০
+ এফিż,এপি,কোড | জ্বালানপ
+৬৩.০৪ | সকল | অন্যান্য আসবাব (৬১.০৪ হেডিং এর পণ্য ব্যতীত) | ২০
+ এফিż,এপি,কোড
+৬৪.০২ | সকল | Other footwear with outer soles and | 84
+ এফিż,এপি,কোড | uppers of rubber or plastics.
+৬৪.০০ | সকল | Footwear with outer soles of rubber, | 84
+ এফিż,এপি,কোড | plastics, leather or composition leather and uppers of leather.
+৬৪.০৪ | সকল | Footwear with outer soles of rubber, | 84
+ এফিż,এপি,কোড | plastics, leather or composition leather and uppers of textile materials.
+
+[[page 28]]
+২০৪৫/এ
+Bangladesh Gazette, অতিরিক্ত, জুন ৩০, ২০২৩
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংস্থা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬৪.০৫ | সকল <br> ণইচ,এস.কোড | Other footwear. | ৪৫ |
+| ৬৪.০৬ | ৬৪0৬.১০.০০ <br> ৬৪0৬.২০.০০ <br> ৬৪0৬.৩০.০০ <br> ৬৪0৬.৪০.০০ | Upper and outer soles and heels | ২০ |
+| ৬৭.০২ | সকল <br> ণইচ,এস.কোড | Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit | ২০ |
+| ৬b. ০২ | সকল <br> ণইচ,এস.কোড | Granite, marble, travertine and alabaster and other stone | ৬০ |
+| ৬b. oo | ৬b০০.০০.০০ | Worked slate and articles of slate or of agglomerated slate | ৫০ |
+৬b.০৮ ৬০b.০০.০০ | Panels, boards, tiles, blocks and similar | ২০
+| articles or vegetable fibre, of straw or of |
+| shavings, chips, particles, sawdust or other |
+| waste, of wood, agglomerated with cement, |
+| plaster or other mineral binders. |
+৬b.০৯ ৬০b.১১.০০ | Plaster Boards and sheets | ২০
+| ৬০b.১১.০০ | |
+৬b.০৮ সকল | Ceramic building bricks, flooring blocks, | ২০
+| ইট, ছাঁচ, কোড | support or filler tiles and the like. |
+৬b.০৫ সকল | Roofing tiles, chimney-pots, cowls, | ২০
+| ইট, ছাঁচ, কোড | chimney liners, architectural ornaments |
+| and other ceramic constructional goods. |
+৬b.০৬ ৬০b.০০.০০ | Ceramic pipes, conduits, guttering and | ২০
+| | pipe fittings. |
+৬b.০৭ সকল | অনুসন্ধান বিষয়ক গুরুত্ব স্থাপন এবং উৎপাদনের গুরুত্ব | ৫০
+| ইট, ছাঁচ, কোড | অথবা দেয়ালের টাইলস; অন্তর্ভুক্ত সিরামিক |
+| মোজাইক কিউব এবং সমান্তরাল খণা, কোন প্রকার |
+| স্থাপত্য স্থাপিত কর্তৃক না আটক |
+
+[[page 29]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০ passage
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৬৯.১০ | সকল এষ্ট.এস.কোড | সিরামিকের Dishes, ওয়ান বোল, ওয়ান বোল্ড প্যাকেটেন বাধানো, বিচে, ওয়াটার প্রুফ কোটিং pain, গ্লাসিং finish, interiorাল ও সমজাতীয় ceramic সামগ্রী | ৬০ |
+| ৬৯.১১ | সকল এষ্ট.এস.কোড | চীনামাটি বা পোর্সেলিনের টেবিলওয়্যার ও platter, kitchen ওয়্যার ও অন্যান্য গৃহস্থালী এবং ornament সামগ্রী | ৫০ |
+| ৬৯.১২ | ৬৫২২.০০ | সিরামিকের টেবিলওয়্যার ও platter, kitchen ওয়্যার ও অন্যান্য গৃহস্থালী সামগ্রী | ৫০ |
+| ৬৯.১৩ | সকল এষ্ট.এস.কোড | Statuettes and other ornamental ceramic articles. | ৬০ |
+| ৬৯.১৪ | সকল | অন্যান্য সিরামিক সামগ্রী | |
+অতিরিক্ত প্রযোজ্য করারোপের হার
+| ৯০.২২ | ৭০0২.০০.০০ | হ্রাস টি divul | ২০ |
+|---|---|---|---|
+| ৯০.০০ | ৭০0৩.৯৯.০০ | সম্পূর্ণরূপে ব্যবহৃত নন-ওষাদ্বীয় কীট আকারে কাঁচ চামড়া অথবা রোল গ্রাস (যেমন, স্পঞ্জ/এয়ারওয়েভ/প্যাডেড রিজেক্টর) হস্তুক বা না হস্তুক | ২০ |
+| | ৭০0৬.১৯.০০ | অন্যান্য কাঁচ অথবা রোল গ্রাস নন-ওষাদ্বীয় কীট | ২০ |
+| | ৭০0৬.২০.০০ | কাঁচ অথবা রোল গ্রাস ওষাদ্বীয় কীট | ২০ |
+| | ৭০0৬.৩০.০০ | কাঁচ অথবা রোল গ্রাস প্রোসেসডস্ | ২০ |
+| ৯০.০৪ | সকল | হ্রাস গ্রাস এবং রোল গ্রাস কীট, এয়ারওয়েভ থাকুক বা না থাকুক, রিজেক্টর হস্তুক বা না হস্তুক | ২০ |
+| ৯০.০৫ | সকল | কীট আকারে কোট গ্রাস এবং সারফেস ওয়াইড বা পলিড গ্রাস, স্প্রেক্লুট, প্রিন্টেড বা প্রিন্টেশন হস্তুকত্বযুক্ত বা না হস্তুক, অন্য কোন কাজ করা নয় | && |
+
+[[page 30]]
+২০স্কট
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| সংস্থা (Heading) | Наивকরণ কোড (H.S. Code) | (Description of Goods) | (%) |
+| | | | |
+| ৭০.০৬ | ৭০0৬.০০.০০ | Edge-worked glass | ২০ |
+| ৭০.০৭ | ৭০0৭.৯৯.৯০ | Other tempered safety glass | ২০ |
+| | ৭০0৭.৯৯.০০ | Other laminated safety glass | ২০ |
+| ৭০.০৮ | ৭০0৮.৯৯.৯০ | ফ্লেক্সিবল অন্যান্য বাঁকের গ্লাস | ২০ |
+| | ৭০0৮.৯৯.৫০ | ফ্রেমযুক্ত অন্যান্য বাঁকের গ্লাস | ২০ |
+| ৭০.১০ | ৭০১০.৪০.০০ | কার্বয়ে, বোতল, ফ্ল্যাস্কে, জার, পট, ফিয়াল এবং অন্যান্য কন্টেইনার, গ্লাসের তৈরি যা পণ্য পরিবহন বা প্যাকিংয়ের জন্য অথবা সংরক্ষণের জন্য ব্যবহৃত হয় | ২০ |
+| ৭০.১১ | সকল ওঠ/ওপ/পে/ওঠ | টেবিল, চেয়ার, রান্নাঘর, ক্যাবিনেট, অফিস, ইনডোর ডেকোরেশন অথবা এম্বেডেড উৎপাদন পদার্থের | ৪% |
+উপभोক্তি নীচের টেক্সটগণ (৭০.১০ ও ৭০.১৮)
+শ্রেণি এবং পণ্য ব্যতীত)
+
+| ৭০.১৬ | সকল | Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multi-cellular or foam glass in blocks, panels, plates, shells or similar forms. | ২০ |
+|---|---|---|---|
+| ৭০.১৮ | ৭০১৬.০০ | Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass small wares | ২০ |
+| ৭১.০২ | ৭১০২.১০.০০ | অপসুট ক্লিয়া | ২০ |
+| | ৭১০২.৩১.০০ | শস্য ক্লিয়া | ৬0 |
+
+[[page 31]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম/ | সমন্বয়পূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+| : | : | : | : |
+| সংস্থা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | শতকরা হার (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৭২.১৭ | সকল এইচ.এস.কোড | থাইবেটন ভূজগোলি | ২০ |
+| ৭২.২০ | সকল এইচ.এস.কোড (৭২৬.০০.৫০ ব্যতীত) | Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel. | ৪৫ |
+| ৭২.৯৮ | সকল এইচ.এস.কোড | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling. | ৪৫ |
+| | | (ঘুমন্ত এপিটি) সিলিন্ডারের ভাব ও বাঁক উৎপাদনকারী প্রতিষ্ঠানের কাঠামো হিসাবে এইaceous | |
+কোড: ৭৯২৯.৯৯.০০ এর অধীন Carbon steel
+S20C/SAE 1020 (42mmRD) annular
+(ক্ষেত্র ব্যতীত)
+
+৭৯.১৫ | সকল | Other bars and rods of iron or non- | ৪৫
+ অষ্টচ,অসং,কোড | alloy steel. Of free-cutting steel, not |
+ | further worked than cold-formed or |
+ | cold-finished 
+
+৭৯.১৬ | সকল | Angles, shapes and sections of iron or | ২০
+ অষ্টচ,অসং,কোড | non-alloy steel. |
+
+৭৯.০০ | | কাঁচা আয়রনের তৈরি টিউব পাইপস | ২০
+৭৯.০৪ | | আগুনের অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন | ২০
+ | পাইপ: ইউনিয়নের যায় দড়ি অথবা তার নিয়ে | 
+৭৯.০৪ | | আগুনের অথবা গ্যাসের তৈরি অন্যান্য টিউব, পাইপ | ২০
+ | এবং সেফটি প্রোটেকশন, সিমলেস (Seamless) |
+৭৯.০৬ | | আগুনের অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন | ২০
+ | পাইপ: ইউনিয়নের যায় দড়ি অথবা তার নিয়ে | 
+৭৯.০৬ | | আগুনের ও গ্যাসের টিউব এবং কাজে ব্যবহৃত কঠিন | ২০
+ | এবং টিউবিং (ইউনিয়নের যায় দড়ি অথবা তার |
+ | নিয়ে)
+
+[[page 32]]
+Bangladesh Gazette, Extraordinary, প্রথম খণ্ড, ২০১৯
+
+| শিরোনাম | শুল্ক্কণন কোড | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| বর্ণনা | (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| 900৬.৩০.০০ | Other, welded, of circular cross-section of iron or non-alloy steel | ২০ |
+| 900৬.৪০.০০ | Other, welded, of circular cross- section, of stainless steel | ২০ |
+| 900৬.৫০.০০ | Other, welded, of circular cross- section, of other alloy steel | ২০ |
+| 900৬.৬০.০০ | Other, welded, of non-circular cross- section of square or rectangular cross- section | ২০ |
+| 900৬.৭০.০০ | Other, welded, of non-circular cross- section of other non-circular cross- section | ২০ |
+9006.30.00 | Other, welded, of non-circular cross | ২০
+| section: Other |
+9009.39 | 9009.39.00 | GI Fittings | ২০
+| | 9009.39.00 | |
+| | 9009.39.00 | |
+9039 | 9039.00.00 | Nails, Tacks, Drawing Pins of | ২০
+| iron/steel |
+9036 | 9036.31.00 | Coach screws | ২০
+| | 9036.35.00 | Other wood screws | ২০
+| | 9036.39.00 | Screw hooks and screw rings | ২০
+| | 9036.38.00 | Self-tapping screws | ২০
+| | 9036.36.50 | Other screws and bolts flus type tower | ২০
+| bolt imported by Industrial IRC holder |
+| VAT compliant fire-resistant door |
+| manufacturers |
+| | 9036.37.50 | Other Screw | ২০
+| | 9036.36.00 | Threaded Nuts of Iron/Steel | ২০
+
+[[page 33]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (%) |
+| | | Other Screw | ২০ |
+| ৯২.২০ | ৭০১৫.১৯.০০ | Leaf-springs and leaves therefore | ২০ |
+| ৯২.২২ | ৭০২২.১১.০০ | গ্যাস জ্বালানীর উপযোগী বা গ্যাস এবং অন্যান্য উভয় জ্বালানীর উপযোগী রান্নার তৈজসপত্র এবং সংশ্লিষ্ট সরঞ্জাম | ২০ |
+| | | Table/kitchenware of stainless steel | ২০ |
+| ৯২.২৩ | ৭০২৬.৯৩.০০ | | |
+| | ৭০২৬.৯৪.০০ | | |
+| | ৭০২৬.৯৬.০০ | | |
+| ৯২.২৪ | সকল এইচও.এস.কোড | স্টেইনলেস স্টীলের শিক্ষক, ওয়াইন বেশির্নিষ্ট উদাহরণ ব্যতীত*, ওয়াইটার কাপ এবং Bathroom এর অন্যান্য ফিটনেস ও ফিক্সার | ২০ |
+98.১৮ | 985৮.২০.০০ কনসাইনার তৈরি সেন্ডারি ওয়্যার ও তার সহ্লাৎ | ২০
+98.৬৭ | ৯৬০৯.২০.১০ শেয়ার/শেয়ার বোর্ড দ্বারা ব্যাked (Backed) | ২০
+ অ্যালুমিনিয়াম ক্ষয়েন, রঙ্গিন হস্তক বা না হস্তক, রোল/রিিল/রবিন আকারে
+98.৬৭ | ৯৬০৯.২০.২৯ অন্যান্য ব্যাked (Backed) অ্যালুমিনিয়াম ক্ষয়েন, | ২০
+ রঙ্গিন হস্তক বা না হস্তক, রোল/রিিল/রবিন আকারে
+98.৬8 | ৯৬08.২০.০০ অ্যালুমিনিয়াম সার্নিটারি ওয়্যার ও যন্ত্রাংশ | ২০
+৮২.৯২ | ৮২১২.২০.০০ রেজার | ২০
+৮২১২.২০.ও | স্টেবল্লেস শীল গ্রেড | ২০
+৮২১২.২০.ও | অন্যান্য | ২০
+৮২১২.২০.০০ | রেজার পার্টস | ২০
+৮৩.০5 | লক | ২০
+ Padlocks and locks (key, combination |
+ electrically operated), of base metal; |
+ clasps and frames with clasps, |
+ incorporating locks, of base metal, |
+ keys for any of the foregoing articles, |
+ of base metal.
+৮৩.০5 | ৮৩০5.২০.ও Other Stoppers | ∞
+
+[[page 34]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২৩
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা | নামকরণ কোড (H.S. Code) | | শতকরা |
+| (১) | (২) | (৩) | (%) |
+| ৳ও.৩৭ এবং ৳ও৭.০৮ | ৳ও৭.০০.১০ | দৃষ্টীয়ৈক বিশিষ্ট অতোয় রিবা/ত্বি ইলাইনের ইঞ্জিন | ২০ |
+| | ৳ও৭.০০.২০ | | |
+| | ৳ও৭.০০.৩০ | | |
+| | ৳ও৮.২০.১০ | | |
+| | ৳ও৭.০০.১০ | দৃষ্টীয়ৈক বিশিষ্ট অতোয় রিবা/ত্বি ইলাইনের ইঞ্জিন | ২০ |
+| | ৳ও৭.০০.২০ | | |
+| | ৳ও৭.০০.৩০ | | |
+| | ৳ও৮.২০.১০ | | |
+| ৳ও.৯৯ | ৳ও৮.২৫.০০ | সংক্রিয় বা তার নিয়ন্ত্রিত টেবিল, চেয়ার, বেড, ওয়্যারাল, শেলিং, ইউটিলিটি, জানালা ও ছাদের ফ্যান | && |
+| ৳ও৯.১০ | ফ্যাশন এবং সরঞ্জাম | && |
+৮৫.১৫
+
+৮৫.১৫.১০.০০ অতিরিক্তোলিত পণ্যমূল্য এবং উব্ধতা ও adjusta 
+ পারিবর্তন এবং সংশ্লিষ্ট সম্বলন, adjusta পৃথকভাবে | ১০০
+৮৫.১৫.২০.০০ নিরাপত্তা হ্রাস না এইরূপ বৈশিষ্ট্যের ফলাফল হতে | 
+৮৫.১৫.৩০.০০ নিরাপদকারী যন্ত্র | 
+৮৫.১৫.৪০.০০ 
+ যন্ত্রাংশ: 
+৮৫.১৫.৫০.০০ ইনজেক্টর ও paraphernalia ইউনিট | 
+
+৮৫.১৫.৬০.০০ অন্যান্য যন্ত্রপাতি | 
+৮৫.১৮ সকল রেফ্রিজারetor, ফ্রিজার এবং সমজাতীয় পণ্য; হিট | 
+ পাম্প; রেফ্রিজারetor facilities | 
+(৮৫১৮.০০.১০) 
+(৮৫১৮.০০.২০) 
+(৮৫১৮.০০.৩০) 
+(৮৫১৮.০০.৪০) 
+(৮৫১৮.০০.৫০) 
+ পাম্প) | 
+
+৮৫.২১ ৮৫২১.৭০.০০ ফ্যানটার | 
+ ৮৫২১.৭২.০০
+
+[[page 35]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ণ্ঠ.০8 | ণ্ঠ08.¥2.00 | Other transformer having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA | ২০ |
+| | ণ্ঠ08.¥9.00 | Other transformer having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA | ২০ |
+| ণ্ঠ.০৬ | ণ্ঠ08.¥2.00 | ম্যাঙ্গানিজ ড্রাই অক্সাইড ব্যাটারি | ২০ |
+| | ণ্ঠ08.¥2.00 | Mercuric oxide battery | ২০ |
+| | ণ্ঠ08.¥2.00 | Silver oxide battery | ২০ |
+| | ণ্ঠ08.¥2.00 | Lithium battery | ২০ |
+| | ণ্ঠ08.¥2.00 | Air-zinc battery | ২০ |
+| | ণ্ঠ08.¥2.00 | Other primary cells and primary batteries | ২০ |
+৮৫.০৭ | ৮৫০৭.১০.০০ | lead acid battery ও ইলেকট্রিক аккумулялятор | ২০
+| ৮৫০৭.২০.০০ | Other lead acid accumulators | ২০
+৮৫.০৯ | ৮৫০৯.৪০.০০ | Blender, Mixer and Grinder | ২০
+৮৫.১০ | ৮৫০৯.৯০.০০ | Shavers | ২০
+| ৮৫০৯.২০.০০ | Hair clippers | ২০
+| ৮৫০৯.৩০.০০ | Hair-removing appliances | ২০
+৮৫.১১ | ৮৫০৯.৬০.০০ | Microwave ovens | ২০
+| ৮৫০৯.৭০.০০ | Other ovens; cookers, cooking plates, | ২০
+boiling rigs, grillers and roasters
+৮৫.১১ | ৮৫০৯.৯০.০০ | গরম, ঝোলা, বাষ্পে ভাঁজ, রোস্টন ইত্যাদি | ২০
+দশা চালিত সাইল্ড রেকম্বিং বা রিফ্রজিডেটিং
+অ্যাপ্লায়েন্স, সম্পূর্ণ তৈরি
+৮৫.১১.৭০.০০ | টিনড বেকন (বেকন-স্টেক), সম্পূর্ণ তৈরি | ২০
+৮৫.১১.৮০.০০ | অন্যান্য সাইল্ড রেকম্বিং বা রিফ্রজিডেটিং অ্যাপ্লায়েন্স | ২০
+(যোগাযোগিক, এনার্জিক্যাল অথবা সেমিকন্ডাক্টর
+লিমিটা ব্যবহারকারী), সম্পূর্ণ তৈরি
+৮৫.১১.৯০.০০ | অন্যান্য সাইল্ড রেকম্বিং বা রিফ্রজিডেটিং অ্যাপ্লায়েন্স, | ২০
+সম্পূর্ণ তৈরি
+
+[[page 36]]
+২০ gaps
+
+বাংলাদেশ কোড, অক্টোবর, জুন ৩০, ২০২২
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা | নাম্বর কোড (H.S. Code) | (Description of Goods) | শতকরা শুল্ক (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৳ gaps | সকল এইচ.এস.কোড | ভিডিও রেকর্ডির বা রিপ্রোডিউসিং এর যন্ত্রপাতি, ভিডিও টেলিযোগাযোগ সরঞ্জাম বা না-ইলেক | ২০ |
+| ৳ gaps.৯২ | ৳ gaps¥.৯২.০০ | লোডেড প্রিন্টেড সার্কিট বোর্ড (ঋ gaps.৯২ 해당하는 পণ্যের জন্য) | ২০ |
+| ৳ gaps.৯৩ | ৳ gaps¥.৯৩.০০ | স্মার্ট কার্ড | ১০ |
+| ৳ gaps.৯৭ | ৳ gaps¥.৯৭.০০ | রেকর্ড সহ ভিডিও কাজ সেট প্রোগ্রাম, সম্পূর্ণ তৈরি | ২০ |
+| ৳ gaps.৯৮ | ৳ gaps¥.৯৮.০০ | সাউন্ড রেকর্ডির বা উৎপাদনের যন্ত্র সংযোজিত মোটরযানীয় ব্যবহার উপযোগী ধারকের শক্তি ছাড়া চালনাক্ষম নহে এইরূপ রেকর্ডিং সম্প্রচার গ্রাহ্যব্য, recording television বা recording টেলিযোগাযোগ প্রযুক্তির সকল যন্ত্রসহ সাউন্ড রেকর্ডির বা সাউন্ড রিপ্রোডিউসিং যন্ত্রপাতি সম্পূর্ণ তৈরি | ১০ |
+| ৳ gaps.৯৯ | ৳ gaps¥.৯৯.০০ | সাউন্ড রেকর্ডির বা উৎপাদনের যন্ত্র সংযোজিত | ১০ |
+barriers শক্তি হ্রাস চলনক্ষম এইরূপ অন্যান্য |
+বৈদ্যুতিক সরঞ্জাম গ্রাহক যন্ত্র, বৈদ্যুতিক ফিক্সচার বা |
+বৈদ্যুতিক উপরিভাগ হিসাবে সক্ষম সরঞ্জাম; সাইল্ড |
+কেরెక్టర్ বা সাউন্ড পুনঃ উৎপাদনক্ষম যন্ত্রপাতিসহ |
+৮৫.২৮ ৮৫২৬.৭২.০০ অডিও টেলিফোন | ২০
+৮৫.২৯ ৮৫২৬.৯০.২১ বিদ্যুৎ তাড়িত ফ্রিকোয়েন্সি পার্টিস (বৈদ্যুতিক উৎপাদনকারী |
+ শিল্প ব্যতীত অন্যান্য আমদানীনি ক্ষেত্রে) | ২০
+৮৫২৬.৯০.৯১ বৈদ্যুত্ত্রিয়টেড সলিড বোর্ড ৮৫.২৭ এবং ৮৫.২৮ | 
+ শ্রেণীভুক্ত সরঞ্জাম দ্রব্য - (অডিও রেকর্ডিং ডিস্ক |
+ উৎপাদনকারী প্রতিষ্ঠান কর্তৃক আমদানীনি ক্ষেত্রে) | 
+৮৫২৬.৯০.৯৯ বৈদ্যুত্ত্রিয়টেড সলিড বোর্ড ৮৫.২৭ এবং ৮৫.২৮ | ২০
+ শ্রেণীভুক্ত সরঞ্জাম দ্রব্য (অন্যান্য আমদানীনিشارك |
+ কর্তৃক আমদানীনিকেত) | 
+৮৭.০৬ ৮৭২৬.৪০.০০ Other switches | ২০
+ ৮৭২৬.৬১.০০ Lamp-holders | ২০
+ ৮৭২৬.৬২.০০ Plugs and sockets | ২০
+ ৮৭২৬.৭০.০০ Connectors for optical fibres, optical | ২০
+ fibre bundles or cables | 
+ ৮৭২৬.৯০.১০ Other apparatus | ১০
+ ৮৭২৬.৯০.২০
+
+[[page 37]]
+বাংলাদেশ কোড, এটিরিজ, জুন ৩০, ২০২২
+২০ sector
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | শুল্কহার (%) |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৮৫.৬৬ | 6805.22.00 | Tungsten halogen | ২০ |
+| | 6805.22.00 | অ্যালুমিনিও/সিলিকন/বোরন লাম্প ব্যতীত অন্যান্য | ২০ |
+| | 6805.22.50 | ফিলামেন্ট লাস্প: অন্যান্য | |
+| | 6805.32.00 | এনার্জি সেভিং লাস্প ব্যতীত অন্যান্য ফ্লুরোসেন্ট, হট | ৪0 |
+| | | ক্যাটায়োড লাম্প | |
+| | 6805.90.00 | ফ্রিক্টেড পাইলেট লাস্প ও পরীক্ষাভাবে ব্যবহৃত | ২০ |
+| | 6805.90.50 | লাস্প ব্যতীত অন্যান্য মার্কারী, সোডিয়াম বা মেটাল | |
+| | | হ্যালাইড লাম্প | |
+| ৮৫.৬২ | 6805.95.00 | সিম কার্ড | ২০ |
+| ৮৫.৪০ | 6405.80.00 | Electronic cigarettes and similar | ১০০ |
+| | | personal electric vaporising devices | |
+৮৫০৯.২০.১০ Parts of electronic cigarettes and | ১০০
+similar personal electric vaporizing | 
+devices | 
+
+৮৫.৪৪ | ৮৫৪৪.১৯.০০ বৈদ্যুতিক সরঞ্জাম: অন্যান্য | ২০
+| ৮৫৪৪.২০.০০ দি-অ্যাক্সিয়াল (co-axial) তার এবং অন্যান্য দি- | ৫০
+অ্যাক্সিয়াল (co-axial) বৈদ্যুতিক সরঞ্জাম | 
+| ৮৫৪৪.৪১.০০ Other electric conductors for a voltage | ২০
+not exceeding 1,000 V fitted with | 
+connectors | 
+| ৮৫৪৪.৭৬.০০ Optical fibre cables | ২০
+| ৮৫৪৫.১০.০০ অপটিক ফাইবার, ঝালাইবিহীন তার এবং ইনপেকশন | ২০
+কালে ব্যবহৃত অন্যান্য পণ্য | 
+
+৮৭.০২ | ৮৭ persistence.08 Human hauler | ৫০
+| ৮৭ persistence.08 Microbus, having a seating capacity | ২০
+not exceeding 15, including the driver | 
+| ৮৭ persistence.১০.০০ Motor vehicles built-up, having a | ২০
+seating capacity not exceeding 15, | 
+including the driver |
+
+[[page 38]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| 69.00 | সংশ্লিষ্ট | মোটর গাড়ী এবং অন্যান্য موتورগযান, যেমন ওয়ানmäß: | |
+| | অংশ,ও.এস্.কোড | (১) ইঞ্জিনসহ অটো রিয়ার/ফ্রন্ট হুইলর | ২০ |
+| | | (২) সম্পূর্ণ তৈরি ইঞ্জিনসহ চার চक्का বিশিষ্ট সিনঞ্জি ও ব্যাটারি চালিত অটো রিয়ার/ফ্রন্ট হুইলর | ২০ |
+| | | (৩) ইলেকট্রিক ব্যাটারি চালিত মোটর গাড়ী | ২০ |
+| | | (৪) সম্পূর্ণ তৈরি মোটর গাড়ী ও অন্যান্য موتورগযান, যেমন ওয়ানmäß (হার্জিড موتورগযান), এয়াপ্লাপ এবং ইলেকট্রিক ব্যাটারি চালিত মোটর গাড়ী ব্যতীত; | |
+| | | (ক) সিলিন্ডার ক্যাপাসিটি ১800 সিসি পর্যন্ত (মাহিকোবাস ব্যতীত) | 80 |
+| | | (খ) সিলিন্ডার ক্যাপাসিটি ১800 থেকে 2000 সিসি পর্যন্ত (মাহিকোবাস ব্যতীত) | 300 |
+(গ) relinquish কোম্পানিটি ২০০০ টিভি থেকে ৩০ removes
+| ২৫০
+(ঘ) relinquish কোম্পানিটি ৩০ removing থেকে ৪০ removes
+| ৫০০
+(ঙ) relinquish কোম্পানিটি ৪০ removes এবং উপরে
+| ৫০০
+(চ) relinquish কোম্পানিটি ১৫০০ টিভি পর্যন্ত
+| ২০
+মাইক্রোবাস
+(ছ) relinquish কোম্পানিটি ১৫ removing থেকে ২০০০
+| &&
+টিভি পর্যন্ত মাইক্রোবাস
+বি気づত (সিক্রেটি) মোটর গাড়ি, موتور যান, স্টেশন
+ওয়গন ও জীপ গাড়ি সহ:
+(ক) relinquish কোম্পানিটি ১৫ removing পর্যন্ত
+| ২০
+(খ) relinquish কোম্পানিটি ১৫ removing থেকে ২০০০
+| &&
+টিভি পর্যন্ত
+
+[[page 39]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+২০ loopholes
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| (১) | (২) | (৩) | (৪) |
+| 69.00 | সংশ্লিষ্ট | সম্পূর্ণ তৈরি হাতবিহীন মোটর গাড়ি ও অন্যান্য মোটরযান, যেমন ওয়্যারস্কেস: | |
+| | এ25, এপ, কো16 | (ক) সিলিন্ডার ক্যাপাসিটি ১৬০০ সিসি পর্যন্ত (মাহেকোবাস ব্যতীত) | ২০ |
+| | | (খ) সিলিন্ডার ক্যাপাসিটি ১৬০০ সিসি হইতে ২০০০ সিসি পর্যন্ত (মাহেকোবাস ব্যতীত) | ৪2 |
+| | | (গ) সিলিন্ডার ক্যাপাসিটি ২০০০ সিসি হইতে ২৫০০ সিসি পর্যন্ত (মাহেকোবাস ব্যতীত) | ৮০ |
+| | | (ঘ) সিলিন্ডার ক্যাপাসিটি ২৫০০ সিসি হইতে ৩০০০ সিসি পর্যন্ত (মাহেকোবাস ব্যতীত) | ১00 |
+| | | (ঙ) সিলিন্ডার ক্যাপাসিটি ৩০00 সিসি হইতে ৪000 সিসি পর্যন্ত (মাহেকোবাস ব্যতীত) | ১20 |
+(ঙ) সিলিংভার ক্যাপাসিটি ৪000 বেশি এর উপরে | ৩৫0
+(মাইনোক্লাস ব্যতীত)
+
+(চ) সিলিংভার ক্যাপাসিটি ১৮০০ বেশি পর্যন্ত | o
+মাইক্রোবাস
+
+(ছ) সিলিংভার ক্যাপাসিটি ১৮০০ হতে ২০০০ বেশি | ৬০
+পর্যন্ত মাইক্রোবাস
+
+(জ) সিলিংভার ক্যাপাসিটি ২০০০ বা তদুর্দ্ধি | ৫০
+মাইক্রোবাস
+
+b4.08 সংশ্লিষ্ট সম্পূর্ণ ভেতরের ন্যূনতম তার দরজা বিশিষ্ট কেবল কেবিন |
+এইচ,এম, কোড পিকআপ:
+
+সিলিংভার ক্যাপাসিটি ১৮০০ বেশি পর্যন্ত | ৪৫
+সিলিংভার ক্যাপাসিটি ১৮০০ হতে ২০০০ বেশি পর্যন্ত | ৫০
+সিলিংভার ক্যাপাসিটি ২০০০ হতে ৩০00 বেশি | ৬০
+পর্যন্ত
+সিলিংভার ক্যাপাসিটি 3000 হতে ৪000 বেশি পর্যন্ত | ৩৫০
+সিলিংভার ক্যাপাসিটি ৪000 বেশি এর উপরে | ৫০০
+
+[[page 40]]
+২০с/в
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| সংখ্যা (Heading) | নামকরণ (H.S. Code) | (Description of Goods) | (Rate) |
+| 87.06 | সংশ্লিষ্ট | | |
+| | এছ.এস. কোড | Chassis fitted with engines, for the motor vehicles of headings 87.03: | |
+| (১) দুই চक्का বিশিষ্ট অটো रिक्শা/ থ্রি হুইলারের ফর্টিফাইড চেসিস | | | ২০ |
+| (২) চার चक्का বিশিষ্ট অটো रिक्শা/ থ্রি হুইলারের ফর্টিফাইড চেসিস | | | ২০ |
+| (৩) সিলিন্ডার ক্যাপাসিটি ১৫০০ সিসি পর্যন্ত মাইক্রোবাস | | | ২০ |
+| (৪) সিলিন্ডার ক্যাপাসিটি ১৫০০ সিসি হইতে ২০০০ সিসি পর্যন্ত মাইক্রোবাস | | | ৪০ |
+| (৫) অন্যান্য মোটর गाड़ी, موتور যান, স্টেশন ওয়াগন ও ஜீপ গাড়িসমূহ | | |
+(ক) সিলিন্ডার ক্যাপাসিটি ১৬০০ টিভি পর্যন্ত
+
+(খ) সিলিন্ডার ক্যাপাসিটি ১৬০০ টিভি থেকে ২০০০
+টিভি পর্যন্ত
+
+(গ) সিলিন্ডার ক্যাপাসিটি ২০০০ টিভি থেকে ৩০০০
+টিভি পর্যন্ত
+
+(ঘ) সিলিন্ডার ক্যাপাসিটি ৩০00 টিভি থেকে ৪০০০
+টিভি পর্যন্ত
+
+(ঙ) সিলিন্ডার ক্যাপাসিটি 4000 টিভি এর উপরে
+
+৮৭.০৬ সংশ্লিষ্ট
+Chassis fitted with engines, for the
+double cabin pick-up of headings 87.04 :
+ eighty, এম, কোড
+(ক) সিলিন্ডার ক্যাপাসিটি ১৬০০ টিভি পর্যন্ত
+
+(খ) সিলিন্ডার ক্যাপাসিটি ১৬০০ টিভি থেকে ২০০০
+টিভি পর্যন্ত
+&&
+
+(গ) সিলিন্ডার ক্যাপাসিটি ২০০০ টিভি থেকে ৩০০০
+টিভি পর্যন্ত
+
+(ঘ) সিলিন্ডার ক্যাপাসিটি ৩০00 টিভি থেকে ৪০০০
+টিভি পর্যন্ত
+
+(ঙ) সিলিন্ডার ক্যাপাসিটি 4000 টিভি এর উপরে
+
+[[page 41]]
+বাংলাদেশ কোષ્ટী, অতিরিক্ত, জুন ৩০, ২০২২
+২০ sectors
+
+| শিরোনাম | সাজested নাম্বাক্স কোড (H.S. Code) | পণ্যের বিবরণ (Description of Goods) | সম্পূরক শুল্কহার (%) |
+|---|---|---|---|
+| (১) | (২) | (৩) | (৪) |
+| ৮৭.০৭ | ৮৭09.১০.০০ | Bodies for the vehicles of heading 87.03 | ৪৫ |
+| ৮৭.১১ | | Motorcycles, in CBU with four-stroke engine: | |
+| | ৮৭১১.২০.১ | (ক) সিলিন্ডার ক্যাপাসিটি ৪০ টিভি পর্যন্ত | ৬০ |
+| | ৮৭১১.২০.২ | (খ) সিলিন্ডার ক্যাপাসিটি ৫১ টিভি হতে ২৫০ টিভি পর্যন্ত | |
+| | ৮৭১১.২০.৩ | | |
+| | ৮৭১১.২০.৪ | | |
+| | ৮৭১১.২০.৫ | | |
+| | ৮৭১১.২০.৬ | | |
+| | ৮৭১১.২০.৭ | | |
+| | ৮৭১১.২০.৮ | | |
+| | ৮৭১১.৩০.০০ | (গ) সিলিন্ডার ক্যাপাসিটি ২৫১ টিভি হতে ৫০০ টিভি পর্যন্ত | ১০০ |
+| | ৮৭১১.৩০.১০ | | |
+| | ৮৭১১.৩০.১১ | | |
+৮৭৯৩.৪০.১০ (খ) সিলিন্ডার ক্যাপাসিটি ৫০ সিসি হইতে ১০০
+ সিসি পর্যন্ত | ৩০০
+৮৭৯৩.৪০.১০ (গ) সিলিন্ডার ক্যাপাসিটি ১০০ সিसीसी এর উপরে | ২০০
+৮৭৯৩.৫০.২০ 
+
+Motorcycles, in CKD with fourstroke engine:
+৮৭৯৩.৫০.২২ (ক) সিলিন্ডার ক্যাপাসিটি ৫০ সিসিসি পর্যন্ত | ২০
+৮৭৯৩.৫০.২২
+৮৭৯৩.৫০.২৪ (খ) সিলিন্ডার ক্যাপাসিটিies 65 সিसीसी হইতে ২৫০ সিসিসি
+ পর্যন্ত
+৮৭৯৩.৫০.৪৪
+৮৭৯৩.৫০.৪৮
+
+Motorcycles, in CBU/CKD with
+Two-stroke engine :
+৮৭৯৩.১০.১৯ (ক) সিলিন্ডার ক্যাপাসিটি ৫০ সিসিসি পর্যন্ত | ২৫০
+৮৭৯৩.১০.১৯
+৮৭৯৩.১০.১৯
+
+[[page 42]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা | নামজারী কোড (H.S. Code) | (Description of Goods) | শতকরা |
+| (d) | (e) | (f) | (g) |
+| | | (খ) সিলিন্ডার ক্যাপাসিটি 65 লিটার হতে ২৫০ লিটার পর্যন্ত | |
+| | b933.20.14 | | |
+| | b933.20.24 | | |
+| | b933.20.64 | | |
+| | b933.20.65 | | |
+| | b933.20.70 | (গ) সিলিন্ডার ক্যাপাসিটি 200 লিটার হতে 800 লিটার পর্যন্ত | |
+| | b933.80.20 | (ঘ) সিলিন্ডার ক্যাপাসিটি 800 লিটার হতে ১০০০ লিটার পর্যন্ত | |
+| | b933.80.20 | (ঙ) সিলিন্ডার ক্যাপাসিটি ১০০০ লিটার এর উপরে | |
+| b933.00.00 | | অব্যাহিক বাই-সাইকেল ও অন্যান্য সাইকেল (বৈদ্যুতিক ট্রাইসাইকেলসহ) | ২০ |
+৬৭.৩৪ | ৮৭১২৪.১০.২০ মোটর সাইকেলের চুরোন ট্রাক | ২০
+| ৮৭১২৪.১১.২০ একাধিক বাই-সাইকেল ও অন্যান্য সাইকেলের চাকায় | ২০
+| রিং ও স্পোক
+৯০.০০ | ৯০৩০১.১০ Frames and mountings for spectacles, | ১০
+| goggles or the like
+৯০.০৪ | সকল | ১০
+| এইচ.এস.কোড Spectacles, goggles and the like, | 
+| corrective protective or other
+৯০.০২ | ৯০০২.০০.২০ রিফ্লেক্স ও স্পেশাল অন্যান্য | ১৫0
+৯০.০৬ | অন্যান্য আসবাব | ১০০
+| ৯০00১.১০.২০
+| ৯০00১.২০.২০
+| ৯০00১.৩০.২০
+| ৯০00১.৪০.২০
+৯০.০৪ | ৯০08.০০.২০ অন্যান্য অস্ত্র ও যন্ত্র কিếpলেশন কর্তৃক আমদানিকৃত | ১০০
+| match weapon ব্যতীত অন্যান্য অস্ত্র
+৯০.০০ | সকল | ৯০.০৯ থেকে ৯০.০৪ হেডিংভূক্ত পণ্যের অন্যান্য | ১০০
+| এইচ.এস.কোড accessories
+
+[[page 43]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনামা | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক |
+|---|---|---|---|
+| সংখ্যা | নামকরণ (H.S. Code) | (Description of Goods) | শতকরা |
+| (১) | (২) | (৩) | (%) |
+| ৯০.০৬ | সকল | বোনা, বোরাদ, টেপেসী, লাইন, নিডেল এবং সমজাতীয় মোলার বাব্দ (প্ল্যটি ফেরোজন থেকে আমদানিকৃত স্পেশাল গালার বাব্দ ব্যতীত) | ১০০ |
+| ৯০.০৭ | ৯০.০৭.০০.৯০ | তরবারি, ছোরা, সিলিন, ধামা এবং সমজাতীয় পণ্যে আমাদানি | ১০০ |
+| | | | |
+| ৯৪.০২ | &&&২.২০.১০ | Seats of a kind used for motorcycle | ২০ |
+| | &&&২.১১.০০ | Swivel seats with variable height adjustment | && |
+| | &&&২.১১.৩০ | Other seats, with wooden frames | && |
+| &&&&২.৯৯.০০ | | |
+৳৪০১.৭২.০০ Other seats with metal frames | 82
+৳৪০১.৭৯.০০ | 
+৳৪০১.৮০.০০ Other seats | 82
+৳৪০১.৯৯.০০ Parts of seats : Of wood | ১০
+৳৪০১.৯৯.০০ Parts of seats : Other | ১০
+৳১৪.০০ | নকল
+এইট,প্লাস্টিক(
+৳৪০৩.২০.০০ আসবাবপত্র ও সরঞ্জাম | 
+৳৪০৩.৭০.০০ | 
+স্বর্ণিত)
+৳১৪.০৮ | ৳৪০৪.১১.০০ Mattresses of cellular rubber or | ২০
+plastics, whether not covered
+৳১৪.০৫ | ৳৪০৫.১৯.০০ Chandeliers and other electric ceiling | ৬
+or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thorough fares : Dsigned for use solely with light- emitting diod (LED) light sources
+
+[[page 44]]
+২০চঁ২
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+| শিরোনাম | সামঞ্জস্যপূর্ণ | পণ্যসমূহের বিবরণ | সম্পূরক শুল্কহার |
+|---|---|---|---|
+| (Heading) | (H.S. Code) | (Description of Goods) | (%) |
+| (১) | (২) | (৩) | (৪) |
+| ৯৪০৫.১৯.০০ | | Other electric lighting fittings | ৬০ |
+| ৯৪০৫.১৯.০০ | | Lamps and lighting fittings including searchlights and spotlights and parts thereof, elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included. | 82 |
+| ৯৪০৫.১৯.১০ | | | |
+| ৯৪০৫.১৯.২০ | | | |
+| ৯৪০৫.১৯.৩০ | | | |
+| ৯৪০৫.১৯.৪০ | | | |
+| ৯৪০৫.২০.১০ | | | |
+| ৯৪০৫.২০.২০ | | | |
+| ৯৪০৫.২১.০০ | | | |
+| ৯৪০৫.২২.০০ | | | |
+১809.৯৯, ০০
+
+| | | Description | Rate |
+|---|---|---|---|
+| ঙ্গ.০০ | ণড়ং.এষ.কেও | Tricycles, scooters, pedal cars and similar wheeled toys; dolls; carriages; dolls; other toys; reduced-size ("scale") models and similar recreational models, working or not | ২০ |
+| ঙ্গ.০৮ | ১909.80, ০০ | Playing cards | ১০ |
+| ঙ্গ.০৫ | ১909.৯৯, ০০ | Carnival or other entertainment articles | ২০ |
+| ঙ্গ.০০ | ১৬১০.১১, ০০ | (জোনাল গ্রেড সম্পন্ন প্রকার ভিন্ন ব্যপ) | ২০ |
+| ঙ্গ.১৩ | ১৬১৬.১৭, ০০ | Pocket lighters, gas fuelled, non- refillable | ১০ |
+| | | | |
+| ঙ্গ.১৩ | ১৬১৬.১৭, ০০ | Pocket lighters, gas fuelled, refillable | ১০ |
+| | | | |
+| ঙ্গ.১৩ | ১৬১৬.৮৭, ০০ | Other lighters | ১০ |
+| ঙ্গ.১৯ | ১৬১৬.০০, 0 | Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material. | && |
+| | | | ";; |
+
+[[page 45]]
+বাংলাদেশ কোডে, অতিরিক্ত, জুন ৩০, ২০২৩
+
+(খ) টবিণ-২ (পর্য্যায়ী পর্যায়ে সম্পূর্ণরূপে স্বয়ংক্রিয়ভাবে পণ্যসমূহ) এবং কলাম (১) এ উল্লিখিত।
+
+(গ) শিরোনাম সংস্থা ১১.০৫ এবং উহার বিপরীতে কলাম (১), (২) ও (৪) এ উল্লিখিত অফিসসমূহের পরিবর্তে যথাক্রমে নিম্নরূপ শিরোনাম সংস্থা এবং অফিসসমূহ প্রতিস্থাপিত হইবে, যথা:-
+
+“১১.০৫ সংশ্লিষ্ট এইচ.এন্ড. | সকল ধরনের
+কোড | authorization
+SO”;
+
+(ঘ) শিরোনাম সংস্থা ১১.০৬ এবং উহার বিপরীতে কলাম (১), (২) ও (৪) এ উল্লিখিত অফিসসমূহের পরিবর্তে যথাক্রমে নিম্নরূপ শিরোনাম সংস্থা এবং অফিসসমূহ প্রতিস্থাপিত হইবে, যথা:-
+
+১২০২.১০.০০ কার্বনেট বেসোলিজ
+১১.০৫ বাংলাদেশ মান (বিড়িও)
+উচ্চতর | অনুসারে
+নির্দ্ধারিত | মাত্রা উৎপাদন
+ scrutiny | পাওয়া সহায়তা
+কাফেইনের মাত্রা সর্বোচ্চ
+২৪৫ মিলিগ্রাম/প্রতি লিটার।
+
+২২২৫.৯৯ বাংলাদেশ মান (বিএসটিআই)
+১৯২৬-২০১৩ অনুসারে
+সংজ্ঞায়িত কাফেinated
+ beverages জন্য নির্ধারিত | ৪০°; এবং
+মাত্রার উৎপাদন অপেক্ষা
+ drinks মাত্রার উৎপাদন
+সম্বলিত পানীয়
+
+(ই) নিম্নোক্ত সংখ্যা ২৪.০২ এবং উহার বিপরীতে কলাম (১), (২) ও (ঙ) এ
+উল্লিখিত এলিমেন্টের পরিবর্তে যথাক্রমে নিম্নরূপ শিরোনাম সংখ্যা এবং
+এলিমেন্টসমূহ প্রতিস্থাপিত হইবে, যথা:—
+
+২৪.০২ | ২৫০২.২০.০০ | ডায়াক্সিজ সিঙ্গেলট | ৬৬
+| | ২৫০২.২০.০০ | ছাঁচে বা অন্যবিধ |
+| | ২৫০২.২০.০০ | পদ্ধতিতেও তৈরি বিড়ি | ৪০°; এবং
+(ফিল্টারযুক্ত, ছাঁচে বা না |
+ছাঁকে) এবং অন্যান্য
+
+[[page 46]]
+২০ drys
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+(গ) টেবিল-১ ( sewerage primary inspection schedule) এর কলাম (১) এ উল্লিখিত শিরোনামা সংখ্যা ১০২১২ এবং উহার বিপরীতে কলাম (২), (৩) ও (৪) এ উল্লিখিত अभियন্ত্রীর পরিবর্তে যথাক্রমে নিম্নরূপ শিরোনামা সংখ্যা এবং अभियত্রীর প্রত্যাশিত হইবে, যথা:-
+
+“S0212 S0212.১০” টেবিলক্রমে:
+
+ মুখ্যমান মোবাইল ফোন এর সিম্ফনি ৫০”।
+কার্ড ব্যবহারের মাধ্যমে প্রস্তুত সেবা।
+
+২০১২ সালের ৪৭ নং আইনের তৃতীয় তপশীল এর সংশোধন— উক্ত আইনের তৃতীয় তপশীল এবং—
+
+(ঘ) টেবিল-১ (“schedule” municipal inspection plan) এর কলাম (১) এর—
+
+(ঙ) শিরোনামা সংখ্যা ২০.০৫ এবং উহার বিপরীতে কলাম (২) এ উল্লিখিত সংশ্লিষ্ট এইচ.এন্ড, এম রোড এবং উহার বিপরীতে কলাম (৩) এ উল্লিখিত আমন্ত্রিত (যোগাযোগ বার) এবং উহার বিপরীতে কলাম (৪) এ উল্লিখিত
+(গ) এফিডেভিট বিলুপ্ত হইবে; এবং
+
+(ঘ)
+পরিমাণা সংস্থা ২০.০৫ এবং উহার বিপরীতে কলম (১), (৩) ও (৪)
+এ উল্লিখিত এফিডেভিট বিলুপ্ত হইবে; এবং
+
+(ঙ)
+পরিমাণা সংস্থা ১৫.০৫ এবং উহার বিপরীতে কলম (১), (৩) ও (৪)
+এ উল্লিখিত এফিডেভিট বিলুপ্ত হইবে;
+
+(ঈ)
+টেবিলে-২ (“ঋণ-ক”) - মুক্তি আরোপযোগ্য পণ্য] এবং কলম (১) এর পরিমাণা
+সংস্থা ৪৬.১০ এবং উহার বিপরীতে কলম (১), (৩) ও (৪) এ উল্লিখিত এফিডেভিট
+বিলুপ্ত হইবে;
+
+(উপ)
+টেবিলে-২ (“ঋণ-খ”) - মুক্তি আরোপযোগ্য লোণ] এবং কলম (১) এর-
+(ক) পরিমাণা সংস্থা ১০.৫০ এবং উহার বিপরীতে কলম (১), (৩) ও (৪) এ
+উল্লিখিত এফিডেভিট বিলুপ্ত হইবে; এবং
+
+(খ)
+পরিমাণা সংস্থা ৫০.২৫ এবং উহার বিপরীতে কলম (১), (৩) ও (৪) এ
+উল্লিখিত এফিডেভিট বিলুপ্ত হইবে;
+
+(ও)
+টেবিলে-৩ (“ঋণ-গ”) - মুক্তি আরোপযোগ্য লোণ] এবং কলম (১) এর-
+(ক) পরিমাণা সংস্থা ১০.০০ এবং উহার বিপরীতে কলম (১), (২), (৩) ও (৪) এ
+উল্লিখিত এফিডেভিট বিলুপ্ত হইবে;
+
+[[page 47]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০১২/১৫
+
+(গ) শিরোনাম সংখ্যা 506-ও এবং উহার পরিবর্তে কল্যাণ (১), (৩) ও (৪) এ উল্লিখিত অফিসসমূহ বিলুপ্ত হইবে;
+
+(ঘ) শিরোনাম সংখ্যা 508-ও এবং উহার পরিবর্তে কল্যাণ (১), (৩) ও (৪) এ উল্লিখিত অফিসসমূহ বিলুপ্ত হইবে; এবং
+
+(ঙ) শিরোনাম সংখ্যা 506-ও এবং উহার পরিবর্তে কল্যাণ (১), (৩) ও (৪) এ উল্লিখিত অফিসসমূহ বিলুপ্ত হইবে;
+
+(৬) টেকনিক-ও (“ফ্যাক্টরি” - সতর্ক অপরাপর্যাণা পণ্যে) এর কল্যাণ (১) এর শিরোনামা সংখ্যা তৎসহ ০.০৫ এবং উহার পরিবর্তে কল্যাণ (১), (৩) ও (৪) এ উল্লিখিত অফিসসমূহের পরিবর্তে নিম্নরূপ শিরোনামা সংখ্যা এবং অফিস प्रस्तावित হইবে, यथा:
+
+| সংশ্লিষ্ট | (ক) lessee সাহায্য ঋণ ব্যতীত তৈরি | ৫০০ টাকা |
+|---|---|---|
+| নং. 0.08 | সাধারণ ইট (নয়- bricks তৈরী) | (প্রতি ছাগলে) |
+| ই.ও.এস. | বিভিন্ন বিক্রয়, ফেন্সি ও ব্যবহৃত | |
+| код | ইট ব্যতীত | |
+(খ) বার্ষিক পদ্ধতিতে বা যন্ত্রের
+সাহায্যে তৈরি সাধারণ ইট (নন-
+রিক্লক্টরী বিশিষ্ট ব bricks), শেপিং
+ও রংকৃত ইট ব্যতীত
+(গ) যন্ত্রের সাহায্যে বা যান্ত্রিক
+পদ্ধতিতে তৈরি ইট :
+
+প্রথম গ্রেড
+(১) তিন ছিদ্র বিশিষ্ট ইট
+(২) দশ ছিদ্র বিশিষ্ট ইট
+(৩) সকলের ছিদ্র বিশিষ্ট ইট
+(৪) মাল্ট কোংক্রিট ইট
+
+দ্বিতীয় গ্রেড
+(১) তিন ছিদ্র বিশিষ্ট ইট
+(২) দশ ছিদ্র বিশিষ্ট ইট
+(৩) সকলের ছিদ্র বিশিষ্ট ইট
+
+৬০০ টাকা
+(প্রতি হাজারে)
+
+৬০০ টাকা
+(প্রতি হাজারে)
+
+[[page 48]]
+২০ gadgets
+
+বাংলাদেশ Gazette, Extraordinary, 第 90, 2028
+
+(ঘ) বিক্রয় ডিসপ্লে ৫০০ টাকা
+(প্রতি ১০০
+সিএমটি)
+
+(ঙ) বিক্রিয়া ব্যানার ৫০০ টাকা
+(প্রতি ১০০
+সিএমটি”; এবং
+
+(চ) টেবিল-৪ (“শব্দ”- পৃথক আরোপযোগ্য সেরা) এর কলাম (১) এ উল্লিখিত
+শিরোনামা সংখ্যা ১০৯২ এবং উপর ভিত্তি করে কলাম (২), (৩) ও (৪) এ উল্লিখিত
+বিভিন্নত্বের পরিবর্তে নিম্নরূপ শিরোনামা সংখ্যা ও এ premiums প্রতিস্থাপিত হইবে,
+ যথা:-
+
+“১০৯২ SO ১২.২০ সিম কার্ড বা e-SIM ৫০০ টাকা (প্রতিটি সিম
+সরবরাহকারী কার্ড বা প্রতিটি e-SIM) ”
+<start_of_image>
+
+[[page 49]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+চতুর্থ অধ্যায়
+
+আয়কর আইন, ২০২৩ (২০৩০ সালের ১৯ নং আইন) এর সংশোধন
+
+§1. ২০৩০ সালের ১৯ নং আইনে উল্লিখিত কতিপয় শব্দ ও показателей সংশোধন।—আয়কর আইন, ২০২৩ (২০৩০ সালের ১৯ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর—
+
+(ক) সর্বত্র উল্লিখিত “আইকর প্রতিষ্ঠান”, “আইকর আইনজীবী”, “আইকর প্রতিষ্ঠান” ও “আইকর প্রক্টীসিং”—শব্দগুলির পরিবর্তে যথাক্রমে “ইনকাম ট্যাক্স কোম্পানি”, “ইনকাম ট্যাক্স আইনজীবী”, “ইনকাম ট্যাক্স কোম্পানি” ও “ইনকাম ট্যাক্স প্রক্টীসিং”—শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(খ) ধারা ৬৭ এর উপ-ধারা (১) এর দফা (ক) তে উল্লিখিত “আইকর আইন,
+উদাহরণ (১৯৬০ সালের ১৯ নং আইন)” শব্দগুলি ক্ষমা, সংস্থাগুলির ও ব্যক্তির পরিবর্তে “ইনকাম ট্যাক্স আইন, ২০২৩ (২০৩০ সালের ১৯ নং আইন)” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(গ) সর্বত্র উল্লিখিত “Customs Act, 1969 (Act No. IV of 1969)”
+শব্দগুলি ক্ষমা, সংস্থাগুলির ও ব্যক্তির পরিবর্তে “কাস্টমস আইন, ১৯৬৯ (১৯৬৯ সালের ৪ নং আইন)” শব্দগুলি প্রতিস্থাপিত হইবে।
+(ঘ) ধারা ১৪২ এবং উপ-ধারা (১) এ উল্লিখিত “অধ্যারৈত অধীন” শব্দগুলির পরিবর্তে
+“আদেশের অধীন” শব্দটি প্রতিস্থাপিত হইবে;
+
+(ঙ) ধারা ১৬০ এর উপ-ধারা (৬) এ উল্লিখিত “১৯৩৭” সংখ্যাটির পরিবর্তে “১৬০”
+সংখ্যাটি প্রতিস্থাপিত হইবে;
+
+১৫। ২০২৩ সালের ২ November এর গেজেট ও২ আইনএর ধারা ৫ এবং সংশোধন ↓ উভয় আইনের ধারা ৫ এর—
+(ক) দফা (১) এ উল্লিখিত “বোর্ড” শব্দটির পরিবর্তে “কর কমিশনার”
+শব্দটি প্রতিস্থাপিত হইবে;
+(খ) দফা (১) এ উল্লিখিত “বোর্ড” শব্দটির পরিবর্তে “কর কমিশনার”
+শব্দটি প্রতিস্থাপিত হইবে;
+(গ) দফা (১১) বিলুপ্ত হইবে;
+(ঘ) দফা (১৩) এর উপ-দফা (চ) এবং পর নিম্নরূপ নূতন উপ-দফা (ছ)
+সংযোজিত হইবে, যথা:—
+“(ছ) কোনো পরিম্পষণের অভাব যাইব—
+(১) প্রাকটিকক নবে;
+(২) কোনো বার্ষিক শীঘ্র সৃষ্টি নবে;”
+
+[[page 50]]
+বাংলাদেশ কোডে, অক্টোবর, জুন ৩০, ২০২২
+
+(ই) দায় বা বন্ধকের বিপরীতে extinguish (foreclosure) মানে;
+
+(ঈ) উত্তরাধিকার, উইল, এছাড়া যা constitute ascribe মানে;
+
+(উ) বিনিময় বা তৎসঙ্গে ascribe মানে;";
+
+(৪) দফা (২৫) এর পরিবর্তে নিম্নরূপ দফা (২৫) প্রতিস্থাপিত হইবে যথা:—
+
+“(২৫) “কোম্পানী” অর্থ যেকোনো কোম্পানি এবং এ সংশ্লিষ্ট বাণিজ্য
+ইহার অন্তর্ভুক্ত হইবে, यथा:—
+
+(অ) কোনো কোম্পানির ক্ষেত্রে, উহার যেকোনো
+পরিচালক বা ব্যবস্থাপনা পরিচালক এবং পদবি
+নিষিধেয়ে ব্যবস্থাপনার সহিত সম্পর্কিত কোনো
+দায়িত্ব পালন করেন এইরূপ কোনো ব্যক্তি;
+
+(আ) কোম্পানী ব্যতীত অন্য কোনো ব্যবসার ক্ষেত্রে,
+পদবি নিষিধেয়ে ব্যবসার ব্যবস্থাপনার সহিত
+সংস্কৃতি কোনো দায়িত্ব পালন করেন এইরূপ
+কোনো ব্যক্তি;
+
+(ই) এইরূপ কোনো ব্যক্তি যিনি নিয়োগকারী হইবেন
+বেতন প্রাপ্ত হন, নিয়োগকারীর নিয়মাধীন ও
+নিয়ন্ত্রণাধীন নির্দেশনা মোতাবেক পরিচালিত হন
+এবং নিয়োগকারী কর্তৃক গঠিত সিদ্ধান্ত অনুসরণ
+করতে বাধ্য থাকেন;
+
+(ঈ) ধারা তৎ অনুযায়ী চাকরিটি হইবেন আয় প্রাপ্ত হয়
+এইরূপ সকল ব্যক্তি:
+
+তবে শর্ত থাকে যে, চা-বাগানের কোনো শ্রমিক
+এবং দিনমজুর ইহার অন্তর্ভুক্ত হইবেন না;";
+
+(চ) দফা (খ) এর পর নিম্নরূপ নূতন দফা (গ) (ঙ) ও (ছ) সংযোজিত
+হইবে যথা:-
+
+“(গ) “কর কমিশনার” অর্থ ধারা ৪ ও ৬ উল্লিখিত এবং ধারা ৭ এর
+অধীন নিযুক্ত বা পদান্বিত কর কমিশনার, মহাপরিচালক
+(কেন্দ্রীয় продажи সেল) ও মহপরিচালক (পার্সনেল);”
+
+[[page 51]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০২২/১৯
+
+(১)“কর নির্ধারণ” অর্থ এই আইনের অধীন প্রযোজ্য কর নির্ধারণ এবং পুনঃকর নির্ধারণ, অতিরিক্ত কর নির্ধারণ, অধিকতর কর নিরূপণ ও আরোপ অন্তর্ভুক্ত হইবে;
+
+(২) দশা (১) এর পর নিম্নবর্ণিত দশা (৩)(ক) সীমাবদ্ধ হইবে, যথা: -
+
+“(৩)(ক) “ট্যাক্স সেক্রিটোরি” অর্থ ট্যাক্স সেক্রিটোরি আইন, ২০১০
+(২০১০ সালের ২৬ নং আইন) এবং ধারা ২ এর দফা (৬) এ
+সংজ্ঞায়িত কোনো ট্যাক্স সেক্রিটোরি;”
+
+(জ) দশা (৪) এবং সংশ্লিষ্ট একর।
+
+(ञ) अनुच्छेद (এ) এ উল্লিখিত “জাতীয় রাজস্ব বোর্ড” শব্দ substituir
+পরিবর্তে “কর কমিশনার” শব্দটি প্রতিস্থাপিত হইবে;
+
+(প) अनुच्छेद (খ)(১) এ উল্লিখিত “২০ [দিন]” সংস্থা,
+বন্ধনী ও শব্দগুলির পরিবর্তে “(২) কোটি” সংস্থা, বন্ধনী
+ও শব্দগুলো প্রতিস্থাপিত হইবে;
+
+(ক) দফা (৩৭) এর পর নিম্নরূপ নূতন দফা (৩৭ক) সন্নিবেশিত হইবে, যথা:-
+
+“(৩৭ক) “ফাইনান্স কোম্পানি” অর্থ ফাইন্যান্স কোম্পানি আইন,
+২০ higher (২০ higher) সালের ৫৯ নং আইন। এবং ধারা ২ এর দফা
+(ই) তে সংজ্ঞায়িত কোনো ফাইনান্স কোম্পানি।”
+
+(গ) দফা (৮১) এর-
+
+(অ) “উপ-দফা (ছ)” কে উর্ডারifiably “প্রাইল্ড” শব্দটি বিলুপ্ত হইবে,
+
+(আ) শর্তাধীন (২) কে উর্ডারifiably “উপ-দফা (ছ)” শব্দ ও
+বন্ধনীর পরিবর্তে “উপ-দফা (ছ)” শব্দ ও বন্ধনী
+প্রতিস্থাপিত হইবে;
+
+(চ) দফা (৮৯) এর পর নিম্নরূপ নূতন দফা (৮৯ক) সন্নিবেশিত হইবে, যথা:-
+
+“(৮৯ক) “ধীষ্ঠকরণ” অর্থ দাখিলকৃত রিটার্ন বা সংলোচনা রিটার্ন
+এর ভিত্তিতে ক্ষেত্রমত, ধারা ১২৫, ১২৬ বা ১৮১ অনুযায়ী
+পরিশিষ্ট প্রদেশ আকর দল।”
+
+[[page 52]]
+২০২২০
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+১৬। ২০২৩ সালের ১২ নং আইনের ধারা ৪ এরsubsection— উক্ত আইনের ধারা ৪ এর—
+(ক) দফা (ক) তে উল্লিখিত “অতিরিক্ত মহাপরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর পরিবর্তে “পরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর প্রতিস্থাপিত হইবে;
+(খ) দফা (গ) তে উল্লিখিত “পরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর পরিবর্তে “উপপরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর প্রতিস্থাপিত হইবে;
+(গ) দফা (ট) তে উল্লিখিত “উদাহরণ কমিশনর” শব্দগুলির পর “বা উপপরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর সংযোজিত হইবে;
+(ঘ) দফা (ঢ) তে উল্লিখিত “সংক্রান্ত কমিশনর” শব্দগুলির পর “বা সহকারী পরিচালক (ক্ষেত্রীয় গোমেদা সেল)” শব্দগুচ্ছী ও বস্ত্রনীর সংযোজিত হইবে।
+
+১৭। ২০২৩ সালের ১২ নং আইনের ধারা ৫ এর subsection—উক্ত আইনের ধারা ৫ এর উপ-
+ধারা (ঙ) এর পর নিম্নরূপ সৃজন উপ-ধারা (ঘ) সংশোধিত হইবে, যথা:—
+
+“(ঘ) কোনো আয়কর কর্তৃপক্ষ তাহার বিদ্যমান দপ্তরের অবরোহি উচ্চতর পদে কর্মরত থাকিবে পদোন্নতি হইলে তিনি উচ্চতর পদের সকল ক্ষমতা প্রয়োগ ও কার্য সম্পাদন করিতে পারিবে।”
+
+১৮। ২০২৩ সালের ১২ নং আইনের ধারা ৯-এর প্রতিস্থাপন.—এই আইনের ধারা ৬ এর পরিবর্তে নিম্নরূপ ধারা ৬ প্রতিস্থাপিত হইবে, যথা:—
+
+“৬। ক্ষমতা অর্পণ.—(১) বোর্ড, আদেশ দ্বারা,—
+(ক) ইহার কোনো ক্ষমতা অধীনস্থ অন্য কোনো আয়কর কর্তৃপক্ষকে অর্পণ করিতে পারিবে;
+(খ) কোনো আয়কর কর্তৃপক্ষের ক্ষমতা অন্য কোনো আয়কর কর্তৃপক্ষকে অর্পণ করিতে পারিবে।
+(২) কর কমিশনার, আদেশ দ্বারা, তাহার কোনো ক্ষমতা অধীনস্থ অন্য কোনো আয়কর কর্তৃপক্ষকে অর্পণ করিতে পারিবে।”
+
+১৮এ। ২০২৩ সালের ১২ নং আইনের ধারা ১০-এর সংশোধন.—এই আইনের ধারা ১০ এ উল্লিখিত “শূন্য” শব্দটি বিযুক্ত হইবে।
+
+[[page 53]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০১ ২020 সনের ১২ নং আইনের ধারা ১৩ এবং সংশোধন— উক্ত আইনের ধারা ১৩ এর উপ-
+ধারা (১) এ উল্লিখিত “ছিলেন বা” শব্দগুলি বিলুপ্ত হইবে।
+
+২১। ২০০২ সনের ১২ নং আইনের ধারা ৩১ এবং সংশোধন—উক্ত আইনের ধারা ৩১ এর উপ-
+ধারা (২) বিলুপ্ত হইবে।
+
+২২। ২০০২ সনের ১২ নং আইনের অংশ ৫ এবং তৃতীয় অধ্যায় এবং প্রতিস্থাপন—উক্ত আইনের
+অংশ ৫ এর তৃতীয় অধ্যায় এবং পরিবর্তে নিম্নরূপ তৃতীয় অধ্যায় প্রতিস্থাপিত হইবে, যথা:—
+
+“তৃতীয় অধ্যায়
+ভাডা হইতে আয়
+
+৩(১) সংজ্ঞা.—এই অধ্যায়ের উদ্দেশ্যসমূহের pursuance,—
+(১) “গৃহসম্পত্তি” অর্থে যেকোনো গৃহ,ভবন বা দালানসহ নিম্নবর্ণিত
+রাসায়নিক পদার্থ অন্তর্ভুক্ত হইবে, যথা:—
+(ক) আসবাবপত্র, fixure, fixtures যাহা উক্ত গৃহের অবিচ্ছেদ্য
+অংশ; এবং
+(খ) purchasers-এর দৃষ্টি উপর স্থাপিত উক্ত ভূমি:
+
+তবে শর্ত থাকে যে, নিম্নবর্ণিত ভবন বা দালান ইহার অন্তর্ভুক্ত হইবে না, যথা:—
+
+(অ) কোনো ভবন যাহা সম্পূর্ণরূপে পূজনীয় হিসাবে ব্যবহৃত হয়, বা
+
+(আ) কোনো কারখানা ভবন যাহা প্লট ও সেলিনার দ্বারা প্রধান প্রবেশের অবিচ্ছেদ্য অংশ হিসাবে ছাড়া প্রধান করা হয়;
+
+(গ) “ভাড়া প্রদান” অর্থ মালিকানা বা অন্য ত্যাগ ব্যক্তিরেত্রে কোনো নির্দিষ্ট সময়ের জন্য সম্পত্তির ব্যবহারের অধিকার প্রদান, তবে স্বয়ং মালিকাধীন কর্তৃক যা না হউক, কোনো উৎসব
+
+[[page 54]]
+বাংলাদেশ কোড, অর্ডিনেন্স, মূল ৩০, ২০২২
+
+৩৬। ভাড়া hereto apply—(১) কোনো ব্যক্তির সম্পত্তির ভাড়া প্রদান হইতে অর্জিত
+মোট ভাড়া sums হইতে এই अध्याয়ে বর্ণিত সর্ব্বত্র অনুমোদনযোগ্য খরচ বাদ দিলে যাহা অবশিষ্ট
+থাকে, উহা lessee কর্তৃক সম্পত্তি হইতে উক্ত ব্যক্তির ভাড়া hereto apply।
+
+(২) কোনো ব্যক্তির সংস্পর্শিত কোনো অংশ উক্ত ব্যক্তির স্বত্ব ব্যবহারের উদ্দেশ্যে ব্যবহৃত
+হইলে বা উহা হইতে প্রাপ্ত অন্য উক্ত ব্যক্তির ব্যবসা হইতে অন্য খাতে paraphernalia যোগ হইলে, উক্ত
+expenses জন্য এই ধারা প্রযোজ্য হইবে না।
+
+(৩) hotel, hostel, motel বা residence-এর ক্ষেত্র ব্যতীত অন্য কোনো সংস্পর্শিত স্থাবর
+property, करारনামা, বাণিজ্য বা ব্যবসা নির্বাহের যে necessary হউক না কেন, উক্ত সম্পত্তি হইতে অর্জিত
+ভাড়া hereto apply” শব্দেয অর্থেন paraphernalia করিবেক।
+
+৩৭। মোট ভাড়া sums পরিমাণ—(১) কোনো আয়করকে কোনো ব্যক্তির স্বত্ব मालिका-াধীন
+কোনো গৃহসম্পত্তির মোট ভাড়াsums নিম্নলিখিত formulaয় participant হইবে যথা:—
+
+K = (P+S+B)-T, যেখানে—
+K = মোট ভাড়া sums,
+S = paraphernalia,
+P = বিবরণিত acknowledgment মধ্যে যাহা prefix হয় উহা।
+(অ) purchasers কর্তৃক অর্জিত ভাঙার পরিমাণ; বা
+(আ) purchasers-এর বার্ষিক মূল্যে;
+
+গ = উক্ত purchasers-এর ভাঙা বাবদ গৃহীত সমন্বয়যোগ্য অগ্রিমের যতটুকু উক্ত
+ বছরকে সময়স্বরূপ হয়েছে সেই পরিমাণ।
+
+তবে শর্ত থাকে যে, unsatisfactory কোনো অগ্রিম বা
+ নিরাপত্তা জামানত হিসাবacağız হয়েছে না,
+
+ঘ = উক্ত বছরকে উক্ত purchasers-এর ব্যবহার সূত্রে প্রাপ্ত শেয়ারী বা বিনিয়োগным
+ বর্তী অন্য যেকোনো অংশ বা কোনো সুবিধা অথবা সহায়তা যাহা তৎ ও গত
+ বছরস্থিত অংশের অতিরিক্ত,
+
+ঙ = purchasers-এর ভাঙতিয়া কর্তৃক পরিশোধিত যেকোনো প্রকারের সার্ভিস
+ চার্জ, মেরামত ও রক্ষণাবেক্ষণ চার্জ বা অন্য কোনো চার্জ, উহা যে
+ নামেই অভিহিত হউক না কেন;
+
+চ = শূন্যটা ভাঙা যদি কেবল বিদ্যুৎ বিল উপশমকরণ scheme-এর pursuant
+ হয়েছেন অনুমোদনযোগ্য হইয়া।
+
+(ঈ) purchasers ব্যতীত অন্য্যা purchasers-এর মোট ভাঙাগুলি নিম্নবর্ণিত সূচনারূপী পরিগণিত হইবে,
+
+ যথা:—
+
+[[page 55]]
+
+
+[[page 56]]
+বাংলাদেশ কোঅপারেটিভ, অডিটবিল, জুন ৩০, ২০২২৮
+সারণী
+
+| ক্রমিক নং | পণ্যের ধরণ | sleeved পরিমাণ (মোট outstanding টাকার হারে) |
+|---|---|---|
+| (১) | (২) | (৩) |
+| ১.১ | বাণিজ্যিক উদ্দেশ্যে ব্যবহৃত উপকরণ | ৫০% (বিশ শতাংশ) |
+| ১.২ | অগ্রাধিকার উদ্দেশ্যে ব্যবহৃত উপকরণ | ২০% (বিশ শতাংশ) |
+(b) উপকরণটির অংশিক ভাড়া প্রদানকে ক্ষেত্রে অংশিক ভাড়ার বিপরীতে আনুপাতিক হারে খরচ অনুমোদন হইবে; |
+(c) বিশেষভাবে কোনো উপকরণটি আয়বর্ধন কার্যক্রমের জন্য ভাড়া প্রদান করা হয়, সেক্ষেত্রে ভাড়া প্রদানকৃত সম্পদের আনুপাতিক হারে খরচ অনুমোদন হইবেন; |
+(d) উপকরণটি ভিন্ন অন্য কোনো পণ্যের ভাড়া হইত অথবা হিসাবের ক্ষেত্রে নিম্নবর্ণিত সীমা ও শর্ত সাপেক্ষে অনুমোদন সুপারিশ অনুমোদন হইবে, যথা: – |
+(i) রূপসা হইতে আয় নির্ধারণ ক্ষেত্রের ধারা ৫৯-৬৬ অনুযায়ী যে সকল
+বিয়োজন যে সকল সীদ্ধান্ত ও কার্য্যে अनुमोदित;
+
+(খ) তৃতীয় তফশীল অনুযায়ী অনুমোদিত ব্যালয়েসমূহ ব্যতীত অন্যন্যা সকল বিয়োজন ব্যাংক ড্রাফট এর মাধ্যমে হবে সম্পন্ন হইলে।
+
+৩৯। বিশেষ ভাঙা হইয়াছে আর পরিপূরณ์—(১) ধারা ৫২ এর উপ-ধারা (১) অনুযায়ী awnya কোনো সংবিধিগত বিয়োজনের কোনো অংশ অব্যবহিত ব্যক্তি দ্বারা দাবি করিলে, উহা বিশেষ ভাঙা হইয়াছে অন্য হিসাবে গণ্য হইবে।
+
+(১) authenticated सम्बन्धेত ক্ষেত্রসমূহ ব্যতীত, ধারা ৫২ এর উপ-ধারা (১) অনুযায়ী অনুমোদিত ব্যালয়েসমূহ বিশেষ ভাঙা হইয়াছে গণ্য হইবে paraphernalia।
+
+(৩) বিশেষ ভাঙা হইয়াছে অন্য হিসাবে পরিচালিত আয়ের বিপরীতে কোনো প্রকার বিয়োজন, ক্ষতির সমন্বয় বা ফের টাকা ও তৃতীয় তফশীলের অধীন কোনো ভাতা অনুমোদিত হইবে না এবং এইরূপ আয়ের উপর সাধারণ সহায়তা করার সময় নির্দিষ্ট হইবে।"
+
+২০۱-२०২৩ সনের ৯২ নং আইনের ধারা ৪৬ এর সংশোধন—এই আইনের ধারা ৪৬ এর—
+
+(ক) উপ-ধারা (১) এর সাবধারা (১) সং কলাপের "ক্ষেত্রসমূহ" শব্দা বিয়োজনের পরিবর্তে "বিয়োজনক" শব্দা বিয়োজনামী প্রতিস্থাপিত হইবে;
+
+(খ) উপ-ধারা (১) এ উল্লিখিত “প্রাপ্ত অর্থ” শব্দগুলির পর “বা বিয়োজনক” শব্দা যুক্ত করা হইয়াছে;
+
+[[page 57]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+১৪। ২০১০ সালের ১২ নং আইনের ধারা ৪২৯ এর সংশোধন:- উক্ত আইনের ধারা ৪২৯ এবং দফা (গ) এর পরিবর্তে নিম্নরূপ দফা (গ) প্রতিস্থাপিত হইবে, যথা: -
+
+“(গ) প্রথম আইন, ২০০৬ এর ধারা ১০৯ এর উপ-ধারা (১) এর দফা (গ) অনুযায়ী অংশগ্রহণের তারিখ, ফলাফল নির্ধারণ এবং বাংলাদেশে প্রিমিয়ার কল্যাণ ফাউন্ডেশন আইন, ২০১০ (২০১০ সালের ১২ নং আইন) এর ধারা ১৬ এর অধীন স্থাপিত প্রিমিয়ার কল্যাণ ফাউন্ডেশন তহবিলে proceeds অর্থ যাহা প্রদানে বাধ্য নৌপরিবহনমূলক মূলহার ০.৫ (পাঁচ শতাংশ) এর অধিক নহে।”
+
+১৪। ২০১০ সালের ১২ নং আইনের ধারা ৪৩০ এর সংশোধন:- উক্ত আইনের ধারা ৪৩০ এর-
+(ক) দফা (ঘ) তে উল্লিখিত “যোগাযোগ দাল” শব্দগুলির পরিবর্তে “কোনো বিজ্ঞাপন বা কোনো ভাগের রিপোর্ট ও সংশ্লিষ্ট কোন বিজ্ঞাপন” শব্দগুলি প্রতিস্থাপিত হইবে;
+(খ) দফা (ঙ) তে উল্লিখিত “ভূমি বা আবাসন” শব্দগুলির পরিবর্তে “পরিসম্পদ” শব্দটি প্রতিস্থাপিত হইবে;
+(গ) দফা (গ) এর পরিবর্তে নিম্নরূপ দফা (গ) প্রতিস্থাপিত হইবে, যথা: -
+“(গ) এই আইনে অনুমোদন প্রদানের বিধান রহিয়াছে কিন্তু
+অনুমোদন গ্রহণ করা হয় নাই এইরূপ কোনো ভবনেльному প্রস্তুত
+অংশ।”
+
+২৬। ২০২৩ সালের ১৯ নং আইনের ধারা ৫৬ এর সরঞ্জাম— উক্ত আইনের ধারা ৫৬ এ
+উল্লিখিত “দফা” (ক), বর্ণ ও বন্ধনীর পরিবর্তে “দফা” (ই),(ঈ), (উন) এবং (উন) শব্দগুলি,
+বর্ণগুলি, চিহ্নগুলি ও বন্ধনীগুলি প্রতিস্থাপিত হইবে।
+
+২৭। ২০২৩ সালের ১৯ নং আইনের ধারা ৬২ এর সরঞ্জাম— উক্ত আইনের ধারা ৬২ এর
+উপ-ধারা (১) এর দফা (গ) এবং উপ-দফা (লা) তে উল্লিখিত “আইক” শব্দটির পর “পরিশম্পন্ন,”
+শব্দ ও comma সন্নিবেশ হইবে।
+
+২৮। ২০২৩ সালের ১৯ নং আইনের ধারা ৬৬ এর সরঞ্জাম— উক্ত আইনের ধারা ৬৬ এর—
+(ক) দফা (গ) এর পরিবর্তে নিম্নরূপ দফা (গ) প্রতিস্থাপিত হইবে, যথা:—
+“(গ) খনিজ সঞ্চয় ও হাইড্রোকার্বন (mineral deposits and
+hydrocarbons) এবং সুনাম (goodwill) ব্যতীত অন্য
+কোনো परिसম্পদ, যাহা প্রকৃতিগত বা কোনো ব্যতিরস্ত স্থানীয়
+সুষ্টি, হস্তান্তর হইয়াছে exhibit যায়:” ;
+
+(খ) দফা (গ) এর পর নিম্নরূপ নূতন দফা (ঘ) ও (ঙ) সন্নিবেশ হইবে।
+
+[[page 58]]
+বাংলাদেশ কোড, অর্ডিন্যান্স, জুন ৩০, ২০২২
+
+“(ঘ) যেকোনো দান, অনুদান বা উপহার, উহা যে নামেতে অভিহিত হউক না কেন;
+
+(ঙ) ধারা ৩০ ও সংশ্লিষ্ট অন্যান্য আইনের prejudiced হয় নাই এইরূপ কোনো דבר হতেছে অন্য।”
+
+২০২০ সালের ১২ নং আইনের ধারা ৬৭ এর সংশোধনমাত্রা—এই আইনের ধারা ৬১ এ এক-
+(ক) উপ-ধারা (১) এ উল্লিখিত “ভাষা” শব্দটির পর “সংস্লিষ্ট awareness” শব্দগুলি সংযোগিত হইবে;
+(খ) উপ-ধারা (১০)—
+(i) এ পূর্ববর্তী উল্লিখিত “দান” শব্দটি বিলুপ্ত হইবে;
+(ii) এর paragraphs (ক) এ উল্লিখিত “দাতার ব্যাংক হিসাব হতে উত্তোলিত হইলে” শব্দগুলির পরিবর্তে “দাতা ও গ্রহীতার সম্মতির pursuant 있도록” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(গ) উপ-ধারা (১২) বিলুপ্ত হইবে।
+
+২০১ সালের ১২ নং আইনের ধারা ৭০ এর সংশোধনমাত্রা—এই আইনের ধারা ৭৩ এর উপ-
+ধারা (১) এ উল্লিখিত “নূতন” শব্দটির পূর্বে “যদি” এবং উপ-ধারা (২) অনুযায়ী শব্দগুলি,
+সংখ্যাগণনা ও প্রকাশনী সম্পর্কিত হইবেন।
+
+৩১। ২০২৩ সালের ১২ নং আইনের ধারা ৭০ এর সংশোধন.— উক্ত আইনের ধারা ৭০—
+
+(ক) উল্লিখিত “কোনো কোম্পানি, ও (তিন) কোটি টাকার ঊর্ধ্বে টার্নওভার রহিয়াছে এইরূপ ফার্ম, ব্যক্তিগত সংস্থা, অংশীদারি” শব্দগুলি, যথা,—“সংস্থা ও কোম্পানির পরিবর্তে “প্রজাতন্ত্রক ব্যক্তি ও হিন্দু undivided পরিবার ব্যতীত যেকোনো ব্যক্তি” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(খ) উল্লিখিত “প্রতিষ্ঠানের” শব্দটির পরিবর্তে “আইনক বিবরণীসমূহের” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(গ) এর paragraph “।” prefixed পরিবর্তে “:” কোনরূপ প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নরূপ নূতন paragraph সন্নিবেশিত হইবে, যথা:—
+
+“তবে শর্ত থাকে যে, নির্ধারিত ক্ষেত্রসমূহেই এই বিধান প্রযোজ্য হইবেন না, যথা:—
+
+(১) জনস্বীকৃত ও (পাঁচ) কোটি টাকার হ্রাস প্রাপ্ত রহিয়াছেন এইরূপ কোনো ফার্ম, ফ্ল্যাট, ব্যক্তিগত সংস্থা, কাউন্সিলন, সমিতি, এবং সমবায় সমিতি;
+
+(গা) যেকোনো শিক্ষা প্রতিষ্ঠান যাহাঁ সকল প্রকার প্রাথমিক ও প্রায়-প্রাথমিক শিক্ষাদানের নিয়োজিত।”
+
+[[page 59]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+৬(১) ২০২৩ সালের ১৯ নং আইনের ধারা ৭৪ এর সংশোধন.— উক্ত আইনের ধারা ৭৪ এর উপ-
+ধারা (১) এবং দফা (ক) তে উল্লিখিত “কর কমিশনার” শব্দটির পরিবর্তে “কাস্টমস কমিশনার” শব্দটি প্রতিস্থাপিত হইবে।
+
+৬(২) ২০২৩ সালের ১৯ নং আইনের ধারা ৭৬ এর সংশোধন.—উক্ত আইনের ধারা ৭৬ এর—
+(ক) উপ-ধারা (১) এবং দফা (গ) এবং পরিবর্তে নিম্নরূপ দফা (ঘ) প্রতিস্থাপিত
+হইবে, যথা:—
+“(ঘ) কর অব্যাহতি প্রাপ্ত কোনো যান hauled সকল প্রকার পণ্য ও
+অন্য важное চালানকারক এবং ব্যবসায়ে গণ্য:—
+ (১) উপরে স্পষ্ট থাকে যে, মিথ্যাভাবে ক্ষেত্রসমূহে এই
+বিযান প্রয়োগ হইবে না, যথা:—
+ (অ)GoAbroadির জন্য “export” হিসাবে রপ্তাদিত
+এবং কোনো আন্তর্বর্তী মোড় পণ্যের পরিমাণ ১
+(এক) কোটি টাকার ঊর্ধ্বে নহ; বা
+ (আ) হস্তান্তরনের অংশ ১ এবং দফা (১)(ওগ) অনুযায়ী
+দান হিসাবে কোনো পরিসম্পদ অর্জিত হয়;";
+(খ) উপ-ধারা (ঘ) এর পর নিম্নরূপ নূতন উপ-ধারা (ঘ১) ও (ঘ২) সংযোজিত হইবে, যথা:—
+
+“(ঘ১) এই আইনের অন্য কোনো বিধানে যাহা কিছুই থাকুক না কেন, কর অব্যাহতি প্রাপ্ত কোনো ব্যক্তি তাহার কর অব্যাহতি পূণर्जा বা দাবিokinetics সম্বলজনক নিয়মিত হারে কর পরিশোধ করিতে পারিবে।
+
+(ঘ) কোনো ব্যক্তি কোনো একটি উৎসরূপ আয়ের বিপরীতে আইন দ্বারা নির্দিষ্ট কোনো রেয়াতে কর অব্যাহতি প্রাপ্ত হইলে উক্তরূপ উৎসের আয়ের বিপরীতে পুনরায়, অন্য কোনোভাবে বা অন্য কোনো রেয়াতে, কর অব্যাহতি প্রাপ্ত হইবেন না এবং উক্তরূপ কোনো ব্যক্তি কোনো প্রকারের ঋণাত্মককরণ, টির্নিভার্জ ও ভবিষ্যতের साधনে pursuant হইলেও উক্তরূপ কর অব্যাহতি প্রাপ্ত হইবেন না:
+
+‘তবে শর্ত থাকে যে, সেক্ষেত্রে আইনের কোনো বিধান দ্বারা বা কোনো প্রজ্ঞাপন দ্বারা কোনো কর্তৃপক্ষের বিদ্যমান মর্যাদা বুঝি করা হয়, সেক্ষেত্রে এই উপ-ধারায় বিধান প্রযোজ্য হইবে না।”
+
+[[page 60]]
+২০১২খ
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+৩৪৭। ২০২৩ সালের ১২ নং আইনের ধারা ৮২ এর সংশোধন.— উক্ত আইনের ধারা ৮২ এর উপ-
+ধারা (১) এ উল্লিখিত “মাসের মধ্যে” শব্দগুলির পরিবর্তে “অarithmic (৯) মাসের মধ্যে” শব্দটি, সংস্থাপ্য ও রক্ষিত প্রতিস্থাপিত হইবে।
+
+৩৪৮। ২০২৩ সালের ১২ নং আইনের ধারা ৮৬ এর সংশোধন.—উক্ত আইনের ধারা ৮৬ এর—
+(ক) উপ-ধারা (১) এ উল্লিখিত “আনুমানিক” শব্দটির পরিবর্তে “প্রাক্কলিত”
+শব্দটি প্রতিস্থাপিত হইবে;
+(খ) উপ-ধারা (২) বিলুপ্ত হইবে।
+
+৩৪৯। ২০২৩ সালের ১২ নং আইনের ধারা ৮৮ এর প্রতিস্থাপন.—উক্ত আইনের ধারা ৮৮ এর
+পরিবর্তে নিম্নরূপ ধারা ৮৮ প্রতিস্থাপিত হইবে, যথা:—
+
+“১৮। অংশগ্রহণেhibition, কল্যাণ তহবিল ও শ্রমিক কল্যাণ ফাউন্ডেশন তহবিলে
+প্রদান অর্থ হইতে তৎসঙ্গে কর্তন.—বাংলাদেশের বিদ্যমান কোনো আইনে যাহা কিছুই থাকুক
+না কেন, বায়ু আইন, ২০১৬ এর ধারা ২৩৪ অনুযায়ী অংশগ্রহণেhibition, কল্যাণ তহবিল
+এবং শ্রমিক কল্যাণ ফাউন্ডেশন তহবিলে অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি উপযুক্ত
+অর্থ পরিশোধ না করিলে কাফিকভাবে (১০) শতাংশ হারে জরিমানা করিবেন।”
+
+৩৫০। ২০২৩ সালের ১২ নং আইনের ধারা ৮৯ এর সংশোধন.—উক্ত আইনের ধারা ৮৯ এর উপ-
+ধারা (৩) এ উল্লিখিত "-এর নিকট উক্ত ট্রেজ কোপশন বা হার্শ" চিহ্ন ও শব্দগুলির পর "বা অন্য কোনো ব্যক্তি" শব্দগুলি সন্নিবেশিত হইবে।
+
+ভচ। ২০/২০ সালের ১৫ নং আইনের ধারা ৫৯ এর সংশোধন - উক্ত আইনের ধারা ৫৯ এর—
+(ক) উপধারা (১) এ “স্থানীয় ঋণপত্রের কমিশন হিসাবে প্রাপ্ত অর্থ হইতে কর্মন” 
+এর পরিবর্তে “স্থানীয় ঋণপত্রের বিপরীতে পরিশোধিত অর্থ হইতে কর্মন” উপধারাটি প্রতিস্থাপিত হইবে;
+
+(খ) উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রstituted হইবে, যথা:—
+“(১) সকল প্রকার ফল এবং কপিটেটার বা কম্পিউটারের সরঞ্জাম
+ক্রয়ের জন্য loans বা কৃত স্থানীয় ঋণপত্র খোলা বা অন্য
+কোনো অর্থায়ন চুক্তির ক্ষেত্রে ব্যাংক বা ফাইনান্স কোম্পানি
+ কর্তৃক পরিশোধিত বা আদায়কৃত পরিমাণে উপর ধার্যক বা
+ফাইনান্স কোম্পানি ১২% (দুই শতাংশ) হারে কর কর্মন
+করিবেন”;
+
+(গ) উপ-ধারা (১) এর পর নিম্নরূপ নূতন উপ-ধারা (৪) সন্নিবেশিত হইবে, 
+ যথা:—
+
+[[page 61]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০৫ইং
+
+“(৪) ধান, গম, আলু, পেঁয়াজ, রসুন, মটরশুঁটি, শসা, গাজর
+আলু, আপেল, হলুদ, শুকনো মরিচ, ডাল, ভুট্টা, মোচা, বেগুন,
+আটা, লবণ, তেজপাতা, চিনি, কালো গোল মরিচ, দাউনিয়া,
+বাদাম, লবঙ্গ, এলাচ পাতা, পাতি, তুলার মত উভয় প্রকার জন্য
+লোহা বা কউ স্থানীয় অপসারিত যোগ্য বা অন্য কোনো ব্যবসায়িক
+উদ্ভিগের ক্ষেত্রে যাযাবর বা ফাইনান্স কোম্পানি কর্তৃক
+পরিচালিত বাлянчук পরিযানদের উপর যাযাবর বা ফাইনান্স
+কোম্পানি ১৫% (পনের শতাংশ) হারে কর করত করিবে।”
+
+২০২১ সালের ২৯ নং আইনের ধারা ৮১ এর সংশোধন— উক্ত আইনের ধারা ৮২ এ
+উল্লেখিত “৩০% (ত্রিশ শতাংশ)” সংখ্যা, ঠিক, বন্ধনী ও শব্দগুলির পরিবর্তে “২০% (বিশ শতাংশ)”
+সংখ্যা, ঠিক, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত হয়েছে।
+
+ ৪০১-২০২১ সালের ২৯ নং আইনের ধারা ১০৫ এর সংশোধন—উক্ত আইনের ধারা ১০২ এর
+উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত হইবে, যথা:—
+
+“(১) এই আইন বা বাংলাদেশের বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না
+কেমন, বাংলাদেশে কোনো লাইসেন্সকৃত বাণিজ্যিক ব্যাংক বা যাযাবর, ফিনান্সিয়ারে, লিজিং
+কোম্পানি, আর্থিক সংস্থা বা ফাইনান্স কোম্পানি কর্তৃক ফাইনান্সিয়াল সার্ভিস প্রোভাইডরে
+পরিতান্তান্যকারী কোনো ব্যক্তি, অথবা কোনো প্রকারের আমানত (deposit) এত হিসাব
+সুদ বা মুনাফা পরিশোধকারী কোনো ব্যক্তি, অন্য কোনো নিবন্ধিত পদ্ধতিতে কোনো প্রকারের
+সুদ বা মুনাফা পরিশোধ করলে, সুদ বা মুনাফা পরিশোধকের জন্য দায়িত্ববদ্ধ ব্যক্তি সুদ বা
+মুনাফা কোনো ব্যক্তির হিসাবে ক্রেডিটরের সময় অথবা সুদ বা মুনাফা পরিশোধকের সময়,
+যথা পূর্বে ঘটে, নির্ধারিত तारीखে উল্লিখিত হারে উল্লেখ করে কর কর্তন করিয়া সরকারি
+কোষাগারে জমা প্রদান করিবেন, যথা—
+
+জারী
+
+ক্রমিক | গ্রাহকের ধরণ | কর কর্তনের হার
+নং | | 
+(১) | (২) | (৩)
+১.১ | জাতি, ব্যক্তিগত ও কোম্পানির ক্ষেত্রে | ২০% (বিশ শতাংশ)
+২.১ | প্রাথমিক শিক্ষা প্রতিষ্ঠান, চ্যারিটি অর্গানাইজমেন্ট বা | ১০% (দশ শতাংশ)
+ ফাউন্ডেশন ম্যানেজড অর্গানাইজমেন্ট বা চ্যারিটি | 
+ সেকেন্ডারি ইনস্টিটিউটের ক্ষেত্রে | 
+৩.১ | ক্রমিক নং ১ ও ২ এ উল্লিখিত হয় নাই এইরূপ | ১০% (দশ শতাংশ)
+ অন্যান্য ব্যক্তির ক্ষেত্রে | 
+
+<sup>1</sup>[১]
+
+<sup>2</sup>[৮৯১-২০২৩ সালের ১৫ নং আইনের ধারা ১০০ এর বিצועণ—এই আইনের ধারা ২০০ किन्तु বহুলী]।
+
+[[page 62]]
+২০চন
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+৪২। ২০২৩ সালের ১২ নং আইনের ধারা ১১৩ এর বিলোপ— উক্ত আইনের ধারা ১১৩ বিলুপ্ত হইবে।
+
+৪৩। ২০২৩ সালের ১২ নং আইনের ধারা ১১৪ এর সংশোধন—উক্ত আইনের ধারা ১১৪-এর উপ-ধারা (১) এ উল্লিখিত “কোনো ব্যক্তি” শব্দগুলির পর “যাহাঁহা কাগতির্ Equipped বিষয় উৎপাদনকারী হিসেবে বিদ্যুৎ ক্রয় করেন এইরূপ কোনো নির্দিষ্ট ব্যক্তি” শব্দগুলি সংযোজিত হইবে।
+
+৪৪। ২০২৩ সালের ১২ নং আইনের ধারা ১১৪ এর সংশোধন—উক্ত আইনের ধারা ১১৪-এর-
+(ক) এ উল্লিখিত “৬০% (ষাট শতাংশ)” সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলির পরিবর্তে “৭৫% (সাত্ দশমিক পাঁচ শতাংশ)” সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত হইবে;
+(খ) এর শর্তাবস্থা (১) এবং পরিবর্তে নিম্নরূপ শর্তাবস্থা (১) প্রতিস্থাপিত হইবে, যথা: -
+“(১) ক্ষেত্রটি ফরম্যাট এজেন্ট কর্তৃক গৃহীত অর্থ।”
+
+(গ) যদি শুধু কমিশন হয় উক্ত কমিশনের উপর ৩০% (ত্রিশ শতাংশ) হারে কর apply করা যাইবে;
+
+(ঘ) যদি পুনঃ বিল বা কমিশনসহ পুনঃ বিল হয় উক্ত বিলের
+উপর ২.৫০% (দুই দশমিক পাঁচ শতাংশ) হারে কর সংগ্রহ
+করিতে হইবে;";
+
+(গ) এই অর্ডিশণ (২) এর পরিবর্তে নিম্নরূপ অর্ডিশণ (২) প্রতিস্থাপিত হইবে, যথা:-
+“(২) বিদেশ হইতে প্রেরিত নিম্নস্বাক্ষরিত אשר বিবরণীতে কোনো কার্যক্রম করা
+মাইজৈ না, যথা:-
+(ই) ষষ্ঠ তফসিলে অংশ ১-এর দফা (১২), (১৭), (২২) ও
+(৩০) দ্বারা moat যায় রহিত অর্থ;
+(ঈ) কোনো শিক্ষা বা গবেষণা প্রতিষ্ঠান কর্তৃক গৃহীত কোনো
+দান বা अनुदान হয়।”।
+
+স্ক্যান ২০০০ সনের ১২ নং আইনের ধারা ১৫৫ এর সংশোধন — স্ক্যান আইনের ধারা ১৫৫ এর
+উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত হইবে, যথা:-
+“(১) Registration Act, 1908 (Act No. XVI of 1908) এর section 17 এর
+sub-section (1) এর clauses (i), (b) বা (c) এ অধীন দলিল দস্তাবেজ নিবন্ধনের
+জন্য দায়িত্বপ্রাপ্ত কোনো নিবন্ধন কর্মকর্তা কোনো দলিল দস্তাবেজ নিবন্ধন করিবেন না, যদি
+না সম্পত্তি হস্তান্তরকারী নির্ধারিত হারে কর পরিশোধ করেন।”।
+
+স্ক্যান ২০০০ সনের ১২ নং আইনের ধারা ১৫৬ এর প্রতিস্থাপন — স্ক্যান আইনের ধারা ১৫৬ ও
+নিম্নরূপ ধারা সন্নিবেশিত হইবে, যথা:-
+
+[[page 63]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০২৩(১)
+
+“১৯২৬ সালের রেজিস্ট্রেশন অনুযায়ী দলিলের регистрации Act, ১৯০৮ (Act No. XVI of 1908) এর অধীন কোনো দলিল, বন্ধক, বাডি, ফ্ল্যাট, অ্যাপার্টমেন্ট অথবা গোর স্পেস হস্তান্তরের নির্মিত কোনো দলিল নিবন্ধকের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি উপযুক্ত দলিল বিবরণ করিবেন না, যদি না দলিলের বা বন্ধকের এড়িত দলিলের কর্তৃক নির্ধারিত হারে কর পরিশোধ করা হয়।”
+
+(২) এই ধারায় অধীন কর সংগ্রহের ক্ষেত্রে, হস্তান্তর নিবন্ধক হারে অপরিবর্তিত হইবে না, যথা:—
+
+(১) আবাসিক উদ্দেশ্যে নির্মিত বা ব্যবহৃত স্থাপনা, বাডি, ফ্ল্যাট,
+ অ্যাপার্টমেন্ট অথবা গোর স্পেসের ক্ষেত্রে বর্গমিটার প্রতি
+ ১৮০০ (এক হাজার আটশত) টাকা;
+
+(২) স্থাপনা, বাডি, ফ্ল্যাট, অ্যাপার্টমেন্ট অথবা গোর স্পেস
+ বাণিজ্যিক উদ্দেশ্যে নির্মিত বা ব্যবহৃত না হইয়া বর্গমিটার
+ প্রতি ২৫০০ (দুই হাজার পাঁচশত) টাকা;
+
+(৩) স্থাপনা, বাডি, ফ্ল্যাট, অ্যাপার্টমেন্ট অথবা গোর স্পেসের
+ সহিত সংশ্লিষ্ট ভূমির ক্ষেত্রে দলিলমূল্যের ৫% (পাঁচ শতাংশ)।
+
+(৩) এই ধারার উপ-অনুচ্ছেদসমূহের অধীনে “দলিলমূল্য” অর্থ “রেজিস্ট্রেশন” বলিতে বিশেষ প্রণালী ও ব্যবস্থাপনা আইন, ২০১০ (২০১০ সালের আইন নং ৬৭).”
+বর্ণিত ডেভেলপার বা রিহায়েল এস্টেট ডেভেলপারকে বুঝাইবে এবং যদি কোনো ব্যক্তি
+ডেভেলপার বা রিহায়েল এস্টেট ডেভেলপার অনুমতি कार्याবলী সম্পাদনেরpreliminary কার্যক্রম নিবেন
+যা অন্যের ভূমি উন্নয়ন করেন অথবা তাহার বিরুদ্ধে যা অন্যের ভূমিতে স্থাপনা, বাড়ি, ফ্ল্যাট,
+অ্যাপার্টমেন্ট অথবা কোন প্লেন নির্মাণ করেন; অথবা ভূমির মালিক বা স্থাপনা, বাড়ি,
+ফ্ল্যাট, অ্যাপার্টমেন্ট অথবা soar premises মালিক ডেভেলপার বা কো-ডেভেলপারের ন্যায়
+আচরণ করেন, তাহা হইলেও তিনি দায়ী adjudged হইবেন।[১]
+
+§৭। ২০০০ সালের ১৫ নং আইনের ধারা ৯৯-এর সংশোধন.—এই আইনের ধারা ১৯৯ এ
+উল্লিখিত “হায়ার” শব্দটির পরিবর্তে “কর্পোরেশন” শব্দগুলি সন্নিবেশিত হইবে।
+
+§৮। ২০০০ সালের ১৫ নং আইনের ধারা ১০০-এর প্রতিস্থাপন.—এই আইনের ধারা ১০০ এবং
+পরিশিষ্ট নির্ণীত ধারা ৫০০ প্রতিস্থাপিত হইবে, যথা:—
+
+“১০০। ইট প্রস্তুতকারীদের নিকট হইতে কর সংগ্রহ.—(১) ইট প্রস্তুত ও ভাটা
+স্থান (নিয়ন্ত্রণ) আইন, ২০১০ (২০১০ সালের ১৫ নং আইন) এর অধীন ইট প্রস্তুত বা
+উদ্যোগীনের লাইসেন্স প্রদান বা নবায়নের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি ইট প্রস্তুতের
+লাইসেন্স প্রদান বা নবায়ন করিয়াছেন না, যদি না এই আইনের ধারা উপদান যা ব্যবহারের
+আবশ্যকপর।
+
+(২) ইটভাটার উদ্যোক্তগণ ও প্রকৃত buyer, যাদের ইট প্রয়োজন হইবে, respective persons
+ও بينهم একটি চুক্তি সম্পাদন করিবেন এবং উক্ত চুক্তির শর্তাবলীতে ইট প্রস্তুতকারী কর্তৃক
+সরবরাহকৃত ইটের মূল্য ও করের পরিমাণ স্পষ্টভাবে উল্লেখ করা থাকিবে এবং এতৎ
+বিষয়ক রেজিস্টার সংরক্ষণ করিবেন।”
+
+[[page 64]]
+২০ঁটশু
+বাংলাদেশ টেক্সটাইল, অতিরিক্ত, জুন ৩০, ২০২২
+সারণী
+
+|ক্রমিক নং |ইন্টার্ন বহন |অংশিম করার (টাকা) |
+|---|---|---|
+(১) |(২) |(৩) |
+১ | ১৫০০০০ (এক লক্ষ ৫০ হাজার) খনকটি আয়ত্তনের | ৮০০০০ (আশি হাজার টাকা) |
+ afresh করে এইরূপ পোষী ইন্টার্ন ফেরৎ |
+২ | ২০৫০০০ (এক লক্ষ পাঁচ হাজার) খনকটি আয়ত্তনের | ১20000 (এক লক্ষ বিশ হাজার টাকা)|
+ afresh কিন্তু ২58000 (এক লক্ষ ছাপ্পান হাজার) |
+ খনকটির afresh করে এইরূপ পোষী ইন্টার্ন ফেরৎ |
+৩ | ২৫ঁটশু০০০ (এক লক্ষ ছাপ্পান হাজার) খনকটির | ১৫ঁটশু০০০ (এক লক্ষ বিশ হাজার টাকা)|
+ afresh এইরূপ পোষী ইন্টার্ন ফেরৎ |
+৪ | ক্রমিক নং ১, ২ ও ৩ এ উল্লিখিত হয় নাই এইরূপ | ২৫ঁটশু০০০ (দুই লক্ষ বিশ হাজার টাকা)|
+ ইন্টার্ন ফেরৎ |
+(১) যেক্ষেত্রে কোনো বৎসরে একাধিক বৎসরের জন্য লাইসেন্স প্রদান বা নবায়ন
+করা হইয়াছে, সেক্ষেত্রে লাইসেন্স গ্রহণ বা নবায়নের বৎসরের পরবর্তী বৎসরের বা বৎসরসমূহের
+ও ৩০ জানুয়ারি মধ্যে উপ-ধারা (১) এ উল্লিখিত হারে আপিসির চালানের মাধ্যমে জমা
+করিতে হইবে।
+
+(৩) যেক্ষেত্রে কোনো বৎসরে ইট প্রস্তুতকারী বা উৎপাদনকারীর ব্যক্তি উপ-ধারা
+(১) অনুযায়ী অগ্রিম কর পরিশোধে বাধ্য হন, সেক্ষেত্রে পরবর্তী বৎসরে উক্ত ব্যক্তি কর্তৃক
+প্রদয় অগ্রিম করের পরিমাণ ক + খ নিয়ম্যে নির্ধারিত হইবে, যেখানে—
+
+ক = পূর্ববর্তী বৎসরে বা বৎসরগুলোতে অপরিশোধিত অগ্রিম করের পরিমাণ,
+এবং
+খ = পরিশিষ্টের দস্তাবেজ উপ-ধারা (১) অনুযায়ী প্রদয়ে অগ্রিম করের
+পরিমাণ।
+
+(৪) এই ধারা উপরতত্ত্বীয়করণে,—
+(ক) “আইরন” অর্থ indicated iron content এর দৈর্ঘ্য, প্রস্থ ও
+উচ্চতার পরিমাণ;
+(খ) “ইন্ডুস্ট্রি” অর্থ এইরূপ কোনো স্থান বা অবকাঠামো যেখানে
+ইট প্রস্তুত করা হয়;
+(গ) “মেটালিক ইন্ডুস্ট্রি” অর্থ এইরূপ কোনো ইন্ডাস্ট্রি যেখানে সূক্ষ্ম
+লোহার ধাতরের সাহায্যে ইট প্রস্তুত করার পদ্ধতি প্রয়োগ
+করা হয়।
+
+[[page 65]]
+বাংলাদেশ কোডে, অক্টোবর, জুন ৩০, ২০২২
+
+§1 ২০২৩ সালের ২২ ও ২৪ তারিখের ধারা ১০৪ এর সংশোধন।— উক্ত আইনের ধারা ১০৪ এ প্রণীত ব্যাখ্যার দফা (গ) এবং পরিবর্তে নিম্নরূপ দফা (গ) প্রতিস্থাপিত হইবে যথা:—
+
+“(গ) “পেশাদার মূল্যায়নকারী” (professional valuer) বলিতে বাংলাদেশ ব্যাংক বা বাংলাদেশ সিকিউরিটিজ এন্ড এক্সচেঞ্জ কমিশন কর্তৃক স্বীকৃত কোনো পেশাদার মূল্যায়নকারীকে বুঝিবো।”
+
+§1 ২০২৩ সালের ২২ ও ২৪ তারিখের ধারা ১০৫ এর প্রতিস্থাপন.—উক্ত আইনের ধারা ১০৫ এ
+পরিবর্তে নিম্নরূপ দফা ১০৫ প্রতিস্থাপিত হইবে যথা:—
+
+“১০৫। সিকিউরিটিজ হস্তান্তর হইতে শুরু সংখ্যা।—(১) এক exceedance তালিকাভুক্ত কোনো কোম্পানি বা dealbler সিকিউরিটিজ হস্তান্তরের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি সিকিউরিটিজ হস্তান্তর করিবেন না, যদি না উক্ত হস্তান্তর করিবার পূর্ব
+হস্তান্তরকারী কর্তৃক নিম্নবর্ণিত বিষয়ে নিষ্পত্তি করা হইয়া থাকে, যথা:—
+
+ক = (খ – গ) x ১০%, যেখানে,
+ক = এই ধারায় অধীন proceeds প্রদানের পরিমাণ;
+খ = সিকিউরিটিজের হস্তান্তর মূল্য;
+গ = সিকিউরিটিজের অর্জিত মূল্য।
+
+(২) এই ধারাটি উপরে উল্লিখিতসমূহ.—
+(ক) “সিকিউরিটিজ” অর্থ কোনো কোম্পানি বা
+ trusts স্পন্সর শেয়ারহোল্ডার, directors
+ শেয়ারহোল্ডার বা investment শেয়ারহোল্ডার কর্তৃক
+ ধার্যকৃত উক্ত কোম্পানি বা trustণের
+ সিকিউরিটিজ;
+
+(খ) “ফলlden” অর্থ materially ও সমান এবং profit-
+ এর প্রকার দান ব্যতীত অন্যথায় সকল প্রকার
+ হস্তান্তর;
+
+(গ) “ফ্যাস মূল্য” অর্থ—
+(১) বাংলাদেশে সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ
+ কমিশন বা স্টক এক্সচেঞ্জ কর্তৃক
+ trustণের সম্মতি বা অনুমোদন প্রদানের
+ দিনে সিকিউরিটিজের সমাপ্তি মূল্য
+ (closing price); বা
+(২) বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ
+ কমিশন বা স্টক এক্সচেঞ্জ কর্তৃক সম্মতি
+ প্রদানের দিনে সিকিউরিটিজের কোনো
+ লেনদেন না হইলে সর্বশেষে যে দিন
+ লেনদেন হইয়াছিল উক্ত দিনে
+ সিকিউরিটিজের সমাপ্তি মূল্য”।
+
+[[page 66]]
+২০শেত
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২৩
+
+(১) ২০১০ সালের ১২ নং আইনের ধারা ১৪০ এর সংশোধন.— উক্ত আইনের ধারা ১৪০ এর
+দফা (১) এবং উপ-দফা (৪) তে উল্লিখিত “রোয়েদ” শব্দ ও করার পর "বিভাগ[, মোটন, টেক্সটাইল,
+কম্বেইনটেক্স সেক্টর," শব্দটি ও كماقابل পরিমার্জন হইবে।
+
+(২) ২০১০ সালের ১২ নং আইনের ধারা ১৫০ এর সংশোধন.—উক্ত আইনের ধারা ১৫০ তে—
+
+(ক) উপ-ধারা (১) এ উল্লিখিত “ব্যক্তিগত” শব্দটি বিলুপ্ত হইবে;
+(খ) উপ-ধারা (১) এ উল্লিখিত “ব্যক্তিগত” শব্দটি বিলুপ্ত হইবে;
+(গ) উপ-ধারা (১) এর দফা (৪) এ উল্লিখিত “সরকারের” শব্দটির
+পরবর্তী অংশ যথা, ‘স্থানীয় আওয়ামী লীগের প্রভাবশালী এবং’
+শব্দগুলি ও كماقابل পরিমার্জন হইবে।
+
+(৩) ২০১০ সালের ১২ নং আইনের ধারা ১৬৬ এর সংশোধন.—উক্ত আইনের ধারা ১৬৬ তে—
+
+(ক) উপ-ধারা (১) এ উল্লিখিত “মাপকা কম হয়, তবে সেক্ষেত্রেও
+ক্ষমতা প্রয়োগে অগ্রাধিকার обратить” করিবার অতিরিক্ত
+পারস্পরিককৃত ভোট এবং নিম্নকিত শব্দগুলি ও كماقابل ও
+পরিবর্তিত “মাপকা কম হয়, তবে সেক্ষেত্রেও, উপযুক্ত
+পারস্পরিককৃত ভোট এবং নিম্নকিত ভোট শব্দটি ও كماقابل ও
+كماقابل প্রতিস্থাপিত হইবে;
+(খ) উপ-ধারা (৫) এ উল্লিখিত “ভর্তী” শব্দটির পরিবর্তে
+“ভূক্ত” শব্দটি প্রতিস্থাপিত হইবে।
+
+ওঁড়িশা সরকার ১৫২ নং আইনের ধারা ১৯৬৩ এর সংশোধন.—ওড়িশা আইনের ধারা ১৯৬৬
+
+(গ) উপ-ধারা (৩) এর দফা (ক) বিলুপ্ত হইবে;
+
+(ঘ) উপ-ধারা (১) এর দফা (খ) এ উল্লিখিত “কার্বোনেটেড
+ beverages” শব্দগুলির পর “, juices, drinks, aerated drinks,
+ syrups, cordials” কমাগুলি ও শব্দগুলি सम्मिलित হইবে;
+
+(ঙ) উপ-ধারা (৫)—
+
+(১) এ উল্লিখিত উপ-ধারা (৬) এর বিধানাবলিসাপেক্ষে, কোনো ব্যক্তি, ফার্ম বা কোম্পানীর manufactures করার হইলো নিবন্ধিত, যথা:— “শব্দগুলি,
+বর্ণনী, সংখ্যা ও চিহ্নগুলির পরিবর্তে “উপ-ধারা
+(৬) এর বিধানাবলিসাপেক্ষে, মুনাফা যা ক্ষতি
+নির্ণয়ে কোনো ব্যক্তি তাহার assets প্রাপ্তির উপর
+দফা (ক) ও (খ) এবং বিবিধ অনুযায়ী মূল্যায়ন কর
+পরিমাণের জন্য দায়ী থাকিবেন, যথা:— “শব্দগুলি,
+বর্ণনী, সংখ্যা ও চিহ্নগুলি প্রতিস্থাপিত হইবে;
+
+[[page 67]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০২২-এ-০৯
+
+(ভা) এর দফা (ক) এর পরিবর্তে নিম্নরূপ দফা (ক) প্রতিস্থাপিত হইবে यथा:
+
+“(ক) যেকোনো কোম্পানী, যেহেতো ট্রাস্ট, সনদ ৬০ (ষাট) লক্ষ টাকার হ্রাস প্রাপ্ত রহিয়াছে এইরূপ কোনো ফার্ম বা অংশীদ regimes, সনদ ও (ইত্যা) কোটি টাকার হ্রাস প্রাপ্ত রহিয়াছে এইরূপ কোনো частности ব্যক্তি কোনো কর্ব্বে তাহার হ্রাস প্রাপ্তির উপর ভিত্তি করিয়া স্বীকৃতি উল্লিখিত হারে ন্যূনতম কর পরিশোধের জন্য দায়ী থাকিবেন यथा:-
+ liabilities
+
+ক্রমিক নং | করারতার ধরন | ন্যূনতম করহার
+(১) | (২) | (৩)
+১ | সিঙ্গলে, বিউ, লিমিটেড,য়ানার তালিকা, শেয়ার তালিকা, শেয়ারবিহীন | হ্রাস প্রাপ্তির ০% (শূন্য শতাংশ)
+১. damaging to health products
+
+ ১ | কার্বোনেটেড বেভারেজ (carbonated | gross profit ৩% (তিন beverage), মিষ্টি পানীয় (sweetened | শতাংশ)
+ beverage) প্রস্তুতকারক
+ ২ | মোবাইল ফোন অপারেটর | gross profit ১৭% (সতেরো
+ শতাংশ)
+ ৩ | সিগারেট, বিড়ি, চিনির manufacturing | gross profit ০.২৭%
+ কোম্পানি। তামাক বা অন্য কোনো | (শূন্য দশমিক সাত শতাংশ)
+ damaging to health products বাড়াতে আনা |
+ কোনো স্বাভাবিক ব্যক্তি সহায়তা |
+ ৪ | অন্য কোনো ক্ষেত্রে | gross profit ০.৬%
+ (শূন্য দশমিক ছয় শতাংশ)
+
+ তবে শর্ত থাকে যে, উক্ত সাধারণ কৃষক নং ৫ প্রযোজ্য হয় এইরূপ ক্ষেত্রে পণ্য উৎপাদনে নিয়োজিত কোনো শিল্প প্রতিষ্ঠানের ক্ষেত্রে ইহার বাণিজ্যিক উৎপাদন শুরুর প্রথম ও তিন বৎসরের জন্য উক্ত হার হইবে এইরূপ শ্রেণির profits 0.১৬% (শূন্য দশমিক এক শতাংশ)।
+
+[[page 68]]
+২০২০/এ
+
+(ঘ) উপ-ধারা (১) এ সুতরাং উল্লিখিত “উপ-ধারা (১)” শব্দ,
+বন্ধনী ও সংখ্যা পরিবর্তন করে “উপ-ধারা (৪)” শব্দ, বন্ধনী ও
+সংখ্যা প্রতিস্থাপিত হইবে;
+
+(ঙ) উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (৭) প্রতিস্থাপিত
+হইবে যথা:—
+
+“(৭) এই ধারার অধীন প্রণোদিত মূলানুমোদন করার
+ক্ষমতাবোধকতা নিম্নরূপ হইবে হইবে, যথা:—
+
+ (ক) উপ-ধারা (২) এর অধীন প্রণোদিত
+ মূলানুমোদন করার প্রত্যাখ্যানযোগ্য বা
+ সমর্থ্যযোগ্য হইবে না;
+
+(চা) উপ-ধারা (৯) এর অধীন কমিশন
+পরিপণনাকালে উপ-ধারা (২) এর অধীন
+প্রণোদিত মূলানুমোদন করার অতিরিক্ত
+করদফা সৃষ্টি হইলে উক্তরূপ অতিরিক্ত
+অংকেক সরল পূর্ববর্তী करारसमूहের
+<start_of_image>
+ punishable summary হয়তো।
+
+(ক) এর উপপরিচয় উল্লিখিত “অতিরিক্ত” শব্দটির পরিবর্তে “অধিক বা কম” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(খ) এ সুতরাং উল্লিখিত “अधिका” শব্দের পর “কা” শব্দগুলি সন্নিবেশিত হইবে।
+
+(গ) ২০০০ সালের ১২ নং আইনের ধারা ১৬৫ এর সংশোধন — উক্ত আইনের ধারা ১৬৬—
+এর উপ-ধারা (১) এ উল্লিখিত “আতিরিক্ত” শব্দটির পর “বাণিজ্য” শব্দটি সন্নিবেশিত হইবে।
+
+(ঘ) ২০০০ সালের ১২ নং আইনের ধারা ১৬৭ এর সংশোধন — উক্ত আইনের ধারা ১৬৭—
+(ক) এ সর্বত্র উল্লিখিত “আতিরিক্ত” শব্দটির পর “বাণিজ্য” শব্দটি সন্নিবেশিত হইবে;
+
+(খ) এর উপ-ধারা (১) এর দফা (ক) তে উল্লিখিত “৪০ (চল্লিশ)” সংখ্যা, বন্ধনী ও শব্দটির পরিবর্তে “৫০ (পঞ্চাশ)” সংখ্যা, বন্ধনী ও শব্দটি প্রতিস্থাপিত হইবে;
+
+(গ) এর উপ-ধারা (১) এর শর্তানুযায়ী উল্লিখিত “এই উপ-ধারা”র পরবর্তী অংশ সামঞ্জস্যপূর্ণ শব্দগুলি বিলুপ্ত হইবে।
+<end_of_image>
+
+[[page 69]]
+বাংলাদেশ প্রজেক্ট, অতিরিক্ত, জুন ৩০, ২০২৩
+
+২০৫/৩৭
+
+দফা ১: ২০২৩ সালের ১২ নং আইনের ধারা ১৬৬ এবং সংশোধনী—উত্তর আইনের ধারা ১১৯
+এর—
+(ক) উপ-ধারা (১) এ উল্লিখিত “আাভাবিক” শব্দটির পর “ব্যক্তি”
+শব্দটি সন্নিবেশিত হইবে;
+(খ) উপ-ধারা (২) এ উল্লিখিত “ব্যক্তি” শব্দটির পূর্বে “আাভাবিক”
+শব্দটি जोडिएको হইবে।
+
+দফা ২: ২০২৩ সালের ১২ নং আইনের ধারা ১৬৬ এবং সংশোধনী—উত্তর আইনের ধারা ১১৯ এর
+উপ-ধারা (১) এর দফা (ক) তে উল্লিখিত “আাভাবিক” শব্দটির পর “ব্যক্তি” শব্দটি সন্নিবেশিত হইবে।
+
+d) ২০২৩ সালের ১২ নং আইনের ধারা ১৭১ এবং প্রতিস্থাপন—উত্তর আইনের ধারা ১৭৩ এবং
+পরবর্তী নিম্নরূপ ধারা ১৭০ প্রতিস্থাপিত হইবে যথা:
+“১৩০। শরীরীবাণী পদ্ধতিতে রিটার্ন দাখিল.—ধারা ১৬৬ এবং অধীন রিটার্ন
+दाखিলের অনুমোদনार्थार्थকতা রহিয়াছে এবং রূপ সম্পন্ন ব্যক্তি ধারা ১৮০ এর অধীন
+শরীরীবাণী পদ্ধতিতে রিটার্ন দাখিল করিবেন।”
+
+d) ২০২৩ সালের ১২ নং আইনের ধারা ১৭৭ এবং প্রতিস্থাপন—উত্তর আইনের ধারা ১৭৭ এবং
+পরবর্তী নিম্নরূপ ধারা ১৭৭ প্রতিস্থাপিত হইবে যথা:
+“১৭৭। রিটার্ন দাখিলের সময় ও আয়কর পরিশোধ.—(১) প্রত্যেক করদাতার
+করদিলিস বা ইহার পূর্বে রিটার্ন দাখিল করিতে হইবে।
+
+(১) করদিলিস বা ইহার পূর্বে রিটার্ন দাখিলের ক্ষেত্রে ধারা ১৩০ অনুযায়ী আয়কর পরিশোধকের রিটার্ন দাখিল করিতে হইবে।
+
+(২) করদিলিসের পরে রিটার্ন দাখিলের ক্ষেত্রে ধারা ১৪৪ অনুযায়ী আয়কর পরিশোধকের রিটার্ন দাখিল করিতে হইবে।"
+
+এই ২২০৩ সন ১৫ নং আইনের ধারা ১৪৪ এর প্রতিস্থাপন— উক্ত আইনের ধারা ১৪৪ এর পরিবর্তে নিম্নরূপ ধারা ১৩৪ প্রতিস্থাপিত হইবে, যথা: —
+
+"১৩৪। করদিলিস পরবর্তী সময়ে রিটার্ন দাখিলের ক্ষেত্রে কর পরিমাপনা.—ধারা
+১৩৬ অনুযায়ী রিটার্ন দাখিলের বাধ্যবাধকতা রহিয়াছে; এতদ্ব্যতীত কোনো করদাতা করদিলিসের
+মধ্যে রিটার্ন দাখিল করিয়াছেন, এই আইনের অন্যান্য বিধানের অধীন উক্ত দায় aqueous
+রাশিয়া নির্বাচিত বিষয়ে করদাতার কর নির্ধারিত ও প্রয়োগ হইবে, যথা: —
+
+K = Y + (Y - P) × r × o.o২, যেখানে,
+K = মোট প্রযোজ্য করার পরিমাণ;
+Y = করদাতা করদিলিসের মধ্যে রিটার্ন দাখিল করিয়াছেন মোট যে পরিমাণ
+কর পরিশোধ করিবেন সেই অঙ্ক; তবে এইক্ষেত্রে—
+(১) কোনো প্রকার কর অব্যাহতি প্রয়োগ করা না হইলে reckon প্রযোজ্য
+কর হইবে Y; এবং
+(২) কোনো প্রকার কর অব্যাহতি প্রয়োগ করা হইলে reckon প্রযোজ্য
+কর হইবে Y - (Y × r)।"
+
+[[page 70]]
+বাংলাদেশ পেজেট, officially, আইন ৩০, ২০২২
+
+(খা) নিম্নতম স্তর, সহকারী ও সরল মূল জাতি ও এই আইনের
+অধীন প্রযোজ্য বা ধার্যকৃত অন্য কোনো জরিমানা বা शुल्क
+ইহার অন্তর্ভুক্ত হইবে না;
+
+গ = উক্ত তালিকায় কর্মরত কর্তৃক পরিশোধিত অগ্রিম কর ও তৎসহ করার
+সমতি;
+
+ঘ =নিম্নবর্ণীতরূপে নির্ধারিত মাসের সংখ্যা, যথা:—
+
+(ক) prescribes indicated ইহার পর মাসের সংখ্যা যাহা অবশিষ্ট
+২৫ (পঁচিশ) হইবে;
+
+(খ) কোনো মাসের distinguish পূর্ণ মাস হিসাবে গণ্য হইবে।"
+
+অনু। ৩০.২০ সঙ্গে ১২ নং আইনের ধারা ১৫৫ এর প্রতিস্থাপন.— উক্ত আইনের ধারা ১৭০ এর
+পরিবর্তে নিম্নরূপ ধারা ১৫৫ প্রতিস্থাপিত হইবে, যথা:—
+
+"১৫৫। সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংযুক্ত বিশেষ বিধানাবলী-(১)
+ধারা ১৮২ ও ১৯২ এর বিধানাবলি apply রাখিয়া, নিম্নোক্ত রিটার্ণসমূহ সাধারণ রিটার্ন
+বলিয়া গণ্য হইবে, যথা:—
+(ক) ধারা ১৮২ ও উপ-ধারা (১০) অনুসারে দাখিলকৃত সংশোধিত রিটার্ন;
+
+(খ) ধারা ১৯৫ ও উপ-ধারা (১) অনুসারে নোটিশ জারির প্রেক্ষিতে দাখিলকৃত রিটার্ন।
+
+(২) কর দিবসের মধ্যে এই আইনের কোনো বিভাগের অধীন সংশোধিত রিটার্ন দাখিল করিলে ধারা ১৭৬ অনুযায়ী কর পরিশোধ করিতে হইবে।
+
+(৩) forbidings পরবর্তীকালে এই আইনের কোনো বিভাগের অধীন সংশোধিত রিটার্ন দাখিল করিলে, সংশোধিত রিটার্নের উপর কোনো কর অব্যাহতি দাবি করা যাইবে না মাত্র মূল রিটার্ন দাবি করা হয় নাই এবং নূতন কোনো কর অব্যাহতি দাবি করা হইলে উহা বাতিলপূর্বক নিয়মিত হারে करारোপিত হইবে।
+
+(৪) appeal বা ট্রাইব্যুনালের আদেশের ভিত্তিতে কর निर्धारणाকালে রিটার্ন বা সংশোধিত রিটার্ন দাখিল করা যাইবে না:
+
+তবে শর্ত থাকে যে, সেক্ষেত্রে করদাতা কোনো রিটার্ন দাখিল করেন নাই সেইক্ষেত্রে appeal বা ট্রাইব্যুনাল প্রদত্ত আদেশের ভিত্তিতে কর निर्धारणाকালে প্রযোজ্য ক্ষেত্রে, রিটার্ন দাখিল করা যাইবে।"
+
+[[page 71]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+দফতর ১২ নং আইনের ধারা ১৭৬ এর সংশোধন।- উক্ত আইনের ধারা ১৭১ এর উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত হইবে যথা: -
+
+“(১) কোনো করদাতা উপ-ধারা (২) এর অধীন প্র socks নোটিশ সম্পর্কে পূর্বে অনুসরণ করিতে বাধ্য হইলে, রিটার্ন বা সংশোধিত রিটার্ন, যাহা অনুসরণ করিয়া বিধিচিত্ত হইয়াইছিল তাহা।”
+
+(ক) ধারা ১৭১ ও উপ-ধারা (১) এবং (৫) পরিচালনার শর্তানুযায়ী এইউপযুক্ত বাতিল বা অস্বীকার করিয়া বিবেচনা করা হইবে যেন উহা দাখিল করা হয় নাই এবং উপযুক্ত বাতিল বা অস্বীকারের ক্ষেত্রে উপরুক্ত ক diminishes নিম্নবর্ণিত পদক্ষেপগুলি গ্রহণ করিবেন, যথা: -
+
+(অ) দাখিলকৃত রিটার্ন বাতিল বা অস্বীকারের নোটিশ
+করদাতার বরাবর প্রেরণ;
+
+(আ) পরিস্থিতি অতিরিক্ত কর ক diminishনারক বাতিল বা অস্বীকার
+সম্পর্কে লিখিতে অবহিতকরণ;
+
+(ই) অন্যান্য ক্ষেত্রে ধারা ১৭১-এর অতিরিক্ত জন্য নির্বাচন করা যাইবে।"
+
+দফতর ১২ নং আইনের ধারা ১৭৭ এর সংশোধন।-উক্ত আইনের ধারা ১৭৭
+এ২—
+
+(ক) উপ-ধারা (১)—
+
+(খ) এর দফা (ক) ও (ঘ) তে উল্লিখিত “পেঁয়াজ”
+ সংজ্ঞা, রক্ষী ও সঞ্চয়টির পরিবর্তে “২৫ (পঁচিশ)”
+ সংজ্ঞা, রক্ষী ও শব্দটি প্রতিস্থাপিত হইবে;
+
+(গ) এর paragraph “:” কোলনন এবং পরিবর্তে “।”
+ দাঁড়ি প্রতিস্থাপিত হইবে;
+
+(ঘ) উপ-ধারা (৪) বিলুপ্ত হইবে।
+
+৬১। ২০২৩ সালের ১২ নং আইনের ধারা ১৭৫ এবং সংশোধন—উপ-আইনের ধারা ১৭৫ এবং
+উপ-ধারা (১) এ উল্লিখিত “যা ১০%” শব্দ ও সঞ্চার পরিবর্তে “৬,৭৯৬ বা ২২%” रुपया, সংখ্যাগুলি ও
+শব্দটি প্রতিস্থাপিত হইবে।
+
+৬২। ২০২৩ সালের ১২ নং আইনের ধারা ১৯৫ এবং সংশোধন—উপ-আইনের ধারা ১৯৫ ও
+
+[[page 72]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ৩০, ২০২২
+
+(খ) উপ-ধারা (২)-
+(গ) এ উল্লিখিত “করিতে পারিবেন” শব্দটির
+প্রকৃতপাঠ “ৎ” কোনlan এবং পরিবর্তে “ৎ” 도입
+প্রতিষ্ঠাপিত হইবে;
+(ঘ) এর পাঠক্রমে বিন্যস্ত হইবে:
+উপ-ধারা (১) বিলুপ্ত হইবে।
+
+৬ষ্ঠ। ২০২২ সালের ১২ নং আইনের ধারা ১৮২ এর সংশোধন:- উক্ত আইনের ধারা ১৮২ এর-(ক) উপ-ধারা (১৪) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১৪) প্রতিস্থাপিত হইবে, যথা: -
+“(১৪) নিম্নবর্ণীত ক্ষেত্রসমূহ ব্যতীত, কোনো करारের জন্য ধারা ₫৬০ এবং অধীন
+দলিলকৃত কোনো লিখন বা সংশোধিত লিখনী অবশ্যই পূর্ববর্তী करार্বের মোট আয়
+হইতে অনুন ৯০% (নব্বই শতকরা) অধিক মোট আয় প্রদর্শন করা হইলে উক্ত লিখন
+উপ-ধারা (১) এর অধীনে অসিদ্ধ ठर করিবেন না, যথা:-
+(ক) কোনো ব্যাংক, ইন্স্যুরেন্স বা ফাইন্যান্স কোম্পানির লিখন বা
+সংশোধিত লিখন;
+(খ) সংশ্লিষ্ট ব্যবসার ব্যাংক ও ফাইন্যান্স কোম্পানি ব্যতীত অন্য কোনো
+উপন হয়েছে সর্বমোট ৫ (পাঁচ) লক্ষাধিক টাকার কোনো প্রকার মূল
+গ্রহণের সমর্থনে গ্রাহক বিবরণী দাখিল করা হয় নাই এইরূপ কোনো
+রিটান বা সংশোধিত রিটার্ন।
+
+(গ) সম্পূর্ণ বা আংশিক করমুক্ত আয় প্রদর্শনকারী কোনো রিটার্ন বা
+সংশোধিত রিটার্ন;
+
+(ঘ) হ্রাসকৃত করার প্রয়োজন এইরূপ আয় প্রদর্শনকারী কোনো রিটার্ন বা
+সংশোধিত রিটার্ন;
+
+(ঙ) কর প্রস্তাবনা দাবি করা হইয়াছে বা কর প্রস্তাবনা সৃষ্টি হইয়াছে এইরূপ
+কোনো রিটার্ন বা সংশোধিত রিটার্ন;
+
+(চ) কর্পোরট;
+
+(ছ) সংশ্লিষ্ট বৎসরের অংশ ১ ও এর বিধিমানবি পরিচালনার সমর্থনে
+প্রয়োজনীয় দলিলাদি দাখিলই ব্যর্থ হইবে; পা
+
+(জ) ধারা ১৭৬ এবং উপ-ধারা (২) অনুযায়ী প্রেসিডন্ট গোডাউন
+সম্পূর্ণরূপে পরিদর্শন করিবার authorized ধারা ১৭৬ এবং উপ-
+ধারা (৩) এর দফা (খ) অনুযায়ী অর্জিতের জন্য নির্বাচনের
+উপযুক্ত হইবে; বা
+
+(ঝ) ধারা ১৭৭ এর অধীন রিটার্ন দাখিল করিতে ব্যর্থ হইবে।"
+
+[[page 73]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+(খ) উপ-ধারা (১)(ঘ) এর দফা (৪) এবং পরিবর্তে নিম্নরূপ দফা (৪) প্রতিস্থাপিত হইবে:
+ যথা:-
+ “(৪) যেই करारণ কোনো রিটার্ন দাখিল করা হইয়াছে সেই करारণ সমাপ্ত
+ হইয়া তনظیم < ২ (দুই) करारণের মধ্যে উক্ত উপ-ধারা (১) এর
+ অধীন অডিটরি নিরীক্ষা নির্বাচন না অনুমোদন করিতে পারিবে।”
+
+ ৯(১) ২০২৩ সালের ১৭ নং আইনের ধারা ১৮৩ এবং সংশোধন - উক্ত আইনের ধারা ১৮৩ এর—
+ (ক) উপশিরোনামে “ডিজিটাল উপকরণ কমিশন কর্তৃক কর
+ নিধারণ” এর পরিবর্তে “উপকর কমিশন কর্তৃক
+ নির্ধারণ” ছোটানোটি প্রতিস্থাপিত হইবে;
+ (খ) উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত
+ হইবে, যথা:-
+ “(১) উপরকর কমিশন, এই ধারার অধীন, সংশ্লিষ্ট
+ রিটার্ন, দলিলাদি বা এই আইনের অন্য কোনো
+ বিবধান অনুযায়ী নিম্পন্নিত ক্ষেত্রসমূহকে প্রদশয়
+ অযক্ষর নির্ধারণ করিতে পারিবে, যথা:-
+ (ক) কোনো ব্যক্তি কর্তৃক দাখিলকৃত কোনো
+রিটানো বা সংশোধিত রিটার্ন ধারা ১১৫
+এর অধীন সাধারণ রিটার্ন হিসাবে গণ্য
+হইলে; বা
+
+(খ) কোনো ব্যক্তি ধারা ১৫২ এর উপ-ধারা
+(১)(২) অনুযায়ী কর निर्धारণের যোগ্য
+হইয়া; বা
+
+(গ) কোনো ব্যক্তি ধারা ১৯৫ গা হতে
+অনুযায়ী কর निर्धारণের যোগ্য হইলে; বা
+
+(ঘ) কোনো ব্যক্তি এই আইনের কোনো
+বিধান অনুযায়ী अग्रকর পরিশোধের
+যোগ্য হইয়া।"
+
+৩০। ২০২৩ সালের ১৫ নং অর্ডিনেন্স ধারা ১২৯ এর substitution—এই Ordinance ধারা ১৬৭ এর
+উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত হইবে, যথা:—
+
+“(১) উপ-ধারা (২) ও (৩) এর বিধান সাপেক্ষে, নিম্নরূপ মেয়াদ উত্তীর্ণ হইবার পূর্বে
+কর নির্ধারণ বা রিটার্ন process সম্পন্ন করিতে হইবে, যথা:—
+
+(ক) ধারা ১৬৫ অনুসারে রিটার্ন পেশের ক্ষেত্রে করবর্ষে
+রিটার্ন দাখিল করা হইয়াছে উক্ত করবর্ষ শেষ হইবার পরবর্তী
+২ (দুই) বৎসর;"
+
+[[page 74]]
+২০২৪&&
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২৪
+
+(ঘ) যেই কর্বার্য়ে ধারা ১৮২-এর উপ-ধারা (১) অনুসারে কোনো রিটার্ন অডিটরের জন্য নির্বাচন করা হইয়াছে সেই কর্বার্য়ে শেষ হইবার পরবর্তী ২ (দুই) বৎসর।
+
+(ঙ) যেই কর্বার্য়ে কোনো রিটার্ন সাধারণ রিটার্ন হিসাবে গণ্য হইয়াছে উহা কর্বার্য় শেষ হইবার পরবর্তী ১ (এক) বৎসর।
+
+(চ) ধারা ২০২২-এর অধীন প্রণীত কর নির্ধারণের ক্ষেত্রে যে সংশ্লিষ্ট কর্বার্য়ে উক্ত আয় প্রথমবার নিরূপণ করা হইয়াছে উহা শেষ হইবার পরবর্তী ০ (শূন্য) বৎসর।"
+
+৭১। ২০২৩ সালের ১২ নং আইনের ধারা ১৮৬ এর সংশোধন—উক্ত আইনের ধারা ১৮৬ এবং দফা (১) এর উপ-দফা (ক) এবং পরিবর্তে নিম্নরূপ উপ-দফা (ক) প্রতিস্থাপিত হইবে যথা:—
+“(ক) যিনি দায়ী ব্যক্তি কর্তৃক কমিশনার বা উপরন্তু কমিশনার বা উপরন্তু কমিশনারের অনুমতি সাপেক্ষে কর পরিশোধক;”।"
+
+৭২। ২০২৩ সালের ১২ নং আইনের ধারা ১৮৬ এর সংশোধন—উক্ত আইনের ধারা ১৮৬ এর উপ-দফা (১) এর দফা ৪-এ “ডি” রিটার্ন পরিবর্তে “এ” শ্রেণীকরণে প্রতিস্থাপিত হইবে।
+এবং অতঃপর নিম্নরূপ নূতন দুটি দফা সংযোজিত হইয়াছে, যথা:—
+
+“৪৪. হোটেল, রেস্তোরাঁ, মোটেল, হাসপাতাল, ক্লিনিক, ডায়াগনস্টিক সেন্টারসমূহের লাইসেন্স প্রাপ্তি ও নবায়নকালে;
+
+৪৫. সিটে расположен এলাকাভিত্তিক অতিরিক্ত ফ্যামিলি সেস্টার, কনসেপশন হল
+বা সমজাতীয় কোনো সেবা учреждение।”
+
+੧੦। ੨੦੪੦ সালের ১৫ নং আইনের ধারা ২૫০ এর সংশোধন— উক্ত আইনের ধারা ২૫০ এর
+উপ-ধারা (১) এ উল্লিখিত “৫ (পাঁচ) হাজার টাকা এবং অনধিক ২০ (বিশ) হাজার” শব্দ্যাগুলি,
+বন্ধনীযুক্ত ও সফলবার পরিবর্তে “১০ (দশ) হাজার টাকা এবং অনধিক ৫০ (পঞ্চাশ) হাজার”
+শব্দ্যাগুলি, বন্ধনীযুক্ত ও শব্দানুযায়ী প্রতিস্থাপিত হইয়াছে।
+
+੧੪। ੨੦੪੦ সালের ১৫ নং আইনের ধারা ২૫੭ এর সংশোধন—উক্ত আইনের ধারা ২૫੭ এ
+উল্লিখিত “যা ১৮৬০” শব্দ ও সংস্থার পরিবর্তে “,” ১৮৬০ বা ২২৯” كما, শব্দ্যাগুলি ও শব্দানুযায়ী
+প্রতিস্থাপিত হইয়াছে।
+
+੧੬। ੨੦੪੦ সালের ১৫ নং আইনের ধারা ২૫੯ এর সংশোধন—উক্ত আইনের ধারা ২૫੯ এ
+উল্লিখিত “ধারা ১৭৭০ এর আবশ্যকতা অনুযায়ী কর্ম” শব্দগুলি ও সংস্থার পরিবর্তে “ধীবজ কলдям”
+শব্দানুযায়ী প্রতিস্থাপিত হইয়াছে।
+
+[[page 75]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০ deceive
+
+ ninety এক। ২০২৩ সালের ১২ নং আইনের ধারা ২৮৫ এর সংশোধন.— উক্ত আইনের ধারা ২৮৫ এর
+উপ-ধারা (৪) এর পরিবর্তে নিম্নরূপ উপ-ধারা (৪) প্রতিস্থাপিত হইবে যথা:—
+“(৪) উপ-ধারা (১) এর অধীন কোনো আবেদন বিবেচিত হইবে না, যদি না—
+(ক) আবেদনের সহিত ৩০০ (ট্রিশ) টাকা ফি প্রদান করা হয়;
+এবং
+(খ) স্বীকৃত ফরমায় পরিশোধ করা হয়।”
+
+ ninety এক। ২০২৩ সালের ১২ নং আইনের ধারা ২৮৬ এর সংশোধন.—উক্ত আইনের ধারা ২৮৬ এর
+উপ-ধারা (৫) এর সারবরি (ই) নং দলিলে উল্লিখিত “ধারা ১৫৩ এবং অধীন কোনো কর” শব্দগুলি ও
+সংখ্যায় পরিবর্তে “স্বীকৃত ফরমায়” শব্দগুলি প্রতিস্থাপিত হইবে।
+
+ ninety এক। ২০২৩ সালের ১২ নং আইনের ধারা ২87 এর সংশোধন.—উক্ত আইনের ধারা ২৮৭ এর
+উপ-ধারা (১) এ উল্লিখিত “ধারা ১৭৬ অনুসারে পরিশোধযোগ্য करार” শব্দগুলি ও সংখ্যায় পরিবর্তে
+“স্বীকৃত ফরমায়” শব্দগুলি প্রতিস্থাপিত হইবে।
+
+ ninety এক। ২০২৩ সালের ১২ নং আইনের ধারা ২৮৮ এর সংশোধন.—উক্ত আইনের ধারা ২৮৮ এর
+উপ-ধারা (১) এর—
+(ক) উল্লিখিত “ধারা ১৭৬ এবং অধীন কোনো करार” শব্দগুলি ও সংখ্যায় পরিবর্তে “স্বীকৃত ফরমায়” শব্দগুলি
+করেন।” পুনঃলে ও সংখ্যার পরিবর্তে “স্বীকৃত ফরমায়” শব্দগুলি
+প্রতীকৃত হইবে।
+
+(ঘ) সংবিধি (১) তে উল্লিখিত “ধারা ১৭৩ এর অধীন পরিশোধনা” করেন
+শব্দগুলি ও সংস্থার পরিবর্তে “স্বীকৃত correspondেন্ট” শব্দগুলি প্রতীকৃত
+হইবে।
+
+৮০। ২০২৩ সালের ১৫ই নভেম্বর আইনের ধারা ২২২ এর সংশোধন.—এই আইনের ধারা ২২২ এর
+উপ-ধারা (১) এ উল্লিখিত “ধারা ১৭৩ এর অধীন প্রদেয় কর” শব্দগুলি ও সংস্থার পরিবর্তে “স্বীকৃত
+correspondেন্ট” শব্দগুলি প্রতীকৃত হইবে।
+
+৮১১। ২০২৩ সালের ১৫ই নভেম্বর আইনের ধারা ৩৩৪ এর প্রতিস্থাপন.—এই আইনের ধারা ৩৩৪ এর
+পরিচিত নিম্নরূপ ধারা ৩৩৪ প্রতীকৃত হইবে, যথা:—
+
+“৩৩৪৷ সময়সীমা বৃদ্ধি বা জাম্পদী প্রমাণঙ্কের ক্ষমতা.—এই আইনের অন্য
+কোনো বিভাগে যাহা কিছুই থাকুক না কেন,—
+
+(ক) বোর্ড, আদেশ দ্বারা, forbidন anharmonic ১ (এক) মাস বৃদ্ধি
+করিতে পারিবে;
+
+(খ) সেইক্ষেত্রে মহামারী, অতিমারী, দৈব দুর্বিপাক ও যুদ্ধকালীন
+সময় বিদ্যমান থাকিয়া সরকারের ঘোষণা বা আদেশ রহিয়াছে
+সেইক্ষেত্রে বোর্ড, জনস্বার্থে, সরকারের অনুমোদনক্রমে,
+আদেশ জারি করিবে এবং এই আইনের কোনো বিভাগ
+পরিহারণের সময়সীমা প্রমাণীকরণ authorize
+করিবে। সরকার কর্তৃক authorizeকৃত সময়সীমা বৃদ্ধি
+করিলে জাম্পদী প্রমাণঙ্কের ক্ষমতা থাকিবে।”
+
+[[page 76]]
+২০৫৪8 বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+৮২১/২০২২ সদর ও ১২ নং আইনের প্রথম তফসিলের সংশোধন—উত্তর আইনের প্রথম
+তফসিল—
+(ক) অংশ ক এবং अनुच्छेद (১) এর পর—
+(খ) উপ-অনুচ্ছেদ (২) এবং পর নিম্নরূপ নূতন উপ-অনুচ্ছেদ (৯)
+সন্নিবেশিত হইবে, যথা:—
+“(৯) যেক্ষেত্রে স্থাপনা, বাড়ি অথবা অন্য কোন স্পেস
+বাণিজ্যিক উদ্দেশ্যে নির্মিত হইয়াছে, সেক্ষেত্রে
+উপ-অনুচ্ছেদ (১) এ উল্লিখিত করার ১০০%
+(একশত শতকরা) অধিক হইবে”;
+(গ) উপ-অনুচ্ছেদ (৩)—
+(১) এ উল্লিখিত “১০০% (একশত শতকরা)” সংখ্যা,
+ đích, শব্দটি ও সম্পূর্ণের পরিবর্তে “১৫০%
+(একশত পঞ্চাশ শতকরা)” সংখ্যা, đích, শব্দটি ও
+সম্পূর্ণটি প্রতিস্থাপিত হইবে;
+(২) এবং দফা (২) এ উল্লিখিত “২৫%” সংখ্যাটির
+পরিবর্তে “১৭½%” সংখ্যাটি প্রতিস্থাপিত হইবে;
+(৩) এবং দফা (১) এর paragraphs “1” prefixed পরিবর্তে
+": " সেমিকোলন প্রতিস্থাপিত হইবে এবং অতঃপর
+নিরূপণ নূতন দফা (ঘ) ও (ঙ) সংযোজিত হইবে,
+ যথা:—
+
+(ঘ) এই আইনের ধারা ২৩০ এর অধীন
+কোনো কার্যক্রম গ্রহণ করা হইয়াছে এবং
+ উহা চলমান রহিয়াছে; বা
+
+(ঙ) এই আইনের অধীন কার্যকরী পদক্ষেপ
+কোনো কার্যক্রম চলমান রহিয়াছে।"
+
+(গ) অংশ ১-২ अनुरूप ২ বিস্তৃত হইবে;
+
+(ঘ) অংশ ১-২ এর পর নিরূপণ নূতন দফা ১ সংযোজিত হইবে, যথা:—
+"অংশ ৩
+অординаট সংসদ প্রণয়ন
+
+অординаট парламента প্রধানের বিশেষ ব্যবস্থা.—(১) সাধারণ আইন, ২০১০ বা অন্য কোনো
+আইন যাহা কিছুই থাকুক না কেন, সরকার কর্তৃকপক্ষসহ অন্য কোনো নির্বাচিত সরকারি কর্তৃপক্ষ
+কোনো ব্যক্তির কোনো парламента অর্জনের উদ্দেশ্যে কোনো বিষয়ে কোনো প্রশ্ন উত্থাপন করিতে পারিবে না,
+যদি উক্ত ব্যক্তি ১ জুলাই ২০২৪ হইতে ৩০ জুন, ২০২৫ তারিখের মধ্যে (উভয় দিন অন্তর্ভুক্ত) ২০২৪-
+
+[[page 77]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২               ২০ flag
+
+২০২৩ করবর্ষের রিটার্ন বা সংশোধিত রিটার্ন দাখিলের পূর্বে নিবন্ধিত সার্টিফাইড প্র্যাকটিসড হাউজ
+এর পরিবেশনকৃত ২০২৩-২০২৪ করবর্ষের রিটার্ন উপকরণ অন্তর্ভুক্ত পরিশোধ সনদ করেন,
+যথ৷—
+
+সার্চি-১
+
+ক্রমিক | অবস্থান | স্থাপনা, বাড়ি, ফ্ল্যাট/অ্যাপার্টমেন্ট অথবা
+নং | | অ্যাপার্টমেন্টে পৌঁছে
+| | | দেওয়ার স্পেসের
+| | | পরিমাণ
+(১) | (২) | (৩) | (৪)
+১ | ঢাকা জেলার গুলশান থানা, বনানী থানা, হাতিরঝিল | প্রতি বর্গ ফিটরে | প্রতি বর্গ
+  | থানা, তেজগাঁও থানা, ক্যান্টনমেন্ট থানা, ভাষানটেক থানা | ৬০০০ | ফিটরে
+  | তেজগাঁও শিল্পাঞ্চল থানা, শাহবাগ থানা, রমনা | | ২৫০০০ 
+  | থানা, পল্টন থানা, চকবাজার থানা, নিউমার্কেট থানা | | (পনেরো
+  | ও কলাবাগান থানার অন্তর্গত সকল এলাকা | | হাজার) টাকা
+২। ঢাকা জেলার বংশলই থানা, মোহাম্মদপুর থানা, প্রতিটি বর্গ | প্রতি বর্গ
+সুতরাং थाना, 바라বাড়ি থানা, উত্তর মডেল থানা | উইপোকা | বিঘায়ে
+কুতুবুতেন্ট থানা, চকবাজার থানা, কোতোয়ালি | হাজার | ১০০০০ (দশ
+থানা, লালবাগ থানা, বিশেষ ও থানা, শ্যামপুর | টাকা | হজার) টাকা
+থানা, শান্তিনগর থানা, মিরপুর মডেল থানা,
+দারুস সালাম থানা, দক্ষিণখান থানা, ভাটারা
+থানা, রূপগঞ্জ থানা, শাহ আলী থানা, সূত্রাপুর
+থানা, বংশলই থানা, কামরাঙ্গীরচর থানা,
+হাজারীবাগ থানা, ওয়ারী থানা, আদাবর থানা,
+গেন্ডারিয়া থানা, মিরক্ষেত্র থানা, বিমানবন্দর
+থানা, উত্তর পরিসর থানা, মুড়িয়া থানা, ভুল্লিপয়
+থানা, ভাষানটেক থানা, বাড্ডা থানা, পল্লবী থানা ও
+ভাটীরা থানা: চতুলিম ইসলাম থানা,
+পলাশীন থানা, পান্থুমলই থানা, হলিম শহর থানা
+ও কোতোয়ালি থানা: নারায়ণগঞ্জ জেলার সদর
+থানা, সোনারগাঁও থানা, ফতুল্লা থানা, সিড়িগঞ্জ
+থানা ও বন্দর থানা এবং গাজীপুর জেলার সদর
+থানার অন্তর্গত সকল খোলা
+
+[[page 78]]
+২০ đề
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+ক্রমিক | অবস্থান | স্থাপনা, বাড়ি, ফ্ল্যাট, ভূমির হস্তান্তর
+নং | | apartamento অথবা | এর ওপর lessee-এর
+| | | জোর ক্লেম করার | অধিকার
+(১) | (২) | (৩) | (৪)
+ 
+০১ | ঢাকা জেলার দোহার, নবাবগঞ্জ, কেরাণীগঞ্জ, সাভার ও ধামরাই উপজেলা; চট্টগ্রাম জেলার আক্রর শাহ থানা, পটিয়াছড়া থানা, কর্ণফুলী থানা, চকবাজার থানা, চান্দগাঁও থানা, unsaturated থানা, পতেঙ্গা থানা, বন্দর থানা, বাকলিয়া থানা, বায়েজিদ বোস্তামী থানা ও সদরঘাট থানা; | প্রতি বর্গ মিটার ২০০০ (এক হাজার পাঁচশত) টাকা | প্রতি বর্গ মিটার
+| | গাজীপুর জেলার জয়দেবপুর থানা, কালীগঞ্জ থানা, বাসন থানা, কোনাবাড়ি থানা, গাছা থানা, ঢাকা পূর্ব থানা ও টঙ্গী পশ্চিম থানা এবং নারায়ণগঞ্জ জেলার রূপগঞ্জ থানা ও আড়াইহাজার উপজেলার | | ৫০০ (তিন
+| | | | হাজার) টাকা
+| | শর্তাবলী সম্পন্ন যেগুলো পূরণ করতে হবে | বার্ষিক সকল চার্জ (টাকা) | বার্ষিক মিটারে (এক হাজার) টাকা |
+|---|---|---|---|
+| ৪1 | ক্রমিক নং ১ হইতে ৩ এর অন্তর্ভুক্ত নহে কিন্তু ঢাকা দক্ষিণ, ঢাকা উত্তর, চট্টগ্রাম, নারায়ণগঞ্জ ও গাজীপুর সিটি কর্পোরেশন ব্যতীত অন্যান্য সিটি কর্পোরেশন ও অন্য কোনো উন্নয়ন কর্তৃপক্ষ এবং জেলা সদরে অবস্থিত সকল পৌরসভার অন্তর্গত সকল চার্জ | প্রতি বর্ণ মিটারে ৫০০ (পাঁচ হাজার) টাকা | বার্ষিক মিটারে ২০০০ (দুই হাজার) টাকা |
+| ৫1 | ক্রমিক নং ১ হইতে ৪ এর অন্তর্ভুক্ত নহে এইরূপ অন্য যেকোনো পৌরসভার অন্তর্গত সকল চার্জ | প্রতি বর্ণ মিটারে ৮৫০ (আট শত পঞ্চাশ) টাকা | বার্ষিক মিটারে ১৫০০ (এক হাজার পাঁচশত) টাকা |
+| ৬1 | ক্রমিক নং ১ হইতে ৪ এর অন্তর্ভুক্ত নহে এইরূপ অন্য যেকোনো এলাকার সকল চার্জ | প্রতি বর্ণ মিটারে ৫০০ (পাঁচ শত) টাকা | বার্ষিক মিটারে ৩০০ (তিনশত) টাকা |
+
+[[page 79]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২৩ 2089
+
+সারণী-২
+
+ক্রমিক
+নং | পরিমাপের বর্ণনা | করার
+(১) | (২) | (৩)
+১.১ | সিকিউরিটিজ, সনদ, ব্যালেন্স শীট, আর্থিক | মোট পরিমাপের | ১৫%
+ | স্কিম ও ইনস্ট্রুমেন্ট (financial schemes and | ( percent of total) | 
+ | instruments), সকল প্রকার রিপোর্ট বা | 
+ | নথি ডিপোজিট | 
+১.২ | সারনী-২ এর ক্রমিক নং ১ এবং সারনী-১ এ | পরিমাপের মাত্রা বাজার | 
+ | উল্লিখিত হয় নাই এইরূপ যেকোনো প্রকারের | মূল্যের ১৫% (percent of total) | 
+ | পরিমাপের ক্ষেত্রে | 
+(২) | এই অনুচ্ছেদের অধীন দর পরিমাপের ক্ষেত্রে - | 
+(ক) | ২০১১-২০২৩ তারিখ ও উহার পূর্বের কার্যক্রমসমূহের অগ্রগতি | 
+ | পরিমাপ প্রদর্শন করা যাইবে;
+(ই) ২০১৭-২০২২ কারাব্বের জন্য দায়িত্বকৃত রিটার্নির ফসল বিতরণী বা,
+প্রযোজ্য ক্ষেত্রে, রিটার্নির সহিত দাখিলকৃত পরিদর্শন ও দাসের
+বিবৃতিতে যা নির্দিষ্টণে পরিদর্শনের প্রদর্শন করিতে হইবে;
+
+(ঈ) সার্জন-১ এর (ও) নং কাঠামো উল্লিখিত করিবার ১০০% (একশত
+শতাংশ) অধিক হইবে যদি উপযুক্ত স্থাপনা, ব্যক্তি অথবা কোন স্পেস
+বাণিজ্যিক উদ্দেশ্যে নির্মিত হয়;
+
+(উ) এই অনুচ্ছেদের অধীন পরিচালিত করুন ২০২২-২০২৩ কারাব্বের
+প্রযোজ্য অনুযায়ী নীতি পরিদর্শনেরাইতেবাদ বাড়াইবে;
+
+(ঊ) শৃঙ্খলা, বাড়ি, মাটি, অ্যাপার্টমেন্ট অথবা কোন স্পেসের ক্ষেত্রে
+পৃথকভাবে ভবন এবং ভূমির জন্য প্রযোজ্য কর পরিদর্শন করিতে
+হইবে;
+
+(ঋ) presume কর কেবল এ-চালান এর মাধ্যমে পরিশোধ করিতে হইবে;
+
+(ঢ়) প্রদর্শিত পরিদর্শনের বিপরীতে সার্জন-১ ও সার্জন-২ মোতাবেক
+পর্যালোচনা কর ব্যতীত অন্য কোনো প্রকারের কার্যক্রম বা সার্জিক্যাল বা
+অন্য কোনো প্রকার presume হইবে না এবং ধারা ১৭-এ অনুযায়ী কর
+উভয়ণে perceptible হওয়ার সহিত presume হইবে না;
+
+(ঞ) দফা (১) এর সার্জন-১ এ উল্লিখিত পরিদর্শন প্রদর্শিত হইলে
+পর্যবেক্ষণীয় যে, উক্ত পরিদর্শনের সহিত যা অতিরিক্তভাবে নথি
+উপস্থাপনের জন্য নির্দেশ করা হইয়াছে, তা এতদ্বাঞ্চলে গ্রহণ
+করিতে হইবে এবং তাহার বিষয়েও নথি সংরক্ষণে বাধ্য থাকিবে।
+
+[[page 80]]
+২০́ćc
+ট = সংশ্লিষ্ট taxpayers সর্বমোট বার্ষিক আয়;
+
+ঠ = সংশ্লিষ্ট taxpayers সকল অনুমোদিত ব্যবস্থাপনা ব্যয়uada ট + খ + গ + ঘ + ঙ নামে পরিচিত উপকরণ বিক্রি করতে অতিরিক্ত খরচ দিতে পারবে না, যেখানে,
+
+ট = একক প্রিমিয়ামের জীবন বীমা পলিসির ক্ষেত্রে, সংশ্লিষ্ট taxpayers প্রাপ্ত প্রিমিয়ামের
+১.৫% (শত দশমিক পাঁচ শতাংশ);
+
+থ = প্রথম বছরে বার্ষিক প্রিমিয়ামের সংখ্যা ১২ (বারো) দিন কম এইরূপ অন্যান্য জীবন বীমা পলিসির ক্ষেত্রে অথবা ১৫ (পনেরো) বৎসরের কম সময়ব্যাপী বার্ষিক প্রিমিয়াম পরিশোধযোগ্য এইরূপ জীবন
+
+[[page 81]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+বিমা পলিসির ক্ষেত্রে প্রবৃদ্ধি প্রতিষ্ঠান বা সংশ্লিষ্ট প্রতিটি গ্রাহকের প্রাপ্ত প্রিমিয়ামের
+৭.৬% (সাত দশমিক পাঁচ শতাংশ);
+
+দ = অন্যান্য সকল জীবন বিমা পলিসির ক্ষেত্রে, সংশ্লিষ্ট গ্রাহকের প্রাপ্ত প্রথম বৎসরের প্রিমিয়ামের ৫০% (নবই শতাংশ);
+
+ঋ = সংশ্লিষ্ট গ্রাহকের প্রাপ্ত সকল নবায়নকৃত প্রিমিয়ামের ১২% (বারো শতাংশ);
+
+য় = (প - ক্ষ + ঘ + ঙ) = য়, যেখানে,
+গ = নিম্নবর্ণিত তিনটি বিক্রয়ের মোট গুরুত্ব;
+ যদি, যথা:—
+(ঙ) যেই करारের পর নির্ধারণ
+হইবে সেই करारের জন্য
+আর্থিকyearিয়াল তালিয়েন
+হইতে প্রাপ্ত উদ্বৃত্ত বা ঘাটতি;
+
+(চ) যেইক্ষেত্রে (ঙ) অনুযায়ী উদ্বৃত্ত
+বা ঘাটতি নির্ধারণ সম্ভব নভে,
+সেইক্ষেত্রে বিবেচিত करारের
+স্তরहित পূর্ববর্তী বৎসরের
+জন্য আর্থিকyearিয়াল
+তালিয়েন হইতে প্রাপ্ত উদ্বৃত্ত
+বা ঘাটতি; বা
+
+(ছ) যেইক্ষেত্রে (ঙ) বা (চ)
+অনুযায়ী উদ্বৃত্ত বা ঘাটতি
+নির্ণয়ণ সম্ভব নভে, সেইক্ষেত্রে
+সংশ্লিষ্ট আর্থিকyearিয়ালকের
+(intervaluation period)
+জন্য আর্থিকyearিয়াল
+তালিয়েন হইতে প্রাপ্ত উদ্বৃত্ত
+বা ঘাটতি;
+
+[[page 82]]
+২০ঁঁঁঁঁ
+
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+ফ = যেই ফরওয়ার্ড করা নিরূপণ করা হইয়াছে সেই প্রকারণের জন্য বিবেচ্য আটকখানারিয়াল তালুকুলের মধ্যে অন্ত্যত পূর্ববর্তী সময়ের дані (brought forward) উদ্বৃত্ত বা ঘাটতি;
+
+ব = উদ্বৃত্ত বা ঘাটতি সংশ্লিষ্ট সময়ে কোনো অভ্যন্তরীণকালীন বা চূড়ান্ত (interim or terminal) বোনাস, উহা যেই প্রকারের হউক না কেন, পরিশোধ করা হইলে উল্লেখ অশূন্য;
+
+ঘ = উদ্বৃত্ত বা ঘাটতি সংশ্লিষ্ট সময়ে ধারা 86-66 এর বিধানবলি অধীন অনুমোদনযোগ্য বিবেচিত সমাপি;
+
+স = ১ (এক), যা вследствие আটকখানারিয়াল একাধিক বৎসরের জন্য এবং ঐ পরিদর্শনায় গৃহীত হয় সেক্ষেত্রে আটকখানারিয়ালের
+(খ) अनुच्छेद ৬ এর উপ-অনুচ্ছেদ (১) এবং পরিবর্তে নিম্নরূপ উপ-অনুচ্ছেদ
+(১) প্রতিস্থাপিত হইবে: যথা:-
+
+“(১) কোনো বৎসরে ব্যক্তিগত ক্ষতি মিটাইতে কোনো কোম্পানীর
+পরিমাণ অর্থ উপ-অনুচ্ছেদ (১) এর অধীন নির্দিষ্ট মুনাফার স্থিতি
+হইতে প্রয়োজন করিতে পারিবে যেখানে,-
+
+ x = উক্ত বৎসরে কোনো কোম্পানীর পরিমাণ উদ্বৃত্ত আয়ের
+ অংশিক ৩০% (শত শতাংশ)।" [১]
+
+৬ষ্ঠ। ২০२० সনের ১২ নং আইনের পঞ্চম তপসিলের অংশ ৫ এর সংশোধন - উক্ত আইনের
+পঞ্চম তপসিলের অংশ ৫ এর अनुच्छेद ৩ বিস্তৃত হইবে।
+
+৬ষ্ঠ। ২০२० সনের ১২ নং আইনের ষষ্ঠ তপসিলের সংশোধন-উক্ত আইনের ষষ্ঠ
+তপসিলের—
+
+(ক) শিরোনামে উল্লিখিত “ধারা ৭৬” শব্দ ও সংখ্যার পর “,” ২৭
+ ও ‘ণ’ শব্দ, সংযোজনী ও শব্দ सम्मिलित হইবে;
+
+(খ) অংশ ৫,-
+
+(গ) দফা (১১) এবং পরিবর্তে দফা (১২)
+ প্রতিস্থাপিত হইবে: যথা:-
+
+[[page 83]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২৩
+
+“(১৫) যেকোনো দান বা অনুদান যদি উহা—
+(ক) ধর্মীয় প্রতিষ্ঠান বা কর
+কমপ্লায়েন্স কর্তৃক অনুমোদিত
+দাতব্য উদ্দেশ্য পরিচালিত
+কোনো প্রতিষ্ঠান কর্তৃক গৃহীত
+হয় এবং ধর্মীয় বা দাতব্য
+উদ্দেশ্যে ব্যUtilিত হয়; বা
+(খ) এসিড ও বিষাক্ত দ্রব্যের কর্তৃক
+অনুমোদিত কোনো ব্যক্তি
+কর্তৃক গৃহীত হয়;";
+
+(ভা) দফা (১০) এর পরিবর্তে নিম্নরূপ দফা (১০)
+প্রতিস্থাপিত হইবে যথা:—
+“(১০) নিবন্ধিত *ও* পরিবহন serviceable
+সাইকেল/ই-বাইক রেগুলারি কম্প্লায়েন্স
+কর্তৃক নির্বাচিত কোনো সরকারি ক্ষুদ্রঋণ
+कार्यक्रम পরিচালনা করিতে উপযুক্ত সার্ভিস
+চাইল্ড কেয়ার অ্যান্ড প্রোটেকশন অ্যাক্ট, ২০২৩
+
+ধারা:
+
+(ক) আইন দ্বারা নির্ধারিত
+ক্ষেত্রসমূহ ব্যতীত উপর্যুক্ত
+সার্ভিস চার্জ কেবল
+মাইক্রোক্রেডিট হিসাবে
+আবর্তীত হইতো হইবে; এবং
+
+(খ) মাইক্রোক্রেডিট ঋণগ্রহীতা
+তত্ত্বাবধায়ক কর্তৃক নির্ধারিত
+উপর্যুক্ত সত্তা কেবলমাত্র
+কার্যক্রমে পরিচালনা ব্যতীত
+অন্য কোনো কার্যক্রমে সম্পৃক্ত
+হইতে পারিবে না;
+
+(গ) উপ-ধারা (ঘ) তে বর্ণিত শর্ত
+করবাব ২০২৩-২০২৭ পর্যন্ত
+প্রযোজ্য হইবে;
+
+(ঘ) কোনো करारभे যতটুকু
+আবর্তীত হইবো কেবল
+তত্ত্বুদ্ধকরণযোগ্য হইবে;
+
+[[page 84]]
+২০৫৫২ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+বাংলা—এই দফাunprocessable, “স্পেসিফিক চার্জ” অর্থ ফেডারেল সংস্থার ক্ষুদ্রঋণ কার্যক্রমের অধীন ঋণগ্রস্ত অর্থের জন্য স্বল্প প্রণীত কর্তৃক পরিশোধকৃত বা প্রদানে reckonable আর্থিক চার্জ বা সুদ বা মুনাফা বোঝায়, যে ماهی অতিরিক্ত হস্তাক না ফেলা;”
+
+(ই) দফা (১৫) এর পরিবর্তে নিম্নরূপ দফা (১৫) প্রতিস্থাপিত হইবে, যথা:—
+
+“(১৫) directors সুবিধাভোগী বা পরিবারের অপ্রত্যক্ষভাবে কর্তৃক জড়িত বা নির্ভরশীল আয়ের অংশ হিসাবে গ্রাহ্য আয়ের অংশ যাগ্রহ উপর উক্ত চার্জ বা দালিলকরণ কর্তৃক পরিশোধ করা হয়ません;”
+
+(ঈ) দফা (১১) এর পরিবর্তে নিম্নরূপ দফা (১১) প্রতিস্থাপিত হইবে, যথা:—
+“(ই) ৫ জুলাই, ২০২২ থেকে ৩০ জুন, ২০২৭
+পর্যন্ত নিম্নবর্ণিত কোনো ব্যবসা ইংরেজ
+চুক্তি মোতাবেক বিদেশি ব্যক্তি বা জমিনদারী
+আইনসই সংস্থাভিত্তিক ব্যক্তির জন্য,
+যাথা:—
+
+(ক) এআই বেস্ড সলিউশন
+ডেভেলপমেন্ট (AI based
+solution development);
+
+(খ) ব্লকচেইন বেস্ড সলিউশন
+ডেভেলপমেন্ট (blockchain
+based
+solution
+development);
+
+(গ) রোবোটিক্স প্রসেস
+আউটসোর্সিং (robotics
+process
+outsourcing);
+
+(ঘ) সফটওয়্যার আজ এ সার্ভিস
+(software as a service);
+
+(ঙ) সাইবার সিকিউরিটি সার্ভিস
+(cyber security service);”
+
+[[page 85]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০১৮
+
+২০২২©
+
+(চ) ডিজিটাল ডেটা এনালাইসিস
+ও ডেটা সায়েন্স (digital
+data analytics and
+data science);
+
+(ছ) মোবাইল অ্যাপ্লিকেশন
+ডেভেলপমেন্ট সার্ভিস
+(mobile application
+development service);
+
+(জ) সফটওয়্যার ডেভেলপমেন্ট ও
+কাস্টমাইজেশন (software
+development and
+customization);
+
+(ঝ) সফটওয়্যার টেস্টিং ল্যাব সার্ভিস
+(software test lab
+service);
+
+(ঞ) ওয়েব ডিজাইন, ওয়েবসাইট
+ডেভেলপমেন্ট ও সার্ভিস
+(web listing, website
+development and
+service);
+
+(চ) আইটি সহায়তা ও সফটওয়্যার
+রক্ষণাবেক্ষণ সার্ভিস (IT
+assistance and
+software maintenance
+service);
+
+(ছ) জিওগ্রাফিক ইনফরমেশন
+সার্ভিস (geographic
+information service);
+
+(জ) ডিজিটাল এনিমেশন
+ডেভেলপমেন্ট (digital
+animation
+development);
+
+(ঝ) ডিজিটাল গ্রাফিক্স ডিজাইন
+(digital graphics
+design);
+
+[[page 86]]
+২০৫৫৪ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+(গ) ডিজিটাল ডেটা এন্ট্রি ও
+প্রসেসিং (digital data
+entry and processing);
+
+(ঘ) ই-লার্নিং প্ল্যাটফর্ম ও ই-
+পাবলিকশন (e-learning
+platform and epublication);
+
+(ঙ) আইটি ফ্রি ল্যান্সিং (IT
+freelancing);
+
+(চ) কল সেন্টার সার্ভিস (call
+center service);
+
+(ছ) গুরুত্বপূর্ণ কাগজপত্র, বৈজ্ঞানিক
+ও ডিজিটাল আর্কাইভের
+(document conversion, imaging
+and digital archiving):
+
+তেত্রিশ নং shake যে, ০৯ জুলাই ২০২২
+آورিখ হইতে উক্ত ব্যবহারের সকল
+ আয়, ব্যয় ও বিনিয়োগ সংক্রান্ত ব্যাপক
+ দিললিপির এর মাধ্যমে সম্পৃক্ত করিতে
+ হইবে";
+
+(ঙ) দফা (গ) এ উল্লিখিত "বা কোনো আইনিয়ার অধীন
+ প্রতিষ্ঠিত এবং চার্জ্ড acquainted বা কত্ך
+
+[[page 87]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০২২ এ
+
+গৃহীয়ার নিকট বাহিক টানেল প্রেরিত হয় সেক্ষেত্রে দাতার রিটার্ন প্রদর্শনীর শর্ত প্রযোজ্য হইবে না;
+
+(৩৬) কোনো স্বাভাবিক ব্যক্তি কর্তৃক গৃহীত একাধিক ২০ (বিশ) লক্ষ টাকার কোম্পানী ঋণ।
+
+(ক) তালিকাভুক্ত কোনো কোম্পানি বা তহবিলের শেয়ার বা ইউনিট হস্তান্তর হইতে অর্জিত হইয়াছে;
+
+(খ) কোনো কোম্পানি বা তহবিলের স্পন্সর, ডিরেক্টর বা প্রমোটার শেয়ার বা ইউনিট হস্তান্তর হইতে অর্জিত হইয়াছে।
+
+(৩৭) অংশ ২-এর—
+
+(অ) শিরোনাম="| “মোট আয় হইতে বিয়োজন” এর
+পরিच्छेद “মোট আয় নির্দেশনা হইতে বিনিয়োগ”
+শিরোনামটি প্রতিস্থাপিত হইবে;
+
+(গ) অনুচ্ছেদ উল্লিখিত “মোট আয় ছাটাই বিনিয়োগ”
+শব্দগুলির পরিবর্তে “মোট আয় নির্দেশনা হইতে
+বিনিয়োগ” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(ঘ) অংশ ২ ও ৩—
+(ঙ) অনুচ্ছেদ ১ এ সুতরাং উল্লিখিত “আয়বাচক”
+শব্দটির পর “ব্যক্তি” শব্দটি সন্নিবেশিত হইবে;
+(চ) অনুচ্ছেদ ২-এর উপ-অনুচ্ছেদ (২) এ উল্লিখিত “যা”
+শব্দটির পরিবর্তে “এবং” শব্দটি প্রতিস্থাপিত
+হইবে;
+
+(ছ) অংশ ৪ ও এর appendage ৩ ও ৪ বিলুপ্ত হইবে।
+
+৮২১ ২০২৪ সনের ১২ নং আইনের প্রথম তফসিলের সংশোধন—এই আইনের প্রথম
+তফসিল—
+
+(ক) অনুচ্ছেদ ১ ও ২—
+(খ) উপ-অনুচ্ছেদ (ক) এ উল্লিখিত “কোম্পানি” শব্দটির পর “,
+ trusts ও firms” কথা ও শব্দগুলি সন্নিবেশিত হইবে;
+
+[[page 88]]
+বাংলাদেশ কোড, অর্ডিনেন্স, জুন ৩০, ২০২২
+
+(১) উপ-অনুচ্ছেদ (ঘ) তে উল্লিখিত “কোম্পানি” শব্দটির পর “,
+সহিল ও ড্রাফট” শব্দ ও শব্দগুলি সন্নিবেশিত হইবে;
+
+(খ) অনুচ্ছেদ ৬ এর পর নিম্নরূপ নূতন অনুচ্ছেদ ৬ ক্বিম সংInserটেড হইবে,
+ যথা:—
+
+“৬ ক্। ধারা ১৯৯৫ এর উপ-ধারা (১) অনুযায়ী দ্বিতীয় দাখিলে বাধ্য
+নহে এইরূপ কোনো কোম্পানি কর্তৃক প্রাপ্ত যেকোনো প্রকারের
+ gross আয়ের উপর ২০% (বিশ শতাংশ) হারে কর आरोपित
+হইবে এবং বোর্ড কর্তৃক authorized নির্দিষ্ট amounted উল্লিখিত
+ পদ্ধতিতে পরিশোধিত হইবে;
+
+তবে শর্ত থাকে যে,—
+
+(১) নিম্নবর্ণিত assets-এর উপর অন্তর্ভুক্ত হইবে না,
+ যথা:—
+
+(ক) হস্তান্তর কোনো ভাষা;
+(খ) কোনো দান বা अनुदान;
+(গ) কোনো প্রকারের কর, খাজনা ও शुल्क;
+(২) বাংলাদেশের স্থায়ী বাসিন্দা সেই আইনরূপ কোম্পানির ক্ষেত্রে এই বিধান প্রযোজ্য হইবে না।"
+
+চয়।২০২৪ সালের ১ জুলাই তারিখে আয়কর ধার্যের অন্যতম, paragraphs ও কর রেয়াত-(১)
+উপ-ধারা (১) এর বিধানাবলী সাপেক্ষে,২০২৪ সালের ১ জুলাই তারিখে আয়কর ধার্যের জন্য কোনো কর নির্ধারণের ক্ষেত্রে এই আইনের section-২ এর প্রথম অংশে নির্দিষ্ট করার হার অনুযায়ী আয়কর ধার্য হইবে।
+
+(২) যে সকল ক্ষেত্রে আয়কার আইন, ২০৩০ (২০১০ সালের ১২ নং আইন) এর section প্রযোজ্য হইবে, সেই সকল ক্ষেত্র প্রয়োগযোগ্য কর উক্ত section অনুসারে ধার্য করা হইবে, কিন্তু নিম্নর সংশ্লিষ্ট নির্ধারণের ক্ষেত্রে উপ-ধারা (১) এর বিধান প্রযোজ্য হইবে।
+
+(৩) আয়কার আইন, ২০৩০ এর অংশ ৭ অনুসারে কর্ম কর্তাদের নির্দিষ্ট হার বা ক্ষতিপূরণ যা শিরোনামাধীন হয়,২০২৪ সালের ১ জুলাই তারিখে আয়কর নির্ধারণে ইতিবাচক হইয়া থাকিবে।
+
+(৪) এই ধারায় এবং এই ধারার অধীন আরোপিত আয়কর হারে উদ্দেশ্যে ব্যবহৃত "মোট আয়" অর্থ আয়কার আইন, ২০৩০ এর বিধান অনুসারে নির্ণয়িত মোট আয়।
+
+(৫) আয়কার আইন, ২০৩০ এর paragraph২০২৪ সালের ১ জুলাই তারিখে উক্ত section অনুযায়ী কোনো কর নির্ধারণের ক্ষেত্রে section-২ এর প্রথম অংশে বর্ণিত অনুসারে কর ধার্য অনুযায়ী সংক্রান্ত হার প্রযোজ্য হইবে।
+
+(৬) নিম্নর ক্ষেত্রগুলিতে এই আইনের section অপরendment অথবা repeal দ্বারা প্রভাবিত হইয়াছে:
+(ক) আয়কার আইন, ২০৩০ (২০১০ সালের ১২ নং আইন) এর section -
+(খ) অন্য কোনো আইন অথবা ordinance, যা সরকার কর্তৃক notification দ্বারা specified হইয়াছে।
+
+[[page 89]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+(৭) এই আইনের ধারা ৫৪ এর দফা (ক) ও (খ) এর বিধানাবলী নমনীয়করণ করা যায়
+১ জুলাই, ২০১৬ তারিখে কার্যকর করারূপে প্রযোজ্য হইবে না।
+
+১৮। ২০২২ সালের ১ জুলাই হইতে আরোপকৃত আয়কর, সারচার্জ ও কর রেয়াত—
+
+(১) আয়কর আইন, ২০১০ এবং বিধিমালা অনুসারে, ২০২২ সালের ১ জুলাই তারিখে আরোপ
+করেরণের জন্য কোনো কর निर्धारকের ক্ষেত্রে এই আইনের তৎকালিন-১ এর প্রথম অংশে নির্দিষ্ট করার
+অনুায়ীTaxকর ধার্য হইবে।
+
+(২) এই ধারায় এবং এই ধারার অধীন আরোপিতTaxকরারের হারে উদ্দেশ্যে ব্যবহৃত “মোট
+আয়” অর্থ আয়কর আইন, ২০১০ এর বিধান অনুসারে নির্ণয়িত মোট আয়।
+
+(৩) আয়কর আইন, ২০১০ এর আওতায় ২০২২ সালের ১ জুলাই হইতে আরোপ করণের জন্য
+কোনো কর निर्धारকের ক্ষেত্রে তৎকালিন-২ এর দ্বিতীয় অংশে ও তৃতীয় অংশে নির্দিষ্ট হার অনুযায়ী
+সারচার্জ ধার্য হইবে।
+
+(৪) আয়কর আইন, ২০১০ এর আওতায় ২০২২ সালের ১ জুলাই হইতে আরোপ করণের জন্য
+কোনো কর निर्धारকের ক্ষেত্রে তৎকালিন-৩ এর চতুর্থ অংশে নির্দিষ্ট হার অনুযায়ীTaxকরারের হারে
+হইবে।
+
+(৫) এই আইনের উপবিধি ও প্রথমSchedule অনুযায়ী, আয়কর আইন, ২০১০ এর 第 1 条 এর বিধান
+যথাযথভাবে প্রযোজ্য হইবে।
+পরিপোষের বিধানাবলি ২০২২ সালের ১ জুলাই তারিখে কার্যকর হয়েছে প্রযোজ্য হইবে।
+
+(৬) এই আইনের ধারা (১) এর দফা (ক) ও (খ) এবং বিধানগুলির কলো উপযুক্ত ন্যূনতম করার তারিখ ১ জুলাই, ২০২২ তারিখে কার্যকর হয়েছে প্রযোজ্য হইবে।
+
+[[page 90]]
+২০ corrections
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+প্রথম অধ্যায়
+
+কাউন্সিল আইন, ২০২৩ (২০২৩ সালের ৫৭ নং আইন) এর সংযোগন
+
+§1। ২০০৩ সালের ৫৯ নং আইনের ধারা ৪ এর সংযোগন—কাউন্সিল আইন, ২০২৩ (২০২৩ সালের ৫৭ নং আইন), অতঃপর উক্ত আইন বলিয়া উল্লিখিত, এর ধারা ৪ এ উল্লিখিত “পরিহারী গেজেটে প্রকাশ দ্বারা, উক্ত প্রজ্ঞাপনে” শব্দগুলি ও কমা পরিবর্তে “announce দ্বারা, উক্ত announce” শব্দগুলি ও কমা প্রতিস্থাপিত হইবে।
+
+§10। ২০০৩ সালের ৫৯ নং আইনের ধারা ৬ এর সংযোগন—উক্ত আইনের ধারা ৬ এর উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) (১) প্রতিস্থাপিত হইবে, যথা:–
+
+“(১) এই আইনের উদ্দেশ্য পৃথকভাবে বোর্ড, যে সকল ক্ষমতা প্রয়োগ ও কার্য সম্পাদন করিতে পারিবে, চেয়ারম্যান, জাতীয় রাজস্ব বোর্ড, বা ক্ষেত্রমত, সদস্য (কাস্টমস), জাতীয় রাজস্ব বোর্ড সেই সকল ক্ষমতা প্রয়োগ ও কার্য সম্পাদন করিবে।”
+
+(১)(ক) বোর্ড, announce দ্বারা, validate নির্দিষ্ট সীমা ও শর্ত সাপেক্ষে, কোনো কাউন্সিলার কর্মকর্তার তাহার আবরহিত উচ্চতর পদোন্নতি নিবারিত dairight ও ক্ষমতা
+অর্পণ করিতে পারিবে।"
+
+§ড়া। ২০৩০ সনের ৫৯ নং আইনের ধারা ৩২ এর সংশোধন.—এই আইনের ধারা ৩২ এর উপ-
+ধারা (৪) এ উল্লিখিত “সংশীতকরণ” শব্দের পরিবর্তে “পরিশোধন” শব্দ প্রতিস্থাপিত হইবে।
+
+§ড়চ। ২০৩০ সনের ৫৯ নং আইনের ধারা ৪২ এর সংশোধন.—এই আইনের ধারা ৪২ এর উপ-
+ধারা (১) এর পরিবর্তে নিম্নরূপ নিম্নউপ-ধারা (১) প্রতিস্থাপিত হইবে, যথা:—
+
+“(১) উপ-ধারা (১) এ উল্লিখিত প্যারাসিটামলের মধ্যে কোন প্রকারের প্যারাসিটিন
+প্রদান করিতেহইবে এবং উক্ত প্যারাসিটিন কোন্ নির্দিষ্ট মোড়কে জমা বহাল রাখিতে হইবে,
+ উহা বিধি দ্বারা নির্দিষ্ট হইবেন।”
+
+§ড়ছ। ২০৩০ সনের ৫৯ নং আইনের ধারা ৪৪ এর সংশোধন.—এই আইনের ধারা ৪৪ এর—
+(ক) উপ-ধারা (১) এ উল্লিখিত “(১)” সংখ্যা ও বন্ধনী বিলুপ্ত হইবে; এবং
+(খ) উপ-ধারা (২) বিলুপ্ত হইবে।
+
+§ড়জ। ২০৩০ সনের ৫৯ নং আইনের ধারা ৮৮ এর সংশোধন.—এই আইনের ধারা ৮৮ এর
+উপ-ধারা (১) এর পর নিম্নরূপ নূতন উপ-ধারা (৪) সংযোজিত হইবে, যথা:—
+
+“(৪) এই ধারার অন্যান্য বিধান যাহা কিছুই থাকুক না কেন, ধারা ১১৫ ও বর্ণিত
+ক্ষেত্র ব্যতিত, কার্যমান whatsoeverize type কোণ অপসারণ pursuance pursue পর গ্লোরি diminish মূল্য
+হইতেছেন বলিয়া গণ্য হইবে।"
+
+[[page 91]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+নং-১ ০২৩ সালের ২৯ নং আইনের ধারা ৫৪ এর সংশোধন - উক্ত আইনের ধারা ৯৯ এর উপ-ধারা (১) পর্যন্তিত হইবে যথা:—
+
+“(১) কোনো পণ্য সরকারের নিকট হস্তান্তরিত বলিয়া গণ্য হইবে, যদি উক্ত পণ্য নির্বাচিত কারণে কার্যক্রম বন্ধ অথবা মূল কার্যক্রম স্টেশন অথবা কার্যক্রম authorized ক্ষয়েরিয়া অথবা কার্যক্রম authorized নো-কন্ডিশন টেন্ডারে পণ্য সম্পাদনের তারিখ হইতে ৩০ (ত্রিশ) দিনের মধ্যে অথবা কার্যক্রম বিধানসমূহের পণ্য সম্পাদনের তারিখ হইতে ১৫ (পনের) দিনের মধ্যে, যা যথাযথ কর্তৃপক্ষ অনুমোদিত অতিরিক্ত সময়ের মধ্যে, ছাড় করা বা jeopardize না হয়—
+(ক) সংশ্লিষ্ট администрации বা সৃষ্টিকর্তারের কারণে নির্বাচিত বেওয়ারে অথবা উক্ত পণ্য পরীক্ষার জন্য উদ্যোগ গ্রহণ বা পরীক্ষা করা সম্ভব না হইয়া;
+(খ) সংশ্লিষ্ট পণ্য অনুরোধকৃত কার্যক্রম পদ্ধতির অধীন নাও বা হ্রাস করিবার পূর্বে অথবা উপস্থাপনীয় দলিল উপস্থাপন না করিয়া; বা
+(গ) যুক্ত ও সংবেদনশীল এ precludes ব্যক্তিগণ পার্টicipate করিয়া ক্ষেত্রে, উহা পরিস্থিতি বা প্রাদার দ্বারা না হইয়া।”
+§১ ২২৯৩ সালের ৫ নং আইনের ধারা ১৭৩ এর সংশোধন.— উক্ত আইনের ধারা ১৭৩ এর
+উপ-ধারা (১) এর পর নিম্নরূপ নূতন উপ-ধারা (ঙ) সংযোজিত হইবে यथा:—
+
+“(ঙ) এই ধারার মর্যাদা বিধান serviceable, বিধি দ্বারা কর্তৃপক্ষ অপসারণ দিলেও
+এবং উক্ত অপসারণের জন্য জরিমানা আরোপ করা হইলেও, এবং এইরূপ জরিমানা পরিমাণ
+উপ-ধারা (১) এ বর্ণিত সর্বোচ্চ জরিমানার অধিক হইলো না।” ।
+
+§১১ ২২৯৩ সালের ৫ নং আইনের ধারা ২০৫ এর সংশোধন.—উক্ত আইনের ধারা ২০৫
+এর উপ-ধারা (১) এর পর নিম্নরূপ নূতন উপ-ধারা (ঙ) সংযোজিত হইবে यथा:—
+
+“(ঙ) উচ্চতর পদে দায়ীত্বপ্রাপ্ত কর্মকর্তা, উপ-ধারা (১) এর অধীনে
+উল্লিখিত সংশ্লিষ্ট উচ্চতর পদের জন্য নির্ধারিত ন্যায়বিচক্ষণ ক্ষমতা প্রয়োগ করিতে
+পারিবেন।” ।
+
+§১১ ২২৯৩ সালের ৫ নং আইনের ধারা ২২৭ এর সংশোধন.—উক্ত আইনের ধারা ২২৭ এর
+উপ-ধারা (১) এর পরিবর্তে নিম্নরূপ উপ-ধারা (১) প্রতিস্থাপিত হইবে यथा:—
+
+“(১) আপনিকারী, যিনিবিধান কোনো আপিল মামলার, আপনিবীধান কোনো
+আদেশ স্থগিত করিয়া অথবা কোনো অন্তর্নিহিত আদেশ দিয়া আপিল নিষ্পত্তি করিতেছেন, উচিত
+তবে করিতেন ব্যতিরেকে যেন সে মোকাবেলা আপিল differentials তৎ occasioned বিবেচনা
+করত বিধান উপরে প্রতিস্থাপিত নাও করিলেন কার্য্য ।” ।
+
+§১৪ ২২৯৩ সালের ৫ নং আইনের ধারা ২৩০ এর সংশোধন.—উক্ত আইনের ধারা ২৩০
+এর উপ-ধারা (১) এর পর নিম্নরূপ নূতন উপ-ধারা (ঙ) সংযোজিত হইবে यथा:—
+
+“(ঙ) যদি কোনো ব্যক্তি ইচ্ছাকৃতভাবে অথবা negligently কোনো false statement
+দিতেছেন, তবে তিনি জরিমানা দিতে বাধ্য থাকিবেন।” ।
+
+[[page 92]]
+২০ substitution
+
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০০১ সালের ৫ নং আইনের ধারা ৫২৫ এবং সংশোধন— উক্ত আইনের ধারা ৫২৫ এ
+পরিবর্তিত “সিঙ্গাপুর রেস্তোরাঁ বা খাদ্যদ্রব্য বিপণনের উদ্দেশ্যে” শব্দগুলি পরিবর্তে “সংগ্রহিত ক্ষতিগ্রস্ত
+কর্মচারী কর্তৃক প্রদত্ত সিদ্ধান্ত বা আপেক্ষিক বিবরণীতে” শব্দগুলি প্রতিস্থাপিত হইবে।
+
+২০১১ সালের ৫ নং আইনের ধারা ৫২৬ এবং সংশোধন— উক্ত আইনের ধারা ৫২৬ এর
+উপ-ধারা (১) এর দফা (গ) এর পরিবর্তে নিম্নরূপ দফা (গ) প্রতিস্থাপিত হইবে, যথা:—
+
+“(গ) কোনো আদালত বা সরকার কর্তৃক অনুমোদিত সংস্থার সম্মূখে পরামর্শ
+দিবার উদ্দেশ্যে উপস্থাপন;
+
+তবে শর্ত থাকে যে, সেক্ষেত্রে অনুরোধ কর্তৃপক্ষের প্রয়োজনীয়তা
+কোনো দলিলাদি প্রমাণক হিসাবে উপস্থাপনের বিষয়ে আপনি আদালত
+আদেশ করিবে কেবল সেক্ষেত্রে উপযুক্ত প্রয়োজনীয় কোনো দলিলাদি
+প্রমাণক হিসাবে উপস্থাপনাযোগ্য হইবে।”
+
+২০২১ সালের ৫ নং আইনের ধারা ৫২৭ এর সংশোধনে— উক্ত আইনের ধারা ৫২৭ এর
+পর নিম্নরূপ নূতন ধারা ৫২৮ সন্নিবেশিত হইবে, যথা:—
+
+“৫২৮(১) বিনিয়োগ চুক্তি ইত্যাদি ইউনিট —এই আইনের উপ-ধারা (১) এর অধীনে,
+সরকার গেজেটে প্র publishes এমন যে करार কার্যবিধি সম্পাদনের জন্য এবং সু ব্যক্তি
+বিশেষ্যাত্মিক কার্যকারী ইউনিট গঠন করিতে পারিবে, উহাতে প্রয়োজনীয় সংখ্যা সহকারী ও
+কর্মকর্তা নিয়োগ করিতে পারিবে এবং উক্ত কর্মকর্তাগণের দায়িত্ব ও কার্যাবলী নির্দিষ্ট করিতে
+পারিবে।"
+
+২০৩১ সালের ঐ ক নং আইনের ধারা ২৬৫ এর সংশোধন—উক্ত আইনের ধারা ২৬৫ এর
+উপ-ধারা (১) এ উল্লিখিত "কোনো রেয়ার্ডেস অব কার্যক্রম" শব্দগুলির পরিবর্তে “এই আইনের
+অধীন যেকোনো কার্যক্রম” শব্দগুলি প্রতিস্থাপিত হইয়াছে।
+
+5081 সালের ঐ ক নং আইনে ধারা ২৩০ এর সংশোধন—উক্ত আইনের ধারা ২৬৬ এর
+পর নিম্নরূপ নূতন ধারা ২৩০ সংযোজিত হইবে, যথা:—
+
+“§১০। Customs Act, 1969 এবং উল্লেখ রহিয়াছে এইরূপ আইন, বিধি,
+ইজারার সংশোধন— আপাততঃ বলবৎ অন্য কোনো আইনে ভিন্নতর যাহা কিছুই থাকুক না
+কেন, এই আইন কার্যকর হইবার পরো কোনো আইন, বিধি, প্রবিধান, প্রস্তাবনা, আদেশ অথবা ইজারার অন্তর্ভুক্ত পূর্বে বলবৎ
+কোনো আইন, বিধি, প্রবিধান, প্রস্তাবনা, আদেশ কিংবা দলিলে উল্লিখিত “Customs
+Act, 1969 (Act No. IV of 1969)” এবং পরিবর্তে “কাস্টমস আইন, ২০sto
+সনের ঐ ক নং আইন” প্রতিস্থাপিত হইবে এবং উক্ত আইন, বিধি, প্রবিধান, প্রস্তাবনা, আদেশ
+কিংবা দলিলে উল্লিখিত Customs Act, 1969 এর কোনো বিধি অথবা যেহেতেু প্রযোজ্য
+হইবে উহা অব্যাহত থাকিবে (continued applicability)।"
+
+[[page 93]]
+বাংলাদেশ Gazette, অক্টোবর ৩০, ২০২৩
+২০৩(১)
+
+S০র৷ ২০২৩ সালের শেষ এবং আইনের প্রথম তৎসলিন—এই আইনের তৎসলিন-১ এ উল্লিখিত প্রথম তৎসলিন (শর্তভাবে গৃহীত) হিসেবে উক্ত আইনের প্রথম তৎসলিন।
+
+[কার্যাদেশ আইন, ২০২২ অনুসারে কার্যাদেশ আইন জারিটি সংশ্লিষ্ট, এর প্রথম তৎসলিন-এ নিম্নলিখিত সংশোধনীগুলি অন্তর্ভুক্ত হইবে:]
+
+(১) ৪০ নং পৃষ্ঠার কলম (1) এ উল্লিখিত Heading 27.10 এর আওতাভুক্ত কলম (2) তে বর্ণিত H.S. Code 2710.19.33 এবং উহার বিপরীতে কলম (3), (4), (5) ও (6) এ উল্লিখিত extinguish বিলুপ্ত হইবে।
+
+(২) ১২০ নং পৃষ্ঠার কলম (1) এ উল্লিখিত Heading 34.03 এর আওতাভুক্ত কলম (2) তে বর্ণিত H.S. Code 3403.99.10 এবং উহার বিপরীতে কলম (3), (4), (5) ও (6) এ উল্লিখিত extinguish সহ নিম্নবর্ণিত H.S. Codes এবং উহাদের বিপরীতে কলম (3), (4), (5) ও (6) এ উল্লিখিত extinguish সমঝিতে হইবে।
+
+"3403.99.20 --- Semi-synthetic lubricating oil kg 15% Free
+3403.99.30 --- Synthetic lubricating oil kg 15% Free"
+
+(৩) ২৪০ নং পৃষ্ঠার কলম (1) এ উল্লিখিত Heading 72.27 এর আওতাভুক্ত কলম (2) তে বর্ণিত H.S. Code 7227.90.20 এবং উহার বিপরীতে কলম (3), (4), (5) ও (6) এ উল্লিখিত extinguish বিলুপ্ত হইবে।
+বিপরীতের কলাম (3), (4), (5) ও উল্লিখিত এন্ট্রিসমূহ সরিয়েই হবে।
+
+--- M.S. shaft kg 10% Free" |
+
+277 ও 278 নং দফার কলাম (1) ও উল্লিখিত Heading 84.15 এবং উপর
+বিপরীতের কলাম (2), (3), (4), (5) ও (6) এ উল্লিখিত এন্ট্রিসমূহ পরিবর্তে নিম্নবর্ণিত
+Heading 84.15 এবং উপর উল্লিখিত কলাম (2), (3), (4), (5) ও (6) এ উল্লিখিত
+এন্ট্রিসমূহ প্রতিস্থাপিত হইবে, যথা:-
+
+"84.15 Air conditioning machines,
+comprising a motor-driven
+fan and elements for
+changing the temperature
+and humidity, including
+those machines in which
+the humidity cannot be
+separately regulated.
+
+- Of a kind designed to be
+fixed to a window, wall,
+ceiling or floor, self-contained
+or "split-system":
+
+[[page 94]]
+20562 
+evsjv‡`k †M‡RU, AwZwi³, Ryb 30, 2024 
+ 
+8415.10.10 
+--- Requiring more than 
+3,00,000 BTU or equivalent 
+u 
+1% 
+Free 
+ 
+8415.10.20 
+--- 
+Requiring 
+exceeding 
+90,000 
+BTU 
+but 
+not 
+exceeding 3,00,000 BTU 
+u 
+25% Free 
+ 
+8415.10.90 
+--- Other 
+u 
+25% Free 
+ 
+ 
+- Of a kind used for 
+persons, in motor vehicles : 
+ 
+ 
+ 
+ 
+8415.20.10 
+--- 
+Air 
+conditioning 
+machine requiring more 
+than 
+2,00,000 
+BTU 
+or 
+equivalent of a kind used 
+for 
+persons, 
+in 
+motor 
+vehicles 
+imported 
+by 
+Industrial IRC holder VAT 
+compliant 
+bus 
+body 
+building industry. 
+u 
+1% 
+Free 
+ 
+8415.20.20 
+--- 
+Requiring 
+exceeding 
+90,000 
+BTU 
+but 
+not 
+exceeding 2,00,000 BTU 
+u 
+25% Free 
+ 
+8415.20.90 
+--- Other 
+u 
+25% Free 
+ 
+ 
+- Other : 
+ 
+ 
+ 
+ 
+ 
+-- 
+Incorporating 
+a 
+refrigerating unit and a 
+valve for reversal of the 
+cooling/ 
+heat 
+cycle 
+(reversible heat pumps) : 
+ 
+ 
+ 
+ 
+8415.81.10 
+--- Requiring more than 
+3,00,000 BTU or equivalent 
+u 
+1% 
+Free 
+ 
+8415.81.20 
+--- Air handling unit or 
+HVAC system imported by 
+Industrial IRC holder VAT 
+compliant pharmaceutical 
+industries requiring more 
+than 
+2,00,000 
+BTU 
+or 
+equivalent 
+u 
+1% 
+Free 
+ 
+8415.81.30 
+--- 
+Requiring 
+exceeding 
+90,000 
+BTU 
+but 
+not 
+exceeding 3,00,000 BTU 
+u 
+25% Free
+
+[[page 95]]
+বাংলাদেশ Gazette, অতিরিক্ত, জুন ৩০, ২০১৯
+
+8415.81.90 -- Other
+u 25% Free
+
+-- Other, incorporating a refrigerating unit :
+8415.82.10 -- requiring more than
+3,00,000 BTU or equivalent u 1% Free
+
+8415.82.20 Air handling unit or
+HVAC system imported by Industrial IRC holder VAT compliant pharmaceutical industries requiring more than 2,00,000 BTU or equivalent u 1% Free
+
+8415.82.30 -- requiring exceeding
+90,000 BTU but not
+exceeding 3,00,000 BTU u 25% Free
+8415.82.90 -- Other u 25% Free
+8415.83.10 -- Not incorporating a
+refrigerating unit :
+
+--- For textile requiring
+more than 2,000,000 BTU or
+equivalent u 1% Free
+
+8415.83.20 -- Requiring exceeding
+90,000 BTU but not
+exceeding 2,000,000 BTU u 25% Free
+
+8415.83.30 Stability/Humidity
+chamber imported by
+pharmaceutical industries u 1% Free
+
+8415.83.90 -- Other u 25% Free
+
+- Parts :
+8415.90.10 -- Indoor or outdoor unit u 25% Free
+8415.90.90 Other kg 25% Free"1
+
+(৪) ২৭৯ ও ২৮০ নং পৃষ্ঠার ফস্লাম (১) এ উল্লিখিত Heading 84.21 এর আওতাভুক্ত
+ফস্লাম (২) কে বর্ণিত H.S. Code “8421.29.30” এবং বিপরীতে ফস্লাম (4) এ
+উল্লিখিত Statistical Unit "kg" এর পরিবর্তে "u" প্রযোজ্য হইবে।
+
+[[page 96]]
+২০ compete ৮
+বাংলাদেশ Gazette, অতিরিক্ত, অংশ ৩০, ২০২৩
+নং তফবিল-১
+[ধারা ১০৫ দ্রষ্টব্য]
+(কোম্পাস আইন, ২০২৩ (২০২৩ সালের ২৭ নং আইন) এর
+প্রথম তফসিল।
+
+“প্রথম তফসিল
+[বাংলাদেশ কম্পানিজ অ্যাক্ট]
+(কোম্পাস আইন, ২০২৩ এর ধারা ১৫(১) দ্রষ্টব্য)
+(পরিকল্পভাবে মুদ্রিত)”
+<start_of_image>
+
+[[page 97]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+অতিরিক্ত-২
+
+(মোটropolitan edition)
+
+১ জুলাই, ২০২৩ তারিখে আয়কর বিবরণী জমা দেওয়ার শেষ তারিখ
+
+প্রথম অংশ
+
+অনুচ্ছেদ - ক
+
+আয়কর আইন, ২০১০ (২০১০ সালের ১১২ নং আইন) এর ধারা ৭(৫) ও সংজ্ঞায়িত ব্যক্তির (person) মধ্যে variability বাংলাদেশীর সকল স্বাভাবিক ব্যক্তি (individual), হিন্দু অবিভক্ত পরিবার ও অংশীদারি ফার্মের ক্ষেত্রে মোট আয়কর উপর করার নিম্নরূপ হারে প্রযোজ্য:-
+
+মোট আয় | হার
+ | 
+(ক) প্রথম ৩,০০,০০০/- টাকা পর্যন্ত আয়কর উপর -- | শূন্য
+(খ) পরবর্তী ১,০০,০০০/- টাকা পর্যন্ত আয়কর উপর -- | ৫%
+(গ) পরবর্তী ৪,০০,০০০/- টাকা পর্যন্ত আয়কর উপর -- | ১০%
+(ঘ) পরবর্তী ৪,০০,০০০/- টাকা পর্যন্ত আয়কর উপর -- | ১৫%
+(ঙ) অবশিষ্ট মোট আয়ের উপর -- | ২৫%
+তবে শর্ত থাকে যে-
+
+(ক) মহিলা ফরমডা এবং তৎসঙ্গে বা তৎপূর্ব residenceকর apparatus করুনত
+আয়ের সীমা হইব ২৫,০০০/- টাকা;
+
+(খ) তৃতীয় লিঙ্গের ফরমডা এবং প্রতিবন্ধী স্বয়ংক্রিয় ব্যক্তি ফরমডাটার
+করমুক্ত আয়ের সীমা হইব ১৮,০০০/- টাকা;
+
+(গ) গেজেটেড учреждений সুবিধাভোগী করদাতা রকর apparatus করুনত আয়ের সীমা হইব
+৫০,০০০/- টাকা;
+
+(ঘ) কোনো প্রতিবন্ধী ব্যক্তির পিতামাতা বা আইনানুগ অভিভাবকের প্রত্যেক
+সস্তান/পুত্রোর জন্য করমুক্ত আয়ের সীমা ৫০,০০০/- টাকা অধিক হইবে;
+প্রতিবন্ধী ব্যক্তির পিতা ও মাতা উভয়েই ফরমডাটা হইলে সেক্ষেত্রে একজন
+এই সুবিধা ভোগ করিবেন;
+
+(ঙ) বাংলাদেশ निवासी ( residency বাংলাদেশী ব্যতীত) এইরূপ সকল
+করদাতা রজন্য এই অনুচ্ছেদ প্রযোজ্য হইবে না;
+
+[[page 98]]
+বাংলাদেশ কোস্টগার্ড,activities, জুন ৩০, ২০১৮
+
+(b) মোট আয়করমুক্ত আয়ের সীমা অতিক্রম করিলে পুনরায় কর আরোপ করিবার permission কোনোভাবেই সীমাবদ্ধ ব্যক্তি হারে কম হইবে না, যথা:
+
+| এলাকা বিবরণ | ন্যূনতম কর (টাকা) |
+|---|---|
+| ঢাকা উত্তর সিটি কর্পোরেশন, ঢাকা দক্ষিণ সিটি কর্পোরেশন ও চট্টগ্রাম সিটি কর্পোরেশন এলাকার অন্তর্ভুক্ত করারদা | 0,000/- |
+| অন্যান্য সিটি কর্পোরেশন এলাকায় অন্তর্ভুক্ত করারদা | 8,000/- |
+| নির্দিষ্ট কর্পোরেশন ব্যতীত অন্যান্য এলাকায় অন্তর্ভুক্ত করারদা | 5,000/- |
+
+ব্যাখ্যা:- এই अनुच्छेद, প্রতিবন্ধী ব্যক্তি (person with disability) বলিতে প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৮ (২০১৮ সালের icts নং আইন) এর ধারা ৩৯ মোতাবেক প্রতিবন্ধী হিসাবে বিবেচিত ব্যক্তিকে বুঝাবে;
+
+অনুমোদিত-
+কোম্পানি, ব্যক্তিগত, ফার্ম, প্রতিষ্ঠান এবং অন্যান্য সংস্থা যাহাদের ক্ষেত্রে প্রযোজ্য
+প্রযোগ্য হইবে না সেই সকল শতকরা করিয়া, যাহাদের ক্ষেত্রে আয়কর আইন, ২০খ০
+(২০২০ সনের ১৯ নং আইন) অনুযায়ী কর आरोपित হয়, তাহাদের মোট আয়ের উপর
+করহার নিম্নরূপ হইবে, যথা:-
+
+“যে কোম্পানি রিজিষ্টার্ড অফিস বাংলাদেশে অবস্থিত পেই কোম্পানী হইলেও দক্ষ
+লংগ্যাপ array ব্যক্তিরেক অন্য” সর্ব প্রকার আয়কর উপর-
+
+(ক) দফা (গ), (ঘ), (ঙ) এবং (চ) তে বর্ণিত
+কোম্পানিসমূহের ক্ষেত্র ব্যতীত-
+
+(খ) এইরূপ প্রত্যেকটি publicly traded
+company যাহাদের
+পরিণীত মূলধনের ১০% এর অধিক
+শেয়ার IPO (Initial Public
+Offering) এর মাধ্যমে হস্তান্তর
+হইয়াছে তাহাদের ক্ষেত্রে-
+ unjustly আয়কর ১২.৫%;
+
+তবে শর্ত থাকে যে,
+বিবেচ্য আয়কৃত সকল
+প্রকার আয় ও প্রাপ্তি এবং
+প্রদত্ত একক деневое
+ও (পাঁচ) লক্ষ টাকার
+অধিক ও বার্ষিক সংশেষ্ট
+৬ (ছয়টি) লক্ষ টাকার
+উপরের সকল প্রকার ব্যয় ও
+বিনিয়োগ ব্যাংক
+ট্রান্সফার মাধ্যমে সম্পন্ন
+করিলে উল্লিখিত করহার
+ unjustly ২০% হইবে;
+
+[[page 99]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০ vaguely
+
+(গ) এইরূপ প্রত্যেকটি publicly traded company সংশ্লিষ্ট বছরের
+পরিমাণিত মূলধনের ৫০% বা ৫০% কম শেয়ার IPO (Initial Public
+Offering) এর মাধ্যমে হয়েছিল
+হিসেবে reckoned হবে:
+
+তৈরি হয়েছে ২৫.০০% ;
+
+তবে শর্ত থাকে যে,
+বিভেতা awareণ কেবল প্রকার আয় ও প্রাপ্তি এবং
+প্রত্যেক একক লেনদেনে
+ও (পাঁচ) লক্ষ টাকার
+অধিক ও বার্ষিক সর্বমোট
+৬৬ (ষাটছয়) লক্ষ টাকার
+উপরের সকল প্রকার ব্যয় ও
+বিনিংগ।
+ঝুঁকি
+ট্যাক্সেশনের মাধ্যমে সম্পন্ন
+করলে উল্লিখিত পরিমাণ
+হইবে;
+
+(ঘ) কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সালের
+১৫ নং আইন) এর অধীন গঠিত এক
+ব্যক্তি কোম্পানি (OPC) ক্ষেত্র
+
+তৈরি হয়েছে ২৫.০০% ;
+
+তবে শর্ত থাকে যে,
+বিভেতা awareণ কেবল
+প্রত্যেক প্রকার লেনদেনে
+ও (পঁচিশ) লক্ষ টাকার
+অধিক ও বার্ষিক সর্বমোট
+৩৬ (ছিয়াশি) লক্ষ টাকার
+উপরের সকল প্রকার ব্যয় ও
+বিপণন।
+ব্যাংক
+ট্রান্সফারের মাধ্যমে সম্পন্ন
+করিলে উৎপাদিত অর্থহার
+তৈন্তু আয়ের ২৫% হইবে;
+
+(ঈ) উপ-ধারা (ক), (খ), (গ) ও (ঘ) উল্লেখিত
+কোম্পানি ব্যতীত অন্য কোন আইন, ১৯৯০
+(১৯৯০ সালের ১১ নং আইন) এর ধারা ও
+এর দফা (১১) এ সংজ্ঞায়িত অন্যান্য
+কোম্পানির ক্ষেত্রে—
+
+[[page 100]]
+২০shiny
+
+বাংলাদেশ ব্যাংক, অর্ডিন্যান্স, মূল ৩০, ২০২২
+
+(ঘ) ব্যাংক, বীমা প্রতিষ্ঠান ও ফাইনান্সিয়াল কোম্পানিসমূহ (মার্কেট ব্যাংক ব্যতীত):
+(শু) এইরূপ প্রভাতব্যক্তি কোম্পানির ক্ষেত্রে যাহা | উক্ত আয়ের ৩.৫%;
+publicly traded company-
+(স) এইরূপ প্রভাতব্যক্তি কোম্পানির ক্ষেত্রে যাহা | উক্ত আয়ের ৪০%;
+publicly traded company নভে-
+(ক) মার্জেন্ট ব্যাংক এর ক্ষেত্রে— | উক্ত আয়ের ৩.৫%;
+(খ) সিকিউরিটি, বিমি, ভিপি, সুতরাং সকল প্রকার | উক্ত আয়ের ৪০%;
+সামাজিক বানিয়র্ publicizedফার কোম্পানি ক্ষেত্রে-
+(গ) মোবাইল ফোন অপারেটর কোম্পানির ক্ষেত্রে — | উক্ত আয়ের ৪০%;
+ তবে শর্ত থাকে যে, মোবাইল ফোন
+ অপারেটর কোম্পানি যদি
+ ইহার পরিশোধিত
+ মূলধনের ন্যূনতম ১০%
+শেয়ার, যার মধ্যে Pre
+Initial Public
+Offering Placement
+(IPO) এর অংশ পাবলিক খাতে
+পাবলিক করা হয়, স্টক
+এক্সচেঞ্জে মাধ্যমে
+হস্তান্তর করার: Publicly
+traded company কে শুধুমাত্র প্রি-listed হিসেবে
+কাদের হার হবে ৪০% :
+আরও শর্ত থাকে যে, যদি
+এইরূপ কোম্পানি উন্নয়ন
+পরিপোদিত মূলধনের
+ন্যূনতম ২০% শেয়ার
+Initial Public
+Offering (IPO) এর
+মাধ্যমে হস্তান্তর করে,
+তাহা হইলে এইরূপ
+কোম্পানি উক্ত হস্তান্তর
+সংক্রান্ত বৎসরে প্রযোজ্য
+আয়করকে উপর ১০%
+হারে আগাম রেয়াত লাভ
+পবিবে;
+
+[[page 101]]
+বাংলাদেশ প্রকৌশল, অতিরিক্ত, জুন ৩০, ২০২২
+
+(১) কোম্পানী এবং ব্যক্তিগতসমূহ nationwide अनिवार्यত্ услуг আয়োর ৩০%;
+(বেসামরিক বাংলাদেশ প্রিটুও) এইরূপ অন্যমনস্ক সকল প্রকারдать
+ক্ষেত্রে আয়োর উপর প্রযোজ্য কর-
+
+(২) কোম্পানী নহে, নিয়মিতটি, বিড়ি, জর্দা, গুলজার সকল প্রকার услуг আয়োর ৪৫%;
+তামাকজাত পণ্য প্রস্তুতকারক এইরূপ করদাতার услуг ব্যবস্থাপনা
+হতে অর্জিত আয়োর উপর প্রযোজ্য কর-
+
+(৩) কোম্পানী নহে, ট্রাস্ট, তহবিল, ব্যক্তিগতসমূহ এবং অন্যান্য করযোগ্য সংস্থা সহরে আয়োর উপর প্রযোজ্য কর- услуг আয়োর ২৭.৫%;
+তবে শর্ত থাকে যে,
+যেহেতু আয়করকে সকল
+প্রকার আয় ও প্রাপ্তি এবং
+প্রস্তুত একক লেনদেনে
+ও (pea) পিক্
+(ঙ) সহকারী অধ্যাপক, প্রভাষক ও শিক্ষক |
+
+তৈড়ান্ত আয়ের ২৫% হইবে;
+
+(চ) সময়ান্তर्गत আইন, ২০০১ (২০০১ সালের ৪৭ নং আইন) | চূড়ান্ত আয়ের ২০%;
+অন্যান্য নির্বাচিত সময়ান্তরীণ বিষয়ে ক্ষেত্রে আবেদনের উপর প্রযোজ্য |
+হইবে;
+
+(ছ) বেসরকারি বিশ্ববিদ্যালয়, বেসরকারি মেডিকেল কলেজ,
+বেসরকারি ডেন্টাল কলেজ, বেসরকারি ইঞ্জিনিয়ারিং কলেজ
+বা কেবলমাত্র প্রযুক্তিগত বিষয়ে শিক্ষাদানে নিয়োজিত
+বেসরকারি কলেজ এবং উক্ত আইনের ধারা ৪(২)এর উপধারা ৭-র | চূড়ান্ত আয়ের ১৫%;
+
+ব্যাখ্যা - এই অনুচ্ছেদে "publicly traded company" ব্যলিয়ে এইরূপ কোনো
+পাবলিক লিমিটেড কোম্পানিকে বুঝাইবে যাহা কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সালের ১৮ নং
+আইন) অনুসারে বাংলাদেশে নিবন্ধিত এবং যে কার্যক্রমের আয়কর রিটার্ন দাখিল করে সেই আয়কর
+সভার পূর্বে উক্ত কোম্পানির শেয়ার স্টক এক্সচেঞ্জে তালিকাভুক্ত হইয়াছে।
+
+[[page 102]]
+Bangladesh Gazette, Extraordinary, জুন ৩০, ২০২২
+
+দ্বিতীয় অংশ
+সার্চারের হার
+
+অনুচ্ছেদ ক
+
+অ্যাসেবী ব্যক্তি করদাতা (assessee being individual) এর ক্ষেত্রে, আয়কর আইন,
+২০২০ (২০২৩ সালের ১৯ নং আইন) এর ধারা ২৬ অনুযায়ী পরিদর্শন ও দাফের বিবরণীতে prescribed
+নিম্নলিখিত সম্পাদনের ভিত্তিতে এই অনুচ্ছেদ এর অধীন সার্চারগণ পরিগণনার পূর্বে পরিশোধ সারচার্জ
+বাস্তব নির্ধারিত প্রশ্নের উপর উপর নিম্নরূপ হারে সারচার্জ প্রযোজ্য হইবে, যথা:—
+
+পরিশ^পদ | সারচার্জের হার
+কোনটি পরিস্পন্দের succumbed ৪ (চার) কোটি টাকা পর্যন্ত | শূন্য
+(খ) лиц পরিস্পন্দের succumbান ৪ (চার) কোটি টাকার অধিক কিন্তু ১০ (দশ) | ৩০%
+কোটি টাকার অধিক নহে;
+যা, স্বীয় নামে একের অধিক চেকের গাড়ি
+যা, মোট ৬,০০০ বর্গফুটের অধিক আয়তনের গৃহ-সম্পত্তি
+(গ) лиц পরিস্পন্দের succumbান ১০ (দশ) কোটি টাকার অধিক কিন্তু ২০ (বিশ) | ২০%
+কোটি টাকার অধিক নহে-
+(ঘ) лиц পরিস্পন্দের succumbান ২০ (বিশ) (বিশ) কোটি টাকা পর্যন্ত | ০০%
+(ঙ) лиц পরিস্পন্দের succumbান ২০ (বিশ) কোটি টাকার অধিক হইলে | তথ্য%
+ধারা)। - এই অনুচ্ছেদ-
+
+(১) "মিট পরিসম্পদের মূল্যায়ন" বলতে আয়কর আইন, ২০০০ এর ধারা ১৬৭ অনুযায়ী পরিদর্শন ও দায়ের বিবরণীতে প্রদর্শনেযোগ্য মিট পরিসম্পদের মূল্যায়ন
+(total net worth) বুঝাইলে; এবং
+
+(২) “মোট গাড়ি” বলিতে বাস, মিনিবাস, কোস্টার, প্রাইভী মুভার, ট্রাক, লরি, ট্যাক্সী,
+স্পীডবোত, ইঞ্জিন বোট, আর্মার্ড কার ও মোটর সাইকেল ব্যতীত অন্যযান motoring অন্তর্ভুক্ত হইবেন।
+
+অনুচ্ছেদ ং
+
+(১) সিগারেট, বিড়ি, জর্দা, গুলসহ সকল প্রকার তামাকজাত পণ্য প্রস্তুতকারক
+করদাতাএর উক্ত ব্যবসার হতে অর্জিত আয়ের উপর ২.৫% হারে সারচার্জ প্রযোজ্য হইবে।
+
+(২) কোনো স্কুল, কলেজ, বিশ্ববিদ্যালয়সহ সকল শিক্ষাপ্রতিষ্ঠানে প্রতিবন্ধী ব্যক্তিদের
+গণহারে ক্ষেত্রে বেতন concession বিধি হননুযায়ী উপযুক্ত ব্যবস্থা না থাকিলে উক্ত
+প্রতিষ্ঠানের অর্জিত আয়ের উপর ২.৫% হারে সারচার্জ প্রযোজ্য হইবে।
+
+[[page 103]]
+বাংলাদেশ কোস্টগার্ড,Activities, জুন ৩০,২০২৪
+
+দৃষ্টি আকর্ষণ
+
+পরিবহন সারচার্জের হার
+
+কোনো স্বাভাবিক ব্যক্তি (any individual) যাহার নামে একাধিক মোটর গাড়ি (প্র motor গাড়ি) তালিকা উল্লিখিত রহিয়াছে, তাহার একের অধিক প্রত্যেকটি গাড়ির জন্য নিম্নবর্ণিত ছকে উল্লিখিত গাড়ির বিপরীতে উল্লিখিত হারে পরিবহন সারচার্জ প্রযোজ্য হইবে, যথা:-
+
+ক্রমিক | মোটর গাড়ির বর্ণনা | পরিবহন
+নং | | সারচার্জের
+| | হার
+| (টাকা)
+ | | 
+১ | ১৫০০ সিসি বা তৎ lesser কিলোমিটার পর্যন্ত প্রতিটি মোটর গাড়ির জন্য | ২৫,০০০
+২ | ১৫০০ সিসি বা তৎ lesser কিলোমিটার অধিক কিন্তু ২০০০ সিসি বা ৩০০ কিলোমিটারের অধিক নহে এমন প্রতিটি মোটর গাড়ির জন্য | ৫০,০০০
+৩ | ২০০০ সিসি বা ৩০০ কিলোমিটারের অধিক কিন্তু ২৫০০ সিসি বা ১50 কিলোমিটারের অধিক নহে এমন প্রতিটি মোটর গাড়ির জন্য | ৭৫,০০০
+81 ২৫,০০০ টাকা বা ২৫০ কিলোমিটার অধিক কিন্তু তদূর্ধ্ব ৩০০ টাকা বা ১৫০ 25,000
+কিলোমিটারের অধিক নহে এমন প্রতিটি মোটর গাড়ির জন্য
+82 ১,০০০ টাকা বা ১৫০ কিলোমিটারের অধিক কিন্তু ৫,০০০ টাকা বা ৫০০ 1,000
+কিলোমিটারের অধিক নহে এমন প্রতিটি মোটর গাড়ির জন্য
+৮৩ 5,000 টাকা বা ৫০০ কিলোমিটারের অধিক এমন প্রতিটি মোটর 5,000
+গাড়ির জন্য
+
+তবে শর্ত থাকে যে,
+
+(ক) অতিরিক্ত গাড়ির ক্ষেত্রে যেই গাড়ির উপর সর্বনিম্ন হারে পরিবেশ surcharge
+applicable হইবে সেই গাড়ির স্বাভাবিক অন্যান্য গাড়ির বিপরীতে পরিবেশ surcharge
+পরিমাণ কমিয়ে দিতে হইবে;
+
+(খ) পরিবেশ surcharge fixing বা fixlessness নির্ধারণকালে fixation বা fixlessness
+নির্ধারণকারী কর্তৃপক্ষ কর্তৃক উহাকে সংগৃহীত হইবে;
+
+(গ) অতিরিক্ত বৎসরের জন্য গাড়ির fixation বা fixleness নির্ধারণ করা হইলে সেই year
+ বৎসরের গাড়ির fixation বা fixleness নবায়ন করা হইয়াছে উপরবर्ती year
+বৎসরপূজার ৩০ জুন তারিখের মধ্যে প্রযোজ্যভাবে পরিবেশ surcharge পরিশোধ
+করিতে হইবে;
+
+[[page 104]]
+২০২৫৭২
+বাংলাদেশ ব্যাংক, অর্ট্রিবিউট, জুন ৩০, ২০২২
+
+(ই) এক্ষেত্রে কোনো করদাতা শর্ত (গ) মোতাবেক উপায়ে পরিবেশ সংক্রান্ত প্রতিবেদন পরিশোধ ব্যর্থ হন সেক্ষেত্রে নিবন্ধন বা লাইসেন্স নবায়নকালে ক + খ নিম্নমান্যুয়ালী পরিবেশ সংক্রান্ত হার নির্ধারিত হইবে, যেখানে-
+
+ক = বিগত বৎসর বা বৎসরেগুলোতে অপরিশোধিত পরিবেশ সংক্রান্ত fees পরিমাণ;
+
+খ = সেই বৎসরের করদাতা পরিবেশ সংক্রান্ত প্রতিবেদন পরিশোধ accomplish করেন সেই অর্থ বৎসরের জন্য নির্ধারিত পরিবেশ সংক্রান্ত fees পরিমাণ;
+
+(ঈ) একাধিক বৎসরের জন্য সার্ভিস নিবন্ধন বা লাইসেন্স নবায়ন করার ক্ষেত্রে প্রতিবৎসর আয়কর রিটার্ন দাখিল্যের পূর্বে পরিবেশ সংক্রান্ত প্রতিবেদন পরিশোধ না হইলে উক্ত-কর্পোরেশন আয়কর রিটার্ন process বা নব নির্ধারণকালে উহা আদায় করিবেন;
+
+(উ) এই বৎসরের অর্জিত proceeds পরিবেশ সংক্রান্ত প্রতিষ্ঠানগুলোতে বা অন্য কোনো প্রকারের কর বা সারচার্জের সহিত সমন্বয়যোগ্য হইবে না;
+(ঘ) এই অংশের উদ্দেশ্যে “মোটর গাড়ি” বলিতে বাস, মিনিবাস, কোস্টার, প্রাইভী
+মুলার, ট্রাক, লরি, ট্রাকে লরি, পিকআপ ভ্যান, ফ্লিটযান হলার, অটোরিক্সা ও
+মোটর সাইকেল ব্যতীত অন্যান্যা মোটরযানে অন্তর্ভুক্ত হইবে।
+
+চতুর্থ অংশ
+কর রেয়াত
+
+(১) কোনো করদাতার নিবন্ধকৃত কর্তৃকপক্ষ হিসাবে প্রতিষ্ঠান কর্মরত মোট জনবলের
+অন্যুন ২০% (দশ শতাংশ) অথবা ২৪ (পঁচিশ) জনের অধিক কর্মচারী প্রতিবন্ধী ব্যক্তিগণের
+জন্য হইতে নিয়োগ করিয়া উক্ত כরদদাতাকে প্রত্যেয় করার জন্য ৫% (পাঁচ শতাংশ) অথবা
+প্রতিবন্ধী ব্যক্তি-কর্মচারিপক্ষের পরিশোধিত মোট বেতনের ১৫% (পনেরো শতাংশ), যাহা
+কম, কর রেয়াত প্রদান করা হইবে।
+
+(২) কোনো করদাতার নিবন্ধকৃত কর্তৃকপক্ষ হিসাবে প্রতিষ্ঠান কর্মরত মোট জনবলের
+অন্যুন ২০% (দশ শতাংশ) অথবা ২৪ (পঁচিশ) জনের অধিক কর্মচারী তৃতীয় লিঙ্গের
+ব্যক্তিগণের জন্য হইতে নিয়োগ করিয়া উক্ত করদাতাকে প্রত্যেয় করার জন্য ৫% (পাঁচ
+শতাংশ) অথবা তৃতীয় লিঙ্গের কর্মচারিপক্ষের পরিশোধিত মোট বেতনের ১৫% (পনেরো
+শতাংশ), যাহা কম, কর রেয়াত প্রদান করা হইবে।
+
+[[page 105]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২খ
+
+Gazette-এ
+
+(মোট ১৮ পৃষ্ঠা)
+
+১ জুলাই, ২০২২ তারিখে আরোপ করণের জন্য আয়করকের হার
+
+প্রথম অংশ
+
+অনুচ্ছেদ-ক
+
+আয়কর আইন, ২০২৩ (২০২৩ সালের ১১২ নং আইন) এর ধারা (৮)(৯) ও সংজ্ঞায়িত
+ব্যক্তিগণের (person) মধ্যে имеются বাংলাদেশসহ সকল স্বাভাবিক ব্যক্তি (individual),
+হিন্দু অবিভক্ত পরিবার ও অংশীদারি ফার্মের ক্ষেত্রে মোট আয়কের উপর করারোপ নিম্নরূপ হইবে,
+ যথা:-
+
+মোট আয় | হার
+(ক) প্রথম ৩,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- | শূন্য
+(খ) পরবর্তী ১,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- | ৫%
+(গ) পরবর্তী ৪,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- | ১০%
+(ঘ) পরবর্তী ৫,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- ১৫%
+(ঙ) পরবর্তী ৫,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- ২০%
+(চ) পরবর্তী ১০,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর -- ২৫%
+(ছ) অবশিষ্ট মোট আয়ের উপর -- ৩০%
+
+তবে শর্ত থাকে যে,-
+
+(ক) মহিলা করদাতা এবং ৬ষ্ঠ reckon বা তৎপূর্ব reckonকর দাতার জন্যমুক্ত
+আয়ের সীমা হবে ৮,০০,০০০/- টাকা;
+
+(খ) তৃতীয় লিঙ্গের করদাতা এবং প্রতিবন্ধী ব্যক্তি করদাতার
+জন্যমুক্ত আয়ের সীমা হবে ৪,২৫,০০০/- টাকা;
+
+(গ) কেউ বছরে ন্যূনতম মুক্তিপণ অর্থবছর সম্পন্ন করলে আয়কর সীমা হবে
+৫,০০,০০০/- টাকা;
+
+(ঘ) কোনো প্রতিবন্ধী ব্যক্তির পিতামাতা বা আইনানুগ অভিভাবকের প্রত্যেক
+সন্তান/পুত্র/কন্যা জন্য করমুক্ত আয়ের সীমা ৪০,০০০/- টাকা অধিক হইবে;
+প্রতিবন্ধী ব্যক্তির পিতা ও মাতা উভয়েই করদাতা হইলে যেকোনো একজন
+এই সুবিধা ভোগ করিবেন;
+
+[[page 106]]
+২০ recovering
+
+বাংলাদেশ টেক্সটাইল, অক্টোবর ৩০, ২০২২
+
+(ও) বাংলাদেশেabilities (অনির্দিষ্ট বাংলাদেশি ব্যক্তি) এইরূপ সরল করারতার জন্য এই अनुच्छेद প্রযোজ্য হইবে না;
+
+(চ) মোট আয় কর্তৃক আরোপ সীমা অতিক্রম করিলে মূলধন করের পরিমাণ কোনোভাবেই নিম্নরূপণে বंचित করার কম হইবে না, যথা:
+
+| এলাকার বিবরণ | মূলধন কর (টাকা) |
+|---|---|
+| ঢাকা উত্তর সিটি কর্পোরেশন, ঢাকা দক্ষিণ সিটি কর্পোরেশন ও চট্টগ্রাম সিটি কর্পোরেশন এলাকায় অবস্থিত করারতা | ২,০০০/- |
+| অন্যান্য সিটি কর্পোরেশন এলাকায় অবস্থিত করারতা | ৪,০০০/- |
+| সিটি কর্পোরেশন ব্যতীত অন্যান্য এলাকায় অবস্থিত করারতা | ৬,০০০/- |
+
+ব্যাখ্যা- এই অনুচ্ছেদে, প্রতিবন্ধী ব্যক্তি (person with disability) বলিতে প্রতিবন্ধী
+বাড়ির অধিকার ও সুরক্ষা আইন, ২০২৩ (২০২৩ সালের ৯৯ নং আইন) এবং ধারা ৩-এ মোতাবেক প্রতিবন্ধী হিসাবে নিবন্ধিত ব্যক্তিকে প্রযোজ্য।
+
+[[page 107]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+অনুচ্ছেদ-৭
+
+কোম্পানি, partnership, ফ্ল্যাট, ভিলা এবং অন্যান্য সত্তা যাহাদের ক্ষেত্রে অনুচ্ছেদ-
+ক প্রযোজ্য হইবে না সেই সকল প্রকার করদাত। যাহাহোর আইনের, ২০২৩ (২০২৩ সনের ১২ নং আইন) অনুযায়ী কর आरोपित হয়, তাহাদের মোট আয়ের উপর
+করহার নিম্নরূপ হইবে যথা:
+
+(১) “যে কোম্পানির রেজিস্টার্ড অফিস বাংলাদেশে অবস্থিত” সেই কোম্পানি হইতে লব্ধ সম্পাসম্প আয়
+ব্যতীত অন্য সব প্রকার আয়ের উপর-
+
+(ক) দফা (খ), (গ), (ঘ) এবং (ঙ) তে বর্ণিত কোম্পানীসমূহের
+ক্ষেত্র ব্যতীত-
+
+(গ) এইরূপ প্রত্যেকটি publicly traded company
+কোম্পানির যাহাহোর পরিশোধিত মূলধনের ১০%
+এর অধিক শেয়ার IPO (Initial Public
+Offering) এর মাধ্যমে হস্তান্তর হইয়াছে যাহাহোর ক্ষেত্রে-
+করহার ২৫.৪%;
+
+তবে শর্ত থাকে যে, বিবেচনা
+আয়করই সকল প্রকার আয়
+ও প্রাপ্তি এবং প্রত্যেক
+একক লেনদেনে ৫ (পাঁচ)
+লক্ষ টাকার অধিক ও
+বার্ষিক সর্বোচ্চ (ঘোষিত) লোক টাকার উপরে
+সকল প্রকার ব্যয় ও
+বিনিয়োগ ব্যাংক ড্রাফটারের
+মাধ্যমে সম্পন্ন করিলে
+টেলিভিশন করার উপযুক্ত
+আয়ের ২০% হইবে;
+
+(বা) এইরূপ প্রত্যেকটি publicly traded company
+কোম্পানির বার্ষিক পরিশোধিত মূলধনের ১০% বা
+১০% এর কম শেয়ার IPO (Initial Public
+Offering) এর মাধ্যমে হস্তান্তর হইয়াছে
+আইনের ক্ষেত্রে-
+
+উৎস আয়ের ২৫%;
+তবে শর্ত থাকে যে, বিশেষ
+আয়করী সকল প্রকার আয়
+ও প্রাপ্তি אשר প্রত্যেক
+প্রকার লেনদেনে ও শেয়ার
+টিকার অধিক ও
+বার্ষিক সর্বোচ্চ (ঘোষিত)
+লোক টাকার উপরে
+সকল প্রকার ব্যয় ও
+বিনিয়োগ ব্যাংক ড্রাফটারের
+মাধ্যমে সম্পন্ন করিলে
+টেলিভিশন করার উপযুক্ত
+আয়ের ২২.৫% হইবে;
+
+[[page 108]]
+২০২৫-২৬
+
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+(ই) কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সালের ২৫ নং আইন) | উক্ত আয়কর = ২৫.০%;
+এবং অধীন নিবন্ধিত একক ব্যক্তি কোম্পানির (ওপিসি) | তবে শর্ত থাকে যে, বিশেষ
+ক্ষেত্রে | আয়করকে সকল প্রকার আয় ও প্রাপ্তি এবং প্রযোজ্য |
+অংশ পেনশনের ৫ (%) |
+লক্ষ টাকার অধিক ও |
+বার্ষিক সর্বমোট =৬ |
+(ছয়) লক্ষ টাকার তżej |
+সকল প্রকার ব্যয় ও |
+বিবিধের |
+মাপাতকের মাধ্যমে সম্পন্ন |
+করিলে উল্লিখিত করার |
+যুক্তি আয়কর ৫০% হইবে;
+
+(ঈ) উপ-ধারা (১), (লা) ও (ই) তে উল্লিখিত কোম্পানি | উক্ত আয়কর = ২৫.০%;
+আইন, ২০২২ (২০২২ সালের ১৯ নং | তবে শর্ত থাকে যে, বিশেষ
+আইন) এর ধারা ২ এর দফা (গ) ও সংরক্ষিত | আয়করকে সকল প্রকার আয়
+ও প্রাণী এবং মৃতজক
+একক লেনদেন ও (পেট)
+লক্ষ টাকার অধিক ও
+বার্ষিক সর্বোচ্চ ৳5
+(ছিয়া) লক্ষ টাকার উপরে
+সকল প্রকার ব্যয় ও
+বিপণন।
+ব্যাংক
+দাপ্তরিকের মাধ্যমে সম্পন্ন
+করিলবে উপস্থিত করার
+ভুল আইনের ২৫% হইবে;
+
+(খ) ব্যাংক, বীমা প্রতিষ্ঠান & ফাইনান্সিয়াল কোম্পানিসমূহ (মোটেই
+ব্যাংক ব্যতীত);
+(গ) এইরূপ প্রত্যেকটি কোম্পানির ক্ষেত্রে যাহা publicly
+traded company-
+| ভুল আইনের 25% |
+| ভুল আইনের 60% |
+(ঘ) এইরূপ প্রত্যেকটি কোম্পানির ক্ষেত্রে যাহা publicly
+traded company নহে:
+| ভুল আইনের 60% |
+(ঙ) মাইক্রো ব্যাংক এর ক্ষেত্রে-
+| ভুল আইনের 90.6% |
+(চ) শিপারই, বিড়ি, জুড়ি, সুতরাং সকল প্রকার তামাজাত পণ্যে
+প্রস্তুতকারক কোম্পানির ক্ষেত্রে-
+| ভুল আইনের 80% |
+
+[[page 109]]
+বাংলাদেশ কোডেটি, অতিরিক্ত, জুন ৩০, ২০২২
+
+২০ tireণ
+
+(ও) মোবাইল ফোন অপারেটর কোম্পানির ক্ষেত্রে -
+
+তেক আগ্রহের ৪০%:
+
+তবে শর্ত থাকে যে,
+মোবাইল ফোন অপারেটর
+কোম্পানি যদি উপর
+বর্ণনীত মূলধনের
+ন্যূনতম ১০% শেয়ার,
+স্বয়ং অথবা Pre Initial
+Public Offering
+Placement ৫% এর
+অধিক থাকিতে পারিবে না,
+এবং এশতাদের মাধ্যমে
+হস্তান্তর করত: Publicly
+traded company-কে
+রূপান্তরিত হয় সেই ক্ষেত্রে
+করের হার হইবে ৪০%:
+আরও শর্ত থাকে যে, যদি
+এইরূপ কোম্পানি উপর
+পরিদর্শীতা মূল্যায়নের
+ন্যূনতম ২০% শেয়ার
+Initial Public
+Offering (IPO) এর
+মাধ্যমে হস্তান্তর করে, তাহা
+হয়েও এইরূপ কোম্পানি
+উক্ত হস্তান্তর সংশ্লিষ্ট বছরে
+প্রয়োগী আয়করকের উপর
+২০% হারে হ্রাসকৃত রেয়াত
+লাভ করিবে;
+
+(২) কোম্পানি এবং ব্যক্তিগণ যদি বাংলাদেশে জমিবাস্তী (লেনদাসী
+বাণিজ্যিক বাড়ীতে) এইরূপ অন্যান্য সকল প্রকারকারীর ক্ষেত্রে আরোপ উপর
+প্রযোজ্য কর।
+
+(৩) কোম্পানি নহে, শেয়ারহে, বিবিধ, জন্য, pursuant সকল প্রকার dramatically
+পদ প্রস্তুতকারক এইরূপ করারতাকার উক্ত ব্যবসায় hereto অর্জিত আয়ের
+উপর প্রযোজ্য কর।
+
+[[page 110]]
+বাংলাদেশ কোড, অতিরিক্ত, জুন ৩০, ২০২২
+
+(ও) কোম্পানি নদে, মার্চ, তহবিল, ব্যক্তিস্থ ও এবং অন্যান্য কার্যাবলীগুলো | উক্ত অংশের ৫০.৫%;
+ অর্ডার keepers উপর প্রয়োগ কর।
+ তবে শর্ত থাকে যে, বিবেচনা
+ আবেদনের সকল প্রকার ব্যয়
+ ও প্রান্তি এবং প্রযোজ্য
+ একক লেনদেনে এ (পি)
+ লক্ষ টাকার অধিক ও
+ ব্যক্তি সর্বমোট তৎ
+ (হিসম) লক্ষ টাকার ঊর্ধ্বে
+ সকল প্রকার ব্যয় ও
+ বিлимпиণ | ব্যাপক
+ δικαστείরে মাধ্যমে সম্পন্ন
+ করিলে নির্ধারিত করার
+ উক্ত অংশের ১০% হবে;
+
+(ও) সময়সীমা সমিতি আইন, ২০০১ (২০০১ সালের ৪৭ নং আইন) অনুযায়ী | উক্ত অংশের ১০%;
+ নির্ধারিত সময়সীমা সমিতির ক্ষেত্রে])) উপর প্রয়োগ কর।
+(৬) বেসরকারি বিধিবিধান, বেসরকারি মেডিকেল কলেজ, বেসরকারি
+ কোलेज-কলেজ, বেসরকারি ইঞ্জিনিয়ারিং কলেজ বা বেসরকারি
+ ওষুধনীতি বিষয়ে শিক্ষাদানের স্বীকৃতি বেসরকারি कालेज ও কর্তৃক
+ আরের উপর প্রযোজ্য হয়।
+
+ব্যাখ্যা: এই অনুচ্ছেদে "publicly traded company" বলতে এইরূপ কোনো পাবলিক
+লিমিটেড কোম্পানি বুঝাইবে যাহা কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সালের ১৫ নং আইন) অনুসারে
+বাস্তবণে নিবন্ধিত এবং যে কোম্পানির সাধারণ সভার প্রতিবেদন সেই তারিখের পূর্ববর্তী
+কোম্পানির শেয়ার স্বক acknowledge হইয়াছে।
+
+[[page 111]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+দ্বিতীয় অংশ
+
+সার্চারের হার
+
+অনুচ্ছেদ ক
+
+ taxable ব্যক্তি (assessee being individual) এর ক্ষেত্রে, আয়কর আইন, ২০০০ (২০০৩ সালের ৫২ নং আইন) এর ধারা ১৬৯ অনুযায়ী পরিমাণ ও দরের বিবরণীতে প্রদর্শিত নির্ধারিত সম্পদে রয়েছে ভিত্তিতে, এই অনুচ্ছেদ এবং অধীন সংক্রান্ত বিধানের পূর্বে পরিবেশন করার জন্য নির্ধারিত пределах করণের উপর নিম্নরূপ হারে সারচার্জ প্রযোজ্য হইবে:
+
+| সম্পদ | সারচার্জের হার |
+|---|---|
+| (ক) নেট परिसম্পদের মূল্যায়ন ৪ (চার) কোটি টাকা পর্যন্ত - (খ) নেট परिसম্পদের মূল্যায়ন ৪ (চার) কোটি টাকার অধিক কিন্তু ১০ (দশ) কোটি টাকার অধিক না পর্যন্ত - ব্য, বিনিয়োগ থেকে arisen অতিরিক্ত যোগী ধার্য | শূন্য | ২০% |
+| বা, মোট ১০০০ বর্গফুটের অধিক আয়তনের গৃহ-সম্পত্তি | |
+| (গ) নেট परिसম্পদের মূল্যায়ন ১০ (দশ) কোটি টাকার অধিক কিন্তু ২০ (বিশ) কোটি টাকার অধিক না পর্যন্ত - (ঘ) নেট परिसম্পদের মূল্যায়ন ২০ (বিশ) কোটি টাকার অধিক কিন্তু ৫০ (পঞ্চাশ) কোটি টাকার অধিক না পর্যন্ত - (ঙ) নেট परिसম্পদের মূল্যায়ন ৫০ (পঞ্চাশ) কোটি টাকার অধিক হইলে | ২০% | ৩০% |
+| | |
+<start_of_image>
+ধারা- ৬২ অনুচ্ছেদ-
+
+(১) “নেট পরিসম্পদের মূল्यान” বলতে আয়কর আইন, ২০ years এবং ধারা ১৬৭ অনুযায়ী prescribed ও damaged বিবরণীতে প্রদর্শনেযোগ্য নেট পরিসম্পদের মূল्यान (total net worth) বুঝাবে; এবং
+
+(২) “মোটর গাড়ী” বলিতে বাস, মিনিবাস, কোস্টার, প্রাইভী মুভার, ট্রাক, লরি, ট্যাক্সী, পিকআপ ভ্যান, ভিড়-যান করার অটোমোবাইল ও মোটর সাইকেল ব্যতীত অন্যান্যা motoring অন্তর্ভুক্ত হইবেন।
+
+অনুচ্ছেদ ৭১
+
+(১) সিঙ্গেলটেক্স, লিমিটেড, কর্পে, pursuant সকল প্রকার তামাজকাট পণ্য প্রস্তুতকারক করার জন্য উক্ত ধারায় অতির্নিমিত areas উপর ২.৫% হারে সারচার্জ প্রযোজ্য হইবে।
+
+(২) কোনো স্কুল, কলেজ, বিশ্ববিদ্যালয় সকল শিক্ষা প্রতিষ্ঠানকে প্রতি বছর প্রতিষ্ঠানের generates ক্ষেত্রে দেশে বসবাস আইনি বিধান অনুযায়ী উপযুক্ত ব্যবস্থা না থাকিলে উক্ত প্রতিষ্ঠানের অতির্নিমিত areas উপর ২.৫% হারে সারচার্জ প্রযোজ্য হইবে।
+<end_of_image>
+
+[[page 112]]
+২০শেpto
+বাংলাদেশ Gazette, Extraordinary, জুন ৩০, ২০২২
+
+কর্তৃপক্ষ কর্তৃক
+পরিবর্তন
+
+পরিবর্তন সারচারের হার
+
+কোনো স্বাভাবিক ব্যক্তি (any individual) যাহার নামে একাধিক মোটর গাড়ী (মোটর গাড়ী বলিয়া প্রতিনিধি রহিয়াছে), তাহার একের অধিক প্রত্যেকটি গাড়ির জন্য নিম্নবর্ণিত অতিরিক্ত গাড়ির বিপরীতে উল্লিখিত হারে পরিবর্তন সারচার্জ প্রদেয় হইবে যথা:-
+
+ক্রমিক | মোটর গাড়ির বর্ণনা | পরিবহন
+নং | | সারচার্জের
+| | হার
+| (টাকায়)
+১ | ১৫০০ সিসি বা তৎ inferior গাড়ী প্রতিটি মোটর গাড়ীর জন্য | ২৪,০০০
+২ | ১৫০০ সিসি বা তৎ inferior অধিক কিন্তু ২০০০ সিসি বা ৩০০
+<start_of_image>
+| কிலேওয়াটের অধিক বকেয়া এবং prettী মোটর গাড়ির জন্য |
+|---|---|
+| খ | ২০০০ লিটার বা ১০০ কிலேওয়াটের অধিক কিন্তু ২৫০০ লিটার বা ১২৫ | ৭২,০০০ |
+| কிலேওয়াটের অধিক বকেয়া এবং prettী মোটর গাড়ির জন্য |
+| ßt | ২৫০০ লিটার বা ১২৫ কிலேওয়াটের অধিক কিন্তু ৩০০০ লিটার বা ১৫০ | ১,৫০,০০০ |
+
+[[page 113]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+(খ) পরিবেশ সংক্রান্ত গতির নিবন্ধন বা ফিটনেস নবায়নকালে নিবন্ধন বা ফিটনেসে নবায়নকারী কর্তৃপক্ষ কর্তৃক উল্লেখ উৎপরে সম্পর্কিত হইবে;
+
+(গ) অকার্যকর বৎসরের জন্য গতির নিবন্ধন বা ফিটনেস maiden করা হইলে সেই অর্থ বৎসরকে গতির নিবন্ধন বা ফিটনেসে নবায়ন করা হইয়াছে তৎপলবর্তী অর্থ বৎসরগুলোর ৩০ জুন তারিখের মধ্যে প্রযোজ্যভাবে পরিবেশ সংক্রান্ত পরিশোধ করিতে হইবে;
+
+(ঘ) এইক্ষেত্রে কোনো করদাতা শর্ত (গ) মোতাবেক উল্লেখ পরিবেশ সংক্রান্ত পরিশোধ করিতে ব্যর্থ হন সেইক্ষেত্রে নিবন্ধন বা ফিটনেসে নবায়নকালে ক + খ নিয়মিতধারী পরিবেশ সংক্রান্ত হার নির্ধারিত হইবে, যেখানে-
+
+ক = বিগত বৎসর বা বৎসবগুলোকে অপরিশোধিত পরিবেশ সংক্রান্ত পরিমাণ।
+খ - এই বৎসরে করাচতা পরিবেশ surpassed পরিোধ করিবেন সেই অর্থ
+বৎসরের জন্য নির্ধারিত পরিবেশ surpassed তৈরির পরিমাণ;
+
+(ও) একাধিক বৎসরের জন্য গাড়ির নিবন্ধন বা ফিটনেস্সব মওয়ান করার ক্ষেত্রে
+প্রতিবৎসর taxpayers রিটার্ন দাখিলকর পূর্ব পরিবেশ surpassed পরিোধ করা না
+হইল, তবে উপ-কর কমিশনার taxpayers রিটার্ন প্রসেস বা কর निर्धारকভাবে উহা আদায়
+ করিবেন;
+
+(চ) এই বৎসরে অর্জিত proceeds পরিবেশ surpassed প্রত্যক্ষণেযোগ্য বা অন্য কোনো
+প্রকারের কর বা surpassed তৈরির সহিত সমন্বয়যোগ্য হইবে না;
+
+(ছ) এই বৎসরের উদ্দেশ্যে “মোটর গাড়ি” বলিতে বাস, মিনিবাস, কোস্টার, প্রাইভী
+মজদা, ট্রাক, লরি, ট্রাকে লরি, পিকআপ ভ্যান, হিচিংগান হলর, অটোরিকশা ও
+মোটর সাইকেল ব্যতীত অন্যান্য মোটযান অন্তর্ভুক্ত হইবে।
+
+[[page 114]]
+বাংলাদেশ টেক্সটাইল, জুন ৩০, ২০২৩
+
+চতুর্থ অংশ
+কর রেয়াত
+
+(১) কোনো করদাতা নিয়োগকারী কর্তৃপক্ষ হিসাবে প্রতিষ্ঠানে কর্মরত মোট জনবলের
+অন্তুন ৫০% (পঞ্চাশ শতাংশ) অথবা ২৫ (পঁচিশ) জনের অধিক কর্মচারী প্রতিবন্ধী ব্যক্তিগণের
+মধ্যে হতে নিয়োগ করিলে উক্ত ככ работодаকে পুনরায় করার ৬০% (ষাট শতাংশ) অথবা
+প্রতিবন্ধী ব্যক্তি-কর্মীরগণদের পরিশোধিত মোট বেতনের ১৫% (পনেরো শতাংশ), যাহা
+কম, কর রেয়াত প্রদান করা হইবেন।
+
+(২) কোনো করদাতা নিয়োগকারী কর্তৃপক্ষ হিসাবে প্রতিষ্ঠানে কর্মরত মোট জনবলের
+অন্তুন ৫০% (পঞ্চাশ শতাংশ) অথবা ২৫ (পঁচিশ) জনের অধিক কর্মচারী তৃতীয় লিঙ্গের
+ব্যক্তিগণের মধ্যে হতে নিয়োগ করিলে উক্ত ככ работодаকে পুনরায় করার 60% (ষাট শতাংশ) অথবা
+তৃতীয় লিঙ্গ-কর্মীরগণদের পরিশোধিত মোট বেতনের ১৫% (পনেরো শতাংশ), যাহা
+কম, কর রেয়াত প্রদান করা হইবেন।
+<start_of_image>
+
+[[page 115]]
+বাংলাদেশ গেজেট, অতিরিক্ত, জুন ৩০, ২০২২
+
+প্রথম অধ্যায়
+তোচনা
+
+ সরকার, Provisional Collection of Taxes Act, 1931 (Act No. XVI of 1931), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এবং section 3-এর প্রজ্ঞাপন ক্ষমতাবলে, এই বিলের প্রস্তাবিত দফা ১২, ১০, ৮২, ৮৩, ৮৪, ৮৫, ৮৬, ৮৭, ৮৮, ৮৯, ৯০, ১০০, ১০১, ১০২, ১০৩ ও ১০৫ এর উপর নিম্নরবর্তী বিধানাবলী পালনে, জনস্বার্থে, অবিলম্বে কার্যকর করা সমীচীন ও প্রয়োজনীয় মর্মে
+তোফা করল।
+
+ ২। এই তোহফা প্রণয়নের তারিখে উক্ত Act এর section 4 এর sub-section (1) এবং বিধান অনুযায়ী এই বিলের প্রস্তাবিত দফা ১২, ১০, ৮২, ৮৩, ৮৪, ৮৫, ৮৬, ৮৭, ৮৮, ৮৯, ৯০, ১০০, ১০১, ১০২, ১০৩ ও ১০৫ এর বিধানাবলী অবিলম্বে কার্যকর হইবে এবং উক্ত প্রস্তাবিত দফা ২, ৩, ৪, ৫, ৬, ৭, ৮, ৯, ১০, ১১, ১২, ১৪, ১৫, ১৬, ১৭, ১৮, ১৯, ২০, ২১, ২২, ২৩, ২৪, ২৫, ২৬, ২৭, ২৮, ২৯, ৩০, ৩১, ৩২, ৩৩, ৩৪, ৩৫, ৩৬, ৩৭, ৩৮, ৩৯, ৪০, ৪১, ৪২, ৪৩, ৪৪, ৪৫, ৪৬, ৪৭, ৪৮, ৪৯, ৫০, ৫১, ৫২, ৫৩, ৫৪, ৫৫, ৫৬, ৫৭, ৫৮, ৫৯, ৬০, ৬১, ৬২, ৬৩, ৬৪, ৬৫, ৬৬, ৬৭
+৬৯, ৭০, ৭২, ৭৩, ৭৪, ৭৫, ৭৬, ৭৭, ৭৯, ৮১, ৮২, ৮৩, ৮৫, ৮৬, ৮৭, ৮৮
+এরিখানী ও glorify, ২০১৮ তারিখে কার্যকর হইবে।
+
+কে, এম, আব্দুল সালাম
+সিনিয়র সচিব | 
+
+মোঃ আজিম-উত-রহমান, উপপরিচালক (উপসচিব), বাংলাদেশ সরকারী মুদ্রণालय, তেজগাঁও, ঢাকা কর্তৃক মুদ্রিত ।
+মোঃ মফিজুল ইসলাম, উপপরিচালক (উপসচিব), বাংলাদেশ ফরম ও প্রকাশনা অফিস,
+তেজগাঁও, ঢাকা কর্তৃক প্রকাশিত। website: www.bgpress.gov.bd
