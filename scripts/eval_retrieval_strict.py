@@ -27,13 +27,42 @@ import sys
 from pathlib import Path
 import warnings
 
-import numpy as np
-import pandas as pd
-import requests
-import torch
-from rank_bm25 import BM25Okapi
-from sentence_transformers import CrossEncoder, SentenceTransformer
-from tqdm import tqdm
+
+# ---- Use the project's .venv automatically --------------------------------------------
+# VS Code's Run button may start this file with a Python that has no packages installed.
+# If a .venv exists in this folder or a parent folder and we are not running inside it,
+# restart this script with the .venv's Python (same arguments, same terminal).
+def _reexec_in_project_venv() -> None:
+    import os
+    import subprocess
+    if os.environ.get("TAXASSIST_VENV_REEXEC"):
+        return  # already restarted once; never loop
+    here = Path(__file__).resolve()
+    rel = Path("Scripts/python.exe") if os.name == "nt" else Path("bin/python")
+    for folder in (here.parent, *here.parents):
+        venv = folder / ".venv"
+        if (venv / rel).exists():
+            if Path(sys.prefix).resolve() != venv.resolve():
+                print(f"[info] Restarting with the project environment: {venv / rel}")
+                env = dict(os.environ, TAXASSIST_VENV_REEXEC="1")
+                sys.exit(subprocess.call([str(venv / rel), str(here), *sys.argv[1:]], env=env))
+            return
+
+
+_reexec_in_project_venv()
+
+try:
+    import numpy as np
+    import pandas as pd
+    import requests
+    import torch
+    from rank_bm25 import BM25Okapi
+    from sentence_transformers import CrossEncoder, SentenceTransformer
+    from tqdm import tqdm
+except ModuleNotFoundError as e:
+    sys.exit(f"Missing package '{e.name}'. From the project folder run:\n"
+             "  uv pip install --python .venv numpy pandas openpyxl requests torch tqdm "
+             "rank_bm25 sentence-transformers")
 
 _HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(_HERE))
@@ -100,6 +129,23 @@ def hyde_prompt(query: str) -> str:
         "the question below. Use the same language as the question. Do not invent section numbers.\n\n"
         f"Question: {query}\n\nProvision:"
     )
+
+
+def ollama_ready() -> bool:
+    """True if the Ollama server answers and OLLAMA_MODEL has been pulled."""
+    base = OLLAMA_URL.split("/api/")[0]
+    try:
+        r = requests.get(f"{base}/api/tags", timeout=3)
+    except requests.RequestException:
+        print(f"[warning] Ollama is not running at {base}. Start the Ollama app "
+              "(or 'ollama serve'); install it from https://ollama.com/download if needed.")
+        return False
+    names = [m.get("name", "") for m in r.json().get("models", [])] if r.ok else []
+    if not any(n == OLLAMA_MODEL or n.startswith(OLLAMA_MODEL + ":") for n in names):
+        print(f"[warning] Ollama is running but '{OLLAMA_MODEL}' is not installed: "
+              f"run 'ollama pull {OLLAMA_MODEL}'.")
+        return False
+    return True
 
 
 def call_ollama(prompt: str) -> str:
@@ -225,16 +271,33 @@ def main():
         print(f"Upper bound on Hit@K: {(len(queries) - none_in) / len(queries):.1%}")
 
     # ---- HyDE generation (cached, resumable) ----
+    # HyDE is used only if every query has a paragraph, so a run never mixes HyDE and non-HyDE queries.
     cache = load_cache()
-    if USE_HYDE:
+    use_hyde = USE_HYDE
+    if use_hyde:
         todo = [q["query"] for q in queries if q["query"] not in cache]
-        if todo:
+        if todo and not ollama_ready():
+            print(f"[warning] {len(todo)} queries have no cached HyDE paragraph and Ollama is unavailable, "
+                  "so HyDE is switched OFF for this run (results are reported as 'HyDE: False').")
+            use_hyde = False
+        elif todo:
             print(f"Generating HyDE for {len(todo)} queries ({len(cache)} cached)...")
+            failures = 0
             for q in tqdm(todo, desc="HyDE"):
                 hypo = call_ollama(hyde_prompt(q))
                 if len(hypo) > 20:
                     cache[q] = hypo
                     save_cache(cache)
+                    failures = 0
+                else:
+                    failures += 1
+                    if failures >= 3:
+                        print("[warning] 3 HyDE calls in a row failed; stopping generation. "
+                              "Fix Ollama and re-run: cached paragraphs are kept.")
+                        break
+            if any(q["query"] not in cache for q in queries):
+                print("[warning] Some queries still have no HyDE paragraph, so HyDE is OFF for this run.")
+                use_hyde = False
 
     # ---- Models / indexes ----
     print("Loading BGE-M3...")
@@ -265,7 +328,7 @@ def main():
             if bm.max() > 0:
                 rankings.append(rank_desc(bm))
         hyde_used = False
-        if USE_HYDE:
+        if use_hyde:
             hypo = cache.get(query)
             if hypo:
                 h_emb = dense_model.encode([hypo], normalize_embeddings=True, convert_to_numpy=True)[0]
@@ -340,7 +403,7 @@ def main():
     ) if s])
 
     config = pd.DataFrame([{
-        "BM25": USE_BM25, "HyDE": USE_HYDE, "Rerank": USE_RERANK,
+        "BM25": USE_BM25, "HyDE": use_hyde, "Rerank": USE_RERANK,
         "Explicit_section_boost": EXPLICIT_SECTION_BOOST, "RERANK_N": RERANK_N, "RRF_K": RRF_K,
         "Chunks": n_docs, "Queries": len(queries), "Skipped_no_section": len(skipped),
         "HyDE_fallbacks": hyde_fallbacks, "Queries_naming_a_section": boosted,
