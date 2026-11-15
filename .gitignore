@@ -66,3 +66,4 @@ data_root/
 hyde_cache*.json
 *.xlsx
 .env
+.pytest_cache/
