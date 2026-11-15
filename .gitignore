@@ -67,3 +67,4 @@ hyde_cache*.json
 *.xlsx
 .env
 .pytest_cache/
+emb_cache/
