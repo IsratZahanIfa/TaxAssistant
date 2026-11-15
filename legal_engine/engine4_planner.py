@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 from pathlib import Path
 
 # Lets this file run directly (python legal_engine\engine4.py) by adding the project root to the path
@@ -8,8 +8,8 @@ from typing import Dict, List
 
 from pydantic import BaseModel
 
-from legal_engine.engine2 import TaxCalculationEngine, TaxpayerProfile
-from legal_engine.engine3 import InvestmentEligibilityEngine, InvestmentPortfolio
+from legal_engine.engine2_tax import TaxCalculationEngine, TaxpayerProfile
+from legal_engine.engine3_eligibility import InvestmentEligibilityEngine, InvestmentPortfolio
 
 
 class FinancialConstraints(BaseModel):
