@@ -1,3 +1,21 @@
+import os, sys, subprocess
+from pathlib import Path
+
+def _reexec_in_project_venv():
+    if os.environ.get("TAXASSIST_VENV_REEXEC"):
+        return
+    here = Path(__file__).resolve()
+    rel = Path("Scripts/python.exe") if os.name == "nt" else Path("bin/python")
+    for folder in (here.parent, *here.parents):
+        venv = folder / ".venv"
+        if (venv / rel).exists():
+            if Path(sys.prefix).resolve() != venv.resolve():
+                env = dict(os.environ, TAXASSIST_VENV_REEXEC="1")
+                sys.exit(subprocess.call([str(venv / rel), str(here), *sys.argv[1:]], env=env))
+            return
+
+_reexec_in_project_venv()
+
 import re
 import numpy as np
 from typing import List, Dict, Any, Optional, Set

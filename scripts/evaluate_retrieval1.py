@@ -13,11 +13,35 @@ Data source order: chunks*.json / *.pkl (data_root, then project_root)  ->  Chro
 
 Install:  pip install sentence-transformers rank_bm25 numpy torch chromadb
 Run:      python legal_retrieval.py "your query"
-          python legal_retrieval.py "your query" --root E:\\TaxAssist\\legal_engine\\data_root
+          python legal_retrieval.py "your query" --root C:\\Users\\Admin\\Desktop\\TaxAssist\\legal_engine\\data_root
           python legal_retrieval.py "your query" --field-map "{\"section\":\"sec_no\",\"source_pdf\":\"file\"}"
           python legal_retrieval.py "your query" --lenient      (citation fields become warnings, not failures)
 """
 from __future__ import annotations
+
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+
+# ---- Use the project's .venv automatically (VS Code's Run button may start another Python) ----
+def _reexec_in_project_venv():
+    if os.environ.get("TAXASSIST_VENV_REEXEC"):
+        return
+    here = Path(__file__).resolve()
+    rel = Path("Scripts/python.exe") if os.name == "nt" else Path("bin/python")
+    for folder in (here.parent, *here.parents):
+        venv = folder / ".venv"
+        if (venv / rel).exists():
+            if Path(sys.prefix).resolve() != venv.resolve():
+                env = dict(os.environ, TAXASSIST_VENV_REEXEC="1")
+                sys.exit(subprocess.call([str(venv / rel), str(here), *sys.argv[1:]], env=env))
+            return
+
+
+_reexec_in_project_venv()
+
 
 import argparse
 import fnmatch
@@ -40,16 +64,28 @@ import numpy as np
 log = logging.getLogger("legal_rag")
 
 
+def _find_project_root() -> Path:
+    """First parent folder of this file that contains legal_engine/ (works on any drive)."""
+    here = Path(__file__).resolve()
+    for folder in (here.parent, *here.parents):
+        if (folder / "legal_engine").is_dir():
+            return folder
+    return Path.cwd()
+
+
+PROJECT_ROOT = _find_project_root()
+
+
 # ----------------------------------------------------------------------------- config
 @dataclass
 class Config:
-    project_root: Path = Path(r"E:\TaxAssist")
-    data_root: Path = Path(r"E:\TaxAssist\legal_engine\data_root")
+    project_root: Path = PROJECT_ROOT
+    data_root: Path = PROJECT_ROOT / "legal_engine" / "data_root"
     chunks_path: Optional[Path] = None     # None -> auto-search data_root, then project_root, then chroma_db
     parents_path: Optional[Path] = None    # None -> auto-search data_root, then project_root
     chroma_path: Optional[Path] = None     # None -> data_root\chroma_db, then search for chroma.sqlite3
     chroma_collection: str = "bd_tax"
-    cache_dir: Path = Path(r"E:\TaxAssist\legal_engine\data_root\cache")
+    cache_dir: Path = PROJECT_ROOT / "legal_engine" / "data_root" / "cache"
     embed_model: str = "BAAI/bge-m3"
     rerank_model: str = "BAAI/bge-reranker-v2-m3"
 
@@ -83,7 +119,7 @@ def load_any(path: Path):
     if path.suffix.lower() in (".pkl", ".pickle"):
         with open(path, "rb") as f:
             return pickle.load(f)
-    return json.loads(path.read_text(encoding="utf-8"))
+    return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
 def find_file(roots: list[Path], patterns: list[str]) -> Optional[Path]:

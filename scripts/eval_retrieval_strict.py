@@ -93,7 +93,14 @@ warnings.filterwarnings("ignore")
 # ============================================================
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "gemma3:12b"
-JSON_PATH = PROJECT_ROOT / "data" / "Knowledge_Dataset" / "income_tax_act_2023.json"
+# Corpus: the first file that exists is used (override with --corpus <path>).
+CORPUS_CANDIDATES = [
+    PROJECT_ROOT / "legal_engine" / "data_root" / "data" / "legal" / "income_tax_act_2023_en.json",
+    PROJECT_ROOT / "data_root" / "data" / "legal" / "income_tax_act_2023_en.json",
+    PROJECT_ROOT / "data" / "Knowledge_Dataset" / "income_tax_act_2023.json",
+]
+MIN_EXPECTED_CHUNKS = 100   # fewer than this almost certainly means a demo/placeholder file
+EMB_CACHE_DIR = PROJECT_ROOT / "emb_cache"
 GOOGLE_SHEET_CSV_URL = (
     "https://docs.google.com/spreadsheets/d/17ew_umfBKtAeTUEBFtBknNoyQR5KbWRSgceh47DNeYY"
     "/export?format=csv&gid=0"
@@ -110,7 +117,8 @@ USE_RERANK = True
 EXPLICIT_SECTION_BOOST = True
 
 RRF_K = 60
-RERANK_N = 100            # chunks sent to the reranker
+RERANK_N = 100            # chunks sent to the reranker (GPU)
+RERANK_N_CPU = 30         # used on CPU unless --rerank-n is given (reranking is slow on CPU)
 MAX_LENGTH = 512
 BATCH_SIZE_ENCODE = 16
 BATCH_SIZE_RERANK = 4
@@ -166,7 +174,7 @@ def call_ollama(prompt: str) -> str:
 
 def load_cache() -> dict:
     if HYDE_CACHE_PATH.exists():
-        with open(HYDE_CACHE_PATH, "r", encoding="utf-8") as f:
+        with open(HYDE_CACHE_PATH, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {}
 
@@ -209,27 +217,96 @@ def failure_category(first_rank: int, in_corpus: bool) -> str:
 # ============================================================
 # MAIN
 # ============================================================
+def parse_args():
+    import argparse
+    ap = argparse.ArgumentParser(description="Strict section-level retrieval evaluation")
+    ap.add_argument("--corpus", type=Path, help="corpus JSON (list of chunks)")
+    ap.add_argument("--no-hyde", action="store_true", help="disable HyDE")
+    ap.add_argument("--no-bm25", action="store_true", help="disable BM25")
+    ap.add_argument("--no-rerank", action="store_true", help="disable the cross-encoder reranker")
+    ap.add_argument("--no-boost", action="store_true", help="disable the explicit-section boost")
+    ap.add_argument("--rerank-n", type=int, help=f"chunks to rerank (default {RERANK_N} GPU / {RERANK_N_CPU} CPU)")
+    ap.add_argument("--output", type=Path, default=OUTPUT_XLSX)
+    return ap.parse_args()
+
+
+def pick_corpus(arg_path):
+    if arg_path:
+        if not arg_path.exists():
+            sys.exit(f"Corpus not found: {arg_path}")
+        return arg_path
+    for p in CORPUS_CANDIDATES:
+        if p.exists():
+            return p
+    sys.exit("No corpus found. Tried:\n  " + "\n  ".join(map(str, CORPUS_CANDIDATES)) +
+             "\nPass one with --corpus <path>.")
+
+
+def chunk_section_field(item: dict) -> str:
+    """Supports both formats: {'section': '32'} and {'section_no': '32', 'sections': '32,33'}."""
+    for key in ("section", "section_no"):
+        v = item.get(key)
+        if v not in (None, ""):
+            return str(v)
+    multi = str(item.get("sections") or "").split(",")[0].strip()
+    return multi
+
+
+def encode_cached(model, texts, model_name: str):
+    """Document embeddings are cached on disk, keyed by model + settings + exact texts."""
+    import hashlib
+    h = hashlib.sha1(f"{model_name}|{MAX_LENGTH}|".encode())
+    for t in texts:
+        h.update(t.encode("utf-8"))
+        h.update(b"\0")
+    path = EMB_CACHE_DIR / f"{h.hexdigest()[:16]}.npy"
+    if path.exists():
+        print(f"Using cached document embeddings: {path.name}")
+        return np.load(path)
+    emb = model.encode(texts, batch_size=BATCH_SIZE_ENCODE, show_progress_bar=True,
+                       normalize_embeddings=True, convert_to_numpy=True)
+    EMB_CACHE_DIR.mkdir(exist_ok=True)
+    np.save(path, emb)
+    return emb
+
+
 def main():
+    global USE_HYDE, USE_BM25, USE_RERANK, EXPLICIT_SECTION_BOOST, RERANK_N, OUTPUT_XLSX
+    args = parse_args()
+    USE_HYDE = USE_HYDE and not args.no_hyde
+    USE_BM25 = USE_BM25 and not args.no_bm25
+    USE_RERANK = USE_RERANK and not args.no_rerank
+    EXPLICIT_SECTION_BOOST = EXPLICIT_SECTION_BOOST and not args.no_boost
+    OUTPUT_XLSX = args.output
+
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Retrieval evaluation on {device.upper()}")
+    if args.rerank_n:
+        RERANK_N = args.rerank_n
+    elif device == "cpu" and USE_RERANK:
+        RERANK_N = RERANK_N_CPU
+        print(f"[info] No GPU found: reranking the top {RERANK_N} chunks per query (use --rerank-n to change).")
 
     # ---- Corpus ----
-    if not JSON_PATH.exists():
-        raise FileNotFoundError(f"JSON not found: {JSON_PATH}")
-    with open(JSON_PATH, "r", encoding="utf-8") as f:
+    corpus_path = pick_corpus(args.corpus)
+    print(f"Corpus: {corpus_path}")
+    with open(corpus_path, "r", encoding="utf-8-sig") as f:
         raw = json.load(f)
     if not isinstance(raw, list):
         raise TypeError("Corpus JSON must be a list of objects.")
 
     docs = []
     for item in raw:
-        text = str(item.get("text", "")).strip()
+        text = str(item.get("text") or "").strip()
         if text:
-            docs.append({"section": str(item.get("section", "")),
-                         "title": str(item.get("title", "")),
+            docs.append({"section": chunk_section_field(item),
+                         "title": str(item.get("title") or ""),
                          "text": text})
     if not docs:
         raise ValueError("Corpus is empty.")
+    if len(docs) < MIN_EXPECTED_CHUNKS:
+        print(f"[warning] Only {len(docs)} chunks in {corpus_path.name}. This looks like a demo file; "
+              "results will not be meaningful. Use --corpus to point at the full corpus.")
 
     enriched = [f"Section: {d['section']}. Title: {d['title']}. Text: {d['text']}" for d in docs]
     chunk_sec = [extract_doc_section(d["section"]) for d in docs]
@@ -245,7 +322,7 @@ def main():
         print(f"   e.g. section field = {docs[i]['section']!r}")
 
     # ---- Queries ----
-    df = pd.read_csv(GOOGLE_SHEET_CSV_URL)
+    df = pd.read_csv(GOOGLE_SHEET_CSV_URL, encoding="utf-8-sig")
     missing_cols = {QUESTION_COL, GT_COL} - set(df.columns)
     if missing_cols:
         raise ValueError(f"Query sheet is missing columns: {missing_cols}")
@@ -303,8 +380,7 @@ def main():
     print("Loading BGE-M3...")
     dense_model = SentenceTransformer("BAAI/bge-m3", device=device)
     dense_model.max_seq_length = MAX_LENGTH
-    doc_emb = dense_model.encode(enriched, batch_size=BATCH_SIZE_ENCODE, show_progress_bar=True,
-                                 normalize_embeddings=True, convert_to_numpy=True)
+    doc_emb = encode_cached(dense_model, enriched, "BAAI/bge-m3")
     bm25 = BM25Okapi([tokenize(t) for t in enriched]) if USE_BM25 else None
     reranker = None
     if USE_RERANK:
@@ -404,7 +480,8 @@ def main():
 
     config = pd.DataFrame([{
         "BM25": USE_BM25, "HyDE": use_hyde, "Rerank": USE_RERANK,
-        "Explicit_section_boost": EXPLICIT_SECTION_BOOST, "RERANK_N": RERANK_N, "RRF_K": RRF_K,
+        "Explicit_section_boost": EXPLICIT_SECTION_BOOST, "RERANK_N": RERANK_N if USE_RERANK else 0, "RRF_K": RRF_K,
+        "Corpus": str(corpus_path), "Device": device,
         "Chunks": n_docs, "Queries": len(queries), "Skipped_no_section": len(skipped),
         "HyDE_fallbacks": hyde_fallbacks, "Queries_naming_a_section": boosted,
     }])
