@@ -1,0 +1,7 @@
+Pages read: 287
+Sections: 345 (expected 345); missing: []
+Sections without title: []
+Schedule records: {'First Schedule': 9, 'Second Schedule': 31, 'Third Schedule': 22, 'Fourth Schedule': 10, 'Fifth Schedule': 13, 'Sixth Schedule': 10, 'Seventh Schedule': 2, 'Eighth Schedule': 2}
+Footnotes found: 185; records with amendment notes: 87
+Records: 444  Chunks: 641
+Largest chunks (chars): [('ita2023_sch6_part1_p2', 10721), ('ita2023_s264', 8459), ('ita2023_sch8_part1_text', 8103), ('ita2023_s309', 7313), ('ita2023_s163', 6053)]

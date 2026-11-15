@@ -1,6 +1,3 @@
-# extract_bn_act.py
-# Run: python extract_bn_act.py
-# Needs: pip install pymupdf requests
 import base64
 import hashlib
 import json
@@ -8,10 +5,9 @@ import re
 import time
 from pathlib import Path
 
-import fitz       # PyMuPDF
+import fitz       
 import requests
 
-# ---------------- CONFIG ----------------
 PDF_PATH = Path(r"E:\TaxAssist\data_root\raw_pdfs\income_tax_act_2023_bn\Income_tax_act_2023.pdf")
 OUT_DIR = Path(r"E:\TaxAssist\data_root\extracted_txt")
 CACHE_DIR = OUT_DIR / "_ocr_cache_income_tax_act_2023_bn"
@@ -19,13 +15,12 @@ CACHE_DIR = OUT_DIR / "_ocr_cache_income_tax_act_2023_bn"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 MODEL = "gemma3:12b"
 DPI = 300
-MIN_BN_RATIO = 0.5        # text layer-e Bangla char 50% er kom hole bad dhorbo
-MIN_CHARS = 50            # er kom char hole bad dhorbo
-FORCE_OCR = False         # True dile shob page-i OCR hobe
+MIN_BN_RATIO = 0.5        
+MIN_CHARS = 50           
+FORCE_OCR = False        
 MAX_RETRIES = 3
-REQUEST_TIMEOUT = 180     # sec
-NUM_PREDICT = 3000        # output cap, repetition loop thamate
-
+REQUEST_TIMEOUT = 180     
+NUM_PREDICT = 3000        
 OCR_PROMPT = (
     "এই পৃষ্ঠার ছবি থেকে সব লেখা হুবহু বাংলা ইউনিকোডে লেখো। "
     "কোনো ব্যাখ্যা, অনুবাদ বা সারাংশ দেবে না। শুধু পৃষ্ঠায় যা লেখা আছে তাই দেবে। "
@@ -33,8 +28,6 @@ OCR_PROMPT = (
     "টেবিল থাকলে সারি অনুযায়ী লেখো। পৃষ্ঠা নম্বর বা হেডার-ফুটার থাকলে সেটাও লেখো।"
 )
 
-
-# ---------------- CHECKS ----------------
 def bn_ratio(text: str) -> float:
     chars = [c for c in text if not c.isspace()]
     if not chars:
@@ -71,7 +64,6 @@ def has_repetition_loop(text: str) -> bool:
     return bool(re.search(r"(.{4,40}?)\1{8,}", text))
 
 
-# ---------------- OCR ----------------
 def render_png(page: fitz.Page) -> bytes:
     return page.get_pixmap(dpi=DPI).tobytes("png")
 
@@ -91,7 +83,7 @@ def ocr_png(png: bytes) -> str:
             r.raise_for_status()
             text = r.json().get("response", "").strip()
             if has_repetition_loop(text):
-                # loop hole prothom ordhek rekhe baki ta felo
+
                 text = text[: len(text) // 2].rstrip()
                 print("    warn: repetition loop detected, output trimmed")
             return text
@@ -112,8 +104,6 @@ def ocr_with_cache(png: bytes, page_no: int) -> str:
     f.write_text(text, encoding="utf-8")
     return text
 
-
-# ---------------- MAIN ----------------
 def extract_pdf(pdf_path: Path):
     doc = fitz.open(pdf_path)
     total = len(doc)
@@ -166,7 +156,6 @@ def main():
             if p["text"]:
                 f.write(f"\n[[PAGE {p['page']}]]\n{p['text']}\n")
 
-    # sanity check
     low = [p["page"] for p in pages if p["n_chars"] > 0 and p["bn_ratio"] < 0.5]
     empty = [p["page"] for p in pages if p["n_chars"] == 0]
     print("Low Bangla ratio pages:", low[:30])

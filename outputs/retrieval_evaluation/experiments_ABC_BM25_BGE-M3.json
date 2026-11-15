@@ -1,0 +1,13 @@
+{
+ "retriever": "BM25+BGE-M3",
+ "summary": {
+  "A": {},
+  "B": {},
+  "C": {}
+ },
+ "per_question": {
+  "A": [],
+  "B": [],
+  "C": []
+ }
+}

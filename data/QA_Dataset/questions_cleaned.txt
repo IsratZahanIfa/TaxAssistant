@@ -1,0 +1,140 @@
+1. Do I need to file an income tax return if my annual income is below the taxable limit?
+2. Who is required to submit an income tax return in Bangladesh?
+3. What is the current income tax rate for an individual taxpayer?
+4. How is my taxable income calculated?
+5. What types of income are taxable in Bangladesh?
+6. Which types of income are exempt from income tax?
+7. How is salary income calculated for tax purposes?
+8. Is house rent allowance included in taxable income?
+9. Is medical allowance from my employer taxable?
+10. Is conveyance allowance taxable?
+11. How is income from employment reported in a tax return?
+12. How is income from a business calculated for tax purposes?
+13. How is rental income taxed in Bangladesh?
+14. How is agricultural income treated for income tax purposes?
+15. How is income from capital gains taxed?
+16. How is interest income from a bank account taxed?
+17. Is income from fixed deposits taxable?
+18. How is dividend income treated under the income tax law?
+19. Is foreign income taxable in Bangladesh?
+20. How is income from freelance work taxed?
+21. How is income from online business treated for tax purposes?
+22. Do I have to pay tax on income earned from social media activities?
+23. How is income from consultancy services taxed?
+24. How is income from a private tutoring business taxed?
+25. What deductions are available when calculating taxable income?
+26. Which expenses can be deducted from business income?
+27. Can I claim a deduction for life insurance premiums?
+28. Can I claim a tax rebate for eligible investments?
+29. What types of investments qualify for a tax rebate?
+30. Can investment in government securities qualify for a tax benefit?
+31. Can provident fund contributions reduce my tax liability?
+32. Can pension scheme contributions qualify for a tax rebate?
+33. Can I claim a tax benefit for eligible DPS investments?
+34. What documents are required to claim investment-related tax benefits?
+35. What is the deadline for submitting an income tax return?
+36. What happens if I submit my tax return after the deadline?
+37. Can I submit my tax return online?
+38. How can I correct an error in my submitted tax return?
+39. Can I amend a previously submitted tax return?
+40. What documents should I keep before submitting my tax return?
+41. What is a TIN and why do I need one?
+42. How can I obtain a TIN?
+43. Do I need a TIN if I have no taxable income?
+44. What happens if I have a TIN but do not submit a tax return?
+45. What is advance income tax?
+46. Who is required to pay advance income tax?
+47. What is tax deducted at source?
+48. How does tax deducted at source affect my final tax liability?
+49. Can I adjust tax deducted at source against my tax liability?
+50. What should I do if too much tax has been deducted at source?
+51. What happens if I fail to pay my income tax?
+52. What penalties may apply for late submission of a tax return?
+53. What happens if I provide incorrect information in my tax return?
+54. What are my rights during an income tax assessment?
+55. What should I do if I receive a notice from the tax authority?
+56. How should I respond to an income tax notice?
+57. Can the tax authority audit my income tax return?
+58. What documents may be requested during a tax audit?
+59. How can I challenge an incorrect tax assessment?
+60. How can I appeal a tax-related decision?
+61. How is income tax treated for a non-resident taxpayer?
+62. How is residential status determined for income tax purposes?
+63. How is rental income from property treated for tax purposes?
+64. How should I report income from multiple sources?
+65. How should I report my assets and liabilities in my tax return?
+66. Do I need to declare property owned in my income tax return?
+67. Do I need to declare bank deposits and financial assets?
+68. How should I report income from shares or securities?
+69. Which income tax return form should an individual taxpayer use?
+70. Where can I find the official income tax rules and forms?
+71. আমার বার্ষিক আয় করমুক্ত সীমার নিচে হলে কি আমাকে আয়কর রিটার্ন দিতে হবে?
+72. বাংলাদেশে কারা আয়কর রিটার্ন দাখিল করতে বাধ্য?
+73. বর্তমানে একজন ব্যক্তির জন্য আয়করের হার কীভাবে নির্ধারণ করা হয়?
+74. আমার করযোগ্য আয় কীভাবে হিসাব করা হবে?
+75. বাংলাদেশে কোন কোন ধরনের আয় করযোগ্য?
+76. কোন কোন ধরনের আয় আয়কর থেকে অব্যাহতি পেতে পারে?
+77. চাকরি থেকে পাওয়া আয় কীভাবে করযোগ্য আয় হিসেবে হিসাব করা হয়?
+78. চাকরির বাড়ি ভাড়া ভাতা কি করযোগ্য?
+79. চাকরির চিকিৎসা ভাতা কি করযোগ্য আয়ের মধ্যে পড়ে?
+80. যাতায়াত ভাতা কি আয়করের আওতায় পড়ে?
+81. চাকরি থেকে পাওয়া আয় আয়কর রিটার্নে কীভাবে দেখাতে হবে?
+82. ব্যবসা থেকে পাওয়া আয় কীভাবে করের জন্য হিসাব করা হয়?
+83. বাড়ি বা ফ্ল্যাট ভাড়া দিয়ে পাওয়া আয় কীভাবে করযোগ্য হয়?
+84. কৃষি থেকে পাওয়া আয় কীভাবে আয়কর আইনে বিবেচনা করা হয়?
+85. মূলধনী সম্পদ বিক্রি করে পাওয়া আয় কীভাবে করযোগ্য হয়?
+86. ব্যাংক অ্যাকাউন্টের সুদের ওপর কি আয়কর দিতে হয়?
+87. ফিক্সড ডিপোজিটের সুদের আয় কি করযোগ্য?
+88. শেয়ার থেকে পাওয়া লভ্যাংশ কীভাবে করযোগ্য হয়?
+89. বিদেশ থেকে পাওয়া আয় কি বাংলাদেশে করযোগ্য?
+90. ফ্রিল্যান্সিং থেকে পাওয়া আয় কীভাবে আয়কর রিটার্নে দেখাতে হবে?
+91. অনলাইন ব্যবসা থেকে পাওয়া আয় কীভাবে করের আওতায় আসে?
+92. সোশ্যাল মিডিয়া থেকে আয় করলে কি আয়কর দিতে হয়?
+93. কনসালটেন্সি বা পরামর্শমূলক কাজের আয় কীভাবে করযোগ্য হয়?
+94. প্রাইভেট টিউশনি থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?
+95. করযোগ্য আয় নির্ধারণের সময় কোন কোন ছাড় বা deduction পাওয়া যায়?
+96. ব্যবসার কোন কোন খরচ আয় থেকে বাদ দেওয়া যেতে পারে?
+97. জীবন বীমার প্রিমিয়ামের জন্য কি কর সুবিধা পাওয়া যায়?
+98. বিনিয়োগের জন্য কি আয়কর রেয়াত পাওয়া যায়?
+99. কোন কোন বিনিয়োগ আয়কর রেয়াতের জন্য যোগ্য?
+100. সরকারি সিকিউরিটিজে বিনিয়োগ করলে কি কোনো কর সুবিধা পাওয়া যায়?
+101. প্রভিডেন্ট ফান্ডে টাকা জমা দিলে কি কর সুবিধা পাওয়া যায়?
+102. পেনশন স্কিমে টাকা জমা দিলে কি আয়কর রেয়াত পাওয়া যায়?
+103. DPS-এ বিনিয়োগ করলে কি কর রেয়াত পাওয়া যায়?
+104. বিনিয়োগের কর সুবিধা দাবি করতে কী কী কাগজপত্র প্রয়োজন?
+105. আয়কর রিটার্ন জমা দেওয়ার শেষ তারিখ কখন?
+106. নির্ধারিত সময়ের পরে আয়কর রিটার্ন জমা দিলে কী হবে?
+107. অনলাইনে কি আয়কর রিটার্ন জমা দেওয়া যায়?
+108. রিটার্ন জমা দেওয়ার পরে ভুল ধরা পড়লে কীভাবে সংশোধন করব?
+109. আগের বছরের জমা দেওয়া রিটার্ন কি সংশোধন করা যায়?
+110. আয়কর রিটার্ন জমা দেওয়ার আগে কোন কোন কাগজপত্র প্রস্তুত রাখতে হবে?
+111. TIN কী এবং এটি কেন প্রয়োজন?
+112. কীভাবে TIN নেওয়া যায়?
+113. আমার করযোগ্য আয় না থাকলেও কি TIN প্রয়োজন?
+114. TIN থাকার পরেও রিটার্ন জমা না দিলে কী হতে পারে?
+115. অগ্রিম আয়কর কী?
+116. কারা অগ্রিম আয়কর দিতে বাধ্য?
+117. উৎসে কর কী?
+118. উৎসে কর্তিত কর কীভাবে আমার মোট করের সঙ্গে সমন্বয় হবে?
+119. আমার আয় থেকে বেশি উৎসে কর কেটে নিলে কী করব?
+120. আয়কর পরিশোধ না করলে কী হতে পারে?
+121. দেরিতে রিটার্ন জমা দিলে কী ধরনের জরিমানা হতে পারে?
+122. আয়কর রিটার্নে ভুল তথ্য দিলে কী হতে পারে?
+123. আয়কর নির্ধারণের সময় একজন করদাতার কী কী অধিকার রয়েছে?
+124. আয়কর কর্তৃপক্ষের কাছ থেকে নোটিশ পেলে কী করব?
+125. আয়কর নোটিশের উত্তর কীভাবে দিতে হবে?
+126. আয়কর রিটার্ন কি অডিট হতে পারে?
+127. আয়কর অডিটের সময় কী ধরনের কাগজপত্র চাওয়া হতে পারে?
+128. ভুল আয়কর নির্ধারণের বিরুদ্ধে কীভাবে আপত্তি করা যায়?
+129. আয়কর সংক্রান্ত সিদ্ধান্তের বিরুদ্ধে কি আপিল করা যায়?
+130. অনিবাসী করদাতার আয় কীভাবে করযোগ্য হয়?
+131. আয়কর আইনে একজন ব্যক্তির আবাসিক মর্যাদা কীভাবে নির্ধারণ করা হয়?
+132. ভাড়া থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?
+133. একাধিক উৎস থেকে আয় থাকলে কীভাবে রিটার্নে দেখাতে হবে?
+134. আয়কর রিটার্নে সম্পদ ও দায় কীভাবে দেখাতে হবে?
+135. আমার মালিকানাধীন জমি বা বাড়ি কি রিটার্নে দেখাতে হবে?
+136. ব্যাংক জমা ও আর্থিক সম্পদ কি রিটার্নে ঘোষণা করতে হবে?
+137. শেয়ার বা সিকিউরিটিজ থেকে পাওয়া আয় কীভাবে রিটার্নে দেখাতে হবে?
+138. ব্যক্তিগত করদাতার জন্য কোন আয়কর রিটার্ন ফর্ম ব্যবহার করতে হবে?
+139. আয়কর আইন ও বিধিমালার সরকারি কপি কোথায় পাওয়া যাবে?
+140. আমার ক্ষেত্রে কোন আয়কর বিধান প্রযোজ্য তা কীভাবে বুঝব?

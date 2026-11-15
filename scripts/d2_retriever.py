@@ -16,7 +16,7 @@ class D2Retriever:
         self,
         embedding_model: str = "BAAI/bge-m3",
         cross_encoder_model: str = "BAAI/bge-reranker-v2-m3",
-        llm_model: str = "gemma3:12b",  # Ollama gemma3:12b Model
+        llm_model: str = "gemma3:12b", 
     ):
         self.embedding_model = embedding_model
         self.cross_encoder_model = cross_encoder_model
@@ -28,7 +28,6 @@ class D2Retriever:
         script_dir = Path(__file__).resolve().parent
         project_root = script_dir.parent
 
-        # Updated: taxdatabase folder path
         self.law_db_dir = project_root / "taxdatabase"
 
         if not self.law_db_dir.exists():
@@ -42,7 +41,6 @@ class D2Retriever:
             encode_kwargs={"normalize_embeddings": True, "device": device},
         )
 
-        # Loading FAISS with index_name='tax_data'
         try:
             self.law_db_vector_store = FAISS.load_local(
                 str(self.law_db_dir),
@@ -51,7 +49,6 @@ class D2Retriever:
                 allow_dangerous_deserialization=True,
             )
         except Exception as e:
-            # Fallback for default index name if custom name fails
             print(f"Failed loading with index_name='tax_data', trying default: {e}")
             self.law_db_vector_store = FAISS.load_local(
                 str(self.law_db_dir),
@@ -59,7 +56,7 @@ class D2Retriever:
                 allow_dangerous_deserialization=True,
             )
             
-        print("✓ Law Vector Database loaded successfully.")
+        print("Law Vector Database loaded successfully.")
 
     def generate_hypothetical_document(self, query: str) -> str:
         """HyDE using Ollama gemma3:12b"""

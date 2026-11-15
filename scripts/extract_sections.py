@@ -1,27 +1,3 @@
-"""
-extract_sections.py (FIXED)
-============================
-Two critical fixes vs the original:
-
-1. DEDUPLICATE the source text. The raw "clean" text file contains the
-   full Act repeated multiple times back-to-back (verified: "1. Short
-   title and commencement" appears 4 separate times in the source).
-   We detect repeats of the very first section's title line and only
-   keep the text up through the END of the first complete copy
-   (main Act body + its Schedules), discarding the rest.
-
-2. STOP Schedule paragraphs from colliding with main Act section
-   numbers. Third/Fourth/Fifth Schedule etc. each have their OWN
-   internal numbering that restarts at 1, 2, 3... Previously these
-   were being extracted as if they were "Section 1", "Section 2" of
-   the main Act (verified: "Section 1" matched 122 times, "Section 2"
-   124 times, when the real Act has exactly one of each). We now
-   track whether we're inside the main Act body or inside a Schedule,
-   and give Schedule paragraphs a clearly separate id/section label
-   (schedule_no + para_no) so they can never be confused with a main
-   Act section during retrieval or evaluation matching.
-"""
-
 from pathlib import Path
 import json
 import re

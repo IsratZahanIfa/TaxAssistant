@@ -4,10 +4,6 @@ import json
 from pathlib import Path
 
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
-
 INPUT_PDF = Path(
     "data/dataset/TaxAssist_Questions.pdf"
 )
@@ -19,11 +15,6 @@ OUTPUT_JSON = Path(
 RAW_TEXT_FILE = Path(
     "data/QA_Dataset/questions_raw.txt"
 )
-
-
-# ============================================================
-# EXTRACT PDF TEXT
-# ============================================================
 
 def extract_pdf_text(pdf_path):
 
@@ -68,15 +59,7 @@ def extract_pdf_text(pdf_path):
     return full_text
 
 
-# ============================================================
-# CLEAN PDF TEXT
-# ============================================================
-
 def clean_pdf_text(text):
-
-    # --------------------------------------------------------
-    # Remove zero-width / invisible characters
-    # --------------------------------------------------------
 
     invisible_chars = [
         "\u200b",
@@ -93,10 +76,6 @@ def clean_pdf_text(text):
             ""
         )
 
-    # --------------------------------------------------------
-    # Normalize line endings
-    # --------------------------------------------------------
-
     text = text.replace(
         "\r\n",
         "\n"
@@ -107,9 +86,6 @@ def clean_pdf_text(text):
         "\n"
     )
 
-    # --------------------------------------------------------
-    # Remove excessive spaces/tabs
-    # --------------------------------------------------------
 
     text = re.sub(
         r"[ \t]+",
@@ -120,10 +96,6 @@ def clean_pdf_text(text):
     return text
 
 
-# ============================================================
-# EXTRACT QUESTIONS
-# ============================================================
-
 def extract_questions(text):
 
     print()
@@ -133,26 +105,6 @@ def extract_questions(text):
 
     questions = []
 
-    # --------------------------------------------------------
-    # IMPORTANT
-    #
-    # Question markers in the PDF can appear as:
-    #
-    # 1. Question
-    #
-    # 10.Question
-    #
-    # 100.
-    # Question
-    #
-    # 141.
-    # Amar question...
-    #
-    # Therefore:
-    #
-    # number + optional spaces + "." + optional spaces
-    #
-    # --------------------------------------------------------
 
     marker_pattern = re.compile(
         r"(?m)^\s*(\d{1,3})\s*\.\s*"
@@ -166,9 +118,6 @@ def extract_questions(text):
         f"Question markers detected: {len(matches)}"
     )
 
-    # --------------------------------------------------------
-    # Create question sections
-    # --------------------------------------------------------
 
     for index, match in enumerate(matches):
 
@@ -176,24 +125,10 @@ def extract_questions(text):
             match.group(1)
         )
 
-        # ----------------------------------------------------
-        # Only questions 1-200
-        # ----------------------------------------------------
-
         if not 1 <= number <= 200:
             continue
 
-        # ----------------------------------------------------
-        # Start of question text
-        # ----------------------------------------------------
-
         start = match.end()
-
-        # ----------------------------------------------------
-        # End of question
-        #
-        # Next numbered question
-        # ----------------------------------------------------
 
         if index + 1 < len(matches):
 
@@ -211,32 +146,16 @@ def extract_questions(text):
             start:end
         ]
 
-        # ----------------------------------------------------
-        # Clean question
-        # ----------------------------------------------------
-
         question_text = clean_question(
             question_text
         )
 
-        # ----------------------------------------------------
-        # Ignore empty questions
-        # ----------------------------------------------------
-
         if not question_text:
             continue
-
-        # ----------------------------------------------------
-        # Detect language
-        # ----------------------------------------------------
 
         language = detect_language(
             question_text
         )
-
-        # ----------------------------------------------------
-        # Save
-        # ----------------------------------------------------
 
         questions.append({
 
@@ -255,16 +174,7 @@ def extract_questions(text):
 
     return questions
 
-
-# ============================================================
-# CLEAN QUESTION
-# ============================================================
-
 def clean_question(question):
-
-    # --------------------------------------------------------
-    # Remove invisible characters
-    # --------------------------------------------------------
 
     question = question.replace(
         "\u200b",
@@ -291,30 +201,11 @@ def clean_question(question):
         ""
     )
 
-    # --------------------------------------------------------
-    # Convert newlines to spaces
-    #
-    # This converts:
-    #
-    # Amar annual income taxable limit-er niche hole ki amar
-    # income tax return submit
-    # korte hobe?
-    #
-    # into:
-    #
-    # Amar annual income taxable limit-er niche hole ki amar
-    # income tax return submit korte hobe?
-    # --------------------------------------------------------
-
     question = re.sub(
         r"\s+",
         " ",
         question
     )
-
-    # --------------------------------------------------------
-    # Remove spaces before punctuation
-    # --------------------------------------------------------
 
     question = re.sub(
         r"\s+([?.!,;:])",
@@ -322,9 +213,6 @@ def clean_question(question):
         question
     )
 
-    # --------------------------------------------------------
-    # Remove extra spaces after punctuation
-    # --------------------------------------------------------
 
     question = re.sub(
         r"([?.!,;:])\s+",
@@ -332,16 +220,9 @@ def clean_question(question):
         question
     )
 
-    # --------------------------------------------------------
-    # Final whitespace cleanup
-    # --------------------------------------------------------
 
     question = question.strip()
 
-    # --------------------------------------------------------
-    # Some PDF questions may have accidental leading/trailing
-    # quotation marks
-    # --------------------------------------------------------
 
     question = question.strip(
         " \t\n\r"
@@ -349,10 +230,6 @@ def clean_question(question):
 
     return question
 
-
-# ============================================================
-# LANGUAGE DETECTION
-# ============================================================
 
 def detect_language(question):
 
@@ -382,10 +259,6 @@ def detect_language(question):
 
         return "English"
 
-
-# ============================================================
-# REMOVE DUPLICATES
-# ============================================================
 
 def remove_duplicates(questions):
 
@@ -424,11 +297,6 @@ def remove_duplicates(questions):
         unique.values()
     )
 
-
-# ============================================================
-# VALIDATE
-# ============================================================
-
 def validate_questions(questions):
 
     print()
@@ -448,10 +316,6 @@ def validate_questions(questions):
     print(
         f"Unique question IDs   : {len(set(numbers))}"
     )
-
-    # --------------------------------------------------------
-    # Missing
-    # --------------------------------------------------------
 
     expected = set(
         range(1, 201)
@@ -486,9 +350,6 @@ def validate_questions(questions):
             "✓ No missing questions"
         )
 
-    # --------------------------------------------------------
-    # Extra
-    # --------------------------------------------------------
 
     if extra:
 
@@ -500,10 +361,6 @@ def validate_questions(questions):
         print(
             extra
         )
-
-    # --------------------------------------------------------
-    # Duplicates
-    # --------------------------------------------------------
 
     duplicates = [
         number
@@ -530,10 +387,6 @@ def validate_questions(questions):
             "✓ No duplicate questions"
         )
 
-    # --------------------------------------------------------
-    # Empty questions
-    # --------------------------------------------------------
-
     empty_questions = [
         q["number"]
         for q in questions
@@ -557,9 +410,6 @@ def validate_questions(questions):
             "✓ No empty questions"
         )
 
-    # --------------------------------------------------------
-    # Language distribution
-    # --------------------------------------------------------
 
     language_counts = {
 
@@ -608,10 +458,6 @@ def validate_questions(questions):
     )
 
 
-# ============================================================
-# SAVE JSON
-# ============================================================
-
 def save_json(
     questions,
     output_path
@@ -639,11 +485,6 @@ def save_json(
     print(
         f"JSON saved to: {output_path}"
     )
-
-
-# ============================================================
-# PRINT QUESTIONS
-# ============================================================
 
 def print_questions(
     questions
@@ -675,10 +516,6 @@ def print_questions(
             f"{q['question']}"
         )
 
-
-# ============================================================
-# CHECK SPECIFIC QUESTIONS
-# ============================================================
 
 def check_specific_questions(
     questions
@@ -744,20 +581,11 @@ def check_specific_questions(
                 f"Q{number}: MISSING"
             )
 
-
-# ============================================================
-# MAIN
-# ============================================================
-
 def main():
 
     print("=" * 70)
     print("TaxAssist - Question Dataset Builder")
     print("=" * 70)
-
-    # --------------------------------------------------------
-    # Check PDF
-    # --------------------------------------------------------
 
     if not INPUT_PDF.exists():
 
@@ -774,25 +602,15 @@ def main():
             INPUT_PDF
         )
 
-    # --------------------------------------------------------
-    # Extract PDF
-    # --------------------------------------------------------
 
     text = extract_pdf_text(
         INPUT_PDF
     )
 
-    # --------------------------------------------------------
-    # Clean text
-    # --------------------------------------------------------
 
     text = clean_pdf_text(
         text
     )
-
-    # --------------------------------------------------------
-    # Save raw extracted text
-    # --------------------------------------------------------
 
     RAW_TEXT_FILE.parent.mkdir(
         parents=True,
@@ -813,41 +631,25 @@ def main():
         f"{RAW_TEXT_FILE}"
     )
 
-    # --------------------------------------------------------
-    # Extract questions
-    # --------------------------------------------------------
-
     questions = extract_questions(
         text
     )
 
-    # --------------------------------------------------------
-    # Remove duplicates
-    # --------------------------------------------------------
 
     questions = remove_duplicates(
         questions
     )
 
-    # --------------------------------------------------------
-    # Sort
-    # --------------------------------------------------------
 
     questions.sort(
         key=lambda x: x["number"]
     )
 
-    # --------------------------------------------------------
-    # Validate
-    # --------------------------------------------------------
 
     valid = validate_questions(
         questions
     )
 
-    # --------------------------------------------------------
-    # Print selected questions
-    # --------------------------------------------------------
 
     print_questions(
         questions
@@ -856,10 +658,6 @@ def main():
     check_specific_questions(
         questions
     )
-
-    # --------------------------------------------------------
-    # DO NOT SAVE if invalid
-    # --------------------------------------------------------
 
     if not valid:
 
@@ -884,18 +682,11 @@ def main():
             "Expected exactly 200 valid questions."
         )
 
-    # --------------------------------------------------------
-    # Save JSON
-    # --------------------------------------------------------
-
     save_json(
         questions,
         OUTPUT_JSON
     )
 
-    # --------------------------------------------------------
-    # Final
-    # --------------------------------------------------------
 
     print()
     print("=" * 70)
@@ -911,37 +702,32 @@ def main():
     )
 
     print()
-    print("✓ 1-200 all questions found")
+    print("1-200 all questions found")
 
     print(
-        "✓ Multi-line questions converted to one line"
+        "Multi-line questions converted to one line"
     )
 
     print(
-        "✓ Bangla text preserved"
+        "Bangla text preserved"
     )
 
     print(
-        "✓ English text preserved"
+        "English text preserved"
     )
 
     print(
-        "✓ Mixed text preserved"
+        "Mixed text preserved"
     )
 
     print(
-        "✓ No duplicate question numbers"
+        "No duplicate question numbers"
     )
 
     print()
     print(
         "DONE"
     )
-
-
-# ============================================================
-# RUN
-# ============================================================
 
 if __name__ == "__main__":
 

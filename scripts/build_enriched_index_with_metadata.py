@@ -126,13 +126,13 @@ def save_database(enriched_docs: List[Dict], parent_child_map: Dict):
  
     with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(enriched_docs, f, ensure_ascii=False, indent=2)
-    print(f"✅ Enriched data saved to: {OUTPUT_JSON_PATH}")
+    print(f"Enriched data saved to: {OUTPUT_JSON_PATH}")
 
     with open(OUTPUT_PARENT_CHILD_PATH, "wb") as f:
         pickle.dump(parent_child_map, f)
-    print(f"✅ Parent-Child map saved to: {OUTPUT_PARENT_CHILD_PATH}")
+    print(f"Parent-Child map saved to: {OUTPUT_PARENT_CHILD_PATH}")
 
-    print(f"\n📊 Summary:")
+    print(f"\nSummary:")
     print(f"   Total Chunks Created: {len(enriched_docs)}")
     print(f"   Total Parent-Child Groups: {len(parent_child_map)}")
 
@@ -141,17 +141,17 @@ if __name__ == "__main__":
     print("🚀 Starting Metadata Extraction & Index Building...")
 
     if not Path(RAW_DATA_PATH).exists():
-        print(f"❌ Error: File not found at {RAW_DATA_PATH}")
+        print(f"Error: File not found at {RAW_DATA_PATH}")
         print("   Please check the path or run PDF extraction first.")
         exit(1)
     
     with open(RAW_DATA_PATH, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
     
-    print(f"✅ Loaded {len(raw_data)} raw documents.")
+    print(f"Loaded {len(raw_data)} raw documents.")
     
     enriched_docs, parent_child_map = chunk_and_annotate(raw_data)
     
     save_database(enriched_docs, parent_child_map)
     
-    print("\n✨ Done! Now you can run your retrieval scripts.")
+    print("\nDone! Now you can run your retrieval scripts.")

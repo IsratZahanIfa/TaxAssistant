@@ -1,0 +1,12 @@
+{
+  "Hit@1": null,
+  "Hit@3": null,
+  "Hit@5": null,
+  "Hit@10": null,
+  "MRR": null,
+  "Precision@5": null,
+  "Recall@5": null,
+  "nDCG@5": null,
+  "evaluated_questions": 0,
+  "average_latency_seconds": 15.1463
+}

@@ -7,7 +7,7 @@ LAW_FILE = Path("data/Knowledge_Dataset/income_tax_act_2023.json")
 
 def load_law_data():
     if not LAW_FILE.exists():
-        print(f"⚠️ Law file not found: {LAW_FILE}")
+        print(f"Law file not found: {LAW_FILE}")
         return {}
     try:
         with open(LAW_FILE, "r", encoding="utf-8") as f:
@@ -26,10 +26,10 @@ def load_law_data():
                     "part": part,
                     "chapter": chapter
                 }
-        print(f"✅ Loaded {len(section_map)} sections from law file")
+        print(f"Loaded {len(section_map)} sections from law file")
         return section_map
     except Exception as e:
-        print(f"⚠️ Error loading law file: {e}")
+        print(f"Error loading law file: {e}")
         return {}
 
 def load_data():
@@ -44,7 +44,7 @@ def load_data():
             print("ERROR: Expected JSON list.")
             return None
         print("=" * 70)
-        print("📚 TaxAssist - Retrieval Ground Truth Annotation")
+        print(" TaxAssist - Retrieval Ground Truth Annotation")
         print("=" * 70)
         print(f"Questions loaded: {len(data)}")
         return data
@@ -108,7 +108,7 @@ def save_data(data):
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"\n✅ Annotation saved: {OUTPUT_FILE}")
+    print(f"\n Annotation saved: {OUTPUT_FILE}")
     print(f"Total questions: {len(data)}")
 
 def annotate():
@@ -158,7 +158,7 @@ def annotate():
             candidate_sections = [str(c.get("section")) for c in item.get("candidates", [])]
             not_in_candidates = [s for s in result if s not in candidate_sections]
             if not_in_candidates:
-                print(f"\n⚠️ WARNING: Section(s) {', '.join(not_in_candidates)} NOT in Top-5 candidates.")
+                print(f"\n WARNING: Section(s) {', '.join(not_in_candidates)} NOT in Top-5 candidates.")
                 print("You can still enter them if verified from the Income Tax Act.")
                 confirm = input("Are you sure? (y/n): ").strip().lower()
                 if confirm != "y":
@@ -166,7 +166,7 @@ def annotate():
             item["ground_truth_sections"] = result
             for candidate in item.get("candidates", []):
                 candidate["correct"] = str(candidate.get("section")) in result
-            print(f"\n✅ Q{item.get('number')} annotated: {result}")
+            print(f"\n Q{item.get('number')} annotated: {result}")
             save_data(data)
             break
 

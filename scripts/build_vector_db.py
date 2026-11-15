@@ -66,7 +66,7 @@ def convert_to_documents(raw_data):
 
 def create_faiss_db():
     print("=" * 80)
-    print("🚀 BUILDING FAISS VECTOR DATABASE (LOW MEMORY OPTIMIZED)")
+    print("BUILDING FAISS VECTOR DATABASE (LOW MEMORY OPTIMIZED)")
     print("=" * 80)
 
     raw_data = load_source_data()
@@ -78,7 +78,6 @@ def create_faiss_db():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
-    # Batch size 16 করা হলো VRAM OOM ঠেকানোর জন্য
     embeddings = HuggingFaceEmbeddings(
         model_name=EMBEDDING_MODEL,
         model_kwargs={"device": device},
@@ -87,7 +86,7 @@ def create_faiss_db():
 
     print("Embedding texts and creating FAISS index...")
     
-    batch_size = 64  # প্রতি প্রসেসিং ব্যাচে ৬৪টি ডকুমেন্ট
+    batch_size = 64  
     vector_store = None
     
     total_batches = (len(docs) + batch_size - 1) // batch_size
@@ -110,8 +109,8 @@ def create_faiss_db():
     vector_store.save_local(str(db_dir))
     
     print("\n" + "=" * 80)
-    print(f"✅ FAISS Database created successfully!")
-    print(f"📁 Files saved in: {db_dir}")
+    print(f"FAISS Database created successfully!")
+    print(f"Files saved in: {db_dir}")
     print("=" * 80)
 
 if __name__ == "__main__":

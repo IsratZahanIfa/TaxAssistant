@@ -66,15 +66,13 @@ def convert_line(line):
 
     if not line.strip():
         return line
-
-    # Page markers and separators must remain unchanged
+    
     if line.startswith("PAGE "):
         return line
 
     if set(line.strip()) <= {"="}:
         return line
 
-    # Convert only likely Bijoy lines
     if looks_like_bijoy(line):
         try:
             converted = converter.convert_bijoy_to_unicode(line)
@@ -84,7 +82,6 @@ def convert_line(line):
             print(f"Reason: {e}")
             return line
 
-    # Normal English / other text
     return line
 
 
@@ -103,8 +100,6 @@ def main():
         print("ERROR: Input file does not exist.")
         return
 
-    # IMPORTANT:
-    # The raw extraction is UTF-8 text containing Bijoy-style characters.
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         text = f.read()
 
@@ -124,14 +119,12 @@ def main():
 
         converted = convert_line(line)
 
-        # Repair mojibake punctuation after conversion
         converted = repair_mojibake(converted)
 
         converted_lines.append(converted)
 
     final_text = "".join(converted_lines)
 
-    # Save explicitly as UTF-8
     with open(OUTPUT_FILE, "w", encoding="utf-8", newline="") as f:
         f.write(final_text)
 

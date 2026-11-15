@@ -1,0 +1,44 @@
+{
+  "total_questions": 140,
+  "evaluated_questions": 140,
+  "MRR": 0.05583333333333333,
+  "Hit@1": 0.02857142857142857,
+  "Precision@1": 0.02857142857142857,
+  "Recall@1": 0.02857142857142857,
+  "nDCG@1": 0.02857142857142857,
+  "Hit@3": 0.07857142857142857,
+  "Precision@3": 0.02857142857142857,
+  "Recall@3": 0.06458752515090543,
+  "nDCG@3": 0.05376585817236812,
+  "Hit@5": 0.09285714285714286,
+  "Precision@5": 0.021428571428571432,
+  "Recall@5": 0.0789738430583501,
+  "nDCG@5": 0.058819856724734644,
+  "Hit@10": 0.12142857142857143,
+  "Precision@10": 0.016428571428571435,
+  "Recall@10": 0.1079476861167002,
+  "nDCG@10": 0.06873214551452689,
+  "average_latency_seconds": 13.132205045714091,
+  "total_retrieval_time_seconds": 1838.5087063999727,
+  "total_legal_passages": 421,
+  "questions_without_ground_truth": 0,
+  "architecture": "BGE-M3 dense(query) + BM25(query) + HyDE dense + weighted RRF + BGE-reranker-v2-m3",
+  "models": {
+    "embedding": "BAAI/bge-m3",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "hyde_llm": "gemma3:12b"
+  },
+  "configuration": {
+    "dense_top_k": 140,
+    "bm25_top_k": 140,
+    "hyde_dense_top_k": 100,
+    "rerank_pool_k": 100,
+    "final_top_k": 10,
+    "rrf_k": 60,
+    "weights": {
+      "dense_query": 1.0,
+      "bm25_query": 1.0,
+      "dense_hyde": 0.65
+    }
+  }
+}

@@ -6,10 +6,7 @@ OUTPUT_FILE = Path("data/Clean_Text/Income_Tax_Act_2023_clean.txt")
 
 
 def clean_line(line):
-    # Remove trailing/leading whitespace
     line = line.strip()
-
-    # Remove excessive spaces
     line = re.sub(r"[ \t]+", " ", line)
 
     return line
@@ -32,17 +29,14 @@ def main():
     for line in lines:
         line = clean_line(line)
 
-        # Preserve page separators
         if line.startswith("="):
             cleaned.append(line)
             continue
 
-        # Preserve PAGE markers
         if re.match(r"^PAGE\s+\d+$", line, re.IGNORECASE):
             cleaned.append(line)
             continue
 
-        # Keep non-empty lines
         if line:
             cleaned.append(line)
 
