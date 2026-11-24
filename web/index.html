@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TaxAssistant AI Income Tax Assistant (Act 2023)</title>
+
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Phosphor Icons for UI Icons -->
+<script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script>
+tailwind.config = {
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: {
+        navy: {
+          800: '#0f172a',
+          900: '#0b1120',
+          950: '#060913',
+        },
+        emerald: {
+          500: '#10b981',
+          600: '#059669',
+          700: '#047857',
+        }
+      },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      }
+    }
+  }
+}
+</script>
+
+<style>
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.6);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(51, 65, 85, 0.8);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.8);
+}
+</style>
+</head>
+
+<body class="bg-navy-900 text-slate-100 font-sans min-h-screen flex flex-col md:flex-row antialiased selection:bg-emerald-500 selection:text-white">
+
+  <!-- Mobile Top Navigation Header -->
+  <header class="md:hidden flex items-center justify-between p-4 bg-navy-950 border-b border-slate-800">
+    <div class="flex items-center space-x-3">
+      <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-400 flex items-center justify-center text-white font-bold text-lg shadow-lg shadow-emerald-900/40">
+        <i class="ph-bold ph-scales text-xl"></i>
+      </div>
+      <div>
+        <h1 class="font-bold text-base leading-tight text-white">TaxAssistant</h1>
+        <p class="text-[10px] text-emerald-400 font-medium tracking-wide">BD TAX ACT 2023</p>
+      </div>
+    </div>
+    <button id="mobileMenuBtn" class="p-2 rounded-lg bg-slate-800 text-slate-300 hover:text-white">
+      <i class="ph-bold ph-list text-2xl"></i>
+    </button>
+  </header>
+
+  <!-- Sidebar Navigation -->
+  <aside id="sidebar" class="hidden md:flex flex-col w-full md:w-64 bg-navy-950 border-r border-slate-800/80 p-5 shrink-0 z-30 transition-all duration-300">
+    <!-- Logo Branding -->
+    <div class="flex items-center space-x-3 mb-8">
+      <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-400 flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-emerald-900/40">
+        <i class="ph-bold ph-scales text-2xl"></i>
+      </div>
+      <div>
+        <h1 class="font-bold text-lg leading-none text-white">TaxAssistant</h1>
+        <p class="text-[11px] text-emerald-400 font-semibold tracking-wider mt-1">NBR LEGAL ENGINE</p>
+      </div>
+    </div>
+
+    <!-- Navigation Links -->
+    <nav class="space-y-1.5 flex-1">
+      <button onclick="switchTab('dashboard')" id="nav-dashboard" class="nav-item w-full flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+        <i class="ph-bold ph-squares-four text-lg"></i>
+        <span>Overview</span>
+      </button>
+      <button onclick="switchTab('chat')" id="nav-chat" class="nav-item w-full flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all text-slate-400 hover:bg-slate-800/60 hover:text-slate-200">
+        <i class="ph-bold ph-chat-circle-dots text-lg"></i>
+        <span>AI Legal Chat</span>
+      </button>
+      <button onclick="switchTab('calculator')" id="nav-calculator" class="nav-item w-full flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all text-slate-400 hover:bg-slate-800/60 hover:text-slate-200">
+        <i class="ph-bold ph-calculator text-lg"></i>
+        <span>Tax Calculator</span>
+      </button>
+      <button onclick="switchTab('legal')" id="nav-legal" class="nav-item w-full flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm font-medium transition-all text-slate-400 hover:bg-slate-800/60 hover:text-slate-200">
+        <i class="ph-bold ph-book-bookmark text-lg"></i>
+        <span>Act 2023 &amp; SRO Search</span>
+      </button>
+    </nav>
+
+    <!-- Engine Status Card -->
+    <div class="mt-auto pt-4 border-t border-slate-800/80">
+      <div class="p-3.5 rounded-xl bg-slate-900/90 border border-slate-800 space-y-2.5">
+        <div class="flex items-center justify-between text-xs">
+          <span class="text-slate-400 font-medium">System Status</span>
+          <span class="inline-flex items-center px-1.5 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse mr-1"></span> ONLINE
+          </span>
+        </div>
+        <div class="space-y-1 text-[11px] text-slate-400">
+          <div class="flex justify-between">
+            <span>LLM Model:</span>
+            <span class="text-slate-200 font-mono">Gemma-3-12B</span>
+          </div>
+          <div class="flex justify-between">
+            <span>Vector Index:</span>
+            <span class="text-slate-200 font-mono">BM25 + FAISS</span>
+          </div>
+          <div class="flex justify-between">
+            <span>Dataset:</span>
+            <span class="text-slate-200 font-mono">Act 2023 &amp; SROs</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main Content Area -->
+  <main class="flex-1 flex flex-col h-auto md:h-screen overflow-y-auto bg-navy-900">
+    <!-- Top Header Panel -->
+    <header class="hidden md:flex items-center justify-between px-8 py-4 bg-navy-950/60 border-b border-slate-800/80 sticky top-0 z-20 backdrop-blur-md">
+      <div>
+        <h2 id="page-title" class="text-xl font-bold text-white tracking-tight">Tax Assistant Overview</h2>
+        <p class="text-xs text-slate-400">Bangladesh Income Tax Act 2023 &amp; NBR Paripatra Compliance Portal</p>
+      </div>
+      <div class="flex items-center space-x-3">
+        <div class="flex items-center space-x-2 px-3 py-1.5 rounded-lg bg-slate-800/70 border border-slate-700/60 text-xs text-slate-300">
+          <i class="ph-bold ph-calendar text-emerald-400"></i>
+          <span>Tax Year: <b>2025-2026</b></span>
+        </div>
+        <button onclick="switchTab('chat')" class="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-medium text-xs transition-all flex items-center space-x-2 shadow-lg shadow-emerald-900/30">
+          <i class="ph-bold ph-sparkle text-sm"></i>
+          <span>Ask AI Assistant</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- VIEW 1: OVERVIEW / DASHBOARD -->
+    <div id="view-dashboard" class="p-5 md:p-8 space-y-6">
+      <div class="relative overflow-hidden rounded-2xl bg-gradient-to-r from-emerald-900/60 via-slate-900 to-navy-950 p-6 md:p-8 border border-emerald-500/30 shadow-xl">
+        <div class="relative z-10 max-w-2xl space-y-3">
+          <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-semibold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">
+            <i class="ph-bold ph-shield-check mr-1.5"></i> Finance Act 2025/2026 Ready
+          </span>
+          <h2 class="text-2xl md:text-3xl font-extrabold text-white leading-tight">
+            Instant Legal &amp; Automated Tax Assistance for Bangladesh Taxpayers
+          </h2>
+          <p class="text-sm text-slate-300 leading-relaxed">
+            TaxAssistant is built on top of the <b>Income Tax Act 2023 (আয়কর আইন, ২০২৩)</b>, NBR SRO provisions, and Paripatra regulations to provide accurate tax slab calculations, statutory deduction estimates, and AI legal citations.
+          </p>
+          <div class="pt-2 flex flex-wrap gap-3">
+            <button onclick="switchTab('calculator')" class="px-5 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-xs uppercase tracking-wider transition-all shadow-lg shadow-emerald-500/25 flex items-center space-x-2">
+              <i class="ph-bold ph-calculator text-base"></i>
+              <span>Calculate Tax Payable</span>
+            </button>
+            <button onclick="switchTab('legal')" class="px-5 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 font-bold text-xs uppercase tracking-wider border border-slate-700 transition-all flex items-center space-x-2">
+              <i class="ph-bold ph-magnifying-glass text-base"></i>
+              <span>Search Legal Database</span>
+            </button>
+          </div>
+        </div>
+        <div class="absolute -right-12 -bottom-12 w-64 h-64 rounded-full bg-emerald-500/10 blur-3xl pointer-events-none"></div>
+        <div class="absolute right-12 top-6 opacity-10 text-emerald-400 pointer-events-none hidden lg:block">
+          <i class="ph-fill ph-scales text-[180px]"></i>
+        </div>
+      </div>
+
+      <!-- Stats Cards -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-slate-700 transition-all space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-slate-400 font-medium">Sec 32 Exemption</span>
+            <div class="w-8 h-8 rounded-lg bg-emerald-500/10 text-emerald-400 flex items-center justify-center">
+              <i class="ph-bold ph-scissors text-lg"></i>
+            </div>
+          </div>
+          <div class="text-xl font-bold text-white">1/3rd Salary <span class="text-xs text-slate-400 font-normal">or</span> Tk 5 Lakh</div>
+          <p class="text-[11px] text-slate-400">Statutory exemption ceiling for employment income under Income Tax Act 2023.</p>
+        </div>
+
+        <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-slate-700 transition-all space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-slate-400 font-medium">Investment Rebate</span>
+            <div class="w-8 h-8 rounded-lg bg-teal-500/10 text-teal-400 flex items-center justify-center">
+              <i class="ph-bold ph-percent text-lg"></i>
+            </div>
+          </div>
+          <div class="text-xl font-bold text-white">15% Allowance</div>
+          <p class="text-[11px] text-slate-400">Calculated on eligible investments (DPS, Provident Fund, Stocks) capped by law.</p>
+        </div>
+
+        <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-slate-700 transition-all space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-slate-400 font-medium">DPS Rebate Limit</span>
+            <div class="w-8 h-8 rounded-lg bg-blue-500/10 text-blue-400 flex items-center justify-center">
+              <i class="ph-bold ph-piggy-bank text-lg"></i>
+            </div>
+          </div>
+          <div class="text-xl font-bold text-white">Tk 1,20,000 /yr</div>
+          <p class="text-[11px] text-slate-400">Maximum allowable Deposit Pension Scheme investment eligible for rebate.</p>
+        </div>
+
+        <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-slate-700 transition-all space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-slate-400 font-medium">Zero-Tax Threshold</span>
+            <div class="w-8 h-8 rounded-lg bg-amber-500/10 text-amber-400 flex items-center justify-center">
+              <i class="ph-bold ph-user-check text-lg"></i>
+            </div>
+          </div>
+          <div class="text-xl font-bold text-white">Tk 3.5-5.0 Lakh</div>
+          <p class="text-[11px] text-slate-400">Basic exemption threshold based on category (General, Female, Senior, Freedom Fighter).</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- VIEW 2: AI LEGAL CHAT PANEL -->
+    <div id="view-chat" class="hidden flex-1 flex flex-col h-full overflow-hidden p-4 md:p-6">
+      <div class="max-w-4xl w-full mx-auto flex-1 flex flex-col bg-slate-900/90 rounded-2xl border border-slate-800 overflow-hidden shadow-2xl">
+        <!-- Chat Header -->
+        <div class="px-5 py-3.5 bg-navy-950 border-b border-slate-800 flex items-center justify-between">
+          <div class="flex items-center space-x-3">
+            <div class="w-8 h-8 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center">
+              <i class="ph-bold ph-robot text-lg"></i>
+            </div>
+            <div>
+              <h3 class="text-sm font-bold text-white">TaxAssistant Legal RAG Bot</h3>
+              <p class="text-[11px] text-slate-400">Connected to FastAPI Backend (127.0.0.1:8000)</p>
+            </div>
+          </div>
+          <button onclick="clearChat()" class="text-xs text-slate-400 hover:text-slate-200 px-2.5 py-1 rounded bg-slate-800 border border-slate-700">
+            Clear Chat
+          </button>
+        </div>
+
+        <!-- Sample Query Suggestions -->
+        <div class="p-3 bg-slate-950/50 border-b border-slate-800/60 flex items-center space-x-2 overflow-x-auto text-xs">
+          <span class="text-slate-500 text-[11px] font-medium shrink-0">Sample Queries:</span>
+          <button onclick="sendSamplePrompt('What is the statutory deduction under Section 32 of Income Tax Act 2023?')" class="shrink-0 px-3 py-1 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition-all text-xs">
+            Section 32 Statutory Exemption
+          </button>
+          <button onclick="sendSamplePrompt('Calculate my tax rebate for a DPS of 120,000 Tk annually.')" class="shrink-0 px-3 py-1 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition-all text-xs">
+            DPS Rebate Rules
+          </button>
+          <button onclick="sendSamplePrompt('What is the minimum zero-tax limit for female and senior taxpayers?')" class="shrink-0 px-3 py-1 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700/80 transition-all text-xs">
+            Female &amp; Senior Tax Slabs
+          </button>
+        </div>
+
+        <!-- Chat Feed -->
+        <div id="chatHistory" class="flex-1 p-5 overflow-y-auto space-y-4">
+          <div class="flex items-start space-x-3">
+            <div class="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center shrink-0 text-xs font-bold shadow-md">
+              AI
+            </div>
+            <div class="flex-1 max-w-2xl bg-slate-800/80 p-4 text-xs md:text-sm text-slate-200 rounded-2xl rounded-tl-none space-y-2 border border-slate-700/60">
+              <p>Assalamu Alaikum! I am <b>TaxAssistant</b>, specialized in Bangladesh Income Tax Law (Income Tax Act 2023 / আয়কর আইন, ২০২৩).</p>
+              <p class="text-slate-300">You can ask me about statutory exemptions, investment rebates, withholding tax rules (SROs), or tax filing procedures.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chat Input Form -->
+        <div class="p-4 bg-navy-950 border-t border-slate-800">
+          <form id="chatForm" onsubmit="handleChatSubmit(event)" class="flex items-center space-x-2">
+            <input id="chatInput" type="text" placeholder="Ask a question about Bangladesh Income Tax Law..." class="flex-1 px-4 py-3 rounded-xl bg-slate-900 text-slate-100 placeholder-slate-500 border border-slate-800 focus:outline-none focus:border-emerald-500 text-sm">
+            <button type="submit" class="px-5 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm transition-all flex items-center justify-center space-x-2 shadow-lg shadow-emerald-900/40 shrink-0">
+              <span>Send</span>
+              <i class="ph-bold ph-paper-plane-right"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- VIEW 3: BANGLADESH INCOME TAX CALCULATOR -->
+    <div id="view-calculator" class="hidden p-5 md:p-8 space-y-6">
+      <div class="max-w-5xl mx-auto space-y-6">
+        <div>
+          <h3 class="text-xl font-bold text-white">Bangladesh Income Tax Calculator (Act 2023 Rules)</h3>
+          <p class="text-xs text-slate-400">Automated statutory deduction (Section 32) and rebate calculation under Sixth Schedule Part 3.</p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+          <div class="lg:col-span-7 bg-slate-900/90 rounded-2xl p-6 border border-slate-800 space-y-5 shadow-xl">
+            <h4 class="text-sm font-bold text-emerald-400 uppercase tracking-wider flex items-center space-x-2">
+              <i class="ph-bold ph-sliders-horizontal"></i>
+              <span>Taxpayer Inputs</span>
+            </h4>
+
+            <div class="space-y-2">
+              <label class="block text-xs font-semibold text-slate-300">Taxpayer Category</label>
+              <select id="calcCategory" onchange="calculateTax()" class="w-full px-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-slate-200 text-sm focus:outline-none focus:border-emerald-500">
+                <option value="general">General Individual (Threshold: Tk 3,50,000)</option>
+                <option value="female_senior">Female Taxpayer / Senior Citizen 65+ (Threshold: Tk 4,00,000)</option>
+                <option value="disabled">Physically Challenged / Third Gender (Threshold: Tk 4,75,000)</option>
+                <option value="freedom_fighter">Gazetted War-Wounded Freedom Fighter (Threshold: Tk 5,00,000)</option>
+              </select>
+            </div>
+
+            <div class="space-y-2">
+              <div class="flex justify-between items-center">
+                <label class="block text-xs font-semibold text-slate-300">Annual Gross Salary Income (Tk)</label>
+                <span class="text-[11px] text-emerald-400">Section 32 Eligible</span>
+              </div>
+              <div class="relative">
+                <span class="absolute left-4 top-2.5 text-slate-500 text-sm font-bold">Tk</span>
+                <input id="calcGrossSalary" type="number" value="1200000" step="10000" oninput="calculateTax()" class="w-full pl-12 pr-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-white font-mono text-sm focus:outline-none focus:border-emerald-500">
+              </div>
+            </div>
+
+            <div class="space-y-2">
+              <label class="block text-xs font-semibold text-slate-300">Other Taxable Income (Rent, Interest, Stocks) (Tk)</label>
+              <div class="relative">
+                <span class="absolute left-4 top-2.5 text-slate-500 text-sm font-bold">Tk</span>
+                <input id="calcOtherIncome" type="number" value="0" step="10000" oninput="calculateTax()" class="w-full pl-12 pr-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-white font-mono text-sm focus:outline-none focus:border-emerald-500">
+              </div>
+            </div>
+
+            <div class="space-y-2">
+              <div class="flex justify-between items-center">
+                <label class="block text-xs font-semibold text-slate-300">Annual Eligible Investments (DPS, PF, Stocks) (Tk)</label>
+                <span class="text-[11px] text-teal-400">Rebate Eligible</span>
+              </div>
+              <div class="relative">
+                <span class="absolute left-4 top-2.5 text-slate-500 text-sm font-bold">Tk</span>
+                <input id="calcInvestment" type="number" value="150000" step="10000" oninput="calculateTax()" class="w-full pl-12 pr-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-white font-mono text-sm focus:outline-none focus:border-emerald-500">
+              </div>
+            </div>
+          </div>
+
+          <!-- Output Cards -->
+          <div class="lg:col-span-5 space-y-4">
+            <div class="p-6 rounded-2xl bg-gradient-to-br from-emerald-950 via-slate-900 to-navy-950 border border-emerald-500/40 shadow-xl space-y-3">
+              <span class="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Final Calculation</span>
+              <div class="space-y-1">
+                <div class="text-xs text-slate-400">Net Tax Payable (After Rebate):</div>
+                <div id="resNetTax" class="text-3xl font-extrabold text-white font-mono">Tk 0</div>
+              </div>
+              <div class="pt-2 border-t border-slate-800/80 flex justify-between text-xs text-slate-300">
+                <span>Monthly Tax Deduction (TDS):</span>
+                <span id="resMonthlyTax" class="font-bold text-emerald-400 font-mono">Tk 0 / mo</span>
+              </div>
+            </div>
+
+            <div class="p-5 rounded-2xl bg-slate-900/90 border border-slate-800 space-y-3 text-xs">
+              <h4 class="font-bold text-slate-200 border-b border-slate-800 pb-2">Exemption &amp; Slab Breakdown</h4>
+              <div class="flex justify-between py-1 border-b border-slate-800/60">
+                <span class="text-slate-400">Gross Income:</span>
+                <span id="resGrossIncome" class="font-mono text-slate-200">Tk 0</span>
+              </div>
+              <div class="flex justify-between py-1 border-b border-slate-800/60">
+                <span class="text-slate-400">Sec 32 Statutory Exemption:</span>
+                <span id="resSec32Deduction" class="font-mono text-emerald-400 font-semibold">- Tk 0</span>
+              </div>
+              <div class="flex justify-between py-1 border-b border-slate-800/60">
+                <span class="text-slate-400">Net Taxable Income:</span>
+                <span id="resTaxableIncome" class="font-mono text-white font-bold">Tk 0</span>
+              </div>
+              <div class="flex justify-between py-1 border-b border-slate-800/60">
+                <span class="text-slate-400">Gross Tax Payable (Slab Rate):</span>
+                <span id="resGrossTax" class="font-mono text-slate-200">Tk 0</span>
+              </div>
+              <div class="flex justify-between py-1">
+                <span class="text-slate-400">Investment Rebate Allowed (15%):</span>
+                <span id="resRebate" class="font-mono text-teal-400 font-semibold">- Tk 0</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- VIEW 4: LEGAL DATABASE & SRO SEARCH -->
+    <div id="view-legal" class="hidden p-5 md:p-8 space-y-6">
+      <div class="max-w-5xl mx-auto space-y-6">
+        <div class="space-y-4">
+          <div>
+            <h3 class="text-xl font-bold text-white">Income Tax Act 2023 &amp; SRO Search Engine</h3>
+            <p class="text-xs text-slate-400">Search statutory sections, Paripatra rules, and Gazette notifications.</p>
+          </div>
+
+          <div class="relative">
+            <i class="ph-bold ph-magnifying-glass absolute left-4 top-3.5 text-slate-500 text-lg"></i>
+            <input id="legalSearchInput" type="text" onkeyup="filterLegalDocs()" placeholder="Search by section (e.g. '32'), keyword ('deduction', 'rebate'), or SRO number..." class="w-full pl-11 pr-4 py-3 rounded-xl bg-slate-900 border border-slate-800 text-slate-100 placeholder-slate-500 text-sm focus:outline-none focus:border-emerald-500">
+          </div>
+        </div>
+
+        <div id="legalDocsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </div>
+  </main>
+
+<script>
+// Legal Database Mock
+const legalDatabase = [
+  {
+    section: "Section 32",
+    title: "Statutory Exemption for Salary Income",
+    category: "Income Tax Act 2023",
+    text: "For employment income, a statutory deduction equal to one-third (1/3rd) of total gross salary or Tk 500,000, whichever is lower, shall be exempted from tax.",
+    page: "Page 45"
+  },
+  {
+    section: "Sixth Schedule Part 3",
+    title: "Investment Tax Rebate Calculation",
+    category: "Tax Schedules",
+    text: "Tax rebate is calculated at 15% on allowable investments. Eligible investment limit is 20% of taxable income or Tk 1 Crore, whichever is lower. Maximum allowance for DPS is Tk 1,20,000 annually.",
+    page: "Page 112"
+  },
+  {
+    section: "SRO 210 / 2026",
+    title: "Withholding Tax & Source Deduction Provisions",
+    category: "NBR Statutory Orders",
+    text: "Provides updated rates for Tax Deducted at Source (TDS) for commercial supplies, service contracts, and withholding obligations under Finance Act rules.",
+    page: "Page 12"
+  },
+  {
+    section: "First Schedule",
+    title: "Individual Income Tax Slabs (2025-2026)",
+    category: "Tax Rates",
+    text: "First Tk 3,50,000 = 0% | Next Tk 1,00,000 = 5% | Next Tk 4,00,000 = 10% | Next Tk 5,00,000 = 15% | Next Tk 5,00,000 = 20% | Remaining Income = 25%.",
+    page: "Page 88"
+  }
+];
+
+// Tab Switching
+function switchTab(tabName) {
+  document.querySelectorAll('[id^="view-"]').forEach(el => el.classList.add('hidden'));
+  const targetView = document.getElementById('view-' + tabName);
+  if (targetView) targetView.classList.remove('hidden');
+
+  document.querySelectorAll('.nav-item').forEach(btn => {
+    btn.classList.remove('bg-emerald-500/10', 'text-emerald-400', 'border', 'border-emerald-500/20');
+    btn.classList.add('text-slate-400');
+  });
+
+  const activeBtn = document.getElementById('nav-' + tabName);
+  if (activeBtn) {
+    activeBtn.classList.add('bg-emerald-500/10', 'text-emerald-400', 'border', 'border-emerald-500/20');
+    activeBtn.classList.remove('text-slate-400');
+  }
+
+  const titles = {
+    dashboard: 'Tax Assistant Overview',
+    chat: 'AI Legal Assistant Chat',
+    calculator: 'Bangladesh Income Tax Calculator',
+    legal: 'Income Tax Act 2023 & SRO Search'
+  };
+  const pageTitle = document.getElementById('page-title');
+  if (pageTitle) pageTitle.innerText = titles[tabName] || 'TaxAssistant';
+}
+
+// Tax Calculator Logic
+function calculateTax() {
+  const category = document.getElementById('calcCategory').value;
+  const grossSalary = parseFloat(document.getElementById('calcGrossSalary').value) || 0;
+  const otherIncome = parseFloat(document.getElementById('calcOtherIncome').value) || 0;
+  const investment = parseFloat(document.getElementById('calcInvestment').value) || 0;
+
+  const sec32Limit = Math.min(grossSalary / 3, 500000);
+  const netSalary = Math.max(0, grossSalary - sec32Limit);
+  const totalGrossIncome = grossSalary + otherIncome;
+  const taxableIncome = netSalary + otherIncome;
+
+  let zeroThreshold = 350000;
+  if (category === 'female_senior') zeroThreshold = 400000;
+  else if (category === 'disabled') zeroThreshold = 475000;
+  else if (category === 'freedom_fighter') zeroThreshold = 500000;
+
+  let grossTax = 0;
+  let remainingIncome = taxableIncome;
+
+  if (remainingIncome > zeroThreshold) {
+    remainingIncome -= zeroThreshold;
+    const slab1 = Math.min(remainingIncome, 100000);
+    grossTax += slab1 * 0.05;
+    remainingIncome -= slab1;
+
+    if (remainingIncome > 0) {
+      const slab2 = Math.min(remainingIncome, 400000);
+      grossTax += slab2 * 0.10;
+      remainingIncome -= slab2;
+    }
+    if (remainingIncome > 0) {
+      const slab3 = Math.min(remainingIncome, 500000);
+      grossTax += slab3 * 0.15;
+      remainingIncome -= slab3;
+    }
+    if (remainingIncome > 0) {
+      const slab4 = Math.min(remainingIncome, 500000);
+      grossTax += slab4 * 0.20;
+      remainingIncome -= slab4;
+    }
+    if (remainingIncome > 0) {
+      grossTax += remainingIncome * 0.25;
+    }
+  }
+
+  const allowableInvestCap = Math.min(taxableIncome * 0.20, 10000000);
+  const eligibleInvestment = Math.min(investment, allowableInvestCap);
+  const rebateAllowed = eligibleInvestment * 0.15;
+
+  let netTax = Math.max(0, grossTax - rebateAllowed);
+  if (taxableIncome > zeroThreshold && netTax < 5000) {
+    netTax = 5000;
+  }
+
+  document.getElementById('resGrossIncome').innerText = 'Tk ' + Math.round(totalGrossIncome).toLocaleString();
+  document.getElementById('resSec32Deduction').innerText = '- Tk ' + Math.round(sec32Limit).toLocaleString();
+  document.getElementById('resTaxableIncome').innerText = 'Tk ' + Math.round(taxableIncome).toLocaleString();
+  document.getElementById('resGrossTax').innerText = 'Tk ' + Math.round(grossTax).toLocaleString();
+  document.getElementById('resRebate').innerText = '- Tk ' + Math.round(rebateAllowed).toLocaleString();
+  document.getElementById('resNetTax').innerText = 'Tk ' + Math.round(netTax).toLocaleString();
+  document.getElementById('resMonthlyTax').innerText = 'Tk ' + Math.round(netTax / 12).toLocaleString() + ' / mo';
+}
+
+// FastAPI Chat Backend Integration
+async function handleChatSubmit(e) {
+  e.preventDefault();
+  const input = document.getElementById('chatInput');
+  const message = input.value.trim();
+  if (!message) return;
+
+  appendChatMessage('User', message);
+  input.value = '';
+
+  const sendButton = document.querySelector('#chatForm button[type="submit"]');
+  sendButton.disabled = true;
+  sendButton.classList.add('opacity-60', 'cursor-not-allowed');
+
+  const loadingId = appendChatMessage('AI Assistant', 'Analyzing tax law context...');
+
+  try {
+    const response = await fetch('http://127.0.0.1:8000/api/query', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query: message })
+    });
+
+    if (!response.ok) {
+      const detail = await response.text();
+      throw new Error(`API error (${response.status}): ${detail}`);
+    }
+
+    const data = await response.json();
+    removeChatMessage(loadingId);
+
+    const answer = data.answer ?? data.response ?? 'The API returned no answer.';
+    const sources = Array.isArray(data.sources) ? data.sources : [];
+
+    appendChatMessage('AI Assistant', answer, sources.length ? sources.join(', ') : null);
+  } catch (error) {
+    removeChatMessage(loadingId);
+    appendChatMessage(
+      'AI Assistant',
+      `Could not connect to the TaxAssistant API server (127.0.0.1:8000). Make sure FastAPI is running. Details: ${error.message}`
+    );
+    console.error('TaxAssistant API request failed:', error);
+  } finally {
+    sendButton.disabled = false;
+    sendButton.classList.remove('opacity-60', 'cursor-not-allowed');
+    input.focus();
+  }
+}
+
+function removeChatMessage(id) {
+  const el = document.getElementById(id);
+  if (el) el.remove();
+}
+
+function sendSamplePrompt(promptText) {
+  switchTab('chat');
+  document.getElementById('chatInput').value = promptText;
+  handleChatSubmit(new Event('submit'));
+}
+
+function appendChatMessage(sender, messageText, citation = null) {
+  const chatHistory = document.getElementById('chatHistory');
+  const isUser = sender === 'User';
+  const messageId = `msg-${Date.now()}-${Math.random().toString(16).slice(2)}`;
+
+  const msgDiv = document.createElement('div');
+  msgDiv.id = messageId;
+  msgDiv.className = `flex items-start space-x-3 ${isUser ? 'flex-row-reverse space-x-reverse' : ''}`;
+
+  const avatar = document.createElement('div');
+  avatar.className = `w-8 h-8 rounded-lg flex items-center justify-center shrink-0 text-xs font-bold shadow-md ${
+    isUser ? 'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30' : 'bg-emerald-600 text-white'
+  }`;
+  avatar.textContent = isUser ? 'You' : 'AI';
+
+  const bubble = document.createElement('div');
+  bubble.className = `max-w-xl border rounded-2xl ${
+    isUser
+      ? 'bg-emerald-600/10 border-emerald-500/30 text-emerald-100 rounded-tr-none'
+      : 'bg-slate-800/80 border-slate-700/60 text-slate-200 rounded-tl-none'
+  } p-4 text-xs md:text-sm space-y-2`;
+
+  const paragraph = document.createElement('p');
+  paragraph.className = 'leading-relaxed whitespace-pre-wrap';
+  paragraph.textContent = String(messageText ?? '');
+  bubble.appendChild(paragraph);
+
+  if (citation) {
+    const source = document.createElement('div');
+    source.className = 'mt-2 pt-2 border-t border-slate-700/60 text-[11px] text-emerald-400 font-mono';
+    source.textContent = `Legal Source: ${citation}`;
+    bubble.appendChild(source);
+  }
+
+  msgDiv.appendChild(avatar);
+  msgDiv.appendChild(bubble);
+
+  chatHistory.appendChild(msgDiv);
+  chatHistory.scrollTop = chatHistory.scrollHeight;
+
+  return messageId;
+}
+
+function clearChat() {
+  const chatHistory = document.getElementById('chatHistory');
+  chatHistory.innerHTML = `
+    <div class="flex items-start space-x-3">
+      <div class="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center shrink-0 text-xs font-bold shadow-md">
+        AI
+      </div>
+      <div class="flex-1 max-w-2xl bg-slate-800/80 rounded-2xl rounded-tl-none p-4 text-xs md:text-sm text-slate-200 space-y-2 border border-slate-700/60">
+        <p>Chat cleared. Ask a new question regarding Bangladesh Income Tax Law!</p>
+      </div>
+    </div>
+  `;
+}
+
+// Legal Database Search Logic
+function renderLegalDocs(docs) {
+  const container = document.getElementById('legalDocsGrid');
+  if (!container) return;
+  container.innerHTML = '';
+  docs.forEach(doc => {
+    const card = document.createElement('div');
+    card.className = "p-5 rounded-2xl bg-slate-900/90 border border-slate-800 space-y-3 hover:border-emerald-500/40 transition-all";
+    card.innerHTML = `
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-bold text-emerald-400 px-2.5 py-1 rounded-md bg-emerald-500/10 border border-emerald-500/20">${doc.section}</span>
+        <span class="text-[10px] text-slate-400">${doc.category}</span>
+      </div>
+      <h4 class="font-bold text-slate-100 text-sm">${doc.title}</h4>
+      <p class="text-xs text-slate-400 leading-relaxed">${doc.text}</p>
+      <div class="pt-2 border-t border-slate-800/80 flex justify-between items-center text-[11px] text-slate-500">
+        <span>Indexed Citation</span>
+        <span class="text-slate-400 font-mono">${doc.page}</span>
+      </div>
+    `;
+    container.appendChild(card);
+  });
+}
+
+function filterLegalDocs() {
+  const query = document.getElementById('legalSearchInput').value.toLowerCase();
+  const filtered = legalDatabase.filter(doc =>
+    doc.section.toLowerCase().includes(query) ||
+    doc.title.toLowerCase().includes(query) ||
+    doc.text.toLowerCase().includes(query) ||
+    doc.category.toLowerCase().includes(query)
+  );
+  renderLegalDocs(filtered);
+}
+
+// Initialization Actions
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('mobileMenuBtn')?.addEventListener('click', () => {
+    const sidebar = document.getElementById('sidebar');
+    sidebar?.classList.toggle('hidden');
+  });
+
+  calculateTax();
+  renderLegalDocs(legalDatabase);
+});
+</script>
+</body>
+</html>
